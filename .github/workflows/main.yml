@@ -46,6 +46,8 @@ jobs:
           # The provided script only uses standard libraries.
 
       - name: Run CKAN Processing Script
+        env:
+            CDN_KEY: ${{ secrets.CDN_KEY }} 
         run: |
           # This command runs your Python script:
           # 'ckan_meta_source' is the input directory (where the source metadata was cloned)
