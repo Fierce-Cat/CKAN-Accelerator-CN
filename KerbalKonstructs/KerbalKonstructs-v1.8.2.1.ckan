@@ -1,0 +1,53 @@
+{
+    "abstract": "New buildings and launch sites [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "AlphaAsh",
+        "ozraven",
+        "Ger_space",
+        "ryanc55",
+        "KSP-RO"
+    ],
+    "comment": "Plugin is MIT, but Static Assets, Artwork & Models are ARR",
+    "depends": [
+        {
+            "name": "CustomPreLaunchChecks"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/Kerbal-Konstructs/releases/download/v1.8.2.1/Kerbal-Konstructs-v1.8.2.1.zip?auth_key=1748275918-d727a725dcf64cbe80801711a63ff42e-0-7303091c39517f603c70975aa3ad7dd2&size=6458441&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "434E4DE8AAD87E117F745BB716F97559A3F7A01C",
+        "sha256": "668111F2D29D4760B54E6AAB28201EAFFD7C7D97445D61B9FFD477AABF34E162"
+    },
+    "download_size": 6458441,
+    "identifier": "KerbalKonstructs",
+    "install": [
+        {
+            "find": "KerbalKonstructs",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.1",
+    "license": "restricted",
+    "name": "Kerbal Konstructs [PRO-KCMIRROR]",
+    "release_date": "2021-08-05T07:02:01Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/Kerbal-Konstructs/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204210-*",
+        "remote-avc": "https://raw.githubusercontent.com:443/KSP-RO/Kerbal-Konstructs/master/GameData/KerbalKonstructs/KerbalKonstructs.version",
+        "repository": "https://github.com/KSP-RO/Kerbal-Konstructs"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KKtoSD"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "library",
+        "buildings"
+    ],
+    "version": "v1.8.2.1",
+    "x_generated_by": "netkan"
+}

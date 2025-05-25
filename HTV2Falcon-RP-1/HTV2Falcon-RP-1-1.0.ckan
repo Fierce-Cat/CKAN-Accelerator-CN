@@ -1,0 +1,48 @@
+{
+    "abstract": "Adds compatibility to the HTV-2 Falcon mod adding it into RP-1's tech tree!",
+    "author": "KerbalMissile",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RP-1"
+        },
+        {
+            "name": "DarpaHTV2Falcon"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3810/HTV-2%20Falcon%20RP-1%20Config/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "77436C550AD8AFAF0071E541531B5277030B708C",
+        "sha256": "F9C749E1492D4D42488527C843E286F83FE1A89F881F41A56423F5EDDE0E9A5E"
+    },
+    "download_size": 1129,
+    "identifier": "HTV2Falcon-RP-1",
+    "install": [
+        {
+            "find": "RP1Configs",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 279,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "HTV-2 Falcon RP-1 Config",
+    "release_date": "2025-01-28T00:43:01.754056+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3810/HTV-2%20Falcon%20RP-1%20Config"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "DarpaHTV2Falcon"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

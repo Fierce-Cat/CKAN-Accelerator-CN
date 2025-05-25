@@ -1,0 +1,49 @@
+{
+    "abstract": "Stockalike Soyuz, LK and more! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Beale",
+    "conflicts": [
+        {
+            "name": "Tantares"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Tantares/Tantares/releases/download/v21.1/Tantares.zip?auth_key=1748275914-bf58ee8f7c93466c96172a51cbb5e685-0-7632022940e99ae352f87b83caf94867&size=64491630&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "19350AD2E9C88C3B475386F594ED0D42E5698283",
+        "sha256": "384B17661807D1D82E77C3CC71657794FB0774211CB4593DF3F5D521F0A496A5"
+    },
+    "download_size": 64491630,
+    "identifier": "NewTantares",
+    "install": [
+        {
+            "file": "GameData/Tantares",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.9",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "fr",
+        "pt",
+        "ru"
+    ],
+    "name": "Tantares [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "NewTantaresLV"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/73686-Tantares",
+        "repository": "https://github.com/Tantares/Tantares"
+    },
+    "spec_version": 1,
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "v21.1",
+    "x_generated_by": "netkan"
+}

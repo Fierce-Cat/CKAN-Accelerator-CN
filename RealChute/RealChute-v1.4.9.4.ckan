@@ -1,0 +1,56 @@
+{
+    "abstract": "Complete rework of the stock parachute module to fix a few of its inconveniences and get more realistic results out of parachutes! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "stupid_chris",
+        "sumghai"
+    ],
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ChrisViral/RealChute/releases/download/v1.4.9.4/RealChute_v1.4.9.4.zip?auth_key=1748275915-22a1848a19b74a7ea7620502b1bd93f1-0-c28db11d9c570046fecc57decafd73f8&size=2682030&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8A15BC96639D86F81E3711321A7BC901633D642A",
+        "sha256": "3A19388301B96C431FF1CAF9BB5A59F2DF2A737771966F5081E0831914F8B63C"
+    },
+    "download_size": 2682030,
+    "identifier": "RealChute",
+    "install": [
+        {
+            "filter": "Patches",
+            "find": "RealChute",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 5635555,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.3",
+    "license": "restricted",
+    "name": "RealChute Parachute Systems [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RealChuteForStock"
+        }
+    ],
+    "release_date": "2024-06-02T21:46:59Z",
+    "resources": {
+        "bugtracker": "https://github.com/ChrisViral/RealChute/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/52931-0",
+        "remote-avc": "https://raw.githubusercontent.com/ChrisViral/RealChute/master/Output/GameData/RealChute/RealChute.version",
+        "repository": "https://github.com/ChrisViral/RealChute"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts",
+        "physics",
+        "sound"
+    ],
+    "version": "v1.4.9.4",
+    "x_generated_by": "netkan"
+}

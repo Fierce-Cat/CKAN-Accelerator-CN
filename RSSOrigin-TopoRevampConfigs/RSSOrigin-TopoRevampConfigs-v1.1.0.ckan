@@ -1,0 +1,66 @@
+{
+    "abstract": "A part of RSS-Origin, which overhauls some RSS celestials with more accurate, more realistic and higher res textures and topography, since some of original RSS textures are unrealistic in color, topo and other stuff. This is the configs pack. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "CharonSSS",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "RSSOrigin-TopoRevampTextures"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/CharonSSS/RSS-Origin/releases/download/v1.1.0/RSS-Origin.RSSTexture.TopoRevamp.Configs.zip?auth_key=1748275917-ee222d0557e34d828f345a5c0d50bcce-0-e47df2c19262c3b11d83c9ee7d530394&size=16818801&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BC54E272FF42C5DFAEC4ED018B9A46B4519ED5E0",
+        "sha256": "922EC08E32628E93EEA235F0F99485F593E8019825636F19EA7E3F9C95355F75"
+    },
+    "download_size": 16818801,
+    "identifier": "RSSOrigin-TopoRevampConfigs",
+    "install": [
+        {
+            "find": "RSSOrigin",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 25736388,
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "RSS-Origin RSS Texture & Topo Revamp Configs [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RSSOrigin"
+        }
+    ],
+    "release_date": "2024-07-27T16:22:04Z",
+    "resources": {
+        "bugtracker": "https://github.com/CharonSSS/RSS-Origin/issues",
+        "repository": "https://github.com/CharonSSS/RSS-Origin"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "TUFX"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "DistantObject"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "v1.1.0",
+    "x_generated_by": "netkan"
+}

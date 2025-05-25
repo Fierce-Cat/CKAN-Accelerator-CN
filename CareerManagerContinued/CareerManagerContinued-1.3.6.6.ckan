@@ -1,0 +1,54 @@
+{
+    "abstract": "Career Lite",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "CareerManager"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/CareerManagerContinued/releases/download/1.3.6.6/CareerManagerContinued-1.12.0-1.3.6.6.zip",
+        "https://spacedock.info/mod/1221/CareerManagerContinued/download/1.3.6.6"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "933962F51A7C892F3CFFE5326113A408F104790F",
+        "sha256": "61BED1A739195EC5790587281C729789ADFA4FBA25AEB185ACC76C4D6D64555A"
+    },
+    "download_size": 60399,
+    "identifier": "CareerManagerContinued",
+    "install": [
+        {
+            "find": "CareerManager",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 199307,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "CareerManagerContinued",
+    "release_date": "2024-12-30T14:51:09.942519+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/CareerManagerContinued/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/156510-12-career-manager-continued-for-all-your-career-mode-needs/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/CareerManagerContinued/refs/heads/master/CareerManagerContinued.version",
+        "repository": "https://github.com/linuxgurugamer/CareerManagerContinued",
+        "spacedock": "https://spacedock.info/mod/1221/CareerManagerContinued"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "career"
+    ],
+    "version": "1.3.6.6",
+    "x_generated_by": "netkan"
+}

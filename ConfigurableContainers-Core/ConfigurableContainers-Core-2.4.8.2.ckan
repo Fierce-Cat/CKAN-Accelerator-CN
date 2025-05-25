@@ -1,0 +1,50 @@
+{
+    "abstract": "This is the core configuration for the Configurable Containers.",
+    "author": [
+        "allista"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1002/Configurable%20Containers/download/2.4.8.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E96E72652EE3813A23CE26C78A5CD8A5F020C7B7",
+        "sha256": "940A93890976143081DEAE2C0484D40B415107D39A81763A4EF5B20FA7B8F033"
+    },
+    "download_size": 260954,
+    "identifier": "ConfigurableContainers-Core",
+    "install": [
+        {
+            "file": "GameData/ConfigurableContainers/TankTypes.cfg",
+            "install_to": "GameData/ConfigurableContainers"
+        },
+        {
+            "file": "GameData/ConfigurableContainers/TankConfigs.cfg",
+            "install_to": "GameData/ConfigurableContainers"
+        },
+        {
+            "file": "GameData/ConfigurableContainers/Cryogenics.cfg",
+            "install_to": "GameData/ConfigurableContainers"
+        }
+    ],
+    "ksp_version": "1.9.1",
+    "license": "MIT",
+    "name": "Configurable Containers Core",
+    "resources": {
+        "bugtracker": "https://github.com/allista/ConfigurableContainers/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150104-12-configurable-containers",
+        "metanetkan": "https://raw.githubusercontent.com/allista/ConfigurableContainers/master/ConfigurableContainers-Core.netkan",
+        "repository": "https://github.com/allista/ConfigurableContainers",
+        "spacedock": "https://spacedock.info/mod/1002/Configurable%20Containers",
+        "x_screenshot": "https://spacedock.info/content/allista_931/Configurable_Containers/Configurable_Containers-1476558929.8494947.png"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "config"
+    ],
+    "version": "2.4.8.2",
+    "x_generated_by": "netkan"
+}

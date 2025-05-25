@@ -1,0 +1,45 @@
+{
+    "abstract": "Adds Two Runways To Kerbin using KK (Kerbal Konstructs)",
+    "author": "miguelsgamingch",
+    "depends": [
+        {
+            "name": "KerbalKonstructs"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2545/Manhattan%20Airport/download/V0.2_First_Update",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "54163BBAD2B9CC86B23219D1F71A925A9DCB695C",
+        "sha256": "EE13BAA7E755DD7B3C81F1252A3AD1339B2DBB99680B76897BC29D5536F8EE76"
+    },
+    "download_size": 15184571,
+    "identifier": "ManhattanAirport",
+    "install": [
+        {
+            "find": "Manhattan_Airport",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.10.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Manhattan Airport",
+    "release_date": "2020-10-15T03:42:51.355945+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/197285-110x-manhattan-airport/",
+        "repository": "https://github.com/Miguelsgamingch/Manhattan-Airport",
+        "spacedock": "https://spacedock.info/mod/2545/Manhattan%20Airport",
+        "x_screenshot": "https://spacedock.info/content/miguelsgamingch_32651/Manhattan_Airport/Manhattan_Airport-1601979884.3758192.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CustomPreLaunchChecks"
+        }
+    ],
+    "tags": [
+        "config",
+        "buildings"
+    ],
+    "version": "V0.2_First_Update",
+    "x_generated_by": "netkan"
+}

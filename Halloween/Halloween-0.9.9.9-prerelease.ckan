@@ -1,0 +1,91 @@
+{
+    "abstract": "Halloween themed parts mod for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2875/Hallowe'en%20(HLWN)/download/0.9.9.9-prerelease",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9FC3ACF1C8B9B15610B7B01FFF6A81A7B9EEBC18",
+        "sha256": "19CD4C34B36AC63B967EC93D533FACB3965A35FDAED4DD4986B69FC578811773"
+    },
+    "download_size": 4479426,
+    "identifier": "Halloween",
+    "install_size": 6746901,
+    "ksp_version_max": "1.12.9999",
+    "ksp_version_min": "1.12.1",
+    "license": "CC-BY-NC-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Halloween!",
+    "recommends": [
+        {
+            "name": "KerbalInventorySystem"
+        },
+        {
+            "name": "JackOLantern"
+        },
+        {
+            "name": "Kaboom"
+        }
+    ],
+    "release_date": "2021-10-23T03:52:53.082762+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/Halloween/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/205185-*/",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/Halloween/master/Halloween.version",
+        "repository": "https://github.com/zer0Kerbal/Halloween",
+        "spacedock": "https://spacedock.info/mod/2875/Hallowe'en%20(HLWN)",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Halloween/Halloween-1633671988.635928.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "Foundations"
+        },
+        {
+            "name": "KerbalInventorySystemNoFun"
+        },
+        {
+            "name": "StackInlineLights"
+        },
+        {
+            "name": "StackInlineLightPatches"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "SimpleLogistics"
+        },
+        {
+            "name": "SimpleConstruction"
+        },
+        {
+            "name": "SimpleLife"
+        }
+    ],
+    "supports": [
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "KerbalInventorySystem"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "0.9.9.9-prerelease",
+    "x_generated_by": "netkan"
+}

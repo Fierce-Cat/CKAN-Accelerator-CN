@@ -1,0 +1,42 @@
+{
+    "abstract": "Deployable Batteries for the new science parts in Breaking Ground",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2268/DeployableBatteries/download/0.2.0.7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EB6B60CBD3FD1C9C93C7C80A72D757BCB80043E5",
+        "sha256": "BBB0571138AF1DF29440A780A44AC442330D489E1A78BC1A1DEC5133C8C5C049"
+    },
+    "download_size": 766428,
+    "identifier": "DeployableBatteries",
+    "install": [
+        {
+            "find": "DeployableBatteries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "DeployableBatteries",
+    "release_date": "2019-12-03T04:37:43.07697+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/DeployableBatteries/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189547-173-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/DeployableBattery",
+        "repository": "https://github.com/linuxgurugamer/DeployableBatteries",
+        "spacedock": "https://spacedock.info/mod/2268/DeployableBatteries"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.2.0.7",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

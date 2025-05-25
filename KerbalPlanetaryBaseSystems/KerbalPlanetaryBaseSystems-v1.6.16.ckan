@@ -1,0 +1,64 @@
+{
+    "abstract": "KPBS adds multiple parts for bases on other planets including Habitats, Greenhouses, Laboratories and much more. It also supports the major life support mods.",
+    "author": "Nils277",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": [
+        "https://github.com/Nils277/KerbalPlanetaryBaseSystems/releases/download/1.6.16/Kerbal_Planetary_Base_Systems-1.6.16.zip",
+        "https://spacedock.info/mod/173/Kerbal%20Planetary%20Base%20Systems/download/1.6.16"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "431FD7AAF6CF2BA506841E4A2435A41F03CAB20C",
+        "sha256": "0799A3C538A779ABE7505359E577D7CFE94FD63F9F2BE53DE5E4A78AC70CD058"
+    },
+    "download_size": 38004420,
+    "identifier": "KerbalPlanetaryBaseSystems",
+    "install": [
+        {
+            "filter": "_src.zip",
+            "find": "PlanetaryBaseInc",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 100031848,
+    "ksp_version_max": "1.12.9",
+    "ksp_version_min": "1.11.0",
+    "license": "CC-BY-NC-4.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "it-it",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Kerbal Planetary Base Systems",
+    "release_date": "2022-05-12T19:50:00.141577+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Nils277/KerbalPlanetaryBaseSystems/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133606-1",
+        "remote-avc": "https://raw.githubusercontent.com:443/Nils277/KerbalPlanetaryBaseSystems/master/FOR_RELEASE/GameData/PlanetaryBaseInc/PlanetaryBaseInc.version",
+        "repository": "https://github.com/Nils277/KerbalPlanetaryBaseSystems",
+        "spacedock": "https://spacedock.info/mod/173/Kerbal%20Planetary%20Base%20Systems",
+        "x_screenshot": "https://spacedock.info/content/Nils277_836/Kerbal_Planetary_Base_Systems/Kerbal_Planetary_Base_Systems-1456074829.3966272.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "v1.6.16",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,62 @@
+{
+    "abstract": "Kerbal Weather Project - Lite is pared down version of the original weather and climate mod for KSP. In KWP-Lite, weather and climate data from the Model for Prediction Across Scales (MPAS) were incorporated into KSP gameplay. KWP-Lite includes a reduced resolution global Hourly climatology from MPAS allowing players to experience diurnal and spatial variations in atmospheric conditions. In addition, one year of point weather data from MPAS is provided at Kerbin launch sites, allowing players to experience dynamic weather conditions that change daily. KWP-Lite features a text-based GUI showing remote sensing weather data (in space) and in situ weather data (in the atmosphere).",
+    "author": "cmet24",
+    "conflicts": [
+        {
+            "name": "KerbalWeatherProject"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2611/Kerbal%20Weather%20Project%20-%20Lite/download/1.0.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F7F2B2DAE77A6FEE99382F11018CF33E57DFDB8A",
+        "sha256": "AE67D829114454387C866FA0B69ADCD29A70D0817E68DA6AD727FEA4FA6FE9B6"
+    },
+    "download_size": 13816119,
+    "identifier": "KerbalWeatherProject-Lite",
+    "install": [
+        {
+            "find": "KerbalWeatherProject_Lite",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.11.1",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Kerbal Weather Project - Lite",
+    "provides": [
+        "KerbalWeatherProject"
+    ],
+    "recommends": [
+        {
+            "name": "KerBalloons"
+        },
+        {
+            "name": "AtmosphereAutopilot"
+        }
+    ],
+    "release_date": "2021-02-19T23:22:57.286713+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/cmac994/KerbalWeatherProject/issues",
+        "homepage": "https://www.kerbalwxproject.space",
+        "repository": "https://github.com/cmac994/KerbalWeatherProject",
+        "spacedock": "https://spacedock.info/mod/2611/Kerbal%20Weather%20Project%20-%20Lite",
+        "x_screenshot": "https://spacedock.info/content/cmet24_52116/Kerbal_Weather_Project_-_Lite/Kerbal_Weather_Project_-_Lite-1609969889.1664388.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1:1.0.4",
+    "x_generated_by": "netkan"
+}

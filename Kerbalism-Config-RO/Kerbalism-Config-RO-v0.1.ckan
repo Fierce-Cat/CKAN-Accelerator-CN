@@ -1,0 +1,69 @@
+{
+    "abstract": "Kerbalism configuration for Realism Overhaul and RP-1 [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Standecco",
+    "conflicts": [
+        {
+            "name": "Kerbalism-Config"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "USI-LS"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Standecco/ROKerbalism/releases/download/v0.1/Complete.zip?auth_key=1748275916-e5c261a349d04c329728cc7e5a46ceab-0-a6cde677ed43984e37579d8dc5168703&size=5069289&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9BF4F5D9B154C0DF8CBDD09949A532995C521396",
+        "sha256": "A32BB8B4106A4AAA0B882F5E3F3E667ABDD112AA5311B8FF484317FE2B22EE7A"
+    },
+    "download_size": 5069289,
+    "identifier": "Kerbalism-Config-RO",
+    "install": [
+        {
+            "find": "GameData/KerbalismConfig",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.4.0",
+    "license": "Unlicense",
+    "name": "Kerbalism - RealismOverhaul Config [PRO-KCMIRROR]",
+    "provides": [
+        "Kerbalism-Config"
+    ],
+    "recommends": [
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "resources": {
+        "repository": "https://github.com/Standecco/ROKerbalism"
+    },
+    "spec_version": "v1.18",
+    "suggests": [
+        {
+            "name": "RP-0"
+        }
+    ],
+    "tags": [
+        "config",
+        "career",
+        "science",
+        "crewed"
+    ],
+    "version": "v0.1",
+    "x_generated_by": "netkan"
+}

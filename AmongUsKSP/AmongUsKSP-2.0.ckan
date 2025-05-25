@@ -1,0 +1,35 @@
+{
+    "abstract": "Adds an Among Us Character Probe Core",
+    "author": "IsaQuest",
+    "download": "https://spacedock.info/mod/2784/Among%20Us%20KSP/download/2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F9E5F54099E6682CD2DE70733416FC1D5ABC78EC",
+        "sha256": "74438B28076313C7D3C9F3DD1972A79F1A545388BA43826801B5D6FB054705DF"
+    },
+    "download_size": 270492,
+    "identifier": "AmongUsKSP",
+    "install": [
+        {
+            "find": "quest_assets",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.12.2",
+    "license": "MIT",
+    "name": "Among Us KSP",
+    "release_date": "2021-07-13T18:42:26.454637+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/IsaQuest/AmongUsKSP/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/203142-ksp-v111-among-us-in-ksp/",
+        "repository": "https://github.com/IsaQuest/AmongUsKSP",
+        "spacedock": "https://spacedock.info/mod/2784/Among%20Us%20KSP",
+        "x_screenshot": "https://spacedock.info/content/IsaQuest_62203/Among_Us_KSP/Among_Us_KSP-1626201827.1568537.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "2.0",
+    "x_generated_by": "netkan"
+}

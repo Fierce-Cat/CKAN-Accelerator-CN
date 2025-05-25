@@ -1,0 +1,67 @@
+{
+    "abstract": "Kontainers, Reactors and shared tools for USI mods [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "v7.6.0",
+            "name": "FirespitterCore"
+        },
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        },
+        {
+            "min_version": "0.7.0.0",
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/UmbraSpaceIndustries/USI_Core/releases/download/v112.0.1/USICore_112.0.1.zip?auth_key=1748275918-5262968602f14985902b590247cdffdf-0-4a9c2218e63efbab901774e28e883d0d&size=48091136&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E5348C9CDB192ADA3C003410850D1BE514281B43",
+        "sha256": "94C6DDBA3959BC1849A020A636F5867A96DFCF4153DCF34BE5068DF389B01CDE"
+    },
+    "download_size": 48091136,
+    "identifier": "USI-Core",
+    "install": [
+        {
+            "file": "GameData/UmbraSpaceIndustries",
+            "filter": [
+                "FX",
+                "Konstruction"
+            ],
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 40651177,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "USI Core [PRO-KCMIRROR]",
+    "release_date": "2022-05-29T20:41:28Z",
+    "resources": {
+        "bugtracker": "https://github.com/UmbraSpaceIndustries/USI_Core/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/122420-*",
+        "manual": "https://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "remote-avc": "https://raw.githubusercontent.com/UmbraSpaceIndustries/USI_Core/main/FOR_RELEASE/GameData/UmbraSpaceIndustries/USICore/USICore.version",
+        "repository": "https://github.com/UmbraSpaceIndustries/USI_Core"
+    },
+    "spec_version": 1,
+    "tags": [
+        "parts"
+    ],
+    "version": "v112.0.1",
+    "x_generated_by": "netkan"
+}

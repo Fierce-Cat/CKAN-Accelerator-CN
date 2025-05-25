@@ -1,0 +1,75 @@
+{
+    "abstract": "A Renaming mod for some of your favorite Stock (and Modded!) parts to be like they were in KSP2!",
+    "author": "munktron239",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3880/KSP2Names/download/1.2.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "900DE1F4C46CC34316C08D6F31CC025FFE9BB110",
+        "sha256": "6F2185B6CD8B44762A6CEA13D651838598874EBA27643477CBFECAC5532149B5"
+    },
+    "download_size": 16029,
+    "identifier": "KSP2Names",
+    "install": [
+        {
+            "as": "KSP2Names",
+            "find_regexp": "KSP2-?Names(-main)?",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 42910,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "KSP2Names",
+    "recommends": [
+        {
+            "name": "CommunityPartsTitles"
+        }
+    ],
+    "release_date": "2025-05-20T17:16:09.39714+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/munktron239/KSP2-Names/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227834-112x-ksp2names-a-renaming-mod-for-some-of-your-favorite-stock-and-modded-parts-to-be-like-they-were-in-ksp2/",
+        "remote-avc": "https://raw.githubusercontent.com/munktron239/KSP2-Names/refs/heads/main/Versioning/KSP2Names.version",
+        "repository": "https://github.com/munktron239/KSP2-Names",
+        "spacedock": "https://spacedock.info/mod/3880/KSP2Names",
+        "x_screenshot": "https://spacedock.info/content/munktron239_157380/KSP2Names/KSP2Names-1746422396.png"
+    },
+    "spec_version": "v1.18",
+    "supports": [
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "B9ProceduralWings"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "CryoEngines"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "1:1.2.1",
+    "x_generated_by": "netkan"
+}

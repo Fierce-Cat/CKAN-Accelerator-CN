@@ -1,0 +1,50 @@
+{
+    "abstract": "Aircraft routes all around the Kerbin! Contracts to perform various flights between majority of Kerbin Side bases. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Keniamin",
+    "depends": [
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "min_version": "1.21.0",
+            "name": "ContractConfigurator"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Keniamin/KerbinSideGAP/releases/download/2.0/KerbinSideGAP-2.0.zip?auth_key=1748275915-34dcf4b7501a4c8c98ffb8369e5dc885-0-080ba939b1ec96e782fdb9ce5cb55372&size=158405&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "48FEA13DA50989BF8E20CF1375899BD9E85360E0",
+        "sha256": "C95073012895FBDEAB47D06E44634E5DABA65F5385557744A1E812378368A6E9"
+    },
+    "download_size": 158405,
+    "identifier": "KerbinSideGAP",
+    "install": [
+        {
+            "file": "KerbinSideGAP",
+            "install_to": "GameData/ContractPacks"
+        },
+        {
+            "file": "KerbinSideRunways.rwy",
+            "install_to": "GameData/KerbalScienceFoundation/NavInstruments/Runways"
+        }
+    ],
+    "license": "CC-BY-NC-4.0",
+    "name": "Kerbin Side GAP [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "WaypointManager"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133545-10x-kerbin-side-gap/",
+        "repository": "https://github.com/Keniamin/KerbinSideGAP"
+    },
+    "spec_version": "v1.10",
+    "suggests": [
+        {
+            "name": "KerbalAircraftExpansion"
+        }
+    ],
+    "version": "2.0",
+    "x_generated_by": "netkan"
+}

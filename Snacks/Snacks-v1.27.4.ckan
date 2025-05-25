@@ -1,0 +1,42 @@
+{
+    "abstract": "Add a simple life support system based on Snacks! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "tgruetzm",
+        "Angel-125"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/Snacks/releases/download/v1.27.4/Snacks.zip?auth_key=1748275917-caca50436372465fabab2f7b4c0d577a-0-8953576915498bb65c5882d93e6922f4&size=1137870&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3656C49DC53605D163E6C12F4238CE7CAEDFA823",
+        "sha256": "2EA25B3968D321922002C24C430A44D6640E53831B5826696554B9AC8CD58B8C"
+    },
+    "download_size": 1137870,
+    "identifier": "Snacks",
+    "install": [
+        {
+            "find": "WildBlueIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.12.2",
+    "license": "MIT",
+    "name": "Snacks [PRO-KCMIRROR]",
+    "release_date": "2022-03-29T19:06:22Z",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/149604-*",
+        "remote-avc": "https://github.com/Angel-125/Snacks/raw/master/GameData/WildBlueIndustries/Snacks/Snacks.version",
+        "repository": "https://github.com/Angel-125/Snacks"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "v1.27.4",
+    "x_generated_by": "netkan"
+}

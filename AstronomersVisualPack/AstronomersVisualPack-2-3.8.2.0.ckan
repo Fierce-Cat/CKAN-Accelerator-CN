@@ -1,0 +1,64 @@
+{
+    "abstract": "The total visual overhaul for Kerbal Space Program, originally by Astronomer. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "themaster402",
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "AVP-Textures"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/themaster402/AstronomersVisualPack/releases/download/v3.82/AVP.v.3.82.zip?auth_key=1748275914-6fbc60456c414291a1315bf679743cd0-0-791066764eaed8fb1603721bfe8db0c3&size=46879645&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E4947BB453A1F5987D82099111E68E7FDA10D4A5",
+        "sha256": "C2539B5AD9854FBCD7270ED60AFB18F76F7213F969F998502E3E201306241BC1"
+    },
+    "download_size": 46879645,
+    "identifier": "AstronomersVisualPack",
+    "ksp_version_max": "1.7.3",
+    "ksp_version_min": "1.6.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Astronomer's Visual Pack [PRO-KCMIRROR]",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config"
+    ],
+    "recommends": [
+        {
+            "name": "KS3P"
+        },
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160878-*",
+        "repository": "https://github.com/themaster402/AstronomersVisualPack"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "Chatterer"
+        }
+    ],
+    "version": "2:3.8.2.0",
+    "x_generated_by": "netkan"
+}

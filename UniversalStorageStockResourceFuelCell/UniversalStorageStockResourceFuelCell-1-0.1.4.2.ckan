@@ -1,0 +1,54 @@
+{
+    "abstract": "ModularManagement config script to add a Universal Storage Fuel Cell that can use Liquid Fuel and Oxidizer instead of other resources. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "QuickBASIC",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "UniversalStorage"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/zer0Kerbal/UniversalStorageStockResourceFuelCell/releases/download/0.1.4.2/UniversalStorageStockResourceFuelCell-0.1.4.2.zip?auth_key=1748275915-7639bd31e92e4d348685af112f976132-0-36e874d0c56f12fd763a6c7578219797&size=19469&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CDEA0C064BC5AAFA790A86AB4AC75EC92B2E3544",
+        "sha256": "A21C6EBE4EF6610D3042B3F738EE0378B7D39FA4B9DE3E5AD5C7D1FE198A9436"
+    },
+    "download_size": 19469,
+    "identifier": "UniversalStorageStockResourceFuelCell",
+    "install": [
+        {
+            "find": "UniversalStorageStockResourceFuelCell",
+            "install_to": "GameData/QuickBASIC"
+        }
+    ],
+    "install_size": 55969,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.0.0",
+    "license": "MIT",
+    "name": "Universal Storage - Stock Resource Fuel Cell [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "release_date": "2021-09-09T13:39:04Z",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/UniversalStorageStockResourceFuelCell/issues",
+        "discussions": "https://github.com/zer0Kerbal/UniversalStorageStockResourceFuelCell/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204751-*",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/UniversalStorageStockResourceFuelCell/master/UniversalStorageStockResourceFuelCell.version",
+        "repository": "https://github.com/zer0Kerbal/UniversalStorageStockResourceFuelCell"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "resources"
+    ],
+    "version": "1:0.1.4.2",
+    "x_generated_by": "netkan"
+}

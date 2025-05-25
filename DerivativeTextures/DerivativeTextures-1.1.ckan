@@ -1,0 +1,42 @@
+{
+    "abstract": "A package of textures for Procedural Parts designed to blend with the colors, shading and layout of existing textures in other packages. ",
+    "author": "RoboRay",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ProceduralParts"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1971/Derivative%20Textures/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "05389C620F0CD6BE43BBCCCF5FD167DD9BBBF654",
+        "sha256": "B252E5DA29F3089B3936C06420B24D446711057D1496FF17EF8A6C4B33960821"
+    },
+    "download_size": 6296673,
+    "identifier": "DerivativeTextures",
+    "install": [
+        {
+            "find": "Robodyne",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Derivative Textures",
+    "release_date": "2018-10-05T01:02:28.983559+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178447-derivative-textures-for-procedural-parts/",
+        "spacedock": "https://spacedock.info/mod/1971/Derivative%20Textures",
+        "x_screenshot": "https://spacedock.info/content/RoboRay_21578/Derivative_Textures/Derivative_Textures-1537499210.9586182.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

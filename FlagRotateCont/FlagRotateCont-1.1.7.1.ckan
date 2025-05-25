@@ -1,0 +1,32 @@
+{
+    "abstract": "Adjust flag orientation on EVA",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/1209/Flag%20Rotate/download/1.1.7.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5C7B6955B9AC5FA05E7C6759FBD34606AE6ACA1B",
+        "sha256": "7D7CBF58BAED0E60E1CB813D446FE9F3AAB873995BB9EF25300F9B5128A95D14"
+    },
+    "download_size": 24971,
+    "identifier": "FlagRotateCont",
+    "install": [
+        {
+            "find": "FlagRotate",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.3",
+    "ksp_version_min": "1.5.1",
+    "license": "MIT",
+    "name": "Flag Rotate",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/156145-12-flagrotate-adjust-flag-orientation/",
+        "repository": "https://github.com/linuxgurugamer/ksp_flagrotate",
+        "spacedock": "https://spacedock.info/mod/1209/Flag%20Rotate",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Flag_Rotate/Flag_Rotate-1486523889.1038787.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.1.7.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

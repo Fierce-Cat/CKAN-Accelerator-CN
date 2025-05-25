@@ -1,0 +1,39 @@
+{
+    "abstract": "This mod changes the name of the stock photovoltaic panels to Soiler Panels.",
+    "author": "deveX",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2648/Soiler%20Panels/download/v1.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AE90D13DEFDBE90BDD81FF29D88FA103F6EAE379",
+        "sha256": "86CEF2BE57A80CAFFFB126EB3E08E092818D85E601C15C9F9CDCA62C020A1B7A"
+    },
+    "download_size": 693,
+    "identifier": "SoilerPanels",
+    "install": [
+        {
+            "find": "Soiler Panels",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.11.1",
+    "license": "CC-BY-NC-3.0",
+    "name": "Soiler Panels",
+    "release_date": "2021-02-27T20:06:16.93555+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200683-soiler-panels/",
+        "repository": "https://github.com/deveX1/Soiler-Panels",
+        "spacedock": "https://spacedock.info/mod/2648/Soiler%20Panels",
+        "x_screenshot": "https://spacedock.info/content/deveX_56512/Soiler_Panels/Soiler_Panels-1614446602.4221401.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "v1.2",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,64 @@
+{
+    "abstract": "ROSolar combines models from various external mods and adds rescaling features that affect the solar panel performance [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "pap1723",
+        "KSP-RO"
+    ],
+    "conflicts": [
+        {
+            "name": "TweakableEverythingCont"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ROLib"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/ROSolar/releases/download/v2.1.0.0/ROSolar-v2.1.0.0.zip?auth_key=1748275915-5851261411a641ebb9c4949f8911c6ec-0-42e82c9532759db9fbca2aca1cf4d992&size=40224358&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B6EB93370F00AAD234C109B4EDAC74B9E84377DC",
+        "sha256": "5475E0372A9BEA1C7FF175505BBE35F437694CC23EE0C1796CF06473D815B20D"
+    },
+    "download_size": 40224358,
+    "identifier": "ROSolar",
+    "install_size": 148243923,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.10.1",
+    "license": "CC-BY-SA-4.0",
+    "name": "RO Solar [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ROEngines"
+        },
+        {
+            "name": "ROTanks"
+        },
+        {
+            "name": "ROCapsules"
+        },
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "RP-0"
+        }
+    ],
+    "release_date": "2023-06-25T20:55:32Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/ROSolar/issues",
+        "homepage": "https://discordapp.com/invite/ZGbR6nv",
+        "remote-avc": "https://raw.githubusercontent.com:443/KSP-RO/ROSolar/master/GameData/ROSolar/ROSolar.version",
+        "repository": "https://github.com/KSP-RO/ROSolar"
+    },
+    "spec_version": 1,
+    "tags": [
+        "parts",
+        "graphics"
+    ],
+    "version": "v2.1.0.0",
+    "x_generated_by": "netkan"
+}

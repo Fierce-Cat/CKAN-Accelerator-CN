@@ -1,0 +1,55 @@
+{
+    "abstract": "No more infinite EVA Fuel!",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "EvaFuel"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/EvaFuel/releases/download/1.6.8/EvaFuel-1.8.0-1.6.8.zip",
+        "https://spacedock.info/mod/1274/EVAFuel%20Continued/download/1.6.8"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C31528256B7AA1D066E026CDACE4751D85C305C3",
+        "sha256": "61EEC1E45332389553D6E4BA74DED44BD599D47FA057E27BADB177F1D76A5516"
+    },
+    "download_size": 27396,
+    "identifier": "EvaFuelCont",
+    "install": [
+        {
+            "find": "EvaFuel",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 50533,
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "EVAFuel Continued",
+    "release_date": "2020-04-21T00:25:45.42544+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/EvaFuel/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158156-12",
+        "remote-avc": "http://ksp.spacetux.net/avc/EvaFuel",
+        "repository": "https://github.com/linuxgurugamer/EvaFuel",
+        "spacedock": "https://spacedock.info/mod/1274/EVAFuel%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/EVAFuel_Continued/EVAFuel_Continued-1490381840.2394588.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "1.6.8",
+    "x_generated_by": "netkan"
+}

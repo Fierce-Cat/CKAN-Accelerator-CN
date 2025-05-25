@@ -1,0 +1,38 @@
+{
+    "abstract": "A skybox to replace KSP's default skybox with 4K textures of the Milky Way Galaxy.",
+    "author": "Ub3rshadow",
+    "depends": [
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2004/Milky%20Way%20Galaxy%20Skybox/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BA59CFC1D91C29BC5E68B60F19CDE4B42E60E3C5",
+        "sha256": "1ACD3006818F96B54F35259EA5A2DD5F4CAEA657FE62FD824FA1E901E2B61BC9"
+    },
+    "download_size": 4861951,
+    "identifier": "MilkyWay-Skybox",
+    "install": [
+        {
+            "find": "Default",
+            "install_to": "GameData/Milky Way Galaxy Skybox/TextureReplacer"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "Milky Way Galaxy Skybox",
+    "release_date": "2018-11-12T18:29:48.172259+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/2004/Milky%20Way%20Galaxy%20Skybox",
+        "x_screenshot": "https://spacedock.info/content/Ub3rshadow_21488/Milky_Way_Galaxy_Skybox/Milky_Way_Galaxy_Skybox-1542045536.400375.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

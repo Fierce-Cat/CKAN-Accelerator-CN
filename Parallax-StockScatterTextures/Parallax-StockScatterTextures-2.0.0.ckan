@@ -1,0 +1,57 @@
+{
+    "abstract": "Parallax textures for the scatters on the stock planets",
+    "author": "Linx",
+    "conflicts": [
+        {
+            "name": "Parallax-Scatter-Textures"
+        },
+        {
+            "max_version": "1.3.1",
+            "name": "Parallax"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Parallax-StockTextures"
+        },
+        {
+            "name": "Parallax"
+        }
+    ],
+    "download": "https://github.com/Gameslinx/Tessellation/releases/download/2.0.0/Parallax_ScatterTextures-2.0.0.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "147D8B32A4A736F8C9C700D8DA16A28E7A9AA256",
+        "sha256": "99A4A786084099373DE4C584269D403BA9962066CF8379BFCDB894A6CC55B136"
+    },
+    "download_size": 1179213103,
+    "identifier": "Parallax-StockScatterTextures",
+    "install": [
+        {
+            "find": "Parallax_StockTextures",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2027972765,
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "Parallax - Stock Scatter Textures",
+    "provides": [
+        "Parallax-Scatter-Textures"
+    ],
+    "release_date": "2022-09-05T17:12:31Z",
+    "resources": {
+        "bugtracker": "https://github.com/Gameslinx/Tessellation/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/197024-*",
+        "repository": "https://github.com/Gameslinx/Tessellation"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "2.0.0",
+    "x_generated_by": "netkan"
+}

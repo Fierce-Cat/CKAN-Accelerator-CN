@@ -1,0 +1,41 @@
+{
+    "abstract": "This is a 4K Skybox i made using SpaceEngine.",
+    "author": "LOL221",
+    "depends": [
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1943/Out%20of%20Galaxy%20Skybox/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F757066D75462D90B450772B2C0F7E9409E102AA",
+        "sha256": "F4B02B26FB6AB9B464901A48920C71EBAB43433219A1A17F33F871FBD71EEAD8"
+    },
+    "download_size": 18079374,
+    "identifier": "OutOfGalaxySkybox",
+    "install": [
+        {
+            "find_matches_files": true,
+            "find_regexp": ".*\\.png",
+            "install_to": "GameData/OutOfGalaxySkybox/TextureReplacer/Default"
+        }
+    ],
+    "install_size": 18242854,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.4.5",
+    "license": "GPL-3.0",
+    "name": "Out of Galaxy Skybox",
+    "release_date": "2018-08-17T05:08:32.171757+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/1943/Out%20of%20Galaxy%20Skybox",
+        "x_screenshot": "https://spacedock.info/content/LOL221_21252/Out_of_Galaxy_Skybox/Out_of_Galaxy_Skybox-1534477443.7008002.png"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

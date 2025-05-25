@@ -1,0 +1,61 @@
+{
+    "abstract": "Strips out random resource distributions and places resources according to expected planetary classification. Adds and augments a few parts and ISRU chains. Promotes hydrolox and methalox rocketry mods.",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2201/Rational%20Resources/download/1.8.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "447591C90A38F12054C5E1382C94726A3546A29D",
+        "sha256": "A45781621E90DDB1ECCEC4DBB137393C54AE039C5F3E5DFE50846E6ACAC42777"
+    },
+    "download_size": 3581341,
+    "identifier": "RationalResources",
+    "ksp_version": "1.9.1",
+    "license": "MIT",
+    "name": "Rational Resources",
+    "recommends": [
+        {
+            "name": "SCANsat"
+        }
+    ],
+    "release_date": "2020-07-25T02:49:08.625918+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184875-*/",
+        "repository": "https://github.com/JadeOfMaar/RationalResources",
+        "spacedock": "https://spacedock.info/mod/2201/Rational%20Resources",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Rational_Resources/Rational_Resources-1565231852.7711728.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "RationalResourcesParts"
+        },
+        {
+            "name": "JNSQ"
+        }
+    ],
+    "supports": [
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "TACLS"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "resources"
+    ],
+    "version": "1.8.0",
+    "x_generated_by": "netkan"
+}

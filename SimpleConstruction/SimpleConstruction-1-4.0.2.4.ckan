@@ -1,0 +1,105 @@
+{
+    "abstract": "This mod aims to provide simple craft building capability in flight mode to stock parts.",
+    "author": [
+        "matterbeam",
+        "RealGecko",
+        "zer0Kerbal"
+    ],
+    "conflicts": [
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/59/SimpleConstruction/download/4.0.2.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "692BF92C80BEB55386B98C4998655AF7964BB01A",
+        "sha256": "BD2F414C19E318D069588BFCE10D8D95C46F5771C25B003B424A9BE9355EA890"
+    },
+    "download_size": 166883,
+    "identifier": "SimpleConstruction",
+    "install": [
+        {
+            "find": "SimpleConstruction",
+            "install_to": "GameData"
+        },
+        {
+            "find": "ExtraplanetaryLaunchpads",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.7.1",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "SimpleConstruction Updated",
+    "provides": [
+        "ExtraPlanetaryLaunchpads"
+    ],
+    "recommends": [
+        {
+            "name": "KerbalStats"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "DeadskinsMeshSwitch"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191424-ksp-*",
+        "repository": "https://github.com/zer0Kerbal/SimpleConstruction",
+        "spacedock": "https://spacedock.info/mod/59/SimpleConstruction",
+        "x_screenshot": "https://spacedock.info/content/matterbeam_328/SimpleConstruction/SimpleConstruction-1455675320.902058.jpg"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "StockalikeMiningExtension"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "NotSoSimpleConstruction"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "InfernalRoboticsNext"
+        },
+        {
+            "name": "KerbalJointReinforcementNext"
+        }
+    ],
+    "supports": [
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "Kethane"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "resources",
+        "config"
+    ],
+    "version": "1:4.0.2.4",
+    "x_generated_by": "netkan"
+}

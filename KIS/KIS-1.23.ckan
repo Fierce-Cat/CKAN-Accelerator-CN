@@ -1,0 +1,57 @@
+{
+    "abstract": "KIS introduces new gameplay mechanics by adding a brand new inventory system and EVA usables items as tools. You want to build a rover on Duna from scratch? Now you can...",
+    "author": [
+        "IgorZ",
+        "KospY",
+        "Winn75"
+    ],
+    "depends": [
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1909/Kerbal%20Inventory%20System%20%28KIS%29/download/1.23",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E8D7507FAE05A619D9705055AB7FE3A87567A720",
+        "sha256": "823D8035C650CE5A84C0A9A3166BDD3A79B1D1025E1EA98FA0CC093E0F548D26"
+    },
+    "download_size": 25137694,
+    "identifier": "KIS",
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "it-it",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Kerbal Inventory System",
+    "resources": {
+        "bugtracker": "https://github.com/ihsoft/KIS/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/149848-kerbal-inventory-system-kis",
+        "manual": "https://github.com/ihsoft/KIS/raw/master/User%20Guide.pdf",
+        "metanetkan": "https://raw.githubusercontent.com/ihsoft/KIS/master/KIS.netkan",
+        "repository": "https://github.com/ihsoft/KIS",
+        "spacedock": "https://spacedock.info/mod/1909/Kerbal%20Inventory%20System%20(KIS)",
+        "x_screenshot": "https://spacedock.info/content/ihsoft_20222/Kerbal_Inventory_System_KIS/Kerbal_Inventory_System_KIS-1532072779.569956.jpg"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "EasyVesselSwitch"
+        }
+    ],
+    "version": "1.23",
+    "x_generated_by": "netkan"
+}

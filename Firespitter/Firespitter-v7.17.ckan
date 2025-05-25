@@ -1,0 +1,60 @@
+{
+    "abstract": "Propeller plane and helicopter parts [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "snjo",
+        "BobPalmer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "7.1",
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "FirespitterResourcesConfig"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/snjo/Firespitter/releases/download/v7.17/Firespitter_7.17.zip?auth_key=1748275916-d3d13ea43fa04b64a05e862ca9cda66a-0-9439914e5ee114c731c2dee65a198f0e&size=30071403&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B18880D4D974121A7316E586620DA793AD5AEED7",
+        "sha256": "CE19D8ABC5EF3343752146644F4F8BAA25DAAE4F38124541399590D4156E87FC"
+    },
+    "download_size": 30071403,
+    "identifier": "Firespitter",
+    "install": [
+        {
+            "comment": "Plugins and version file are installed from FirespitterCore, Resources from FirespitterResourcesConfig",
+            "filter": [
+                "Firespitter.version",
+                "Plugins",
+                "Resources",
+                "Old Example Craft.zip"
+            ],
+            "find": "Firespitter",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 69781090,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "Firespitter [PRO-KCMIRROR]",
+    "release_date": "2020-12-22T23:12:11Z",
+    "resources": {
+        "bugtracker": "https://github.com/snjo/Firespitter/issues",
+        "homepage": "http://snjo.github.io/",
+        "remote-avc": "https://raw.githubusercontent.com/snjo/Firespitter/master/For%20release/Firespitter/Firespitter.version",
+        "repository": "https://github.com/snjo/Firespitter"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "crewed",
+        "sound"
+    ],
+    "version": "v7.17",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,68 @@
+{
+    "abstract": "Life Support from Thunder Aerospace Corporation [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "KSP-RO Group/JPLRepo",
+        "Taranis Elsu"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "BackgroundResources"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/TacLifeSupport/releases/download/V0.16.0.0/TacLifeSupport_V0.16.0.zip?auth_key=1748275916-2f4647a06a5d4093b0d876b646501791-0-74dcc48a2d4788658239dc905066679b&size=5262334&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F45252CDA4A9E28EFA7837E7F8611E594F1EEB8F",
+        "sha256": "BF21402AFE016D19DAD7EE9CD9CFEF7D260585FC7B9A14CC49544EC5B74273D8"
+    },
+    "download_size": 5262334,
+    "identifier": "TACLS",
+    "install": [
+        {
+            "find": "GameData/ThunderAerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.10.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "es-mx",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "TAC Life Support (TACLS) [PRO-KCMIRROR]",
+    "release_date": "2020-10-17T05:39:12Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/TacLifeSupport/issues",
+        "homepage": "https://github.com/KSP-RO/TacLifeSupport/wiki",
+        "repository": "https://github.com/KSP-RO/TacLifeSupport"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "supports": [
+        {
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "crewed",
+        "parts"
+    ],
+    "version": "1:V0.16.0.0",
+    "x_generated_by": "netkan"
+}

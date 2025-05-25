@@ -1,0 +1,61 @@
+{
+    "abstract": "Pristine Mode removes all templates and converters. You'll have a number of nice looking parts for decorative base building. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "conflicts": [
+        {
+            "name": "WildBlue-PlayMode"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "depends": [
+        {
+            "name": "WildBlueTools"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/WildBlueTools/releases/download/v1.82/WildBlueTools.zip?auth_key=1748275917-7daceca0884b465096fa08a599bb5a19-0-34cf0512f1f7503e5827e231a322e7e8&size=21900005&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AC992EA10A331C51FE46A5DCC2B5D26640F1B7AE",
+        "sha256": "6E135286B362B97AF38488153867014C3E6C435B8757BCF575181F2F1D7A3658"
+    },
+    "download_size": 21900005,
+    "identifier": "WildBlue-PlayMode-Pristine",
+    "install": [
+        {
+            "as": "MM_Pristine.cfg",
+            "find": "000WildBlueTools/Templates/Pristine/MM_Pristine.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/Pristine"
+        },
+        {
+            "find": "000WildBlueTools/Templates/Pristine.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates"
+        }
+    ],
+    "ksp_version_min": "1.11.0",
+    "license": "GPL-3.0",
+    "name": "WildBlueIndustries Pristine Play Mode [PRO-KCMIRROR]",
+    "provides": [
+        "WildBlue-PlayMode",
+        "Buffalo-PlayMode",
+        "ClassicStockResources-PlayMode"
+    ],
+    "release_date": "2021-02-08T18:55:26Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/WildBlueTools/issues",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/WildBlueTools/master/GameData/WildBlueIndustries/000WildBlueTools/WildBlueTools.version",
+        "repository": "https://github.com/Angel-125/WildBlueTools"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config"
+    ],
+    "version": "v1.82",
+    "x_generated_by": "netkan"
+}

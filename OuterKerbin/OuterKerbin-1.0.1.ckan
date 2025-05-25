@@ -1,0 +1,38 @@
+{
+    "abstract": "An Expansion of the Kerbin SOI. Adding a new planet & moon beyond Minmus for you to explore!",
+    "author": "dxeh",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2066/Outer%20Kerbin/download/1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "859AABF707FBC91E66E940AAED66E03D69E13E99",
+        "sha256": "FB70DDF7EB3621313F1A679EADDD88B95CE195540070C906F4B9DB747A05F05E"
+    },
+    "download_size": 30261800,
+    "identifier": "OuterKerbin",
+    "install": [
+        {
+            "find": "Outer Kerbin",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "MIT",
+    "name": "Outer Kerbin",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181679-16x-outer-kerbin/",
+        "repository": "https://github.com/dxeh/Outer-Kerbin",
+        "spacedock": "https://spacedock.info/mod/2066/Outer%20Kerbin",
+        "x_screenshot": "https://spacedock.info/content/dxeh_24745/Outer_Kerbin/Outer_Kerbin-1548434381.7896698.jpg"
+    },
+    "spec_version": "v1.4",
+    "version": "1.0.1",
+    "x_generated_by": "netkan"
+}

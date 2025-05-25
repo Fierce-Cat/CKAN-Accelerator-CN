@@ -1,0 +1,45 @@
+{
+    "abstract": "A collection of Textures Unlimited recolours for the parts from Near Future Aeronautics",
+    "author": "ZZetho",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        }
+    ],
+    "download": "https://api.github.com/repos/ZZetho/TU_NearFutureAero/zipball/v1.3.1",
+    "download_content_type": "application/vnd.github+json",
+    "download_hash": {
+        "sha1": "2AF6DBAC3A50A487D656C48B51AFD0E69D8EFF9F",
+        "sha256": "87065E4A6555A32AFE170B9610E68A253924E420F6789A970C1D37934B57195C"
+    },
+    "download_size": 66700,
+    "identifier": "RecolorCollection-NearFutureAeronautics",
+    "install": [
+        {
+            "find": "TU_NearFutureAero",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 127554,
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "TU NearFutureAero",
+    "release_date": "2024-10-08T01:19:02Z",
+    "resources": {
+        "bugtracker": "https://github.com/ZZetho/TU_NearFutureAero/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/225485-112x-recolour-collection/",
+        "repository": "https://github.com/ZZetho/TU_NearFutureAero"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "v1.3.1",
+    "x_generated_by": "netkan"
+}

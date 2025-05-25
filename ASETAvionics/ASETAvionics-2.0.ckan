@@ -1,0 +1,52 @@
+{
+    "abstract": "Instruments for aircraft",
+    "author": "alexustas",
+    "depends": [
+        {
+            "name": "ASETAgency"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "1.4",
+            "name": "ASETProps"
+        },
+        {
+            "min_version": "0.28.0",
+            "name": "RasterPropMonitor-Core"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1213/ASET%20Avionics/download/2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5455701DB5CEDF004F611505C8071762681B9678",
+        "sha256": "40A0399A4CCC28CFCD5527C8ADFF180048C8AA38F8D5862C3F400E51B92900F2"
+    },
+    "download_size": 7833123,
+    "identifier": "ASETAvionics",
+    "install": [
+        {
+            "find": "ASET",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "ASET Avionics",
+    "recommends": [
+        {
+            "min_version": "0.15.7.2",
+            "name": "FAR"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/116479-ivaprops-aset-avionics-pack-v-10-for-the-modders-who-create-iva/",
+        "spacedock": "https://spacedock.info/mod/1213/ASET%20Avionics",
+        "x_screenshot": "https://spacedock.info/content/alexustas_3789/ASET_Avionics/ASET_Avionics-1486632235.7713456.png"
+    },
+    "spec_version": "v1.4",
+    "version": "2.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

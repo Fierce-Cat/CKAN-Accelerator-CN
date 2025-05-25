@@ -1,0 +1,50 @@
+{
+    "abstract": "An overwrite mod for the Astronaut complex default hiring systems.",
+    "author": [
+        "TheReadPanda",
+        "linuxgurugamer"
+    ],
+    "download": "https://spacedock.info/mod/777/TRP-Hire/download/0.6.10.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "07D8231DB7D94F2E3C9F08C049B9B8430A35B198",
+        "sha256": "13CE03A51EAFE9F13BCFA0E179CF8F17638E922E703194D761675D82A7465CE7"
+    },
+    "download_size": 50420,
+    "identifier": "TRPHire",
+    "install": [
+        {
+            "find": "TRP-Hire",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "ru"
+    ],
+    "name": "TRP-Hire",
+    "recommends": [
+        {
+            "name": "CommunityTraitIcons"
+        }
+    ],
+    "release_date": "2019-12-21T03:33:42.699117+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/163315-131-trp-hire-formerly-ksi-hiring/",
+        "remote-avc": "http://ksp.spacetux.net/avc/TRP-Hire",
+        "repository": "https://github.com/linuxgurugamer/PHS",
+        "spacedock": "https://spacedock.info/mod/777/TRP-Hire",
+        "x_screenshot": "https://spacedock.info/content/TheReadPanda_1710/TRP-Hire/TRP-Hire-1466364550.766941.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "0.6.10.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,80 @@
+{
+    "abstract": "Resizes and rearranges the Kerbal system to more closely resemble the Solar System [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "KSP-RO Team"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "2:release-1.11.1-39",
+            "name": "Kopernicus"
+        },
+        {
+            "name": "RSSTextures"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RealSolarSystem/releases/download/v19.0.1.0/RealSolarSystem_v19.0.1.0.zip?auth_key=1748275915-6c959ed670a34463afc3e945ae32e4ca-0-1bf4343f7b85226848c6944e989f9022&size=77235990&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7156EA86372B058589A6C8150884ED3894F843BE",
+        "sha256": "7213F81BEDCD54A95B47FD2D8DD0C0632BC6956D8A4611DD3826E53EDD85F013"
+    },
+    "download_size": 77235990,
+    "identifier": "RealSolarSystem",
+    "install": [
+        {
+            "find": "RealSolarSystem",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA",
+    "localizations": [
+        "en-us",
+        "fr-fr",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Real Solar System [PRO-KCMIRROR]",
+    "provides": [
+        "CustomAsteroids-Pops"
+    ],
+    "recommends": [
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "RSSDateTimeFormatter"
+        },
+        {
+            "name": "RSSVE-Textures"
+        },
+        {
+            "name": "Parallax"
+        }
+    ],
+    "release_date": "2022-05-16T16:20:38Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/RealSolarSystem/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177216-*",
+        "metanetkan": "https://github.com/KSP-RO/RealSolarSystem/raw/master/RealSolarSystem.netkan",
+        "remote-avc": "https://github.com/KSP-RO/RealSolarSystem/raw/master/GameData/RealSolarSystem/RealSolarSystem.version",
+        "repository": "https://github.com/KSP-RO/RealSolarSystem"
+    },
+    "spec_version": "v1.12",
+    "tags": [
+        "planet-pack",
+        "config",
+        "plugin",
+        "resources"
+    ],
+    "version": "v19.0.1.0",
+    "x_generated_by": "netkan"
+}

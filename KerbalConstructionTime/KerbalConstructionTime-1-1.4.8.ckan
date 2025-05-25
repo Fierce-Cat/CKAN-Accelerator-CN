@@ -1,0 +1,85 @@
+{
+    "abstract": "Unrapid Planned Assembly",
+    "author": [
+        "magico13",
+        "westamastaflash",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "KerbalConstructionTime-173"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "MagiCore"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": "https://spacedock.info/mod/222/Kerbal%20Construction%20Time/download/1.4.8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "00C192ED712C771587CE7BE7AF7C4E2E4B3CDEBE",
+        "sha256": "07573B7870475667A727E785ABC83A0E350291227587E3CF6F0243D6349E8C9C"
+    },
+    "download_size": 569913,
+    "identifier": "KerbalConstructionTime",
+    "install": [
+        {
+            "file": "GameData/KerbalConstructionTime",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.1",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Kerbal Construction Time",
+    "recommends": [
+        {
+            "name": "ScrapYard"
+        },
+        {
+            "name": "KRASH"
+        },
+        {
+            "name": "StageRecovery"
+        },
+        {
+            "name": "CrewQueueTwo"
+        },
+        {
+            "name": "OhScrap"
+        }
+    ],
+    "release_date": "2020-08-17T23:56:28.275102+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182877-151-161-kerbal-construction-time-unrapid-planned-assembly/",
+        "remote-avc": "http://ksp.spacetux.net/avc/KerbalConstructionTime-180",
+        "repository": "https://github.com/linuxgurugamer/KCT",
+        "spacedock": "https://spacedock.info/mod/222/Kerbal%20Construction%20Time",
+        "x_screenshot": "https://spacedock.info/content/magico13_204/Kerbal_Construction_Time/Kerbal_Construction_Time-1456094774.2806504.png"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KerbalAlarmClock"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "career"
+    ],
+    "version": "1:1.4.8",
+    "x_generated_by": "netkan"
+}

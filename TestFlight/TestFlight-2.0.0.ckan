@@ -1,0 +1,47 @@
+{
+    "abstract": "Flight Testing of your space hardware in KSP! Fly your parts to gain flight data and make them more reliable and less likely to fail.  THIS IS THE PLUGIN ONLY.  You will need a TestFlight Config pack in order for any parts to actually be controlled by TestFlight. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Agathorn",
+        "KSP-RO Group"
+    ],
+    "depends": [
+        {
+            "name": "TestFlightConfig"
+        },
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/TestFlight/releases/download/2.0.0/TestFlight-2.0.0.zip?auth_key=1748275915-12d7421648884ce9ba08331862cbc9a3-0-9cf4d6c7de4a044f3f012ced57d2a0ba&size=179996&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "434C05C9BF04F0B85EB6645E2167F0A267F47C9C",
+        "sha256": "AC94D1B65715921B39D5D7EA1027D9A13384D59975ABBE94B5B3C65A4835FDDD"
+    },
+    "download_size": 179996,
+    "identifier": "TestFlight",
+    "install": [
+        {
+            "file": "GameData/TestFlight",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Test Flight [PRO-KCMIRROR]",
+    "release_date": "2021-03-20T23:41:42Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/TestFlight/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/99043-*",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/TestFlight/master/GameData/TestFlight/TestFlight.version",
+        "repository": "https://github.com/KSP-RO/TestFlight"
+    },
+    "spec_version": "v1.2",
+    "tags": [
+        "plugin"
+    ],
+    "version": "2.0.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,41 @@
+{
+    "abstract": "Core Waterfall plugin to drive engine effects, plus default effect templates. Does nothing on its own, other mods supply compatibility. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Chris Adderley (Nertea)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/Waterfall/releases/download/0.3.0/Waterfall_0_3_0.zip?auth_key=1748275918-0c830871caf9441593026e835fea97c3-0-a6840fce128228ba88cc2040fd0032ef&size=19719658&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EF4282ECF146E4F62A9EE0A8998CC8D60FBC63CD",
+        "sha256": "ABD75312EDA6C0AC8D64932F3322415C7152DCAE7A9F93252C60A3F408762459"
+    },
+    "download_size": 19719658,
+    "identifier": "Waterfall",
+    "install": [
+        {
+            "find": "Waterfall",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Waterfall Core [PRO-KCMIRROR]",
+    "release_date": "2020-12-23T07:27:33Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/Waterfall/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196309-wip-waterfall-a-framework-for-continuous-mesh-driven-engine-effects-dec-19/",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/Waterfall/raw/master/CKAN/Waterfall.netkan",
+        "repository": "https://github.com/post-kerbin-mining-corporation/Waterfall"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "0.3.0",
+    "x_generated_by": "netkan"
+}

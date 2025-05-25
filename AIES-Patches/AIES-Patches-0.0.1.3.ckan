@@ -1,0 +1,52 @@
+{
+    "abstract": "Patches to bring the AIES mod up-to-date [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "AIESAerospace-Unofficial"
+        },
+        {
+            "name": "AIES-Antenna-Patches"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/AIES_Patches/releases/download/0.0.1.3/AIES_Patches-1.8.0-0.0.1.3.zip?auth_key=1748275915-97dcbcd599cc4ea6b6524fa477d7199c-0-2c65d1eacba56330efd3eded819fd0ee&size=74373&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0CB6945966BB82B6F03C83FA0B0D5A9A1DF7D39F",
+        "sha256": "B7DBEF1BD2E98D3DE1EA30CB03C835A6E81BE68F6A20396F04806D5FCDC5F2AE"
+    },
+    "download_size": 74373,
+    "identifier": "AIES-Patches",
+    "install": [
+        {
+            "filter": [
+                "DeimosRast",
+                "TK421d",
+                "MiniAVC.dll"
+            ],
+            "find": "AIES_Patches",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 237186,
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "AIES Patches for the AIES Aerospace mod [PRO-KCMIRROR]",
+    "release_date": "2020-02-12T00:33:09Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/AIES_Patches/issues",
+        "remote-avc": "http://ksp.spacetux.net/avc/AIES_Patches",
+        "repository": "https://github.com/linuxgurugamer/AIES_Patches"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "config"
+    ],
+    "version": "0.0.1.3",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

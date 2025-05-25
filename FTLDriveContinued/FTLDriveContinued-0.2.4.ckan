@@ -1,0 +1,58 @@
+{
+    "abstract": "Ever wished you were somewhere else instantly. With the Kerbin Science Foundry faster than light (FTL) drive you can! Just spin it up to create an instant reality dysfunction that might, just might transport you instantly to another point in space.",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "FTLDrive"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/835/FTL%20Drive%20Continued/download/0.2.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6D4B8FAFDCB765A640C74A374F7638CB217363DE",
+        "sha256": "77F93988589BE01EDA4CE0147A770BEDD4A742EA0B45055271936703AEE4CCC9"
+    },
+    "download_size": 6804175,
+    "identifier": "FTLDriveContinued",
+    "install": [
+        {
+            "find": "FTLDriveContinued",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "FTL Drive Continued",
+    "recommends": [
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "release_date": "2022-02-13T22:54:26.563332+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/FTLDriveContinued/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150178-12-ftl-drive-continued/",
+        "remote-avc": "http://ksp.spacetux.net/avc/FTLDriveContinued",
+        "repository": "https://github.com/linuxgurugamer/FTLDriveContinued",
+        "spacedock": "https://spacedock.info/mod/835/FTL%20Drive%20Continued"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "0.2.4",
+    "x_generated_by": "netkan"
+}

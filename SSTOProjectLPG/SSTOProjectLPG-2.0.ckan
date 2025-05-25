@@ -1,0 +1,43 @@
+{
+    "abstract": "LPG module compatible with SSTO Project",
+    "author": "Monniasza",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SSTOProject"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3022/SSTO%20Project%20LPG/download/2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "84D7831D5F2EE9CEFA679B187DC03B368FDFB6B8",
+        "sha256": "27574E9BFF393E0962CC1811469B5551126BE2A5E6827CBB7420C35DFA7D0633"
+    },
+    "download_size": 4012,
+    "identifier": "SSTOProjectLPG",
+    "install": [
+        {
+            "find": "SSTOLPG",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 9995,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "SSTO Project LPG",
+    "release_date": "2023-08-26T15:52:42.886328+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Monniasza/SSTO-Project/issues",
+        "homepage": "https://spacedock.info/mod/2417/SSTO%2520Project",
+        "repository": "https://github.com/Monniasza/SSTO-Project",
+        "spacedock": "https://spacedock.info/mod/3022/SSTO%20Project%20LPG"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config"
+    ],
+    "version": "2.0",
+    "x_generated_by": "netkan"
+}

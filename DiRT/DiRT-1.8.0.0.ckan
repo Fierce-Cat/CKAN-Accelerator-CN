@@ -1,0 +1,48 @@
+{
+    "abstract": "Drop-in Replacement Textures for Kerbal Space Program. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "cydonian-monk",
+    "conflicts": [
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "TextureReplacerReplaced"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/cydonian-monk/KSP-DiRT/releases/download/1.8.0.0/DiRT_1.8.0.0.zip?auth_key=1748275916-11a1d07d3ef149408c6d6f99bae024ad-0-66340f006ca0c8d90b62cbfbf752dd56&size=20602&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F7E4422D518D5639D74F9EDADEEF456C65FFF821",
+        "sha256": "8FA4C11623DD14995422EBAB54C413D4BC21CB58A45E4A587EC1ADA20EF981EA"
+    },
+    "download_size": 20602,
+    "identifier": "DiRT",
+    "install": [
+        {
+            "filter": [
+                "__MACOSX"
+            ],
+            "find": "GameData/DiRT",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 9782,
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "KSP DiRT [PRO-KCMIRROR]",
+    "release_date": "2019-10-20T14:52:14Z",
+    "resources": {
+        "bugtracker": "https://github.com/cydonian-monk/KSP-DiRT/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172055-*",
+        "remote-avc": "https://raw.githubusercontent.com/cydonian-monk/KSP-DiRT/master/GameData/DiRT/DiRT.version",
+        "repository": "https://github.com/cydonian-monk/KSP-DiRT"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "version": "1.8.0.0",
+    "x_generated_by": "netkan"
+}

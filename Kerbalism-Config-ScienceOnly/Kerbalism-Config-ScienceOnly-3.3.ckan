@@ -1,0 +1,56 @@
+{
+    "abstract": "Science-Only configuration for Kerbalism. Disables life support, radiation and all other features [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Kerbalism Contributors",
+    "conflicts": [
+        {
+            "name": "Kerbalism-Config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kerbalism/KerbalismScienceOnly/releases/download/3.3/KerbalismScienceOnly.zip?auth_key=1748275918-cd56c0d504c34cdf8c00ff8222cfd131-0-de8ac214bb7e07e71db1b3351ef66cc2&size=235047&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2D5336C7C296C946C7E7998E96199C6F6F89313E",
+        "sha256": "98A4C4BA8BC7C4779235A2AB9688BE63F372B0BB334DF3D1112D8106B9CEC705"
+    },
+    "download_size": 235047,
+    "identifier": "Kerbalism-Config-ScienceOnly",
+    "install": [
+        {
+            "find": "KerbalismScienceOnly",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.5.0",
+    "license": "Unlicense",
+    "localizations": [
+        "en-us",
+        "zh-cn",
+        "es-es",
+        "ru",
+        "de-de",
+        "pt-br"
+    ],
+    "name": "Kerbalism - Science-Only Config [PRO-KCMIRROR]",
+    "provides": [
+        "Kerbalism-Config"
+    ],
+    "resources": {
+        "repository": "https://github.com/Kerbalism/KerbalismScienceOnly"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config",
+        "science"
+    ],
+    "version": "3.3",
+    "x_generated_by": "netkan"
+}

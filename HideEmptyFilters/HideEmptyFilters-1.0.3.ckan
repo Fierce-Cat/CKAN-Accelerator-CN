@@ -1,0 +1,48 @@
+{
+    "abstract": "Dynamically hide empty categories and subcategories in the VAB/SPH part catalog removing filters that don't contain any parts.",
+    "author": "AlexStarlight",
+    "download": [
+        "https://github.com/AlexSkylark/HideEmptyFilters/releases/download/1.0.3/HideEmptyFilters.zip",
+        "https://spacedock.info/mod/3765/Hide%20Empty%20Filters/download/1.0.3"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C2FC28185D5732F5FBA94DB3E53102E5C7E23395",
+        "sha256": "91263CCC79C9373D0A685D906D6038F249708DC8A62BA3737523650E78449690"
+    },
+    "download_size": 7596,
+    "identifier": "HideEmptyFilters",
+    "install_size": 12874,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "Hide Empty Filters",
+    "release_date": "2024-11-20T04:46:06.167459+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/AlexSkylark/HideEmptyFilters/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/226265-112x-hide-empty-filters-%E2%80%93-clean-up-your-part-catalog-12-17-2024/",
+        "remote-avc": " https://raw.githubusercontent.com/AlexSkylark/HideEmptyFilters/refs/heads/main/GameData/HideEmptyFilters/HideEmptyFilters.version",
+        "repository": "https://github.com/AlexSkylark/HideEmptyFilters",
+        "spacedock": "https://spacedock.info/mod/3765/Hide%20Empty%20Filters",
+        "x_screenshot": "https://spacedock.info/content/AlexStarlight_143040/Hide_Empty_Filters/Hide_Empty_Filters-1731796097.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "FilterExtensions"
+        },
+        {
+            "name": "MoarFEConfigs"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "editor",
+        "convenience"
+    ],
+    "version": "1.0.3",
+    "x_generated_by": "netkan"
+}

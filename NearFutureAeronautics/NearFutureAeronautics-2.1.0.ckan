@@ -1,0 +1,68 @@
+{
+    "abstract": "Advanced aerospace parts including intakes, propellers, jet/multimode/nuclear engines for gigantic spaceplanes. ",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "KerbalActuators"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1957/Near%20Future%20Aeronautics/download/2.1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5476C6E7974F6C213AB203C6C43228706516FBBA",
+        "sha256": "805579868D682A9FBFD3159CBF335454976ADA1118B38E1A3CD356DF872D72E5"
+    },
+    "download_size": 40008208,
+    "identifier": "NearFutureAeronautics",
+    "install": [
+        {
+            "find": "NearFutureAeronautics",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.10.0",
+    "license": "restricted",
+    "localizations": [
+        "ru",
+        "en-us",
+        "es-es"
+    ],
+    "name": "Near Future Aeronautics",
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "MarkIVSpaceplaneSystem"
+        }
+    ],
+    "release_date": "2020-12-30T02:56:01.122547+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/NearFutureAeronautics/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-16x-near-future-technologies-16x-fixes-jan-21/",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/NearFutureAeronautics/raw/master/CKAN/NearFutureAeronautics.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureAeronautics/master/GameData/NearFutureAeronautics/Versioning/NearFutureAeronautics.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/NearFutureAeronautics",
+        "spacedock": "https://spacedock.info/mod/1957/Near%20Future%20Aeronautics",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Aeronautics/Near_Future_Aeronautics-1535576049.6255999.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "2.1.0",
+    "x_generated_by": "netkan"
+}

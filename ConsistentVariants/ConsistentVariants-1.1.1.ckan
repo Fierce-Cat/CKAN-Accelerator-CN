@@ -1,0 +1,39 @@
+{
+    "abstract": "Fixes inconsistent variant naming system and automatically applies variants as you place parts [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "severedsolo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/severedsolo/ConsistentVariants/releases/download/1.1.1/ConsistentVariants.zip?auth_key=1748275914-79f2ebadfba245faa792251537cda4aa-0-000c4720fa39945f97e82c61828a8bde&size=12299&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3442D87630A052AADF7204CB9EFA5F775E7DBDF2",
+        "sha256": "40BF18339F057E25B5C40BBC596FF82650FAC3856F7A192F8976F2585F3234C4"
+    },
+    "download_size": 12299,
+    "identifier": "ConsistentVariants",
+    "install": [
+        {
+            "find": "ConsistentVariants",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.7.0",
+    "license": "MIT",
+    "name": "Consistent Variants [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179537-*",
+        "repository": "https://github.com/severedsolo/ConsistentVariants"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "editor",
+        "convenience"
+    ],
+    "version": "1.1.1",
+    "x_generated_by": "netkan"
+}

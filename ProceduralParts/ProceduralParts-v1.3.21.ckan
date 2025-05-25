@@ -1,0 +1,54 @@
+{
+    "abstract": "ProceduralParts allows you to procedurally generate a number of different parts in a range of sizes and shapes. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Starwaster",
+        "Tidal-Stream",
+        "jrodrigv"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/jrodrigv/ProceduralParts/releases/download/v1.3.21/ProceduralParts_v1.3.21_11212019.zip?auth_key=1748275917-1e7d24096ea34389ba792840d067ede5-0-d418cfb3792d7922b8c351b9a6e343c4&size=2731388&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7B7A3FA23685096B9BC018F251418D61AD0F98E4",
+        "sha256": "31F4C680EFCF469E0686F8F57F78F676E3FF9D2A31D02C244BE01C2B132F1A22"
+    },
+    "download_size": 2731388,
+    "identifier": "ProceduralParts",
+    "install": [
+        {
+            "filter": "Source",
+            "find": "ProceduralParts",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-SA-3.0",
+    "name": "Procedural Parts [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169250-*",
+        "repository": "https://github.com/jrodrigv/ProceduralParts"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "PPTextures"
+        },
+        {
+            "name": "FreedomTex"
+        },
+        {
+            "name": "BasicProceduralTextures"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "v1.3.21",
+    "x_generated_by": "netkan"
+}

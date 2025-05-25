@@ -1,0 +1,52 @@
+{
+    "abstract": "Provides a more precise widget for maneuver node editing",
+    "author": [
+        "blizzy78",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1691/Precise%20Node%20Continued/download/1.2.11.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "892E0267818C2C1BAC0970267E1D6BE1A54615B7",
+        "sha256": "6A9D644522BADAE09EFFB7292157849F3F5F05EC7A88E50CA75D65F7A5F1AE45"
+    },
+    "download_size": 38018,
+    "identifier": "PreciseNode",
+    "install": [
+        {
+            "find": "GameData/PreciseNode",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.1",
+    "ksp_version_min": "1.8.0",
+    "license": "BSD-2-clause",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "ru"
+    ],
+    "name": "Precise Node",
+    "release_date": "2020-08-27T12:15:51.738443+00:00",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/ksp-precisenode/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/161855-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/PreciseNode",
+        "repository": "https://github.com/linuxgurugamer/ksp-precisenode",
+        "spacedock": "https://spacedock.info/mod/1691/Precise%20Node%20Continued"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information",
+        "convenience"
+    ],
+    "version": "1.2.11.1",
+    "x_generated_by": "netkan"
+}

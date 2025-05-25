@@ -1,0 +1,52 @@
+{
+    "abstract": "Better tourism! A richer tourism experience than stock.  Take tourists to space and to visit the stations and bases that you've already created. Build new tourist attractions like the space casino mega-project.  15 new contracts for tourism. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "nightingale",
+    "depends": [
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/jrossignol/ContractPack-Tourism/releases/download/1.5.2/ContractPack-Tourism_1.5.2.zip?auth_key=1748275915-081f53d3163e47e1aacdf068adcb9d1d-0-1c63862f849475b6cebcae941625305d&size=31486&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "81809D9B02D5B03C57A0AED04F944C3C9F786837",
+        "sha256": "ADFC42FEF0C74CB36ADDD29E1755831821A7B169117BBA513B5436A266B59CC2"
+    },
+    "download_size": 31486,
+    "identifier": "ContractConfigurator-Tourism",
+    "install": [
+        {
+            "find": "Tourism",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "ksp_version_max": "1.99.99",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Contract Pack: Tourism Plus [PRO-KCMIRROR]",
+    "release_date": "2016-12-15T05:04:48Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/jrossignol/ContractPack-Tourism/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/102372--",
+        "license": "https://raw.githubusercontent.com/jrossignol/ContractPack-Tourism/master/GameData/ContractPacks/Tourism/LICENSE.txt",
+        "metanetkan": "https://raw.githubusercontent.com/jrossignol/ContractPack-Tourism/master/ContractConfigurator-Tourism.netkan",
+        "repository": "https://github.com/jrossignol/ContractPack-Tourism"
+    },
+    "spec_version": "v1.16",
+    "suggests": [
+        {
+            "name": "WaypointManager"
+        }
+    ],
+    "tags": [
+        "config",
+        "career",
+        "crewed"
+    ],
+    "version": "1.5.2",
+    "x_generated_by": "netkan"
+}

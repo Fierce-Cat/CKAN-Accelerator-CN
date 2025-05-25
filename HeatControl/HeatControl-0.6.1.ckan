@@ -1,0 +1,60 @@
+{
+    "abstract": "New categories of heat radiator for your spacecraft",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://spacedock.info/mod/537/Heat%20Control/download/0.6.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "42FF2C9C1E99C02051BBF0954FD6F41404CCD32C",
+        "sha256": "F534134CBD3FB43BA804BDC3FF736802C58CB279887D872F89F4DB92DFE91D17"
+    },
+    "download_size": 6354256,
+    "identifier": "HeatControl",
+    "install": [
+        {
+            "find": "HeatControl",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 19082613,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.1",
+    "license": "restricted",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Heat Control",
+    "release_date": "2021-08-22T22:27:08.422018+00:00",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/HeatControl/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/112027-16x-heat-control-more-radiators-january-21/&page=1",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/HeatControl/raw/master/CKAN/HeatControl.netkan",
+        "remote-avc": "https://raw.githubusercontent.com:443/post-kerbin-mining-corporation/HeatControl/master/GameData/HeatControl/Versioning/HeatControl.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/HeatControl",
+        "spacedock": "https://spacedock.info/mod/537/Heat%20Control"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "0.6.1",
+    "x_generated_by": "netkan"
+}

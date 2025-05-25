@@ -1,0 +1,56 @@
+{
+    "abstract": "Kerbol's Humble Neighboring Stars  [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "An Amongus Sussy Player",
+    "depends": [
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/parkerman-com/KHNS/releases/download/Alpha-1.0.25/KHNS_Alpha_1.0.25.zip?auth_key=1748275916-cb52fbb81f884629adead3a90c12a224-0-c41384476efec0f65aca19b7edb18ac3&size=290251272&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ACCF7DBC396BF182685EB9A22AA04759637823F3",
+        "sha256": "5090DD5266D82B474D06BA47BA55D4FE7731E78F367075E45FC019044169164D"
+    },
+    "download_size": 290251272,
+    "identifier": "KerbolsHumbleNeighboringStars",
+    "install": [
+        {
+            "find": "KHNS",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.10",
+    "license": "restricted",
+    "name": "KHNS [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        }
+    ],
+    "release_date": "2022-04-23T10:22:17Z",
+    "resources": {
+        "bugtracker": "https://github.com/parkerman-com/KHNS/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207835-*/",
+        "repository": "https://github.com/parkerman-com/KHNS"
+    },
+    "spec_version": "v1.18",
+    "suggests": [
+        {
+            "name": "Scatterer"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "config",
+        "planet-pack"
+    ],
+    "version": "Alpha-1.0.25",
+    "x_generated_by": "netkan"
+}

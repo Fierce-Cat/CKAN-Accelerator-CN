@@ -1,0 +1,34 @@
+{
+    "abstract": "Train your astronauts the sensible way! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "severedsolo",
+    "depends": [
+        {
+            "min_version": "1.12.0",
+            "name": "ContractConfigurator"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/severedsolo/KerbalAcademy/releases/download/1.1.8/KerbalAcademy1.1.8.zip?auth_key=1748275916-315c4e97e5c74b61833945c96ae5e7e6-0-4e5ffd351e6c3197641be030fd3e2a7c&size=24997&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "527FB87CF2C5BB92F875A28DCAECF90C5E2B6A94",
+        "sha256": "ECB184EB5B2D3F5D6854D6E97EE524C1F543A8DECC8224D35184175F77A20782"
+    },
+    "download_size": 24997,
+    "identifier": "ContractConfigurator-KerbalAcademy",
+    "install": [
+        {
+            "find": "KerbalAcademy",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "ksp_version_min": "1.4.2",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Contract Pack: Kerbal Academy [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/140739-contract-pack-kerbal-academy",
+        "repository": "https://github.com/severedsolo/KerbalAcademy"
+    },
+    "spec_version": "v1.4",
+    "version": "1.1.8",
+    "x_generated_by": "netkan"
+}

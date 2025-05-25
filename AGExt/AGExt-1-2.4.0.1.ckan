@@ -1,0 +1,65 @@
+{
+    "abstract": "Increases the number of action groups to 250 and allows in-flight editing. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Diazo",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/AGExt/releases/download/2.4.0.1/AGExt-1.8.0-2.4.0.1.zip?auth_key=1748275917-11f906a1c93641cf8385cb8dd3c3a313-0-82e7f8bfd897416a0d266edb63f8f329&size=134184&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5B1DE2402EF4B1DE1E557DC9740A46F8DB9D26DF",
+        "sha256": "CBC9DFC6F936A671CA91FEB6014BE1199A2DBD51E87A0135E30C21B8A3241CF1"
+    },
+    "download_size": 134184,
+    "identifier": "AGExt",
+    "install": [
+        {
+            "file": "GameData/Diazo",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "jp",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Action Groups Extended [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "release_date": "2019-11-24T03:18:48Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/AGExt/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167269-1",
+        "remote-avc": "http://ksp.spacetux.net/avc/AGExt",
+        "repository": "https://github.com/linuxgurugamer/AGExt",
+        "spacedock": "https://spacedock.info/mod/1685/Action%20Groups%20Extended",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Action_Groups_Extended/Action_Groups_Extended-1517453673.540609.jpg"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:2.4.0.1",
+    "x_generated_by": "netkan"
+}

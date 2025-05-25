@@ -1,0 +1,50 @@
+{
+    "abstract": "SIMPLEX Station Parts Addon with some redistributed and modified crewed habitats",
+    "author": "theJesuit",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "SIMPLEXStationParts"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3644/SIMPLEX%20Station%20Parts%20Habs/download/1.6.20240921",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9575CFFC6E167805DBEDBFB81D6635104958F727",
+        "sha256": "7682A56AA8E52C83FEB8AC441D3BAC739273CEB7A09E7E0DB9B20F83D6A570FB"
+    },
+    "download_size": 1733492,
+    "identifier": "SIMPLEXStationPartsHabs",
+    "install": [
+        {
+            "find": "AngleCanMods",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 10626141,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA",
+    "name": "SIMPLEX Station Parts Habs",
+    "release_date": "2024-09-23T16:36:07.770954+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/217662-1125-simplex-station-parts-14/",
+        "spacedock": "https://spacedock.info/mod/3644/SIMPLEX%20Station%20Parts%20Habs"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "crewed",
+        "first-person",
+        "parts"
+    ],
+    "version": "1.6",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

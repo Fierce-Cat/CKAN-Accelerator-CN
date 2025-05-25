@@ -1,0 +1,82 @@
+{
+    "abstract": "A version of the BDArmory mod for use with Scott Manley's Runway Project.",
+    "author": [
+        "BahamutoD",
+        "Papa_Joe",
+        "jrodrigv",
+        "ouloul",
+        "Scott Manley",
+        "JR",
+        "DocNappers",
+        "Cl0by",
+        "josue",
+        "aubranium",
+        "benbenwilde",
+        "TheKurgan"
+    ],
+    "conflicts": [
+        {
+            "name": "BDArmory"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "PhysicsRangeExtender"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2487/BDArmory%20for%20Runway%20Project/download/v1.4.4.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "07789352753C8FAB3B3DF7AF5208EA1771A70B44",
+        "sha256": "4A8884A3AAC865A79111E7D98FAAB198841D39FDA2C6E4B1864786A375718CAE"
+    },
+    "download_size": 56828833,
+    "identifier": "BDArmoryForRunwayProject",
+    "install": [
+        {
+            "filter": [
+                "craft"
+            ],
+            "find": "BDArmory",
+            "install_to": "GameData"
+        },
+        {
+            "as": "SPH",
+            "find": "craft",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version_max": "1.11.999",
+    "ksp_version_min": "1.9.0",
+    "license": "CC-BY-SA-2.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "BDArmory for Runway Project",
+    "provides": [
+        "BDArmory"
+    ],
+    "release_date": "2021-04-16T21:25:11.214549+00:00",
+    "resources": {
+        "homepage": "https://docs.google.com/document/d/1taFjsHjuBoWwbpLLyg5V7c72eQUGGuPHdLIf0LueX_o/edit#heading=h.a2r2a9n8z66o",
+        "remote-avc": "https://github.com/PapaJoesSoup/BDArmory/raw/master/BDArmory/Distribution/GameData/BDArmory/BDArmory.version",
+        "repository": "https://github.com/BrettRyland/BDArmory",
+        "spacedock": "https://spacedock.info/mod/2487/BDArmory%20for%20Runway%20Project"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "plugin",
+        "parts",
+        "sound",
+        "combat"
+    ],
+    "version": "2:v1.4.4.2",
+    "x_generated_by": "netkan"
+}

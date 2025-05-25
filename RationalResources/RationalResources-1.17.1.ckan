@@ -1,0 +1,96 @@
+{
+    "abstract": "Strips out random resource distributions and places resources according to expected planetary classification. Adds and augments a few parts and ISRU chains. Promotes hydrolox and methalox rocketry mods.",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2201/Rational%20Resources/download/1.17.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "94EF92757E7F1569B6FC3374BAAE594A8CA37055",
+        "sha256": "9305672F8409563C61EA222D273F28CD01ACD5992619874716ACFCB2591703F6"
+    },
+    "download_size": 4382996,
+    "identifier": "RationalResources",
+    "ksp_version_max": "1.11.2",
+    "ksp_version_min": "1.11.1",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Rational Resources",
+    "recommends": [
+        {
+            "name": "SCANsat"
+        }
+    ],
+    "release_date": "2021-04-09T02:50:43.897738+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184875-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalResources/Version/RationalResources.version",
+        "repository": "https://github.com/JadeOfMaar/RationalResources",
+        "spacedock": "https://spacedock.info/mod/2201/Rational%20Resources",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Rational_Resources/Rational_Resources-1565231852.7711728.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "JNSQ"
+        },
+        {
+            "name": "RationalResourcesParts"
+        },
+        {
+            "name": "StockalikeMiningExtension"
+        }
+    ],
+    "supports": [
+        {
+            "name": "BeyondHome"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "ClassicStockResources"
+        },
+        {
+            "name": "DSEV"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        },
+        {
+            "name": "JNSQ"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "Pathfinder"
+        },
+        {
+            "name": "StockalikeMiningExtension"
+        },
+        {
+            "name": "TACLS"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "resources"
+    ],
+    "version": "1.17.1",
+    "x_generated_by": "netkan"
+}

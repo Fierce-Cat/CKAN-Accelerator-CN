@@ -1,0 +1,63 @@
+{
+    "abstract": "Additional files for Lazarus beyond GitHub's 2 GiB release asset limit [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "hmelioo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "INSTANTIATOR"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "VertexColorMapEmissive"
+        },
+        {
+            "name": "Lazarus"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/hmelioo/Lazarus/releases/download/1.2/Lazarus-v1.2-Content.zip?auth_key=1748275916-aa5974836a3947a899a8e2d9aec2a431-0-ebce41fb5a3c3899e34796b8f5100617&size=579320313&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "080E88857E7BB111E163595F131B97860467D89D",
+        "sha256": "3DCE2D5755A257A946EDF5BC8556A69A2DC324E293B3505195FCDFCBA7D26461"
+    },
+    "download_size": 579320313,
+    "identifier": "Lazarus-Content",
+    "install": [
+        {
+            "find": "KIPcore",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1165747017,
+    "ksp_version": "1.12",
+    "license": "CC-BY-NC-ND",
+    "name": "Lazarus Content [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        }
+    ],
+    "release_date": "2024-06-17T19:30:09Z",
+    "resources": {
+        "bugtracker": "https://github.com/hmelioo/Lazarus/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/210839-*",
+        "repository": "https://github.com/hmelioo/Lazarus"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.2",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,58 @@
+{
+    "abstract": "A community-built replacement for KSP's part models and textures. No effects on gameplay [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "ReStock Team",
+    "conflicts": [
+        {
+            "name": "VenStockRevamp"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/PorktoberRevolution/ReStocked/releases/download/1.0.1/ReStock_1_0_1.zip?auth_key=1748275915-a3c0ed2aed764113afa719119829a4db-0-f88ad16aa3a41c09344a576150e32488&size=160738733&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CDCBD0CCA8B6DBE627231F6E3C47F53D54C025C9",
+        "sha256": "2D091CECD932C08A8DD9A2392F32F7F60E051E69613A2D52335AFEE3255FB2A9"
+    },
+    "download_size": 160738733,
+    "identifier": "ReStock",
+    "install": [
+        {
+            "comment": "Restock installation",
+            "find": "ReStock",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "zh-cn",
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "pt-br"
+    ],
+    "name": "ReStock [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182679-161-restock-revamping-ksps-art/",
+        "metanetkan": "https://github.com/PorktoberRevolution/ReStocked/raw/master/CKAN/ReStock.netkan",
+        "repository": "https://github.com/PorktoberRevolution/ReStocked"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ReStockPlus"
+        }
+    ],
+    "tags": [
+        "parts",
+        "graphics"
+    ],
+    "version": "1.0.1",
+    "x_generated_by": "netkan"
+}

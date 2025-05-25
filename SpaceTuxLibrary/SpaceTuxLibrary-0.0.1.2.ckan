@@ -1,0 +1,29 @@
+{
+    "abstract": "A library of small functions for use by mods",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/2210/SpaceTux%20Library/download/0.0.1.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E4C13E0313F7D970A6BD8101DC273BC2CAAE7ED9",
+        "sha256": "DFED3F5B14F3657AFB2739897CEAAD5985C9B182F59398EEE2E9F5CF7A3C8178"
+    },
+    "download_size": 475822,
+    "identifier": "SpaceTuxLibrary",
+    "install": [
+        {
+            "find": "SpaceTuxLibrary",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "GPL-3.0",
+    "name": "SpaceTux Library",
+    "resources": {
+        "repository": "https://github.com/linuxgurugamer/SpaceTuxLibrary",
+        "spacedock": "https://spacedock.info/mod/2210/SpaceTux%20Library"
+    },
+    "spec_version": "v1.4",
+    "version": "0.0.1.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

@@ -1,0 +1,45 @@
+{
+    "abstract": "This KSP mod adds extended support for AJE to other mods and also adds a number of engines not represented in existing configs. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "seanyoung247",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "AdvancedJetEngine"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/seanyoung247/AJEExtended/releases/download/2.0.5/AJEExtended.zip?auth_key=1748275918-43f092d470714d95901bf1a700b8c985-0-bdbded6b058c7dec6d52b46da72831c2&size=7616017&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4AE3AD8BBB1A3DFF353B5111B3A000C8DCDBD4B5",
+        "sha256": "F3E942F1EAFFB35A18B0513754C3A810A1FD47531D1338BEBF9FF997195E9A82"
+    },
+    "download_size": 7616017,
+    "identifier": "AJEExtendedConfigs",
+    "install": [
+        {
+            "filter": [
+                ".git"
+            ],
+            "find": "AJEExtended",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 14395888,
+    "license": "GPL-3.0",
+    "name": "AJE Extended [PRO-KCMIRROR]",
+    "release_date": "2020-07-13T15:30:41Z",
+    "resources": {
+        "bugtracker": "https://github.com/seanyoung247/AJEExtended/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169520-*",
+        "repository": "https://github.com/seanyoung247/AJEExtended"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "parts"
+    ],
+    "version": "2:v2.0.5",
+    "x_generated_by": "netkan"
+}

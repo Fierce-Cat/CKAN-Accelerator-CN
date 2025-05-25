@@ -1,0 +1,78 @@
+{
+    "abstract": "A set of tools to manipulate atmosphere properties on a less-than-planetary scale.",
+    "author": "CashnipLeaf",
+    "conflicts": [
+        {
+            "name": "KerbalWeatherProject"
+        },
+        {
+            "name": "KerbalWeatherProject-Lite"
+        },
+        {
+            "name": "KerbalWind"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/CashnipLeaf/AdvancedAtmosphereTools/releases/download/v1.2.0/AdvancedAtmosphereTools_v1_2_0.zip",
+        "https://spacedock.info/mod/3597/Advanced%20Atmosphere%20Tools/download/1.2.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "346C01809348D2096A503ED83736BBA40D6F7EDC",
+        "sha256": "8EF4D70831802D574CC0301566BB36E8CBDC707F08AEFB5E2F61E84917ABF5A2"
+    },
+    "download_size": 48581,
+    "identifier": "AdvancedAtmosphereTools",
+    "install_size": 117835,
+    "ksp_version": "1.12",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "Advanced Atmosphere Tools",
+    "recommends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        }
+    ],
+    "release_date": "2024-08-20T23:16:19.506548+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/CashnipLeaf/AdvancedAtmosphereTools/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/224649-112x-advanced-atmosphere-tools-v100/",
+        "manual": "https://github.com/CashnipLeaf/AdvancedAtmosphereTools/wiki",
+        "repository": "https://github.com/CashnipLeaf/AdvancedAtmosphereTools",
+        "spacedock": "https://spacedock.info/mod/3597/Advanced%20Atmosphere%20Tools",
+        "x_screenshot": "https://spacedock.info/content/CashnipLeaf_131134/Modular_Climate__Weather_Systems/Modular_Climate__Weather_Systems-1714508414.png"
+    },
+    "spec_version": "v1.34",
+    "supports": [
+        {
+            "name": "FerramAerospaceResearchContinued"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "physics",
+        "library"
+    ],
+    "version": "1.2.0",
+    "x_generated_by": "netkan"
+}

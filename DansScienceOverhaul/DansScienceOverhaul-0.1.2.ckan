@@ -1,0 +1,39 @@
+{
+    "abstract": "Redoes experiments",
+    "author": "dandoesstuff",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3674/Dan's%20Science%20Overhaul/download/0.1.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BAEB67F873991AD8C89A751BA4AF19302448B51E",
+        "sha256": "DFA944E212B6B43D312CEFBFF088D87A120614EF8263B10933E61D09BC99ED14"
+    },
+    "download_size": 4352,
+    "identifier": "DansScienceOverhaul",
+    "install": [
+        {
+            "find": "Dan's Science Overhaul",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 7161,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Dan's Science Overhaul",
+    "release_date": "2024-07-28T09:53:48.098746+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3674/Dan's%20Science%20Overhaul"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "science"
+    ],
+    "version": "0.1.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

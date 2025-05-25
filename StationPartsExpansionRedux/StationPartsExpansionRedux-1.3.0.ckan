@@ -1,0 +1,62 @@
+{
+    "abstract": "A plethora of new station parts in several size classes.",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "NearFutureProps"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1682/Stockalike%20Station%20Parts%20Expansion%20Redux/download/1.3.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "25EF123BD1911170D0789F5A9A85E19BE160D471",
+        "sha256": "64C49F3AE642A82B5DB05B42CAA81D051AEBA8FF3A90A06B067FC1DBFDF09F98"
+    },
+    "download_size": 306047495,
+    "identifier": "StationPartsExpansionRedux",
+    "install": [
+        {
+            "find": "StationPartsExpansionRedux",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "it-it",
+        "ru",
+        "en-us",
+        "es-es"
+    ],
+    "name": "Stockalike Station Parts Expansion Redux",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170211-*",
+        "metanetkan": "https://github.com/ChrisAdderley/StationPartsExpansionRedux/raw/master/CKAN/StationPartsExpansionRedux.netkan",
+        "repository": "https://github.com/ChrisAdderley/StationPartsExpansionRedux",
+        "spacedock": "https://spacedock.info/mod/1682/Stockalike%20Station%20Parts%20Expansion%20Redux",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Stockalike_Station_Parts_Expansion_Redux/Stockalike_Station_Parts_Expansion_Redux-1517167763.862289.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "supports": [
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        }
+    ],
+    "version": "1.3.0",
+    "x_generated_by": "netkan"
+}

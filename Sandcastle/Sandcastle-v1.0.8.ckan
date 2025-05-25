@@ -1,0 +1,65 @@
+{
+    "abstract": "Base building with KSP stock EVA Construction [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "WildBlueCore"
+        },
+        {
+            "name": "NearFutureProps"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/Sandcastle/releases/download/v1.0.8/Sandcastle.zip?auth_key=1748275917-99127fd5c4ab40949caf7469a84d9b5f-0-8db62eecf5c1a22d1b0dbe785ea286cf&size=65579380&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "514BAE39685877F22C9BDA56663DDA270E5E2DD8",
+        "sha256": "B92FFB4F50B06EC03D4D5B4496FB81D1FD78821FB624DB3297EC2B14910532B0"
+    },
+    "download_size": 65579380,
+    "identifier": "Sandcastle",
+    "install": [
+        {
+            "filter_regexp": "\\.pdb$",
+            "find": "GameData/WildBlueIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.12.2",
+    "license": "restricted",
+    "localizations": [
+        "en-us",
+        "it-it"
+    ],
+    "name": "Sandcastle [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        },
+        {
+            "name": "KSP-PartVolume"
+        }
+    ],
+    "release_date": "2022-04-14T17:48:56Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/Sandcastle/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201137-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/Sandcastle/main/ReleaseFolder/GameData/WildBlueIndustries/Sandcastle/Sandcastle.version",
+        "repository": "https://github.com/Angel-125/Sandcastle"
+    },
+    "spec_version": "v1.10",
+    "supports": [
+        {
+            "name": "WildBlueTools"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "version": "v1.0.8",
+    "x_generated_by": "netkan"
+}

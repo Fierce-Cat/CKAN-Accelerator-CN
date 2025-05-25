@@ -1,0 +1,43 @@
+{
+    "abstract": "Future launcher of the European Space Agency, with RealFuels support",
+    "author": "Matheo_G",
+    "depends": [
+        {
+            "name": "RealFuels"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2185/Ariane%206/download/1.1.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0381D3D486FE74726768FB35CB0A2FD69CA882F1",
+        "sha256": "D1A804B1C329875A2B80A0DC806341B4463C11DA886C92F2E87B7D848CE7B3D8"
+    },
+    "download_size": 5076934,
+    "identifier": "Ariane6-RealFuels",
+    "install": [
+        {
+            "find": "With Real Fuel (RSS recomanded)/GameData/Ariane6",
+            "install_to": "GameData"
+        },
+        {
+            "find": "With Real Fuel (RSS recomanded)/Ships/VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 5525587,
+    "ksp_version": "1.7.1",
+    "license": "WTFPL",
+    "name": "Ariane 6 RealFuels",
+    "release_date": "2019-11-10T23:04:03.668407+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/186450-ariane-6/",
+        "spacedock": "https://spacedock.info/mod/2185/Ariane%206",
+        "x_screenshot": "https://spacedock.info/content/Matheo_G_19977/Ariane_6/Ariane_6-1563372799.0800045.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.1.4",
+    "x_generated_by": "netkan"
+}

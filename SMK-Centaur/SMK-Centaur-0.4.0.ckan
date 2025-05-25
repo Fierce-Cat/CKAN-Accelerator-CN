@@ -1,0 +1,56 @@
+{
+    "abstract": "A Stock-Model-Using Centaur Replica.",
+    "author": "AtomicTech",
+    "depends": [
+        {
+            "name": "MakingHistory-DLC"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3026/SMK%20Centaur/download/0.4.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "001B0DE2DFB0BDB409691A8EBF3BCC4A2DFAB24F",
+        "sha256": "DB449905BC69267B87127151B88E3E076A7F5DB23E895726E79DFF7C2670B4BA"
+    },
+    "download_size": 654696,
+    "identifier": "SMK-Centaur",
+    "install": [
+        {
+            "find": "AtomicTech",
+            "install_to": "GameData"
+        },
+        {
+            "find": "LICENSE.md",
+            "install_to": "GameData/AtomicTech/SMK-Centaur"
+        },
+        {
+            "find": "README.md",
+            "install_to": "GameData/AtomicTech/SMK-Centaur"
+        }
+    ],
+    "install_size": 1528898,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "SMK Centaur",
+    "release_date": "2022-05-09T23:50:42.385755+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/AtomikkuSan/SMK-Centaur/issues",
+        "discussions": "https://github.com/AtomikkuSan/SMK-Centaur/discussions",
+        "repository": "https://github.com/AtomikkuSan/SMK-Centaur",
+        "spacedock": "https://spacedock.info/mod/3026/SMK%20Centaur",
+        "x_screenshot": "https://spacedock.info/content/AtomicTech_61568/SMK_Centaur/SMK_Centaur-1652140266.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "graphics"
+    ],
+    "version": "0.4.0",
+    "x_generated_by": "netkan"
+}

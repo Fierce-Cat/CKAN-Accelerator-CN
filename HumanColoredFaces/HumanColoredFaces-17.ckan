@@ -1,0 +1,40 @@
+{
+    "abstract": "Giving the Kerbals human colored heads.",
+    "author": [
+        "_ForgeUser14821983"
+    ],
+    "depends": [
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "download": "https://media.forgecdn.net/files/2282/17/HumanColoredHeads.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "97F88E1315388CEC6E76C3510BFE644578579E7A",
+        "sha256": "A9D232D6ECE88958D04FC27809FFA7589E8E2DC92198E9AD27E88B12063AB4AA"
+    },
+    "download_size": 4381437,
+    "identifier": "HumanColoredFaces",
+    "install": [
+        {
+            "find": "TextureReplacer",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "restricted",
+    "name": "Human Colored Faces",
+    "resources": {
+        "curse": "https://kerbal.curseforge.com/projects/241870",
+        "x_screenshot": "https://media.forgecdn.net/avatars/thumbnails/34/538/120/120/635911341287168266.png"
+    },
+    "spec_version": "v1.20",
+    "tags": [
+        "config",
+        "graphics",
+        "crewed"
+    ],
+    "version": "17",
+    "x_generated_by": "netkan"
+}

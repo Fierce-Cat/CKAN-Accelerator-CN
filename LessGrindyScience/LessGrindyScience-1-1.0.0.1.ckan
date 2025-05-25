@@ -1,0 +1,38 @@
+{
+    "abstract": "Hey, Space Program Managers! Are you tired of science being too hard? Get Less Grindy Science today and receive 75% of the science cap at any one time! Requires ModuleManager.",
+    "author": "ValynEritai",
+    "comment": "Both mods change the baseValue of scienceCap",
+    "conflicts": [
+        {
+            "name": "GrindyScience"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1143/Less%20Grindy%20Science/download/1.0.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "577099FE6BD6DB06D0BD12DB9716C5036AB94D25",
+        "sha256": "5A8C8E4EA2714D1C7FA558747585E4D12B4B3614DBDE09D43CEFD708CFA58D2F"
+    },
+    "download_size": 2563,
+    "identifier": "LessGrindyScience",
+    "ksp_version": "any",
+    "license": "MIT",
+    "name": "Less Grindy Science",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154306-all-grindy-science-and-less-grindy-science/",
+        "repository": "https://github.com/ValynEritai/LessGrindyScience",
+        "spacedock": "https://spacedock.info/mod/1143/Less%20Grindy%20Science"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "science"
+    ],
+    "version": "1:1.0.0.1",
+    "x_generated_by": "netkan"
+}

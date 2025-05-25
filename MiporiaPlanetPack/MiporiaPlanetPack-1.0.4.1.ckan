@@ -1,0 +1,33 @@
+{
+    "abstract": "This planet pack adds a distant planet with a eccentric, inclined orbit.",
+    "author": "GurrenLagann",
+    "depends": [
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2120/Miporia%20Planet%20Pack/download/1.0.4.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8CCBF14BB0DFCBDDBAAFA6B8FE9D95C5868E32E0",
+        "sha256": "B4C797065B1EAC8F8AA7AC359BE5BB02E20D5D3B4E4A0B0563379F25D8A3C5BE"
+    },
+    "download_size": 6626912,
+    "identifier": "MiporiaPlanetPack",
+    "install": [
+        {
+            "find": "MiporiaPack",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.1",
+    "license": "GPL-3.0",
+    "name": "Miporia Planet Pack",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/2120/Miporia%20Planet%20Pack",
+        "x_screenshot": "https://spacedock.info/content/GurrenLagann_26171/Miporia_Planet_Pack/Miporia_Planet_Pack-1562074550.9209127.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.0.4.1",
+    "x_generated_by": "netkan"
+}

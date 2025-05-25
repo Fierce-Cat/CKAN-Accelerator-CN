@@ -1,0 +1,41 @@
+{
+    "abstract": "Optional patch to make the engines burn KSP's normal liquid fuel and oxidizer mixture instead of the custom liquid hydrogen and oxidizer mixture that they use by default, at the cost of efficiency",
+    "author": "Nertea",
+    "conflicts": [
+        {
+            "name": "CryoEngines-NFAero"
+        }
+    ],
+    "depends": [
+        {
+            "name": "CryoEngines"
+        }
+    ],
+    "download": "https://spacedock.info/mod/709/Cryogenic%20Engines/download/1.0.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "76CE2BDF1B66C2568B3511CBE1CBEC39CF0DA6F5",
+        "sha256": "F1B58901491E60AD903F7544445A44A76E85FEC33397005723AAFE7BC6A1BA30"
+    },
+    "download_size": 83223587,
+    "identifier": "CryoEngines-LFO",
+    "install": [
+        {
+            "find": "CryoEnginesLFO",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.7.3",
+    "license": "MIT",
+    "name": "Cryogenic Engines - Liquid Fuel/Oxidizer",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/106089-16x-cryogenic-engines-high-isp-chemical-rockets-january-21/",
+        "repository": "https://github.com/ChrisAdderley/CryoEngines",
+        "spacedock": "https://spacedock.info/mod/709/Cryogenic%20Engines",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Cryogenic_Engines/Cryogenic_Engines-1463537159.2542982.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1:1.0.3",
+    "x_generated_by": "netkan"
+}

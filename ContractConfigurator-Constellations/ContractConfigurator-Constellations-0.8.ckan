@@ -1,0 +1,46 @@
+{
+    "abstract": "Contract Pack focusing on satellite and relay constellations.",
+    "author": "io5",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3601/Contract%20Pack:%20Constellations/download/0.8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D2FE490CD0BAF379623E5070B754CEC2F5F74EE2",
+        "sha256": "0D7B675CBC615C6C8CDB2FE1AEB67544E9540DF41FD78E8AC1CF01D766415C65"
+    },
+    "download_size": 204015,
+    "identifier": "ContractConfigurator-Constellations",
+    "install": [
+        {
+            "find": "ContractPacks",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 387346,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Contract Pack: Constellations",
+    "release_date": "2024-07-04T18:07:10.520961+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/IO5/KspConstellations/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/224837-112x-contract-pack-constellations",
+        "remote-avc": "https://raw.githubusercontent.com/IO5/KspConstellations/master/Constellations.version",
+        "repository": "https://github.com/IO5/KspConstellations",
+        "spacedock": "https://spacedock.info/mod/3601/Contract%20Pack:%20Constellations",
+        "x_screenshot": "https://spacedock.info/content/io5_134486/Contract_Pack_Constellations/Contract_Pack_Constellations-1720781666.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "career",
+        "parts"
+    ],
+    "version": "0.8",
+    "x_generated_by": "netkan"
+}

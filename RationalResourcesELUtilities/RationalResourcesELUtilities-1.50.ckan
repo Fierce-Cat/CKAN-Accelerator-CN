@@ -1,0 +1,48 @@
+{
+    "abstract": "Provides integrations for Extraplanetary Launchpads",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2201/Rational%20Resources/download/1.50",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BB29F93B154E8894504AC84038BB9BE9C209F989",
+        "sha256": "8A098000956BB26F6123994C6B5F30897B2FDC4BA779D2F8F18EB2990D2FD881"
+    },
+    "download_size": 4465704,
+    "identifier": "RationalResourcesELUtilities",
+    "install_size": 19688,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.3",
+    "license": "MIT",
+    "name": "Rational Resources EL Utilities",
+    "release_date": "2023-10-29T01:26:43.463068+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/RationalResources/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184875-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalResources/Version/RationalResources.version",
+        "repository": "https://github.com/JadeOfMaar/RationalResources",
+        "spacedock": "https://spacedock.info/mod/2201/Rational%20Resources",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Rational_Resources/Rational_Resources-1633389353.6822987.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "1.50",
+    "x_generated_by": "netkan"
+}

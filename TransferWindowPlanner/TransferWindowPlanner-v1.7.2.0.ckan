@@ -1,0 +1,44 @@
+{
+    "abstract": "An ingame implementation of Alexmun's Launch Window Planner [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "TriggerAu",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/TriggerAu/TransferWindowPlanner/releases/download/v1.7.2.0/TransferWindowPlanner_1.7.2.0.zip?auth_key=1748275915-2ac1bdd7e4974beea3414339b3124b89-0-6a58fa7f57f3f479e0675228b3a2f217&size=97123&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B3347F017245A4984329437CA15E319F640F043E",
+        "sha256": "01E6A3EF987B3A2B9B15A47B5937896E68343941CE1406638DB300970E7B2410"
+    },
+    "download_size": 97123,
+    "identifier": "TransferWindowPlanner",
+    "install": [
+        {
+            "find": "TransferWindowPlanner",
+            "install_to": "GameData/TriggerTech"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.7.0",
+    "license": "MIT",
+    "name": "Transfer Window Planner [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "TriggerAu-Flags"
+        }
+    ],
+    "release_date": "2019-08-31T02:28:37Z",
+    "resources": {
+        "bugtracker": "https://github.com/TriggerAu/TransferWindowPlanner/issues",
+        "curse": "http://kerbal.curseforge.com/projects/transfer-window-planner",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/84005-*",
+        "license": "https://github.com/TriggerAu/TransferWindowPlanner/blob/master/LICENSE",
+        "manual": "http://triggerau.github.io/TransferWindowPlanner/",
+        "remote-avc": "https://raw.githubusercontent.com/TriggerAu/TransferWindowPlanner/master/TransferWindowPlanner/TransferWindowPlanner.version",
+        "repository": "https://github.com/TriggerAu/TransferWindowPlanner"
+    },
+    "spec_version": "v1.20",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "v1.7.2.0",
+    "x_generated_by": "netkan"
+}

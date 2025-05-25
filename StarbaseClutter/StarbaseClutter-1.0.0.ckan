@@ -1,0 +1,40 @@
+{
+    "abstract": "Ever wanted to have your starbase Filled with hardware like the IRL one then here you are!",
+    "author": "RAFREDARROWS",
+    "depends": [
+        {
+            "name": "KerbalKonstructs"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3595/Starbase%20clutter/download/1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D09C18C44E20031131B5EC618DC71D36BE77536B",
+        "sha256": "E409A3DC416F26BB783E163BF9B82B2E1B2420BB838D613646345C34CD712FD1"
+    },
+    "download_size": 3601283,
+    "identifier": "StarbaseClutter",
+    "install": [
+        {
+            "filter_regexp": "\\.meta$",
+            "find_regexp": "Starbase clutter.*",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 11481788,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Starbase clutter",
+    "release_date": "2024-04-26T12:59:59.267988+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3595/Starbase%20clutter",
+        "x_screenshot": "https://spacedock.info/content/RAFREDARROWS_111524/Starbase_clutter/Starbase_clutter-1714137076.png"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "buildings",
+        "config"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

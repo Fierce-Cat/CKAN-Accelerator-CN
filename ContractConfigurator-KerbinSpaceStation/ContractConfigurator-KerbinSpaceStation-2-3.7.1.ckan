@@ -1,0 +1,42 @@
+{
+    "abstract": "A contract pack to replace the default Squad build a Space Station missions [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "ContractConfigurator-UsefulSpaceStations"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "0.7.12",
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/KerbinSpaceStation/releases/download/3.7.1/BasesandStations-3.7.1.zip?auth_key=1748275916-96c11bd5c88e44e5bf2edc7f07b9f956-0-17aa29765870fa9106e402ad074890fd&size=73196&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CD71C8B95E20B8CFA333BC9DB8A7CE64DE225342",
+        "sha256": "5932C1A358517F9D2F4A1E77B5049D7F81653D5DD3F441DBEF0E20F650A01544"
+    },
+    "download_size": 73196,
+    "identifier": "ContractConfigurator-KerbinSpaceStation",
+    "install": [
+        {
+            "find": "KerbinSpaceStation",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "ksp_version_min": "1.4.0",
+    "license": "MIT",
+    "name": "Contract Pack: Bases and Stations Reborn [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175822-14-contract-pack-bases-and-stations-reborn/",
+        "repository": "https://github.com/linuxgurugamer/KerbinSpaceStation"
+    },
+    "spec_version": "v1.4",
+    "version": "2:3.7.1",
+    "x_generated_by": "netkan"
+}

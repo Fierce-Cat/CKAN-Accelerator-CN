@@ -1,0 +1,58 @@
+{
+    "abstract": "This config pack adds TestFlight support for Stock parts. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Starstrider42",
+    "comment": "ksp_version_max because each release adds TF-eligible parts",
+    "conflicts": [
+        {
+            "comment": "Modifies same parts",
+            "name": "TestFlightConfigStock"
+        },
+        {
+            "comment": "Removes stock parts",
+            "name": "RealismOverhaul"
+        }
+    ],
+    "depends": [
+        {
+            "name": "TestFlightConfigLibrary"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Starstrider42/TestFlight-Configs/releases/download/0.2.0/Stock%2B-TF-Configs-0.2.0.zip?auth_key=1748275916-6c1f59bb2e5a40b0b91ae76e11d19ce5-0-84148c516c91a15b7c30867ecebc6b2a&size=18167&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FC1892FAA414397BE6FF03358618D536B349D1E1",
+        "sha256": "D9F01FA77648D0639507F52C6B0B75FFFC9940EC4AD82454CBE65409E5EB8B13"
+    },
+    "download_size": 18167,
+    "identifier": "TestFlightConfig-Stock-S42",
+    "install": [
+        {
+            "file": "GameData/TestFlight/Config",
+            "filter_regexp": "(?<!Stock_.+\\.cfg)$",
+            "install_to": "GameData/TestFlight"
+        }
+    ],
+    "install_size": 18146,
+    "ksp_version_max": "1.9",
+    "ksp_version_min": "1.4",
+    "license": "MIT",
+    "name": "TestFlight Config for Stock (alternative config) [PRO-KCMIRROR]",
+    "provides": [
+        "TestFlightConfig"
+    ],
+    "release_date": "2020-03-01T19:46:52Z",
+    "resources": {
+        "bugtracker": "https://github.com/Starstrider42/TestFlight-Configs/issues",
+        "repository": "https://github.com/Starstrider42/TestFlight-Configs"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "config"
+    ],
+    "version": "0.2.0",
+    "x_generated_by": "netkan",
+    "x_maintained_by": "Starstrider42"
+}

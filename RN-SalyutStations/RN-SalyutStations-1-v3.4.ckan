@@ -1,0 +1,65 @@
+{
+    "abstract": "This is a salyut mod for the DOS & OPS style stations. It contains fully functional replicas of Salyut 1, 4, 6 and 7. It also now contains Almaz 2, 3 and 5. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Raidernick",
+    "comment": "Ships readded",
+    "conflicts": [
+        {
+            "name": "RN-SalyutStations-SoyuzFerries"
+        }
+    ],
+    "depends": [
+        {
+            "name": "BDAnimationModules"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/SalyutStations/releases/download/v3.4/RN_SalyutStations_v3.4.zip?auth_key=1748275917-1df91543c0e0419db53acca4ada9bd08-0-414ddbc46baa009ed57f577aab880e36&size=37265013&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "47F2B3F16A585EE0806506C37C27FDEEB70C2C92",
+        "sha256": "0AE00F6B14831E1B3F7F4A035C0ED85F00A6B72CA680ECEFC9000E8805EDC4C0"
+    },
+    "download_size": 37265013,
+    "identifier": "RN-SalyutStations",
+    "install": [
+        {
+            "find": "RN_Salyut",
+            "install_to": "GameData"
+        },
+        {
+            "file": "Ships/VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-ND-3.0",
+    "name": "Salyut Stations [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RN-SovietSpacecraft"
+        },
+        {
+            "name": "RN-SovietRockets"
+        }
+    ],
+    "release_date": "2020-04-16T21:37:33Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/SalyutStations/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/79732-*",
+        "remote-avc": "http://raw.githubusercontent.com/KSP-RO/SalyutStations/master/GameData/RN_Salyut/SalyutStations.version",
+        "repository": "https://github.com/KSP-RO/SalyutStations"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1:v3.4",
+    "x_generated_by": "netkan"
+}

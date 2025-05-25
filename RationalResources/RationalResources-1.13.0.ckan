@@ -1,0 +1,91 @@
+{
+    "abstract": "Strips out random resource distributions and places resources according to expected planetary classification. Adds and augments a few parts and ISRU chains. Promotes hydrolox and methalox rocketry mods.",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2201/Rational%20Resources/download/1.13.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C0B27DC05D717AEA6C9F985416D694A91415DEF5",
+        "sha256": "44A0501CC7D1831187A571BD8D802ADACC69AC7120351D4A9EAD4406AD27867C"
+    },
+    "download_size": 4360038,
+    "identifier": "RationalResources",
+    "ksp_version": "1.10.1",
+    "license": "MIT",
+    "name": "Rational Resources",
+    "recommends": [
+        {
+            "name": "SCANsat"
+        }
+    ],
+    "release_date": "2020-11-20T05:10:20.237908+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184875-*/",
+        "repository": "https://github.com/JadeOfMaar/RationalResources",
+        "spacedock": "https://spacedock.info/mod/2201/Rational%20Resources",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Rational_Resources/Rational_Resources-1565231852.7711728.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "JNSQ"
+        },
+        {
+            "name": "RationalResourcesParts"
+        },
+        {
+            "name": "StockalikeMiningExtension"
+        }
+    ],
+    "supports": [
+        {
+            "name": "BeyondHome"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "ClassicStockResources"
+        },
+        {
+            "name": "DSEV"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        },
+        {
+            "name": "JNSQ"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "Pathfinder"
+        },
+        {
+            "name": "StockalikeMiningExtension"
+        },
+        {
+            "name": "TACLS"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "resources"
+    ],
+    "version": "1.13.0",
+    "x_generated_by": "netkan"
+}

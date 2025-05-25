@@ -1,0 +1,74 @@
+{
+    "abstract": "Parallax Continued Support for QuackPack [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "jthero3",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "QuackPack"
+        },
+        {
+            "name": "ParallaxContinued"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/jthero3/QuackPack-ParallaxContinued/releases/download/0.3.4/QuackPack-ParallaxContinued_0.3.4.zip?auth_key=1748275914-7c34bfc2043344bebc6bd3a84d2c70bb-0-287becf41b4e7b783ee7c2e7868ad80e&size=788881238&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "F872A45B9897A9C8F82EB429BF03AD881AD5973370A8A744C77F7AB5517D9677"
+    },
+    "download_size": 788881238,
+    "identifier": "QuackPack-ParallaxContinued",
+    "install": [
+        {
+            "find": "QuackPack-ParallaxContinued",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Nereid",
+            "install_to": "GameData"
+        },
+        {
+            "find": "FireQuack",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1191734194,
+    "license": "CC-BY-NC-SA",
+    "name": "QuackPack ParallaxContinued [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "Deferred"
+        },
+        {
+            "name": "FinalFrontier"
+        },
+        {
+            "name": "OrbitIconsPack"
+        },
+        {
+            "name": "Firefly"
+        }
+    ],
+    "release_date": "2025-05-08T04:49:39Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/jthero3/QuackPack-ParallaxContinued/issues",
+        "repository": "https://github.com/jthero3/QuackPack-ParallaxContinued"
+    },
+    "spec_version": "v1.36",
+    "supports": [
+        {
+            "name": "QuackPack"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "0.3.4",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,40 @@
+{
+    "abstract": "Duna Restoration Project for SASS. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "GregroxMun",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "StockalikeSolarSystem"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/GregroxMun/Duna-Restoration-Project/releases/download/2.0/DunaRestorationProject.zip?auth_key=1748275915-66a3fc83d27d4b45b797551dd21b4ae6-0-1199e977146f056df54223d282a31c77&size=19118988&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "472BD81A2584B4AD95122014D524E36B96CAA69A",
+        "sha256": "3F15FC2B6D5946A345A88AFB3C83AA56AEBDF0CDF73C8A0C608478D84094BC65"
+    },
+    "download_size": 19118988,
+    "identifier": "SASS-DRP",
+    "install": [
+        {
+            "find": "DunaRestorationProject",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "SASS-DRP [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/151632-DRP/",
+        "metanetkan": "https://raw.githubusercontent.com/Sigma88/CKAN/master/Stockalike/SASS-DRP.netkan"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "2.0",
+    "x_generated_by": "netkan"
+}

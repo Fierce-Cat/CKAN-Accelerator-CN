@@ -1,0 +1,82 @@
+{
+    "abstract": "You spin me right around, baby! A unique homeworld in an alien solar system, dozens of new bodies to explore.",
+    "author": "GregroxMun",
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "SciRev"
+        },
+        {
+            "name": "Scatterer-sunflare-default"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1805/Whirligig%20World/download/0.12.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0F8175CE63431331C014AA9FF167FCFECBEF50A3",
+        "sha256": "C6CF53C512039DA40902B3A4CF87D21B67DB64C725E0108069D521911C1C0B17"
+    },
+    "download_size": 428213823,
+    "identifier": "WhirligigWorld",
+    "ksp_version": "1.11.2",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Whirligig World",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config"
+    ],
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "PoodsDeepStarMap"
+        }
+    ],
+    "release_date": "2021-03-28T01:57:39.153379+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/GregroxMun/Whirligig-World/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/166563-02-nov232017-whirligig-world-a-unique-homeworld-in-an-alien-solar-system/",
+        "repository": "https://github.com/GregroxMun/Whirligig-World",
+        "spacedock": "https://spacedock.info/mod/1805/Whirligig%20World",
+        "x_screenshot": "https://spacedock.info/content/GregroxMun_214/Whirligig_World/Whirligig_World-1540759719.3524895.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ResearchBodies"
+        },
+        {
+            "name": "Kronometer"
+        },
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack",
+        "parts",
+        "plugin"
+    ],
+    "version": "0.12.4",
+    "x_generated_by": "netkan"
+}

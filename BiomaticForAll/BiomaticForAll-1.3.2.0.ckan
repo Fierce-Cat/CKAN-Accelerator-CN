@@ -1,0 +1,52 @@
+{
+    "abstract": "A config that adds Biomatic to all command modules.",
+    "author": [
+        "BiffSpace",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "Biomatic"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/634/Biomatic/download/1.3.2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4A987B3F40227D28A3A1DFF68D0CC784DB9ACC2F",
+        "sha256": "733601945B6D7B7EFB466B23E75D7EA5CFE498A1A93E0285C693CF00B55D7EF0"
+    },
+    "download_size": 394744,
+    "identifier": "BiomaticForAll",
+    "install": [
+        {
+            "find": "BiomaticConfig.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/Biomatic/Patches"
+        }
+    ],
+    "install_size": 384,
+    "ksp_version_max": "1.7.3",
+    "ksp_version_min": "1.4.1",
+    "license": "GPL-3.0",
+    "name": "Biomatic For All Command Modules",
+    "release_date": "2020-02-07T21:26:57.577514+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/Biomatic/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191426-*",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/Biomatic/master/GameData/Biomatic/Biomatic.version",
+        "repository": "https://github.com/zer0Kerbal/Biomatic",
+        "spacedock": "https://spacedock.info/mod/634/Biomatic",
+        "x_screenshot": "https://spacedock.info/content/BiffSpace_2144/Biomatic/Biomatic-1462190469.105298.jpg"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "config",
+        "science",
+        "convenience"
+    ],
+    "version": "1.3.2.0",
+    "x_generated_by": "netkan"
+}

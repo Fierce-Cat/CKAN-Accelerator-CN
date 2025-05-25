@@ -1,0 +1,55 @@
+{
+    "abstract": "Deep Space Exploration Vessels for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "WildBlue-PlayMode-Pristine"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "DSEV"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/DSEV/releases/download/v3.9.0/DSEV.zip?auth_key=1748275918-a0a63c87ebdd4023a98ef20345a15d24-0-1dabf793c8321b28c47972814c1adc0f&size=103161554&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D8F9AD30350A5AB91B592510BF11A1A28BA61017",
+        "sha256": "3C141FF9A26F5F41993EDA2782D2778EF6EE83F4AA10B71145B9E8D9F9CF4CA8"
+    },
+    "download_size": 103161554,
+    "identifier": "DSEV-PlayMode-Pristine",
+    "install": [
+        {
+            "find": "WildBlueIndustries/DSEV/Templates/Pristine.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/DSEV/Templates"
+        },
+        {
+            "as": "MM_Pristine.cfg",
+            "find": "DSEV/Templates/Pristine/MM_Pristine.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/DSEV/Templates/Pristine"
+        }
+    ],
+    "ksp_version_min": "1.12.2",
+    "license": "restricted",
+    "name": "DSEV Pristine Play Mode [PRO-KCMIRROR]",
+    "provides": [
+        "DSEV-PlayMode"
+    ],
+    "release_date": "2021-08-04T22:58:43Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/DSEV/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/122162-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/DSEV/master/GameData/WildBlueIndustries/DSEV/DSEV.version",
+        "repository": "https://github.com/Angel-125/DSEV"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config"
+    ],
+    "version": "v3.9.0",
+    "x_generated_by": "netkan"
+}

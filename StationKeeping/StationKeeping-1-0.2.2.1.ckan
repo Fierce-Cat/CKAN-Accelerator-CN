@@ -1,0 +1,46 @@
+{
+    "abstract": "Adds a button in the Tracking Station to set a ship's orbit. If you are with 1% (configurable) of your target orbit, you can simply push the button to set the orbit's semi-major axis to exactly what you want, so it won't drift out of alignment as you time warp. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "swilbur",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/StationKeeping/releases/download/0.2.2.1/StationKeeping-1.8.0-0.2.2.1.zip?auth_key=1748275918-2d4f20c7ff50436b8769036accdda853-0-031f9eb7141270119e52058b4954d812&size=37163&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "152AA66AC7774EFA91E6DD4917227442914DDC5B",
+        "sha256": "AB4ECB57ACEE4525789CFB9F621B3590F91499D13881732CF43191592E87F6D5"
+    },
+    "download_size": 37163,
+    "identifier": "StationKeeping",
+    "install": [
+        {
+            "find": "StationKeeping",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-4.0",
+    "name": "Station Keeping [PRO-KCMIRROR]",
+    "release_date": "2020-06-16T02:37:23Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/StationKeeping/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173518-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/StationKeeping",
+        "repository": "https://github.com/linuxgurugamer/StationKeeping"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:0.2.2.1",
+    "x_generated_by": "netkan"
+}

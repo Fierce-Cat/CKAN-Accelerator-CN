@@ -1,0 +1,63 @@
+{
+    "abstract": "A planet mod that takes place after the Kerbol system has died. Kerbals have escaped to another star system. Beyond Home adds a unique suite of over 28 planets each with their own high quality visuals.",
+    "author": "Gameslinx",
+    "conflicts": [
+        {
+            "name": "GPP"
+        },
+        {
+            "name": "StockVisualEnhancements"
+        }
+    ],
+    "depends": [
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "Scatterer-sunflare-default"
+        }
+    ],
+    "download": "https://github.com/Gameslinx/BeyondHomePlanetMod/releases/download/1.4.1/Beyond.Home.1.4.1.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2843486724D23C2C306B03B066FDC0F2C3429BE9",
+        "sha256": "FDF3F92B76F15D404495E1387427E97A38F958B41A211A07176335556EA838A4"
+    },
+    "download_size": 1119501089,
+    "identifier": "BeyondHome",
+    "install": [
+        {
+            "find": "BeyondHome",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8",
+    "license": "restricted",
+    "name": "Beyond Home",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config"
+    ],
+    "recommends": [
+        {
+            "name": "SigmaReplacements-SkyBox"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182708-*",
+        "repository": "https://github.com/Gameslinx/BeyondHomePlanetMod"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack",
+        "graphics"
+    ],
+    "version": "1.4.1",
+    "x_generated_by": "netkan"
+}

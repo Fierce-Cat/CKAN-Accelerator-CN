@@ -1,0 +1,48 @@
+{
+    "abstract": "Simple notepad to take text notes in game.",
+    "author": [
+        "hashashin",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": "https://spacedock.info/mod/77/Notes/download/0.16",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5F899890C3B7C2E02AE8734A3D2134FE53FF9737",
+        "sha256": "025320A7CE3D733D7A347995F4FAA92D9A526B6971606472DC3FDC7E49215386"
+    },
+    "download_size": 60486,
+    "identifier": "notes",
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Notes",
+    "release_date": "2019-10-23T15:26:54.397824+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/Notes/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207118-*",
+        "remote-avc": "https://raw.githubusercontent.com/hashashin/ksp_notes/master/ksp_notes.version",
+        "repository": "https://github.com/zer0Kerbal/Notes",
+        "spacedock": "https://spacedock.info/mod/77/Notes",
+        "x_screenshot": "https://spacedock.info/content/hashashin_471/notes/notes-1455711666.7319841.png"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "RasterPropMonitor"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "0.16",
+    "x_generated_by": "netkan"
+}

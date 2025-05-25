@@ -1,0 +1,66 @@
+{
+    "abstract": "Gives jets, propellers, and rotors realistic performance. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "blowfish",
+        "NathanKell",
+        "camlost"
+    ],
+    "depends": [
+        {
+            "name": "FAR"
+        },
+        {
+            "name": "SolverEngines"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/AJE/releases/download/v2.15.0/Advanced_Jet_Engine_v2.15.0.zip?auth_key=1748275914-c0e5f2b0d2854297bed1dde9b7026c10-0-a19e2b6b0960353a5ddfac6c958fb891&size=668228&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7A6E9107E373A80BA8670D7FBDD970E5FBFDAF69",
+        "sha256": "0AB28E3FA5112F9C940F1642E2CEA9951B410CC138261A31D917FCF7DEB698F6"
+    },
+    "download_size": 668228,
+    "identifier": "AdvancedJetEngine",
+    "install": [
+        {
+            "find": "GameData/AJE",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.8.0",
+    "license": "LGPL-2.0",
+    "localizations": [
+        "zh-cn",
+        "en-us"
+    ],
+    "name": "Advanced Jet Engine [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RealFuels"
+        }
+    ],
+    "release_date": "2020-02-15T23:59:17Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/AJE/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?showtopic=139868",
+        "metanetkan": "https://raw.githubusercontent.com/KSP-RO/AJE/master/NetKAN/AdvancedJetEngine.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/AJE/master/GameData/AJE/AJE.version",
+        "repository": "https://github.com/KSP-RO/AJE"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "v2.15.0",
+    "x_generated_by": "netkan"
+}

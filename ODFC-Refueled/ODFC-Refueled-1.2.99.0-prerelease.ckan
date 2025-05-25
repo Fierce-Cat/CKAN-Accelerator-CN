@@ -1,0 +1,90 @@
+{
+    "abstract": "On Demand Fuel Cells (ODFC) is a plugin to support fuel cells that only generate power when it is needed, thereby saving precious fuel. Simulates fuel cells in Kerbal Space Program (KSP), and do a better job of it than stock's use of a resource converter.  The main difference is it only generates electricity when it's really needed (batteries almost empty), and otherwise lets electricity of a craft float up and down, as it might in a solar powered vehicle when the sun is eclipsed by another celestial body.  It also allows fuel cells to generate byproducts, aimed at supporting life support mods like TACLS. ",
+    "author": "zer0Kerbal",
+    "conflicts": [
+        {
+            "name": "ODFC"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2223/On%20Demand%20Fuel%20Cells%20(ODFC)%20by%20Orum/download/1.2.99.0-prerelease",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "843A4D63256D2F574519D36AAB8559F508CD2F69",
+        "sha256": "17D3AE1511842B6776B9D90CC0165F117DA467791B3BAE5E5ECED717CE54DECD"
+    },
+    "download_size": 105510,
+    "identifier": "ODFC-Refueled",
+    "install": [
+        {
+            "find": "OnDemandFuelCells",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 232337,
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "On Demand Fuel Cells (ODFC) by Orum",
+    "provides": [
+        "ODFC"
+    ],
+    "release_date": "2022-12-28T07:55:10.415945+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/OnDemandFuelCells/issues",
+        "discussions": "https://github.com/zer0Kerbal/OnDemandFuelCells/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/",
+        "remote-avc": "https://github.com/zer0Kerbal/ODFCr/raw/master/OnDemandFuelCells.version",
+        "repository": "https://github.com/zer0Kerbal/OnDemandFuelCells",
+        "spacedock": "https://spacedock.info/mod/2223/On%20Demand%20Fuel%20Cells%20(ODFC)%20by%20Orum",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/On_Demand_Fuel_Cells_ODFC_by_Orum/On_Demand_Fuel_Cells_ODFC_by_Orum-1672214150.jpg"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "StockalikeMiningExtension"
+        },
+        {
+            "name": "UniversalStorage"
+        },
+        {
+            "name": "UniversalStorage2"
+        },
+        {
+            "name": "RLAReborn"
+        },
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "supports": [
+        {
+            "name": "AllYAll"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "BackgroundProcessing"
+        },
+        {
+            "name": "BackgroundResources"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1.2.99.0-prerelease",
+    "x_generated_by": "netkan"
+}

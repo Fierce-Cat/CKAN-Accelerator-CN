@@ -1,0 +1,52 @@
+{
+    "abstract": "Transfer fuel and other resources between tanks",
+    "author": [
+        "Z-Key Aerospace",
+        "Taranis Elsu"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/640/TacFuelBalancer/download/2.21.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7EDCA007E1D46E03448CC1E0EFA8689822A10E55",
+        "sha256": "ED33D80EC9CF68E97B7F3BDDEFE265E8CA4DF4B1BB75D821180051C0B5A0645A"
+    },
+    "download_size": 82648,
+    "identifier": "TacFuelBalancer",
+    "install": [
+        {
+            "file": "GameData/TacFuelBalancer",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "TAC Fuel Balancer",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/186526-151-161-172-tac-fuel-balancer/",
+        "repository": "https://github.com/linuxgurugamer/TacFuelBalancer",
+        "spacedock": "https://spacedock.info/mod/640/TacFuelBalancer",
+        "x_screenshot": "https://spacedock.info/content/zkeyaerospace_1268/TacFuelBalancer/TacFuelBalancer-1466458494.3982704.png"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "v2.21.5",
+    "x_generated_by": "netkan"
+}

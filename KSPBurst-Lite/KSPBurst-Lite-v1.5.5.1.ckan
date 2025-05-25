@@ -1,0 +1,44 @@
+{
+    "abstract": "Run KSPBurst-dependent mods without the compiler, more slowly but with a smaller download [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "dkavolis",
+    "conflicts": [
+        {
+            "name": "KSPBurst"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSPModdingLibs/KSPBurst/releases/download/v1.5.5.1/KSPBurst_1.5.5.1_plugins_only.zip?auth_key=1748275917-651d58b9afa04c4983b7426031de0ae8-0-6ba6620c19dbb30bcbe5a6712fc6ccd5&size=425273&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F561C8527E6A39C861FD3EF89D1E47D6DE556944",
+        "sha256": "F2319A66831E9492DF425EF9592A3A5832DFA33E8D70B4FA560AF05C7762906C"
+    },
+    "download_size": 425273,
+    "identifier": "KSPBurst-Lite",
+    "install": [
+        {
+            "find": "000_KSPBurst",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1324704,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "unknown",
+    "name": "KSPBurst Lite [PRO-KCMIRROR]",
+    "provides": [
+        "KSPBurst"
+    ],
+    "release_date": "2021-08-01T03:51:40Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSPModdingLibs/KSPBurst/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201112-*",
+        "remote-avc": "https://raw.githubusercontent.com/KSPModdingLibs/KSPBurst/master/GameData/000_KSPBurst/KSPBurst.version",
+        "repository": "https://github.com/KSPModdingLibs/KSPBurst"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "library"
+    ],
+    "version": "v1.5.5.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,68 @@
+{
+    "abstract": "FAR replaces KSP's stock part-centered aerodynamics model with one based on real-life physics. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "ferram4",
+        "dkavolis"
+    ],
+    "conflicts": [
+        {
+            "name": "AerodynamicModel"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/dkavolis/Ferram-Aerospace-Research/releases/download/v0.16.0.1_Mader/FAR_0_16_0_1_Mader.zip?auth_key=1748275918-935b85257ff1402e8f1a82507de6d234-0-5f42dd241cdce44afa08ffd3cf68b8e3&size=885858&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3A5F66E9FA65D7DAE6809D8752B85DF6217E95F5",
+        "sha256": "E4CBA119516F96DB16DB321BC26840525CDDD289A57C1C605B5C3253ADC07F48"
+    },
+    "download_size": 885858,
+    "identifier": "FerramAerospaceResearchContinued",
+    "install": [
+        {
+            "file": "GameData/FerramAerospaceResearch",
+            "filter": "config.xml",
+            "install_to": "GameData"
+        },
+        {
+            "comment": "FAR example craft",
+            "file": "Ships",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "de-de",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Ferram Aerospace Research Continued [PRO-KCMIRROR]",
+    "provides": [
+        "AerodynamicModel",
+        "FAR"
+    ],
+    "release_date": "2020-11-24T18:52:21Z",
+    "resources": {
+        "bugtracker": "https://github.com/dkavolis/Ferram-Aerospace-Research/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*",
+        "remote-avc": "https://raw.githubusercontent.com/dkavolis/Ferram-Aerospace-Research/master/GameData/FerramAerospaceResearch/FAR.version",
+        "repository": "https://github.com/dkavolis/Ferram-Aerospace-Research"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "3:0.16.0.1",
+    "x_generated_by": "netkan"
+}

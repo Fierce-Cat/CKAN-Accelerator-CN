@@ -1,0 +1,31 @@
+{
+    "abstract": "Flags by Phoenix Industries",
+    "author": "MoviesColin",
+    "comment": "flagmod",
+    "download": "https://spacedock.info/mod/246/Phoenix%20Industries%20-%20Boosters/download/2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CCAD7615A27B495AB38F6E32309616AC49BC41E8",
+        "sha256": "9EBCF563B5F2270063A17282324E0A67D72E73444BB34C444A22CDB633335703"
+    },
+    "download_size": 1228714,
+    "identifier": "PhoenixIndustriesFlags",
+    "install": [
+        {
+            "filter": "Thumbs.db",
+            "find": "Flags",
+            "install_to": "GameData/CTN"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Phoenix Industries Flags",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/122447-phoenix-industries-boosters-0625m-srbs-v11/",
+        "spacedock": "https://spacedock.info/mod/246/Phoenix%20Industries%20-%20Boosters",
+        "x_screenshot": "https://spacedock.info/content/MoviesColin_1252/Phoenix_Industries_-_Boosters/Phoenix_Industries_-_Boosters-1475119665.5887043.jpg"
+    },
+    "spec_version": "v1.4",
+    "version": "2.0",
+    "x_generated_by": "netkan"
+}

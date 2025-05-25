@@ -1,0 +1,51 @@
+{
+    "abstract": "The Science Report and Checklist for KSP.  [x] Science! keeps track of the science experiments completed, recovered and held on vehicles and kerbals. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Z-Key Aerospace",
+        "Brodrick",
+        "Flupster",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/KSP-X-Science/releases/download/6.0.0.9/X-Science-1.12.0-6.0.0.9.zip?auth_key=1748275918-af9ece567593423aad0596b84e102352-0-5fe934d43f2482c3f59f1b4549f71a2d&size=206882&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B6A9C3BAF43C2511A9958C40812DBE5DC1B5C7DB",
+        "sha256": "2DEBF86396891190190725A02CA7A66452129E376CFA96D3E707D62451E73606"
+    },
+    "download_size": 206882,
+    "identifier": "xScienceContinued",
+    "install": [
+        {
+            "find": "[x]_Science!",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "[x] Science! Continued [PRO-KCMIRROR]",
+    "release_date": "2021-10-05T23:15:35Z",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199287-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/X-Science",
+        "repository": "https://github.com/linuxgurugamer/KSP-X-Science"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information",
+        "science"
+    ],
+    "version": "6.0.0.9",
+    "x_generated_by": "netkan"
+}

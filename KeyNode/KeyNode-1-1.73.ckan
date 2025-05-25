@@ -1,0 +1,35 @@
+{
+    "abstract": "Allows the player to manipulate Maneuver Nodes in Map View using the number pad on their keyboards, or create and execute Maneuver Nodes if MechJeb is also installed.",
+    "author": "Xyphos",
+    "download": "https://spacedock.info/mod/1686/KeyNode/download/1.73",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6C92EF04845FD2E151E6E7602BDA3712EAB1C5F4",
+        "sha256": "9A1E69C7CAEC7D77CBCF60D656E2CCA75886844BE5D4B575982FAACCAA634D7E"
+    },
+    "download_size": 11147,
+    "identifier": "KeyNode",
+    "install": [
+        {
+            "find": "XyphosAerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "MIT",
+    "name": "KeyNode",
+    "recommends": [
+        {
+            "name": "MechJeb2"
+        }
+    ],
+    "resources": {
+        "homepage": "https://github.com/Xyphos/KSP_KeyNode/wiki",
+        "repository": "https://github.com/Xyphos/KSP_KeyNode",
+        "spacedock": "https://spacedock.info/mod/1686/KeyNode"
+    },
+    "spec_version": "v1.4",
+    "version": "1:1.73",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

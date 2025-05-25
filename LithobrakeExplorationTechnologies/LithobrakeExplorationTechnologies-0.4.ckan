@@ -1,0 +1,60 @@
+{
+    "abstract": "A parts pack for exploring other worlds, and returning home. Pods, large legs, large chutes, service bays, long ladders, etc.",
+    "author": "NecroBones",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/93/Lithobrake%20Exploration%20Technologies/download/0.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0E68DFADB1C8BD376BC259D362F86EDAD53A3BB3",
+        "sha256": "620C8A4D245DAF3E2B06B7C0AEDFD5C31683C5B159C226F5D882816DADF2F6A9"
+    },
+    "download_size": 4847256,
+    "identifier": "LithobrakeExplorationTechnologies",
+    "install": [
+        {
+            "file": "LETech",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Lithobrake Exploration Technologies",
+    "release_date": "2016-10-12T17:07:05.708266+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/117527-*",
+        "spacedock": "https://spacedock.info/mod/93/Lithobrake%20Exploration%20Technologies",
+        "x_screenshot": "https://spacedock.info/content/NecroBones_209/Lithobrake_Exploration_Technologies/Lithobrake_Exploration_Technologies-1455805339.2854161.jpg"
+    },
+    "spec_version": 1,
+    "supports": [
+        {
+            "name": "ModularRocketSystem"
+        },
+        {
+            "name": "ModularRocketSystemsLITE"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "ColorCodedCans"
+        },
+        {
+            "name": "ColorfulFuelLines"
+        },
+        {
+            "name": "FuelTanksPlus"
+        }
+    ],
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "0.4",
+    "x_generated_by": "netkan"
+}

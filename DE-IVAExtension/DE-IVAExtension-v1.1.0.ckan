@@ -1,0 +1,63 @@
+{
+    "abstract": "An IVA mod for KSP, to add more interactive IVAs [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "DemonEin",
+        "HonkHogan",
+        "JonnyOThan"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JonnyOThan/DE_IVAExtension/releases/download/v1.1.0/DE_IVAExtension-v1.1.0.zip?auth_key=1748275917-abd88bf949474bdb88607156b6def53b-0-7519680246d1351e90cbd36e87b8576e&size=169122&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A23EE4301FB13EAA70A6F9A7B5F3693662AB8C6A",
+        "sha256": "211F2C0C6CF6122C75C88BADCC0C737DD7CB38A3D7A15722BD8EAF33C62ABB12"
+    },
+    "download_size": 169122,
+    "identifier": "DE-IVAExtension",
+    "install": [
+        {
+            "find": "DE_IVAExtension",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 856774,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "DE IVAExtension [PRO-KCMIRROR]",
+    "release_date": "2023-02-27T01:44:05Z",
+    "resources": {
+        "bugtracker": "https://github.com/JonnyOThan/DE_IVAExtension/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/211932-*",
+        "remote-avc": "https://raw.githubusercontent.com/JonnyOThan/DE_IVAExtension/master/GameData/DE_IVAExtension/DE_IVAExtension.version",
+        "repository": "https://github.com/JonnyOThan/DE_IVAExtension"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "ProbeControlRoom"
+        }
+    ],
+    "tags": [
+        "config",
+        "crewed"
+    ],
+    "version": "v1.1.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,46 @@
+{
+    "abstract": "A small mod that adds more electrical engines",
+    "author": "Triplchii",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3417/Supplementary%20Electric%20Engines/download/1.1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "099B59BA1DFC06C0C30DDEF7B2C40EB03ED0D970",
+        "sha256": "56A8AC38317E85FF5A37A1E939E0146B1AEBB03796DE84C6E7DDB5EBDE207A4F"
+    },
+    "download_size": 1194551,
+    "identifier": "SupplementaryElectricEngines",
+    "install": [
+        {
+            "find": "SupplementaryElectricEngines",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 3179250,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-SA",
+    "name": "Supplementary Electric Engines",
+    "release_date": "2024-02-01T21:42:23.813136+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/218397-1125-supplementary-electric-engines/",
+        "spacedock": "https://spacedock.info/mod/3417/Supplementary%20Electric%20Engines",
+        "x_screenshot": "https://spacedock.info/content/Triplchii_117384/Supplementary_Electric_Engines/Supplementary_Electric_Engines-1706823567.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts",
+        "graphics"
+    ],
+    "version": "1.1.0",
+    "x_generated_by": "netkan"
+}

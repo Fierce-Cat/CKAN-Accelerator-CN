@@ -1,0 +1,41 @@
+{
+    "abstract": "Bolt-On Mission Probe (BOMP) [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/BOMPs/releases/download/1.0.2.1/BOMPs-1.12.0-1.0.2.1.zip?auth_key=1748275916-9d688aa245454753ad4af88b98751103-0-a7a850f947aaebf070d1843e2fd5e493&size=2439157&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "460BF99759BBD16E90D5B6EDCE89C6915160553D",
+        "sha256": "7E28884D8B2AE89BB1D3098F11225098E6B12EFB332E5C312D20684FDCB1B20C"
+    },
+    "download_size": 2439157,
+    "identifier": "BOMPs",
+    "install": [
+        {
+            "filter_regexp": [
+                ".*~$"
+            ],
+            "find": "BOMPs",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2746947,
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "BOMPs [PRO-KCMIRROR]",
+    "release_date": "2021-09-03T14:45:21Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/BOMPs/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160179-12-the-bolt-on-mission-probe-bomp-rerevival-thread/",
+        "remote-avc": "http://ksp.spacetux.net/avc/BOMPs",
+        "repository": "https://github.com/linuxgurugamer/BOMPs",
+        "spacedock": "https://spacedock.info/mod/1354/BOMPs",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/BOMPs/BOMPs-1493902399.1295142.png"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "parts",
+        "uncrewed"
+    ],
+    "version": "1.0.2.1",
+    "x_generated_by": "netkan"
+}

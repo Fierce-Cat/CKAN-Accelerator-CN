@@ -1,0 +1,58 @@
+{
+    "abstract": "KJR tightens up the joints between parts and adds some physics-adjusting parameters to make vehicles more stable when loading on the launchpad or coming out of timewarp. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "ferram4",
+        "Starwaster"
+    ],
+    "conflicts": [
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/Kerbal-Joint-Reinforcement-Continued/releases/download/v3.7.3.0/Kerbal-Joint-Reinforcement_v3.7.3.0.zip?auth_key=1748275914-b75b1ad4d75f4814b94899b385ce872b-0-b0a9850d174168f08a27c09caaa97bfd&size=22443&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B1FD759E2224BF81D82725C7147842315FDE3563",
+        "sha256": "A4359F473B975375BDF0E28B13C87926A0FFC568F7412235590DE19AEE600731"
+    },
+    "download_size": 22443,
+    "identifier": "KerbalJointReinforcementContinued",
+    "install": [
+        {
+            "find": "KerbalJointReinforcement",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 48830,
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "Kerbal Joint Reinforcement Continued [PRO-KCMIRROR]",
+    "provides": [
+        "KerbalJointReinforcement"
+    ],
+    "recommends": [
+        {
+            "name": "KSPCommunityFixes"
+        }
+    ],
+    "release_date": "2024-02-24T17:11:14Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184019-*",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued/master/GameData/KerbalJointReinforcement/KerbalJointReinforcement.version",
+        "repository": "https://github.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "v3.7.3.0",
+    "x_generated_by": "netkan"
+}

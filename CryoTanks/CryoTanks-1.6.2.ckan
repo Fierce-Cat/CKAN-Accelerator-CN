@@ -1,0 +1,70 @@
+{
+    "abstract": "A set of fuel tanks for containing Liquid Hydrogen. Also adds Liquid Hydrogen storage to most stock tanks [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/CryoTanks/releases/download/1.6.2/CryoTanks_1_6_2.zip?auth_key=1748275917-907eb899424443189e05fd2939d38ffa-0-d3cb6c306728c4f3535433665bd5d418&size=60303019&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FF2C177192961C5EC590CEAB285E9D2FE7BEA309",
+        "sha256": "BAF216C193FB6FAA18E96127D5BB7C25EFDBE4DBF59B86C99DC9E4F4EAEF316B"
+    },
+    "download_size": 60303019,
+    "identifier": "CryoTanks",
+    "install": [
+        {
+            "filter": "SimpleBoiloff.dll",
+            "find": "CryoTanks",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "zh-cn",
+        "es-es",
+        "ru",
+        "en-us",
+        "de-de",
+        "fr-fr"
+    ],
+    "name": "Cryo Tanks [PRO-KCMIRROR]",
+    "release_date": "2021-10-07T04:49:08Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/CryoTanks/issues",
+        "homepage": "https://github.com/post-kerbin-mining-corporation/CryoTanks/wiki",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/CryoTanks/raw/master/CKAN/CryoTanks.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/CryoTanks/master/GameData/CryoTanks/Versioning/CryoTanks.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/CryoTanks"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "CryoEngines"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1.6.2",
+    "x_generated_by": "netkan"
+}

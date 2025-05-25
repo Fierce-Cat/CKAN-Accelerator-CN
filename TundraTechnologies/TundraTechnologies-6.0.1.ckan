@@ -1,0 +1,47 @@
+{
+    "abstract": "This is a mod that adds satellite parts like Rosetta/Philae, New Horizons, and more!",
+    "author": "damon",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TundraExploration"
+        }
+    ],
+    "download": "https://spacedock.info/mod/223/Tundra%20Exploration%20-%20Stockalike%20Dragon%20V2%20and%20Falcon%209/download/6.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6671EB9DFB3D255637DA1B129D9D74A5B267A24C",
+        "sha256": "DC9A17F27C3B03F85923597731A21523CD41D01FB4CEDA94A990C6D0E9FAD606"
+    },
+    "download_size": 96189716,
+    "identifier": "TundraTechnologies",
+    "install": [
+        {
+            "filter": "Thumbs.db",
+            "find": "TundraTechnologies",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 7595442,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "Tundra Technologies",
+    "release_date": "2022-01-23T20:46:45.603209+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/damonvv/TundraExploration/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/166915-131-tundra-exploration-v093-stockalike-falcon-9-and-dragon-v2/",
+        "remote-avc": "https://raw.githubusercontent.com/damonvv/TundraExploration/master/GameData/TundraTechnologies/Versioning/TundraTechnologies.version",
+        "repository": "https://github.com/damonvv/TundraExploration",
+        "spacedock": "https://spacedock.info/mod/223/Tundra%20Exploration%20-%20Stockalike%20Dragon%20V2%20and%20Falcon%209",
+        "x_screenshot": "https://spacedock.info/content/damon_4180/Tundra_Exploration_-_Stockalike_Dragon_V2_and_Falcon_9/Tundra_Exploration_-_Stockalike_Dragon_V2_and_Falcon_9-1642948646.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "6.0.1",
+    "x_generated_by": "netkan"
+}

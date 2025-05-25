@@ -1,0 +1,60 @@
+{
+    "abstract": "This mod is a stand-alone expansion to BDB that allows you to build the ULA Vulcan rocket",
+    "author": "Superpenguin160",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "SimpleAdjustableFairings"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2520/ULA%20Vulcan/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4BD6EA43EA10B24E42D3753CA3FFF0F6AE1D27F7",
+        "sha256": "7C2C7682656B804668BCB13C0D6D6CA8857D9B6F20B7DAFF313B84C369025BC2"
+    },
+    "download_size": 37848198,
+    "identifier": "ULAVulcan",
+    "install": [
+        {
+            "find": "GameData/Hephaistos",
+            "install_to": "GameData"
+        },
+        {
+            "as": "VAB",
+            "find": "Ships",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version": "1.10.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "ULA Vulcan",
+    "recommends": [
+        {
+            "name": "RealPlume"
+        },
+        {
+            "name": "BluedogDB"
+        }
+    ],
+    "release_date": "2020-09-17T07:17:34.431872+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196738-110x-hephaistos-stockalike-ula-vulcan-official-stand-alone-bdb-expansion/",
+        "spacedock": "https://spacedock.info/mod/2520/ULA%20Vulcan",
+        "x_screenshot": "https://spacedock.info/content/Superpenguin160_9246/ULA_Vulcan/ULA_Vulcan-1599726581.2959614.jpg"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,48 @@
+{
+    "abstract": "Improved time warping [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "HappyFaceIndustries",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/BetterTimeWarpContinued/releases/download/2.3.12.8/BetterTimeWarp-1.12.0-2.3.12.8.zip?auth_key=1748275918-2f85db04d58e4430ab29e25cc6da36c5-0-59945c56be07155d36d22e80b370e719&size=24595&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "61934DD71C68C12C36B437564C8D30E0B66A92CD",
+        "sha256": "FC2A2EF9B2E6E8AA24BBDB810BC9350AAE07B1A792B0E1C4832B424255276C50"
+    },
+    "download_size": 24595,
+    "identifier": "BetterTimeWarpCont",
+    "install": [
+        {
+            "find": "BetterTimeWarp",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "BetterTimeWarpContinued [PRO-KCMIRROR]",
+    "release_date": "2021-07-04T13:17:01Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/BetterTimeWarpContinued/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154935-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/BetterTimeWarp",
+        "repository": "https://github.com/linuxgurugamer/BetterTimeWarpContinued",
+        "spacedock": "https://spacedock.info/mod/1162/BetterTimeWarpContinued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/BetterTimeWarpContinued/BetterTimeWarpContinued-1488337554.886011.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "2.3.12.8",
+    "x_generated_by": "netkan"
+}

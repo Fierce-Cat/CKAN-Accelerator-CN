@@ -1,0 +1,39 @@
+{
+    "abstract": "Write specified data items to files for use by external programs (ie: OBS) [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/KSPLogger/releases/download/0.6.0.2/KSPLogger-1.8.0-0.6.0.2.zip?auth_key=1748275915-13fe914822744679803a012972277bf8-0-d8e4f8f5288a9978226bd681bfc8014a&size=30981&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0ED245F8A14F6402CE51FC963BD429377441C470",
+        "sha256": "D7CE07BDBEE15887EEA772F5BA2D78D2C96661BA681DAF608A66FA2E205EFDBA"
+    },
+    "download_size": 30981,
+    "identifier": "KSPLogger",
+    "install": [
+        {
+            "find": "KSPLogger",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "KSP Logger [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "release_date": "2020-03-17T00:07:54Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/KSPLogger/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/146171-*",
+        "repository": "https://github.com/linuxgurugamer/KSPLogger"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "app"
+    ],
+    "version": "0.6.0.2",
+    "x_generated_by": "netkan"
+}

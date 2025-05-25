@@ -1,0 +1,70 @@
+{
+    "abstract": "Outer Planets Expansion's additions and modifications to the Jool System",
+    "author": [
+        "TheMinmusDerp",
+        "InterplanetJanet"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3663/OPX:%20JoolPlus/download/v0.5.4%20beta",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "36ECD442A9BCED5C0826DBD2F2343CB4C6D20595",
+        "sha256": "7EA4ED5B2C69082519A8653264410C6CBE6B14C273D93DCCB98F598CAC8EDF16"
+    },
+    "download_size": 121812191,
+    "identifier": "OPX-JoolPlus",
+    "install": [
+        {
+            "filter": [
+                "__MACOSX",
+                ".DS_Store"
+            ],
+            "find": "OPX-JoolPlus",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 186585733,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "OPX: JoolPlus",
+    "release_date": "2025-04-09T15:46:22.826899+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/TheMinmusDerp/OPX-JoolPlus/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/225300-112x-planet-pack-outer-planets-expansion-opx/",
+        "repository": "https://github.com/TheMinmusDerp/OPX-JoolPlus",
+        "spacedock": "https://spacedock.info/mod/3663/OPX:%20JoolPlus",
+        "x_screenshot": "https://spacedock.info/content/TheMinmusDerp_137781/OPX_JoolPlus/OPX_JoolPlus-1734399901.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "ResearchBodies"
+        },
+        {
+            "name": "JanetsPlanets"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "v0.5.4 beta",
+    "x_generated_by": "netkan"
+}

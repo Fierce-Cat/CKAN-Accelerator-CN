@@ -1,0 +1,43 @@
+{
+    "abstract": "Saturable Reaction Wheels makes stock reaction wheels more realistic by adding momentum management [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Crzyrndm",
+        "DarthPointer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/DarthPointer/RW-Saturatable/releases/download/2.0.0/RW-Saturatable2-0-0.zip?auth_key=1748275916-41b3b3d0f6d54d20a28e9f49c6138bbb-0-dbcc138a3182b5ad125d93dd7ad724c3&size=11769&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E9958487E336B0FDE48E97978B4D6DD1B08BD6A8",
+        "sha256": "AC416584209F2A91CBDABA9BB57E5E186959A425AE03A9F05EFFCBA5A51DA4E3"
+    },
+    "download_size": 11769,
+    "identifier": "SemiSaturatableRW",
+    "install": [
+        {
+            "find": "RW Saturatable",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.10.1",
+    "license": "GPL-3.0",
+    "name": "Semi-Saturable Reaction Wheels [PRO-KCMIRROR]",
+    "release_date": "2021-02-19T16:03:34Z",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200480-*",
+        "remote-avc": "https://raw.githubusercontent.com/DarthPointer/RW-Saturatable/master/GameData/RW%20Saturatable/SaturatableRW.version",
+        "repository": "https://github.com/DarthPointer/RW-Saturatable"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "2:2.0.0",
+    "x_generated_by": "netkan"
+}

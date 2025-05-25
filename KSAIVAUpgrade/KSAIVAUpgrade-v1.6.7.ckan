@@ -1,0 +1,88 @@
+{
+    "abstract": "Detailed IVAs for the stock mk1 pods and cockpits. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "RangeMachine",
+        "JonnyOThan"
+    ],
+    "depends": [
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "ASETAvionics"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/FirstPersonKSP/KSA-IVA-Upgrade/releases/download/v1.6.7/KSA-IVA-Upgrade-v1.6.7.zip?auth_key=1748275915-19f986f8c7a04d0cb10bf0dce014a61e-0-10df955c43ea926b00da9258576dfa4b&size=73978&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BEC69BB9CD741492CE57717987CBC2EB51DECB3A",
+        "sha256": "3F2B13BE5FB587174A466FA7AEE30208E23E41AA17A337B75622B442EA0B894A"
+    },
+    "download_size": 73978,
+    "identifier": "KSAIVAUpgrade",
+    "install": [
+        {
+            "find": "KSA",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 357224,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-SA-2.0",
+    "name": "KSA IVA Upgrade [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "Reviva"
+        },
+        {
+            "name": "FreeIva"
+        }
+    ],
+    "release_date": "2023-11-09T17:56:17Z",
+    "resources": {
+        "bugtracker": "https://github.com/FirstPersonKSP/KSA-IVA-Upgrade/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208598-ksa-iva-upgrade-adopted-mk1-stock-parts/",
+        "license": "https://github.com/JonnyOThan/KSA-IVA-Upgrade/blob/main/LICENSE",
+        "remote-avc": "https://raw.githubusercontent.com/JonnyOThan/KSA-IVA-Upgrade/main/GameData/KSA/IVAUpgrade/KSA_IVAUpgrade.version",
+        "repository": "https://github.com/FirstPersonKSP/KSA-IVA-Upgrade",
+        "x_screenshot": "https://i.imgur.com/MkfyOsO.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "Astrogator"
+        },
+        {
+            "name": "HullcamVDSContinued"
+        }
+    ],
+    "supports": [
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "ShuttleOrbiterConstructionKit"
+        }
+    ],
+    "tags": [
+        "config",
+        "crewed",
+        "graphics",
+        "first-person"
+    ],
+    "version": "v1.6.7",
+    "x_generated_by": "netkan"
+}

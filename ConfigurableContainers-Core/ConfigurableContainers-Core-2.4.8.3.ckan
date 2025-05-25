@@ -1,0 +1,52 @@
+{
+    "abstract": "This is the core configuration for the Configurable Containers.",
+    "author": [
+        "allista"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1002/Configurable%20Containers/download/2.4.8.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B08B8B4E4FF2893B280449F58BDF94D5CDAA5A52",
+        "sha256": "E6A46A8CCADE5E2D2ADB9784BBE461A66C696573C98C4CE9854199FC127A9E7E"
+    },
+    "download_size": 261259,
+    "identifier": "ConfigurableContainers-Core",
+    "install": [
+        {
+            "file": "GameData/ConfigurableContainers/TankTypes.cfg",
+            "install_to": "GameData/ConfigurableContainers"
+        },
+        {
+            "file": "GameData/ConfigurableContainers/TankConfigs.cfg",
+            "install_to": "GameData/ConfigurableContainers"
+        },
+        {
+            "file": "GameData/ConfigurableContainers/Cryogenics.cfg",
+            "install_to": "GameData/ConfigurableContainers"
+        }
+    ],
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.9.0",
+    "license": "MIT",
+    "name": "Configurable Containers Core",
+    "release_date": "2020-05-04T13:57:47.990603+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/allista/ConfigurableContainers/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150104-12-configurable-containers",
+        "metanetkan": "https://raw.githubusercontent.com/allista/ConfigurableContainers/master/ConfigurableContainers-Core.netkan",
+        "repository": "https://github.com/allista/ConfigurableContainers",
+        "spacedock": "https://spacedock.info/mod/1002/Configurable%20Containers",
+        "x_screenshot": "https://spacedock.info/content/allista_931/Configurable_Containers/Configurable_Containers-1476558929.8494947.png"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "config"
+    ],
+    "version": "2.4.8.3",
+    "x_generated_by": "netkan"
+}

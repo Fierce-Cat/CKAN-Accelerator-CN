@@ -1,0 +1,42 @@
+{
+    "abstract": "Adds the possibility go to the last game saved after the loading of KSP.",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/110/QuickStart/download/2.2.0.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D1A3F6F9496564A9F83B3D5727059D6937837C32",
+        "sha256": "710C6C57BE000DC221A9E956234D653D52F4CCE86F822109997C4FED9932D438"
+    },
+    "download_size": 36444,
+    "identifier": "QuickStart",
+    "install": [
+        {
+            "file": "GameData/QuickMods/QuickStart",
+            "install_to": "GameData/QuickMods"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "fr-fr"
+    ],
+    "name": "QuickStart",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/110/QuickStart"
+    },
+    "spec_version": "v1.2",
+    "version": "1:2.2.0.4",
+    "x_generated_by": "netkan"
+}

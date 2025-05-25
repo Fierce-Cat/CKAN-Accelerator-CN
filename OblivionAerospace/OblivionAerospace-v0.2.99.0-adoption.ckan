@@ -1,0 +1,49 @@
+{
+    "abstract": "A small parts package of heat shields for Kerbal Space Program (KSP) that also works with the Deadly Reentry (DR) add-on.",
+    "author": [
+        "LostOblivion",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3002/Oblivion%20Aerospace%20(OAP)/download/0.2.99.0-adoption",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DCC8F5695DBB377A1EE1828FBD9A7E2F43F66AD3",
+        "sha256": "FABE73C6C6BD1E40C79DAE4A8261FD72C90551C8A53DD1D7A09A7F3DBF9F828C"
+    },
+    "download_size": 1785830,
+    "identifier": "OblivionAerospace",
+    "install_size": 2247624,
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "0.9.0",
+    "license": "CC-BY-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Oblivion Aerospace (OAP)",
+    "recommends": [
+        {
+            "name": "DeadlyReentry"
+        }
+    ],
+    "release_date": "2022-05-01T07:28:23.096933+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/OblivionAerospace/issues",
+        "discussions": "https://github.com/zer0Kerbal/OblivionAerospace/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207446-*/",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/OblivionAerospace/master/OblivionAerospace.version",
+        "repository": "https://github.com/zer0Kerbal/OblivionAerospace",
+        "spacedock": "https://spacedock.info/mod/3002/Oblivion%20Aerospace%20(OAP)",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Oblivion_Aerospace_OAP/Oblivion_Aerospace_OAP-1648439850.png"
+    },
+    "spec_version": 1,
+    "tags": [
+        "parts"
+    ],
+    "version": "v0.2.99.0-adoption",
+    "x_generated_by": "netkan"
+}

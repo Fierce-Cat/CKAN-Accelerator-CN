@@ -1,0 +1,51 @@
+{
+    "abstract": "This mod adds various parts to create cool rovers. Including a laboratory and ways to make your rover articulated",
+    "author": "Nils277",
+    "comment": "Version file has a syntax error",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1172/Feline%20Utility%20Rovers/download/1.2.11",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "71055D3C79A85BD55806A7FD88DC7FB362EEE0A5",
+        "sha256": "C82844DEC1C2713F8546D50F13FB395C81932D7C183C2F92D31A18B2074358C2"
+    },
+    "download_size": 43052396,
+    "identifier": "FelineUtilityRovers",
+    "install": [
+        {
+            "file": "GameData/KerbetrotterLtd",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.9.1",
+    "license": "CC-BY-NC",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es",
+        "it-it",
+        "pt-br",
+        "ru",
+        "zh-cn",
+        "es-es"
+    ],
+    "name": "Feline Utility Rovers",
+    "release_date": "2020-04-02T13:22:14.106968+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155344-1",
+        "repository": "https://github.com/Nils277/FelineUtilityRovers",
+        "spacedock": "https://spacedock.info/mod/1172/Feline%20Utility%20Rovers",
+        "x_screenshot": "https://spacedock.info/content/Nils277_836/Feline_Utility_Rovers/Feline_Utility_Rovers-1484993595.7011447.png"
+    },
+    "spec_version": 1,
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1.2.11",
+    "x_generated_by": "netkan"
+}

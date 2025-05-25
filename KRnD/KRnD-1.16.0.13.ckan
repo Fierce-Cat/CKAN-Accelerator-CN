@@ -1,0 +1,53 @@
+{
+    "abstract": "Spend science points to improve the stats of the parts you have already unlocked in a career game.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2311/Kerbal%20Research%20%26%20Development/download/1.16.0.13",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "283C5116FBBE5D50F387CE38C915EA4A17EED4F5",
+        "sha256": "ED358D68F0962D4BBD46F148927DB462048E6DF4583E3B9AA186751B93B40B09"
+    },
+    "download_size": 42826,
+    "identifier": "KRnD",
+    "install": [
+        {
+            "find": "KRnD",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 89635,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Kerbal Research & Development",
+    "release_date": "2022-08-11T12:21:16.002863+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/KRnD/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191014-18x-kerbal-research-development/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/KRnD/master/KRnD.version",
+        "repository": "https://github.com/linuxgurugamer/KRnD",
+        "spacedock": "https://spacedock.info/mod/2311/Kerbal%20Research%20&%20Development",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Kerbal_Research__Development/Kerbal_Research__Development-1578962824.0145452.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "science"
+    ],
+    "version": "1.16.0.13",
+    "x_generated_by": "netkan"
+}

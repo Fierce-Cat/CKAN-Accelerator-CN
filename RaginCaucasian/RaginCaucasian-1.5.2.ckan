@@ -1,0 +1,53 @@
+{
+    "abstract": "2.5m flat-bottom spaceplane parts that generate a bit of lift",
+    "author": [
+        "RaginCaucasian",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ModuleSequentialAnimateGeneric"
+        }
+    ],
+    "download": "https://spacedock.info/mod/194/Mk2.5%20Spaceplane%20Parts/download/1.5.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BF4DCB9B3A58199BD4289B21CF245F5BE272E669",
+        "sha256": "DDD33C6E2B58462C76E6F23C499E35A1C47360A3E7D2A4946F6AC20AC5383681"
+    },
+    "download_size": 2112390,
+    "identifier": "RaginCaucasian",
+    "install": [
+        {
+            "find": "GameData/RaginCaucasian",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Mk2.5 Spaceplane Parts",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/161096-12-13-beta-release-mk25-spaceplane-parts-rebuilt-expanded/",
+        "repository": "https://github.com/linuxgurugamer/Mk2.5_Spaceplane_Parts",
+        "spacedock": "https://spacedock.info/mod/194/Mk2.5%20Spaceplane%20Parts",
+        "x_screenshot": "https://spacedock.info/content/RaginCaucasian_947/Mk2.5_Spaceplane_Parts/Mk2.5_Spaceplane_Parts-1455934706.0523272.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1.5.2",
+    "x_generated_by": "netkan"
+}

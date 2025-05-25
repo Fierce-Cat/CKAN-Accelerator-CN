@@ -1,0 +1,83 @@
+{
+    "abstract": "A 2-Kerbal Command Pod for the early game, originally by **OrionKermin**",
+    "author": [
+        "OrionKermin",
+        "Micha"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1405/Corvus%20CF/download/1.3.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F6F19DB36235C4E25B3B1DE586023A69B51B3119",
+        "sha256": "2FEA3BA5FD3A61A241DD196CA0A017DA171533043E239B00D32E09956A99A2B9"
+    },
+    "download_size": 6839738,
+    "identifier": "Corvus125mTwoKerbalPod",
+    "install": [
+        {
+            "find": "HGR",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Corvus",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.11.0",
+    "license": "CC-BY-SA",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es"
+    ],
+    "name": "Corvus CF",
+    "recommends": [
+        {
+            "name": "AnimatedDecouplers"
+        }
+    ],
+    "release_date": "2020-12-27T07:48:01.867423+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/mwerle/Corvus_CF/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=163101",
+        "remote-avc": "https://github.com/mwerle/Corvus_CF/raw/master/GameData/Corvus/Corvus_CF.version",
+        "repository": "https://github.com/mwerle/Corvus_CF",
+        "spacedock": "https://spacedock.info/mod/1405/Corvus%20CF",
+        "x_screenshot": "https://spacedock.info/content/micha_8295/Corvus_CF/Corvus_CF-1496963582.091009.jpg"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "DeadlyReentry"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "2:1.3.6",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,55 @@
+{
+    "abstract": "Simple window to edit some global values",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/StockDefaultSettings/releases/download/0.0.1.2/StockDefaultSettings-0.0.1.2.zip",
+        "https://spacedock.info/mod/2549/StockDefaultSettings/download/0.0.1.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AD5B7B297261416119C5EAB95BF959E5D1A19178",
+        "sha256": "F9A5401C1304075D58D4F8D95F00A805061A2FC7BE73EBE583220BFDB634215B"
+    },
+    "download_size": 18331,
+    "identifier": "StockDefaultSettings",
+    "install": [
+        {
+            "find": "StockDefaultSettings",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 32601,
+    "ksp_version_max": "1.12.2",
+    "ksp_version_min": "1.12.1",
+    "license": "LGPL-3.0",
+    "name": "StockDefaultSettings",
+    "release_date": "2021-08-15T14:17:15.265291+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/StockDefaultSettings/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/197500-18x-19x-110x-stock-default-settings/",
+        "remote-avc": "http://ksp.spacetux.net/avc/StockDefaultSettings",
+        "repository": "https://github.com/linuxgurugamer/StockDefaultSettings",
+        "spacedock": "https://spacedock.info/mod/2549/StockDefaultSettings",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/StockDefaultSettings/StockDefaultSettings-1602776867.2303903.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "plugin",
+        "convenience"
+    ],
+    "version": "0.0.1.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

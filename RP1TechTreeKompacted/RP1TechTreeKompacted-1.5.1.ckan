@@ -1,0 +1,44 @@
+{
+    "abstract": "An alternative layout for the RP-1 Tech Tree",
+    "author": "Cruesoe",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RP-1"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3495/RP-1%20TechTree%20Kompacted/download/1.5.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9803F64F58C547F9A2E12F039289DD2DC33AC58C",
+        "sha256": "2164FF1BE3C5421BD0CFB6A15DD3E8DD45A4D3A175531835F5B915957D751BFB"
+    },
+    "download_size": 724226,
+    "identifier": "RP1TechTreeKompacted",
+    "install": [
+        {
+            "find": "RP1KompactedTechTree",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1272124,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY",
+    "name": "RP-1 TechTree Kompacted",
+    "release_date": "2025-01-16T17:42:53.24317+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/220632-1125-rp-1-techtree-kompacted-10-alternative-layout-for-rp-1/",
+        "spacedock": "https://spacedock.info/mod/3495/RP-1%20TechTree%20Kompacted",
+        "x_screenshot": "https://spacedock.info/content/Cruesoe_51729/RP-1_TechTree_Kompacted/RP-1_TechTree_Kompacted-1735588790.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "tech-tree",
+        "config"
+    ],
+    "version": "1.5.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

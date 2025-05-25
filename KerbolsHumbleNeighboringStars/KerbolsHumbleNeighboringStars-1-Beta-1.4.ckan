@@ -1,0 +1,67 @@
+{
+    "abstract": "Kerbol's Humble Neighboring Stars  [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "An Amongus Sussy Player",
+    "conflicts": [
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        }
+    ],
+    "depends": [
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/parkerman-com/KHNS/releases/download/Beta-1.4/KHNS_Beta_1.4.zip?auth_key=1748275916-f120fcdc61484236923def62eee2b189-0-19fc3b92a1875e938d0f8c7b5d576555&size=521181494&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "95B14A484703EAD3718E36F42A3D701A0858E6BB",
+        "sha256": "1E3F924D80BB77A6A3FDF8B04BC4CC71D35F8D8B47BFBEBC8E92D640ED9AC6F0"
+    },
+    "download_size": 521181494,
+    "identifier": "KerbolsHumbleNeighboringStars",
+    "install": [
+        {
+            "find": "KHNS",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 653182361,
+    "ksp_version_min": "1.10",
+    "license": "restricted",
+    "name": "KHNS [PRO-KCMIRROR]",
+    "provides": [
+        "Scatterer-config",
+        "Scatterer-sunflare"
+    ],
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        }
+    ],
+    "release_date": "2022-12-03T06:38:06Z",
+    "resources": {
+        "bugtracker": "https://github.com/parkerman-com/KHNS/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207835-*/",
+        "repository": "https://github.com/parkerman-com/KHNS"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "config",
+        "planet-pack"
+    ],
+    "version": "1:Beta-1.4",
+    "x_generated_by": "netkan"
+}

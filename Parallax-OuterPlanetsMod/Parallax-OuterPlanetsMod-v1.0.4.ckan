@@ -1,0 +1,55 @@
+{
+    "abstract": "Adds Parallax 2.0 Scatters to OPM",
+    "author": "onesaltypringle",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "Parallax-StockTextures"
+        },
+        {
+            "name": "Parallax-Scatter-Textures"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3501/Outer%20Planets%20Mod%20-%20Parallax%20with%20Scatters/download/1.0.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "779A8B79E6A642830CD2062D7E52DE9DEA6ABA8A",
+        "sha256": "36737F1B33D153CF19707CB66D092C36C01F5DD30A4CFFDDEBA1DB572FC69581"
+    },
+    "download_size": 20989,
+    "identifier": "Parallax-OuterPlanetsMod",
+    "install": [
+        {
+            "find": "OPM_Parallax",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 194404,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Outer Planets Mod - Parallax with Scatters",
+    "release_date": "2023-11-14T05:10:54.30692+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3501/Outer%20Planets%20Mod%20-%20Parallax%20with%20Scatters",
+        "x_screenshot": "https://spacedock.info/content/onesaltypringle_102190/Outer_Planets_Mod_-_Parallax_with_Scatters/Outer_Planets_Mod_-_Parallax_with_Scatters-1699642788.jpg"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "config",
+        "planet-pack",
+        "graphics"
+    ],
+    "version": "v1.0.4",
+    "x_generated_by": "netkan"
+}

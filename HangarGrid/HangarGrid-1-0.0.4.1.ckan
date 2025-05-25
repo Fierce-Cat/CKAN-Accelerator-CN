@@ -1,0 +1,43 @@
+{
+    "abstract": "Simplifies vessel design by adding a visual \"laser\" grid and an automatic alignment tool to SPH and VAB",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2872/Hangar%20Grid%20Regridded/download/0.0.4.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9D37F35F57537989CD2F9152BD07763F7E28D8BF",
+        "sha256": "89EB2F515770C69EAB4AA34103E93A7E2FD86F074FB34279432AB7B07AF26388"
+    },
+    "download_size": 32459,
+    "identifier": "HangarGrid",
+    "install_size": 74489,
+    "ksp_version_max": "1.12.2",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "Hangar Grid Regridded",
+    "release_date": "2021-10-04T11:31:25.337727+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/HangarGrid/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/205069-112x",
+        "remote-avc": "http://ksp.spacetux.net/avc/HangarGrid",
+        "repository": "https://github.com/linuxgurugamer/HangarGrid",
+        "spacedock": "https://spacedock.info/mod/2872/Hangar%20Grid%20Regridded"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "editor"
+    ],
+    "version": "1:0.0.4.1",
+    "x_generated_by": "netkan"
+}

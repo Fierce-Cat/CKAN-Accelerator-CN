@@ -1,0 +1,45 @@
+{
+    "abstract": "Greenhouses (Snacks-LS), 1.875m Science Bay, Command Pods, Nuclear Engines + Reactors, and Station/Colony Modules.",
+    "author": [
+        "AtomicTech",
+        "staticalliam7"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2891/AtomicTech%20Inc.%20Junkyards/download/0.23.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "934080A543A9DE67E5E1C92296F30466493DBBE7",
+        "sha256": "F17B66BA53BB25924A05A16FA4D5B5D4C6DC7424905B76EDA28BC2638CE391BB"
+    },
+    "download_size": 12415292,
+    "identifier": "AtomicTechIncJunkyards",
+    "install": [
+        {
+            "filter": ".gitignore",
+            "find_regexp": "AT-Junkyards-\\.*",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.12.2",
+    "license": "MIT",
+    "name": "AtomicTech Inc. Junkyards",
+    "release_date": "2021-12-11T21:01:12.867331+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JamesErvin-5/AtomicTech-Inc.-Junkyards/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/205566-atomictech-inc-junkyards-v043-ksp-version-112x/",
+        "remote-avc": "https://github.com/JamesErvin-5/AtomicTech-Inc.-Junkyards/raw/main/AT-Junkyards-Main/RadioactiveJunkyards.version",
+        "repository": "https://github.com/JamesErvin-5/AtomicTech-Inc.-Junkyards",
+        "spacedock": "https://spacedock.info/mod/2891/AtomicTech%20Inc.%20Junkyards",
+        "x_screenshot": "https://spacedock.info/content/AtomicTech_61568/AtomicTech_Inc._Junkyards/AtomicTech_Inc._Junkyards-1638320458.png"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.23.0",
+    "x_generated_by": "netkan"
+}

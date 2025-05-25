@@ -1,0 +1,65 @@
+{
+    "abstract": "CParts: CFYL's Chinese style parts pack",
+    "author": [
+        "AllenLi",
+        "AtomicTech"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2638/CParts/download/v1.1.0.202206081400",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3A9587B9CF07D820D32578AF99DF02F3AF5D8048",
+        "sha256": "46C330B5C7ECAABD37F2370F6B76D416B113CB82DD29FA5FD190F46498DB2B6D"
+    },
+    "download_size": 23503568,
+    "identifier": "CParts",
+    "install": [
+        {
+            "find": "GameData/CParts",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 44053829,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "zh-cn"
+    ],
+    "name": "CParts",
+    "recommends": [
+        {
+            "name": "PersistentRotation"
+        }
+    ],
+    "release_date": "2022-06-08T06:00:49.34767+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/CFYL/CParts/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200222-112xcparts-cfyls-chinese-style-parts-pack-now-with-cz-1/",
+        "repository": "https://github.com/CFYL/CParts",
+        "spacedock": "https://spacedock.info/mod/2638/CParts",
+        "x_screenshot": "https://spacedock.info/content/AllenLi_55525/CParts/CParts-1613223271.498855.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "StockWaterfallEffects"
+        },
+        {
+            "name": "SRBWaterfallEffects"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "v1.1.0.202206081400",
+    "x_generated_by": "netkan"
+}

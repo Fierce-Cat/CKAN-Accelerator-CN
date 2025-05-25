@@ -1,0 +1,54 @@
+{
+    "abstract": "Enables fuel switching in supported MonoPropellant or LFO RCS [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "conflicts": [
+        {
+            "name": "KiwiTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "ClassicStockResources"
+                },
+                {
+                    "name": "CommunityResourcePack"
+                }
+            ]
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/RationalResources/releases/download/3.2.0/RationalResources-3.2.0.zip?auth_key=1748275914-263d8476afe04f359428feba687c1b5a-0-4ae9e1d5584d1d4f83535e20509ed9c4&size=38957453&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "05E6895D889EC28C306A3E899DF6B899CF55E5A5",
+        "sha256": "655995CA3328286CECFE28C81C55ED8152E55E11CDD1575C073E368D7C3E9BB5"
+    },
+    "download_size": 38957453,
+    "identifier": "RationalResourcesRCSFamily",
+    "install_size": 29853,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Rational Resources RCS Family [PRO-KCMIRROR]",
+    "release_date": "2025-05-02T18:30:17Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/RationalResources/issues",
+        "discussions": "https://github.com/JadeOfMaar/RationalResources/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/184875-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalResources/Version/RationalResources.version",
+        "repository": "https://github.com/JadeOfMaar/RationalResources"
+    },
+    "spec_version": "v1.26",
+    "tags": [
+        "config",
+        "convenience"
+    ],
+    "version": "3.2.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,63 @@
+{
+    "abstract": "Adds RealFuels configs to stock and many mods' engines, keeping engine role as designed to fit with stock and stock-aligned mods. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Raptor831",
+        "ValiZockt"
+    ],
+    "conflicts": [
+        {
+            "name": "RealPlume-StockConfigs"
+        },
+        {
+            "name": "RFStockalike"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealFuels"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ValiZockt/RealFuels-Stock/releases/download/v5.0.0/RealFuels-Stock-v5.0.0.zip?auth_key=1748275916-cbf7205072444317a5f568305facf625-0-51df7c493a83335d90a0a1d03e65f9fe&size=342592&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EF9AC937D6DCA7F09AB7D95D9EE62F864734DD17",
+        "sha256": "21DB9FB10F0E81720326F677C5103BB3C1DC3A61BEE1EE4D9CE3BD921C8E2C44"
+    },
+    "download_size": 342592,
+    "identifier": "RealFuels-Stock",
+    "install": [
+        {
+            "find": "RealFuels-Stock",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-SA-4.0",
+    "name": "RealFuels-Stock [PRO-KCMIRROR]",
+    "provides": [
+        "RealPlumeConfigs",
+        "RealFuels-Engine-Configs"
+    ],
+    "recommends": [
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "release_date": "2020-07-05T20:19:52Z",
+    "resources": {
+        "bugtracker": "https://github.com/ValiZockt/RealFuels-Stock/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194394-*",
+        "repository": "https://github.com/ValiZockt/RealFuels-Stock"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "resources"
+    ],
+    "version": "v5.0.0",
+    "x_generated_by": "netkan"
+}

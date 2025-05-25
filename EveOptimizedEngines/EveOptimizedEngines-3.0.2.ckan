@@ -1,0 +1,44 @@
+{
+    "abstract": "Eve Optimized Engines - a KSP mod.  [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "OhioBob",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/OhioBob/Eve-Optimized-Engines/releases/download/3.0.2/EveOptimizedEngines_3.0.2.zip?auth_key=1748275918-7fad592f612741bca9b11bad8fc22781-0-a7cb80b59ab919e5084ab777274a447d&size=13137&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CC2C6B933A8E57A32FF1B9865105B673DD607615",
+        "sha256": "9FDFB857D1803D606B32CC8327B0AE5568D47627249B1FF52985C37385D19741"
+    },
+    "download_size": 13137,
+    "identifier": "EveOptimizedEngines",
+    "install": [
+        {
+            "find": "EveEngines",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 12917,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.2",
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "Eve Optimized Engines [PRO-KCMIRROR]",
+    "release_date": "2023-01-26T17:51:35Z",
+    "resources": {
+        "bugtracker": "https://github.com/OhioBob/Eve-Optimized-Engines/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/136342-*",
+        "remote-avc": "https://raw.githubusercontent.com/OhioBob/Eve-Optimized-Engines/master/GameData/EveEngines/EveOptimizedEngines.version",
+        "repository": "https://github.com/OhioBob/Eve-Optimized-Engines"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "3.0.2",
+    "x_generated_by": "netkan"
+}

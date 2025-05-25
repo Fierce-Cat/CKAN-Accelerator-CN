@@ -1,0 +1,36 @@
+{
+    "abstract": "Fills any empty inventory slots in Command Pods at launch",
+    "author": [
+        "FruitGoose",
+        "linuxgurugamer"
+    ],
+    "download": "https://spacedock.info/mod/2791/FIGS/download/1.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2089C67D89DE9C7908A682CAF0770CFCB6D6B5B8",
+        "sha256": "BF424023A16448292AEDFF2C117247EB545769A492ED03BC5F10FDD4A7518D95"
+    },
+    "download_size": 6753,
+    "identifier": "FIG",
+    "install": [
+        {
+            "find": "FruitKocktail",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.11.2",
+    "license": "MIT",
+    "name": "Filling Inventory Generously",
+    "release_date": "2021-06-23T02:18:49.984189+00:00",
+    "resources": {
+        "remote-avc": "http://ksp.spacetux.net/avc/FIGS",
+        "spacedock": "https://spacedock.info/mod/2791/FIGS"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:1.0.2",
+    "x_generated_by": "netkan"
+}

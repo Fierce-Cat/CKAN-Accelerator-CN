@@ -1,0 +1,60 @@
+{
+    "abstract": "adds fourteen stock sizes of Hitchhiker's Storage Containers: from 1.25m (1 crew) to 5m (10 crew).",
+    "author": "zer0Kerbal",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2244/More%20Hitchhikers/download/1.0.0.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "912521EF5794E17565843B88BF891FE788303B1E",
+        "sha256": "1DB3337018FBEF21E9656F924A7BA8295C048535AA1C9AAB0F5D047796010183"
+    },
+    "download_size": 51409,
+    "identifier": "MoreHitchhikers",
+    "install": [
+        {
+            "find": "KGEx",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 114323,
+    "ksp_version": "1.7.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "More Hitchhikers",
+    "release_date": "2019-10-12T06:51:37.437697+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/KGEx/issues",
+        "discussions": "https://github.com/zer0Kerbal/KGEx/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188246-*",
+        "remote-avc": "https://github.com/zer0Kerbal/KGEx/raw/master/KGEx.version",
+        "repository": "https://github.com/zer0Kerbal/KGEx",
+        "spacedock": "https://spacedock.info/mod/2244/More%20Hitchhikers",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/More_Hitchhikers/More_Hitchhikers-1570269415.8593836.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ODFC-Refueled"
+        },
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1.0.0.4",
+    "x_generated_by": "netkan"
+}

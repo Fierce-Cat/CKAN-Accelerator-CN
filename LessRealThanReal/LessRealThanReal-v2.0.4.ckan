@@ -1,0 +1,84 @@
+{
+    "abstract": "Real Progression One without RealismOverhaul [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "pehvbot",
+    "conflicts": [
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "DMagicScienceAnimate"
+        },
+        {
+            "name": "MagiCore"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/pehvbot/LRTR/releases/download/v2.0.4/LRTR-v2.0.4.zip?auth_key=1748275918-883213443db247198ff7bee60a2f95e7-0-401667095f90606a2983476738bc605f&size=21439673&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9A09AD815FA2769DE256881AEE6FDFEB571FEBB2",
+        "sha256": "24FC311F26D3F3C0BA0CFFB970DE3AED0B3EA7F8C1FE2BC315AF9EC17A6F79D0"
+    },
+    "download_size": 21439673,
+    "identifier": "LessRealThanReal",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "GameData/LRTR",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 54010204,
+    "ksp_version_min": "1.12",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Less Real Than Real(ism) [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "LessRealKerbalism"
+        }
+    ],
+    "release_date": "2022-05-05T18:09:13Z",
+    "resources": {
+        "bugtracker": "https://github.com/pehvbot/LRTR/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189978-*",
+        "repository": "https://github.com/pehvbot/LRTR"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "config",
+        "parts",
+        "tech-tree",
+        "career",
+        "science"
+    ],
+    "version": "v2.0.4",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,43 @@
+{
+    "abstract": "Core Waterfall plugin to drive engine effects, plus default effect templates. Does nothing on its own, other mods supply compatibility. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Chris Adderley (Nertea)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/Waterfall/releases/download/0.10.2/Waterfall_0_10_2.zip?auth_key=1748275918-0dfde24fe9ff4da7bb86fcce6b3a5230-0-0997a45d9da76c6a33f807811fdfd4c4&size=6305135&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A449503371BF6D4C2E2CDEBBAC5F3A146ADEC5B5",
+        "sha256": "E13C32C31EFA1E7865DB14FD5B373DEA4444060AF7751D58BBDF552F921017BD"
+    },
+    "download_size": 6305135,
+    "identifier": "Waterfall",
+    "install": [
+        {
+            "find": "Waterfall",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 12128554,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Waterfall Core [PRO-KCMIRROR]",
+    "release_date": "2024-10-09T17:30:37Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/Waterfall/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196309-wip-waterfall-a-framework-for-continuous-mesh-driven-engine-effects-dec-19/",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/Waterfall/raw/master/CKAN/Waterfall.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/Waterfall/master/GameData/Waterfall/Versioning/Waterfall.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/Waterfall"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "0.10.2",
+    "x_generated_by": "netkan"
+}

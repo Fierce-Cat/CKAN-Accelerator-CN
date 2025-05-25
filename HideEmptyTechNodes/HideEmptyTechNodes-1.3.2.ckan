@@ -1,0 +1,54 @@
+{
+    "abstract": "Hides any tech tree nodes that don't have parts and reassigns parent-node connections so that non-empty nodes have only non-empty parents. To be used with modded tech trees.",
+    "author": "ev0",
+    "download": [
+        "https://github.com/Orthethac/HideEmptyTechTreeNodes/releases/download/v1.3.2/HideEmptyTechTreeNodes-1.3.2.zip",
+        "https://spacedock.info/mod/577/Hide%20Empty%20Tech%20Tree%20Nodes/download/1.3.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "55EF3CD413BC0B8034EC4DCF0A8DB6CB6AD9C46B",
+        "sha256": "991AB8A572D9E66138881C1A0392DD78659EFCD11F83E84C9772B435A8FC2BAD"
+    },
+    "download_size": 29433,
+    "identifier": "HideEmptyTechNodes",
+    "install": [
+        {
+            "file": "GameData/HideEmptyTechTreeNodes",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 76876,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-4.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Hide Empty Tech Tree Nodes",
+    "release_date": "2022-05-12T22:39:33.43748+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Orthethac/HideEmptyTechTreeNodes/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/118305-11-hide-empty-tech-tree-nodes-for-community-tech-tree-derivatives-v04/",
+        "remote-avc": "https://github.com/Orthethac/HideEmptyTechTreeNodes/raw/master/GameData/HideEmptyTechTreeNodes/Versioning/HideEmptyTechTreeNodes.version",
+        "repository": "https://github.com/Orthethac/HideEmptyTechTreeNodes",
+        "spacedock": "https://spacedock.info/mod/577/Hide%20Empty%20Tech%20Tree%20Nodes"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "tech-tree",
+        "convenience"
+    ],
+    "version": "1.3.2",
+    "x_generated_by": "netkan"
+}

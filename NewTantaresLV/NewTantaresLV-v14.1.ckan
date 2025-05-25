@@ -1,0 +1,62 @@
+{
+    "abstract": "Stockalike Soviet and European Launch Vehicles [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Beale",
+    "conflicts": [
+        {
+            "name": "TantaresLV"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Tantares/TantaresLV/releases/download/v14.1/TantaresLV.zip?auth_key=1748275916-ed578e33f1d14077a56790cb20a27733-0-d68cb84c953c5a9966f616cc410cba64&size=66448891&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "01B777327C4FF5DF83F2942C7731967A8F31F033",
+        "sha256": "BE2457D20265B1909C85FB7857C7D56746860D07AD660DA99D216D0381AB20C9"
+    },
+    "download_size": 66448891,
+    "identifier": "NewTantaresLV",
+    "install": [
+        {
+            "find": "TantaresLV",
+            "install_to": "GameData"
+        },
+        {
+            "as": "VAB",
+            "find": "Crafts",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.10.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Tantares LV - Soviet Rockets [PRO-KCMIRROR]",
+    "provides": [
+        "TantaresLV"
+    ],
+    "recommends": [
+        {
+            "name": "NewTantares"
+        }
+    ],
+    "release_date": "2021-03-17T20:39:22Z",
+    "resources": {
+        "bugtracker": "https://github.com/Tantares/TantaresLV/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/73686-Tantares",
+        "remote-avc": "https://raw.githubusercontent.com/Tantares/TantaresSP/master/tantaressp.version",
+        "repository": "https://github.com/Tantares/TantaresLV",
+        "spacedock": "https://spacedock.info/mod/176/TantaresLV"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts"
+    ],
+    "version": "v14.1",
+    "x_generated_by": "netkan"
+}

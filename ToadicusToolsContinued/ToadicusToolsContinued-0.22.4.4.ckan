@@ -1,0 +1,35 @@
+{
+    "abstract": "Tools used by other mods",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/1069/ToadicusToolsContinued/download/0.22.4.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "844FD01741A1E4DC16DD08940BBDE754CFF7DEA6",
+        "sha256": "5C72BE2243723544AA7BA65B3A8BC82631FAD4E14307A1F65F35932E08761F34"
+    },
+    "download_size": 45362,
+    "identifier": "ToadicusToolsContinued",
+    "install": [
+        {
+            "find": "ToadicusTools",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.2",
+    "ksp_version_min": "1.12.0",
+    "license": "BSD-3-clause",
+    "name": "ToadicusToolsContinued",
+    "release_date": "2021-10-16T01:52:49.155437+00:00",
+    "resources": {
+        "remote-avc": "http://ksp.spacetux.net/avc/ToadicusTools",
+        "repository": "https://github.com/linuxgurugamer/ToadicusTools",
+        "spacedock": "https://spacedock.info/mod/1069/ToadicusToolsContinued"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "0.22.4.4",
+    "x_generated_by": "netkan"
+}

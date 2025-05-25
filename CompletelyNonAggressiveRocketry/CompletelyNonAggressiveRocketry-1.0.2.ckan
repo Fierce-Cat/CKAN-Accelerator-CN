@@ -1,0 +1,39 @@
+{
+    "abstract": "Adds the V2 and Bumper rockets to the game.",
+    "author": "DylanSemrau",
+    "download": "https://spacedock.info/mod/2271/Completely%20Non-Aggressive%20Rocketry%20%28CNAR%29/download/1.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "41750CBEAA209AC7D4385ED133FF0222DAEE5E9F",
+        "sha256": "46CDBC4B8F4E9D973829D7DBF7726E817B5341E994918B49BAF8B01214E81BF8"
+    },
+    "download_size": 4745727,
+    "identifier": "CompletelyNonAggressiveRocketry",
+    "install": [
+        {
+            "filter_regexp": [
+                "PlumeParty/Version"
+            ],
+            "find": "CNAR",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 13840500,
+    "ksp_version": "1.8.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Completely Non-Aggressive Rocketry (CNAR)",
+    "release_date": "2019-11-23T18:53:48.253758+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/DylanSemrau/CompletelyNonAggressiveRocketry/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188554-v10-completely-non-aggressive-rocketry-v2-rocket-add-on/",
+        "repository": "https://github.com/DylanSemrau/CompletelyNonAggressiveRocketry",
+        "spacedock": "https://spacedock.info/mod/2271/Completely%20Non-Aggressive%20Rocketry%20(CNAR)",
+        "x_screenshot": "https://spacedock.info/content/DylanSemrau_24866/Completely_Non-Aggressive_Rocketry_CNAR/Completely_Non-Aggressive_Rocketry_CNAR-1573397282.9501746.png"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.0.2",
+    "x_generated_by": "netkan"
+}

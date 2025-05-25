@@ -1,0 +1,47 @@
+{
+    "abstract": "A plugin for the Breaking Ground KSP DLC [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "BreakingGround-DLC"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/ServoController/releases/download/v1.2.1/ServoController.zip?auth_key=1748275916-8c00b221deb34a569d162385849a8de2-0-db16e4c152d4ae953af1f59fa344a577&size=325614&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CAB4DAEE4FDBB1C702453725A1E3556A541DD3BD",
+        "sha256": "CABA99F8C783C6E623E2FFB389503BC57293DD1F249699B03E8A901AF9280607"
+    },
+    "download_size": 325614,
+    "identifier": "ServoController",
+    "install": [
+        {
+            "filter_regexp": [
+                "\\.mdb$",
+                "\\.pdb$"
+            ],
+            "find": "ServoController",
+            "install_to": "GameData/WildBlueIndustries"
+        }
+    ],
+    "install_size": 1081746,
+    "license": "GPL-3.0",
+    "name": "Servo Controller [PRO-KCMIRROR]",
+    "release_date": "2021-08-04T23:14:52Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/ServoController/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/186546-*",
+        "remote-avc": "https://github.com/Angel-125/ServoController/raw/master/GameData/WildBlueIndustries/ServoController/ServoController.version",
+        "repository": "https://github.com/Angel-125/ServoController"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "v1.2.1",
+    "x_generated_by": "netkan"
+}

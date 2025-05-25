@@ -1,0 +1,30 @@
+{
+    "abstract": "Provides flags from Alternis Kerbol Rekerjiggered",
+    "author": "GregroxMun",
+    "comment": "flagmod",
+    "download": "https://archive.org/download/AlternisKerbolRekerjiggered-flags-1.4.1/3A95413F-AlternisKerbolRekerjiggered-flags-1.4.1.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3A95413F809550789D3FD5585D83D2351EC71449",
+        "sha256": "B074DC86F2C0DE8BE8FCEDF1CFF23DEA553067F259D9A4B4809185A83732C6D6"
+    },
+    "download_size": 100489712,
+    "identifier": "AlternisKerbolRekerjiggered-flags",
+    "install": [
+        {
+            "find": "AlternisKerbolFlags",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-4.0",
+    "name": "Alternis Kerbol Rekerjiggered Flags",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/133562-Kopernicus-1-0-4-Alternis-Kerbol-Rekerjiggered-Beta-0-1?p=2180779#post2180779",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1143/Alternis%20Kerbol%20Rekerjiggered",
+        "x_screenshot": "https://kerbalstuff.com/content/GregroxMun_8555/Alternis_Kerbol_Rekerjiggered/Alternis_Kerbol_Rekerjiggered-1443398937.4146845.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.4.1",
+    "x_generated_by": "netkan"
+}

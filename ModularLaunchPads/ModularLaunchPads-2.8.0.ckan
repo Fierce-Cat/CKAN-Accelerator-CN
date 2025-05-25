@@ -1,0 +1,66 @@
+{
+    "abstract": "Beyond launch clamps: Mix-and-match components to build all kinds of launch infrastructure",
+    "author": "AlphaMensae",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "StagedAnimation"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "download": [
+        "https://github.com/AlphaMensae/Modular-Launch-Pads/releases/download/2.8.0/ModularLaunchPads_v2.8.0.zip",
+        "https://spacedock.info/mod/1767/AlphaMensae's%20Modular%20Launch%20Pads/download/2.8.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AF7572149F810594F2FAE335055A1E601C076169",
+        "sha256": "6A00993DD8858BF0385CF28B9507CC5E0AA3183194529763D455A99CED7B9061"
+    },
+    "download_size": 56041978,
+    "identifier": "ModularLaunchPads",
+    "install": [
+        {
+            "find": "ModularLaunchPads",
+            "install_to": "GameData"
+        },
+        {
+            "as": "VAB",
+            "find": "Bare Assemblies",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 342417940,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "AlphaMensae's Modular Launch Pads",
+    "recommends": [
+        {
+            "name": "KSCExtended"
+        },
+        {
+            "name": "BluedogDB"
+        }
+    ],
+    "release_date": "2024-12-28T00:55:10.640561+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/AlphaMensae/Modular-Launch-Pads/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173008-12x13x14x-alphamensaes-modular-launch-pads-101-soyuz-and-saturn-style-pads-for-almost-any-rocket/",
+        "repository": "https://github.com/AlphaMensae/Modular-Launch-Pads",
+        "spacedock": "https://spacedock.info/mod/1767/AlphaMensae's%20Modular%20Launch%20Pads",
+        "x_screenshot": "https://spacedock.info/content/AlphaMensae_884/AlphaMensaes_Modular_Launch_Pads/AlphaMensaes_Modular_Launch_Pads-1564546048.6527388.jpg"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "parts"
+    ],
+    "version": "2.8.0",
+    "x_generated_by": "netkan"
+}

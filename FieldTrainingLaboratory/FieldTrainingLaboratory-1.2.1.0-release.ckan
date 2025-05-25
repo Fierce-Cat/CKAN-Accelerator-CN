@@ -1,0 +1,66 @@
+{
+    "abstract": "This mod provides training for your kerbalnauts by adding a Field Training Lab into all science laboratories which consumes science points to educate a kerbal with experience(stars).",
+    "author": [
+        "Efour",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/971/Field%20Training%20Laboratory%20(FTL)%20by%20Efour/download/1.2.1.0-release",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A70FC2464A9E5F04D4CE50DF70F0B4470D073BC0",
+        "sha256": "3E7694B3CC473C1D0552B2EA72D3CBDA2CC71F87164E9050ADD336872F41E9FB"
+    },
+    "download_size": 64786,
+    "identifier": "FieldTrainingLaboratory",
+    "install": [
+        {
+            "find": "FieldTrainingLab",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 137215,
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.8.1",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "Field Training Laboratory (FTL) by Efour",
+    "release_date": "2023-01-12T05:56:35.509494+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/FieldTrainingLab/issues",
+        "discussions": "https://github.com/zer0Kerbal/FieldTrainingLab/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188841-*/",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/FieldTrainingLab/master/FieldTrainingLab.version",
+        "repository": "https://github.com/zer0Kerbal/FieldTrainingLab",
+        "spacedock": "https://spacedock.info/mod/971/Field%20Training%20Laboratory%20(FTL)%20by%20Efour",
+        "x_screenshot": "https://spacedock.info/content/Efour_8237/Field_Training_Laboratory_FTL_by_Efour/Field_Training_Laboratory_FTL_by_Efour-1673502487.jpg"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "FieldTrainingFacility"
+        },
+        {
+            "name": "BetterScienceLabs"
+        },
+        {
+            "name": "ODFC"
+        },
+        {
+            "name": "KGEx"
+        }
+    ],
+    "tags": [
+        "config",
+        "crewed"
+    ],
+    "version": "1.2.1.0-release",
+    "x_generated_by": "netkan"
+}

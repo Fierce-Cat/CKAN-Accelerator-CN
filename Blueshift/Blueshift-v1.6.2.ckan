@@ -1,0 +1,54 @@
+{
+    "abstract": "For some kind of star trek [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/Blueshift/releases/download/v1.6.2/Blueshift.zip?auth_key=1748275917-224ca843bcb148a398fb9703d9f864b4-0-fa66e63228250e009dc271510868239b&size=96145707&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1024801AD1603918994BCEB5B97089BB02A7D38E",
+        "sha256": "8D45961DDB994755F502A7E0A140BEB0F14DD5EABFE6CCCE0EDE5932FD694AC2"
+    },
+    "download_size": 96145707,
+    "identifier": "Blueshift",
+    "install": [
+        {
+            "find": "Blueshift",
+            "install_to": "GameData/WildBlueIndustries"
+        }
+    ],
+    "ksp_version_min": "1.12.2",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Blueshift [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "GrannusExpansionPack"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "release_date": "2021-10-02T03:33:41Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/Blueshift/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/198274-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/Blueshift/master/ReleaseFolder/GameData/WildBlueIndustries/Blueshift/Blueshift.version",
+        "repository": "https://github.com/Angel-125/Blueshift"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "v1.6.2",
+    "x_generated_by": "netkan"
+}

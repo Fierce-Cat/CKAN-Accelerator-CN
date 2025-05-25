@@ -1,0 +1,42 @@
+{
+    "abstract": "Bascily Valor Planet Pack but from me",
+    "author": "ffx3",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2866/Valor%20Planet%20Pack%20Revived/download/0.8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F97FEAF42C8E36BD8BC9B3AD82526DF03D528042",
+        "sha256": "02FA42385357A281D0588F74FFCBB36C6F4E0F98B275B8DE8B8DEECD852D2982"
+    },
+    "download_size": 55500056,
+    "identifier": "ValorPlanetPack",
+    "install": [
+        {
+            "find": "Valor",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.12.2",
+    "license": "GPL-3.0",
+    "name": "Valor Planet Pack Revived",
+    "release_date": "2021-10-16T07:26:08.874872+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/205060-18-wip-valor-revived/&tab=comments#comment-4037882",
+        "spacedock": "https://spacedock.info/mod/2866/Valor%20Planet%20Pack%20Revived",
+        "x_screenshot": "https://spacedock.info/https://spacedock.info/content/ffx3_67629/Valor_Planet_Pack_Revived/Valor_Planet_Pack_Revived-1633003653.0532773.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "0.8",
+    "x_generated_by": "netkan"
+}

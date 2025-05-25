@@ -1,0 +1,47 @@
+{
+    "abstract": "Automatic control of the abort systems",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1894/Bob%27s%20Panic%20Box/download/0.0.2.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B247F0C605809B9117F699FAF8D4940135385AAB",
+        "sha256": "41A0575B44067DBE0D7A523171BB8C1C2BFADCC73E20BB61F2294FF7EACDF5F0"
+    },
+    "download_size": 61367,
+    "identifier": "BobsPanicBox",
+    "install": [
+        {
+            "find": "BobsPanicBox",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Bob's Panic Box",
+    "recommends": [
+        {
+            "name": "PEBKACIndustriesLaunchEscapeSystem"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/176073-14-bob",
+        "repository": "https://github.com/linuxgurugamer/BobsPanicBox",
+        "spacedock": "https://spacedock.info/mod/1894/Bob's%20Panic%20Box",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Bobs_Panic_Box/Bobs_Panic_Box-1529932018.4543815.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1:0.0.2.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

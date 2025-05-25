@@ -1,0 +1,75 @@
+{
+    "abstract": "FAR replaces KSP's stock part-centered aerodynamics model with one based on real-life physics. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "ferram4",
+        "dkavolis"
+    ],
+    "conflicts": [
+        {
+            "name": "AerodynamicModel"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "TweakScale-Redist"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/dkavolis/Ferram-Aerospace-Research/releases/download/v0.16.0.5_Mader/FAR_0_16_0_5_Mader.zip?auth_key=1748275918-39730af64a4546408b8826643941ec10-0-8b712fbb89df1a9c3e0ef71f0fe3349c&size=891580&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1E073C5F7268BF3581CA122AB7B92378426E1F40",
+        "sha256": "419FC5C079930DFF3AE54E0E763E5EC5DF3AC2F1AA0B450CE845A7FA590B4C08"
+    },
+    "download_size": 891580,
+    "identifier": "FerramAerospaceResearchContinued",
+    "install": [
+        {
+            "file": "GameData/FerramAerospaceResearch",
+            "filter": [
+                "config.xml",
+                "Scale_Redist.dll"
+            ],
+            "install_to": "GameData"
+        },
+        {
+            "comment": "FAR example craft",
+            "file": "Ships",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 2671371,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Ferram Aerospace Research Continued [PRO-KCMIRROR]",
+    "provides": [
+        "AerodynamicModel",
+        "FAR"
+    ],
+    "release_date": "2022-04-03T11:00:17Z",
+    "resources": {
+        "bugtracker": "https://github.com/dkavolis/Ferram-Aerospace-Research/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*",
+        "remote-avc": "https://raw.githubusercontent.com/dkavolis/Ferram-Aerospace-Research/master/GameData/FerramAerospaceResearch/FAR.version",
+        "repository": "https://github.com/dkavolis/Ferram-Aerospace-Research"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "3:0.16.0.5",
+    "x_generated_by": "netkan"
+}

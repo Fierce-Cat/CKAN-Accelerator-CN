@@ -1,0 +1,86 @@
+{
+    "abstract": "A visual enhancement pack for the Kerbal Space Program RealSolarSystem mod. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "al2me6",
+        "blowfishpro",
+        "Capkirk123",
+        "NathanKell",
+        "pjf",
+        "rsparkyc",
+        "SirKeplan",
+        "StollD",
+        "StonesmileGit",
+        "stratochief66",
+        "zorg2044",
+        "siimav"
+    ],
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        },
+        {
+            "name": "RSSVE-Textures"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "Scatterer",
+            "suppress_recommendations": true
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RSSVE/releases/download/v2.2.0/RSSVE_LR.zip?auth_key=1748275916-82548e4f648249aaa165c09a22111f85-0-8618672b1a9c00caf75e0dd0d6fd7ba6&size=22166367&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AD4B1A3BD28CFFCBE876C726A33DC004FD101584",
+        "sha256": "23C99B3E380DAC5E07DEA6604B856AAC190309B857D6C9598A56C984023FDFD6"
+    },
+    "download_size": 22166367,
+    "identifier": "RSSVE-LR",
+    "install": [
+        {
+            "find": "RSSVE",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 55369143,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-SA-4.0",
+    "name": "RSS Visual Enhancements - Low Resolution [PRO-KCMIRROR]",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config",
+        "RSSVE-Textures"
+    ],
+    "recommends": [
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "PlanetShine"
+        }
+    ],
+    "release_date": "2024-08-08T10:40:06Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/RSSVE/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/153511-rssve",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/RSSVE/master/RSSVE/RSSVE.version",
+        "repository": "https://github.com/KSP-RO/RSSVE"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "version": "v2.2.0",
+    "x_generated_by": "netkan"
+}

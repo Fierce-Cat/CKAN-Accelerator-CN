@@ -1,0 +1,62 @@
+{
+    "abstract": "Adds stockalike Angara and Post-Soviet launch Vehicles.",
+    "author": "EStreetRockets",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "SimpleAdjustableFairings"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2632/Eisenhower%20Astronautics/download/v1.1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8E83BA8751EFCCAAD840644005F46DAF391A3B5D",
+        "sha256": "CD428B0958B01FAB325C51111AD6A60DF54036C3376B654D0FDDE1AEC726AE3B"
+    },
+    "download_size": 19308599,
+    "identifier": "EisenhowerAstronautics",
+    "install": [
+        {
+            "find": "Eisenhower-Astronautics",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 38836825,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Eisenhower Astronautics",
+    "recommends": [
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "release_date": "2021-05-26T16:49:34.692313+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/EStreetRockets/Eisenhower-Astronautics/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196384-wip-eisenhower-astronautics-stockalike-angara-mod/",
+        "repository": "https://github.com/EStreetRockets/Eisenhower-Astronautics",
+        "spacedock": "https://spacedock.info/mod/2632/Eisenhower%20Astronautics",
+        "x_screenshot": "https://spacedock.info/content/EStreetRockets_54289/Eisenhower_Astronautics/Eisenhower_Astronautics-1654921056.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts",
+        "graphics"
+    ],
+    "version": "v1.1.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,39 @@
+{
+    "abstract": "This docking ports is a kerbalized size IDSS/IDA/APAS docking system with working alignment petals",
+    "author": "nesd",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2934/KDSS%20docking%20ports/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9385DBE5F215BA3ACF94D6B5DD09B541DE2E84DA",
+        "sha256": "9BCFA28F9F031F141ED3F7166AC961CF01D9FC3F6D208EF5FF1E72CCDBA33E47"
+    },
+    "download_size": 9918795,
+    "identifier": "KDSSDockingPorts",
+    "install": [
+        {
+            "find": "KDSS",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 19600081,
+    "ksp_version": "1.12.3",
+    "license": "MIT",
+    "name": "KDSS docking ports",
+    "release_date": "2021-12-25T17:26:17.741342+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182898-nesds-warehouse/",
+        "spacedock": "https://spacedock.info/mod/2934/KDSS%20docking%20ports",
+        "x_screenshot": "https://spacedock.info/content/nesd_9608/KDSS_docking_ports/KDSS_docking_ports-1640453228.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

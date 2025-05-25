@@ -1,0 +1,51 @@
+{
+    "abstract": "SolverEngines is at its heart a replacement paradigm for how KSP deals with engines [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "NathanKell",
+        "SirKeplan",
+        "StollD",
+        "blowfishpro",
+        "cherrydev",
+        "pjf",
+        "rsparkyc",
+        "stratochief66",
+        "zorg2044",
+        "siimav"
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/SolverEngines/releases/download/v3.7.5/SolverEngines_v3.7.5.zip?auth_key=1748275916-c6ca6b056b394f028886406ccf2cbb3e-0-0d1a9585858392686aa9c41ec1cc548b&size=39876&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A9DEC97056C493B8531E6C60B8828CEB2D37785F",
+        "sha256": "48444716463B72355F794FAC917446D3FB0AB52332D6606ADCCC015DE144C8C8"
+    },
+    "download_size": 39876,
+    "identifier": "SolverEngines",
+    "install": [
+        {
+            "filter": [
+                "ModuleAnimateEmissive.dll",
+                "PluginData"
+            ],
+            "find": "SolverEngines",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.8.0",
+    "license": "LGPL-2.1",
+    "name": "Solver Engines plugin [PRO-KCMIRROR]",
+    "release_date": "2020-02-16T14:40:11Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/SolverEngines/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/110746-*",
+        "repository": "https://github.com/KSP-RO/SolverEngines"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "v3.7.5",
+    "x_generated_by": "netkan"
+}

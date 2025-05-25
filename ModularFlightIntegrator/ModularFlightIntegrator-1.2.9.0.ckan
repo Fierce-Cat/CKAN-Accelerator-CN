@@ -1,0 +1,36 @@
+{
+    "abstract": "This is an amazing addon that will Modularly Integrate your Flight Models. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Sarbian",
+    "download": "https://hk-github.mirror.kerbcat.cn/sarbian/jenkins/job/ModularFlightIntegrator/37/artifact/ModularFlightIntegrator-1.2.9.0.zip?auth_key=1748275915-94f4093efd4744cfb8a273a41e646765-0-b4faa7d41ddb15158b605ca9341b50a7&size=9491&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3FD538DB84DDC5BBB25E39B1132200E1603EB6E4",
+        "sha256": "2A99B75BFF6A5A7698C9527E158464CE4F4D5CC1C562E119BA809D6C7B18104A"
+    },
+    "download_size": 9491,
+    "identifier": "ModularFlightIntegrator",
+    "install": [
+        {
+            "find": "ModularFlightIntegrator",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.90",
+    "ksp_version_min": "1.11.0",
+    "license": "MIT",
+    "name": "ModularFlightIntegrator [PRO-KCMIRROR]",
+    "release_date": "2021-02-06T14:36:03.49Z",
+    "resources": {
+        "ci": "https://ksp.sarbian.com/jenkins/job/ModularFlightIntegrator/",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/106369-*",
+        "remote-avc": "https://ksp.sarbian.com/jenkins/job/ModularFlightIntegrator/lastSuccessfulBuild/artifact/ModularFlightIntegrator/ModularFlightIntegrator.version",
+        "repository": "https://github.com/sarbian/ModularFlightIntegrator"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "1.2.9.0",
+    "x_generated_by": "netkan"
+}

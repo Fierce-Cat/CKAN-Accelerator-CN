@@ -1,0 +1,71 @@
+{
+    "abstract": "Default configuration for Kerbalism [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Kerbalism Contributors",
+    "conflicts": [
+        {
+            "name": "Kerbalism-Config"
+        },
+        {
+            "name": "UKS"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "BackgroundProcessing"
+        }
+    ],
+    "depends": [
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kerbalism/Kerbalism/releases/download/3.8/Kerbalism-Config_v3.8_for_KSP1.5.0-1.9.9.zip?auth_key=1748275916-38a37094dec94dcdb443ff56dc8e659c-0-d188315c1fdf55b71cc41a1905104fea&size=14946464&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C432CFACB99C8BD88E2DB239954C482CD976FC23",
+        "sha256": "89868AF19AF8F745486F0094C1E0BFF87EF39C5821E70E1E0450330118A1386B"
+    },
+    "download_size": 14946464,
+    "identifier": "Kerbalism-Config-Default",
+    "install": [
+        {
+            "find": "KerbalismConfig",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.9",
+    "ksp_version_min": "1.5.0",
+    "license": "Unlicense",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "ko-kr",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Kerbalism - Default Config [PRO-KCMIRROR]",
+    "provides": [
+        "Kerbalism-Config"
+    ],
+    "resources": {
+        "repository": "https://github.com/Kerbalism/Kerbalism"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config",
+        "physics",
+        "crewed",
+        "science"
+    ],
+    "version": "3.8",
+    "x_generated_by": "netkan"
+}

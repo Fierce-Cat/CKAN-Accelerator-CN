@@ -1,0 +1,56 @@
+{
+    "abstract": "Craft import and uploads",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/CraftImport/releases/download/0.9.0.1/craftimport-1.12.0-0.9.0.1.zip",
+        "https://spacedock.info/mod/47/Craft%20Import%20&%20Upload/download/0.9.0.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8D43AF299A3BE8D4B43F777E830E5EB577E2B5ED",
+        "sha256": "CAC293F4601B380CD71D5514E83B9DA81A64DADB1062237218484A35B82297CC"
+    },
+    "download_size": 58550,
+    "identifier": "CraftImport",
+    "install": [
+        {
+            "find": "CraftImport",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 126887,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "Craft Import & Upload",
+    "recommends": [
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "release_date": "2021-09-08T21:39:27.376504+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/CraftImport/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/119584-craft-import-081-released-now-with-kerbalxcom-upload-integration/&do=findComment&comment=2149021",
+        "remote-avc": "http://ksp.spacetux.net/avc/craftimport",
+        "repository": "https://github.com/linuxgurugamer/CraftImport",
+        "spacedock": "https://spacedock.info/mod/47/Craft%20Import%20&%20Upload",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Craft_Import__Upload/Craft_Import__Upload-1456622079.5029812.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "editor",
+        "convenience"
+    ],
+    "version": "1:0.9.0.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,52 @@
+{
+    "abstract": "When BDArmory ant explosion dissapoint you",
+    "author": [
+        "harpwner",
+        "cukkoo"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "BDArmoryContinued"
+        },
+        {
+            "name": "PhysicsRangeExtender"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2483/North%20Kerbin%20Dynamic%20Renewed/download/0.0.14",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0EAFBB31A5EE18E2A287B0199144D1C6538D0511",
+        "sha256": "FF675DD1AAD65D25340D4C3612777B185BB27CFFE14C63679608CAECB1844621"
+    },
+    "download_size": 75303829,
+    "identifier": "NorthKerbinDynamicRenewed",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "North Kerbin Weaponry",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.9.1",
+    "license": "CC-BY-SA-4.0",
+    "name": "North Kerbin Dynamic Renewed",
+    "release_date": "2020-08-11T10:48:36.286352+00:00",
+    "resources": {
+        "homepage": "https://sites.google.com/view/north-kerbin-dynamic/home",
+        "repository": "https://github.com/dogevspenguin/NKDRes",
+        "spacedock": "https://spacedock.info/mod/2483/North%20Kerbin%20Dynamic%20Renewed",
+        "x_screenshot": "https://spacedock.info/content/cukkoo_42291/North_Kerbin_Dynamic_Renewed/North_Kerbin_Dynamic_Renewed-1595673853.8544378.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "combat"
+    ],
+    "version": "0.0.14",
+    "x_generated_by": "netkan"
+}

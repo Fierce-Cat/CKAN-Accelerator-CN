@@ -1,0 +1,37 @@
+{
+    "abstract": "Pulse Jets for all! (Juno Reconfig)",
+    "author": "Watermel00n",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2965/Pulse%20Jet/download/0.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "97C8E6872B7946953EBBE282DA096C5AE3F6D3B9",
+        "sha256": "084F78478B45B44474970D1EDDD1491344F9B5CA76107D2A6E59ECDDF8829721"
+    },
+    "download_size": 2298,
+    "identifier": "PulseJet",
+    "install": [
+        {
+            "find": "LuhatOrbitalProducts",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.12.3",
+    "license": "MIT",
+    "name": "Pulse Jet",
+    "release_date": "2022-01-31T09:18:00.434398+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/206399-112x-watermel00ns-warehouse/",
+        "spacedock": "https://spacedock.info/mod/2965/Pulse%20Jet"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.5",
+    "x_generated_by": "netkan"
+}

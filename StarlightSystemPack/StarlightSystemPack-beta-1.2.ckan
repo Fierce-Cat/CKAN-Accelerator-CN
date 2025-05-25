@@ -1,0 +1,41 @@
+{
+    "abstract": "Planetary pack mod inspired by Watermel00n's simple gas planet maker and OPM.",
+    "author": "StarlightSpace",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2956/Starlight%20System%20Pack/download/beta-1.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6077EFB8A34AAB821A15FCAFFFEC1F36CDAFA1A5",
+        "sha256": "29F49FB13A23E11EC2282D6DF7902EABFE11CEC5040C1C43649F558723971DBC"
+    },
+    "download_size": 12591618,
+    "identifier": "StarlightSystemPack",
+    "install": [
+        {
+            "find": "SSP",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.12.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Starlight System Pack",
+    "release_date": "2022-01-22T02:35:31.018744+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/2956/Starlight%20System%20Pack"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "beta-1.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

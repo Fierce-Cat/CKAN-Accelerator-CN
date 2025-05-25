@@ -1,0 +1,76 @@
+{
+    "abstract": "This is the core component of the Global Construction mod. It should only be installed as a dependency by other mods.",
+    "author": [
+        "allista"
+    ],
+    "depends": [
+        {
+            "name": "AT-Utils"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1123/Ground%20Construction/download/2.7.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "11737AAF721B671C5AD17FD791BE0548D78DDA33",
+        "sha256": "EF913F4DEB50DA933E343298114025054102AF9E3DF21CE500D9682D9C3DDFDE"
+    },
+    "download_size": 16623762,
+    "identifier": "GroundConstruction-Core",
+    "install": [
+        {
+            "file": "GameData/GroundConstruction/Icons",
+            "install_to": "GameData/GroundConstruction"
+        },
+        {
+            "file": "GameData/GroundConstruction/Plugins",
+            "install_to": "GameData/GroundConstruction"
+        },
+        {
+            "file": "GameData/GroundConstruction/GroundConstruction.version",
+            "install_to": "GameData/GroundConstruction"
+        },
+        {
+            "file": "GameData/GroundConstruction/KitResources.cfg",
+            "install_to": "GameData/GroundConstruction"
+        },
+        {
+            "file": "GameData/GroundConstruction/IgnoreModules.cfg",
+            "install_to": "GameData/GroundConstruction"
+        },
+        {
+            "file": "GameData/GroundConstruction/Engineer.cfg",
+            "install_to": "GameData/GroundConstruction"
+        },
+        {
+            "file": "GameData/GroundConstruction/gc_ui.bundle",
+            "install_to": "GameData/GroundConstruction"
+        },
+        {
+            "file": "GameData/GroundConstruction/Parts/DIYKit",
+            "install_to": "GameData/GroundConstruction/Parts"
+        }
+    ],
+    "install_size": 3250783,
+    "ksp_version": "1.12.3",
+    "license": "MIT",
+    "name": "Global Construction Core",
+    "release_date": "2022-04-01T16:37:55.163491+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/allista/GroundConstruction/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154167-122-ground-construction",
+        "metanetkan": "https://raw.githubusercontent.com/allista/GroundConstruction/master/GroundConstruction-Core.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/allista/GroundConstruction/master/GameData/GroundConstruction/GroundConstruction.version",
+        "repository": "https://github.com/allista/GroundConstruction",
+        "spacedock": "https://spacedock.info/mod/1123/Ground%20Construction",
+        "x_screenshot": "https://spacedock.info/content/allista_931/Ground_Construction/Ground_Construction-1536838498.3931928.png"
+    },
+    "spec_version": "v1.2",
+    "tags": [
+        "plugin"
+    ],
+    "version": "2.7.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "Atmosphere autopilot is a modular atmospheric flight control system library.\nIt features a Fly-By-Wire System that replaces the stock SAS, and cruise control with heading/altitude/velocity setpoints. All without tuning PID parameters!\n\nIf you're using Stock Bug Fix Modules, turn off ModuleControlSurfacePlus and ModuleGimbalPlus modules in its manager. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Boris-Barboris",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Boris-Barboris/AtmosphereAutopilot/releases/download/v1.6.0/AtmosphereAutopilot.zip?auth_key=1748275914-1de4185f52b1476888cc38d9a3d62aab-0-833d679d1ae774e5717f35f1f28168f1&size=191013&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "36E9693824E0A06229EBA5444BBCF2C81930C3D6",
+        "sha256": "36C92DD7FE73BB8F311C95F5F225CF4EF34C4E0B656929E3A68BE624B8C170B4"
+    },
+    "download_size": 191013,
+    "identifier": "AtmosphereAutopilot",
+    "install_size": 262102,
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "AtmosphereAutopilot (Fly-By-Wire) [PRO-KCMIRROR]",
+    "release_date": "2022-06-24T16:44:52Z",
+    "resources": {
+        "bugtracker": "https://github.com/Boris-Barboris/AtmosphereAutopilot/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/124417-*",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?download&id=306",
+        "repository": "https://github.com/Boris-Barboris/AtmosphereAutopilot"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "v1.6.0",
+    "x_generated_by": "netkan"
+}

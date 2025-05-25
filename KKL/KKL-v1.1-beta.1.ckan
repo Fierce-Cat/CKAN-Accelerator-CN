@@ -1,0 +1,96 @@
+{
+    "abstract": "KSP mod to fulfill some gameplay wishes [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "craidler",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "MechJeb2"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/craidler/KerbalKustomzLtd/releases/download/v1.1-beta.1/KKL.zip?auth_key=1748275918-fe5a0a694d5d4ed0952a54cf167bf40f-0-dbcdc1fd944e11a25456df2c630a54a2&size=5636&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "108A179618B8243785E8170A8C0FD22851C8B0CE",
+        "sha256": "499E70B3756189CABBE4000EA8EBD47DA60DD3C7714841F95FCEE658312164DA"
+    },
+    "download_size": 5636,
+    "identifier": "KKL",
+    "install": [
+        {
+            "find": "KKL",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.4.0",
+    "license": "LGPL-2.1",
+    "name": "Kerbal Kustomz Ltd (KKL) [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "Mk1CabinHatch"
+        },
+        {
+            "name": "InterstellarFuelSwitch"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KerbalInventorySystemNoFun"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "KerbalImprovedSaveSystem"
+        },
+        {
+            "name": "ZeroMiniAVC"
+        },
+        {
+            "name": "VABReorienter"
+        },
+        {
+            "name": "KeepItStraight"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "StockVisualEnhancements"
+        },
+        {
+            "name": "CustomAsteroids"
+        },
+        {
+            "name": "CraftManager"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "repository": "https://github.com/craidler/KerbalKustomzLtd"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "convenience"
+    ],
+    "version": "v1.1-beta.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,64 @@
+{
+    "abstract": "An atmospheric aircraft parts mod.",
+    "author": "CarelessDoughnut",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Firespitter"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3116/Kerbal%20Flightworks%20Company/download/Relase_6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "01EFD3E931364B35466ECDBC2870720410E57634",
+        "sha256": "C3F11A1B5863F4B93B8B2B96A8E90FCA1064E8890A6F912AA62E5BDEF944407A"
+    },
+    "download_size": 32166385,
+    "identifier": "KerbalFlightworksCompany",
+    "install": [
+        {
+            "find": "KFW",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 65403509,
+    "ksp_version": "1.12.4",
+    "license": "CC-BY-NC-SA",
+    "name": "Kerbal Flightworks Company",
+    "recommends": [
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "BDArmoryForRunwayProject"
+        }
+    ],
+    "release_date": "2022-11-28T22:59:02.18782+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209740-kerbal-flightworks-company/",
+        "spacedock": "https://spacedock.info/mod/3116/Kerbal%20Flightworks%20Company",
+        "x_screenshot": "https://spacedock.info/content/CarelessDoughnut_84341/Kerbal_Flightworks_Company/Kerbal_Flightworks_Company-1665359569.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "AirplanePlus"
+        },
+        {
+            "name": "MK1StkOpenCockpit"
+        },
+        {
+            "name": "B9-PWings-Fork"
+        },
+        {
+            "name": "ConformalDecals"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "Relase_6",
+    "x_generated_by": "netkan"
+}

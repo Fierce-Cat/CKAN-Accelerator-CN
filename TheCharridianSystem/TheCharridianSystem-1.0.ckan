@@ -1,0 +1,42 @@
+{
+    "abstract": "Adds a new red planet into the game",
+    "author": "ThisIsCoffee",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3670/The%20Charridian%20System/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "02C1016485A31263B1BC3D4F596CA30A8AF61DB2",
+        "sha256": "5E9B63807E5194B8D35A8455F09AECD09B3B313B5DAA79D459B2ABDD441F7F43"
+    },
+    "download_size": 157614496,
+    "identifier": "TheCharridianSystem",
+    "install": [
+        {
+            "find": "CoffeeAdditions",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1098882081,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "The Charridian System",
+    "release_date": "2024-07-25T04:12:59.120374+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3670/The%20Charridian%20System",
+        "x_screenshot": "https://spacedock.info/content/ThisIsCoffee_137425/The_Charridian_System/The_Charridian_System-1721881122.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "planet-pack"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

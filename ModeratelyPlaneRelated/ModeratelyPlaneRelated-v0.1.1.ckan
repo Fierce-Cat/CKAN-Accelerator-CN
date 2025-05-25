@@ -1,0 +1,45 @@
+{
+    "abstract": "MPR is an aircraft parts mod that follows the Stock/AirplanePlus art style with no specific enforced category of planned parts (ALL CURRENT PARTS SUBJECT TO CHANGE)",
+    "author": "Drag0n",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Firespitter"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3104/Moderately%20Plane%20Related%20BETA/download/v0.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "36F57ED2C5A1C2FC8426B8CB310823C4E6F63051",
+        "sha256": "5CC28A38C4C5B5E9A90D545CE63CDBE862872E59B7A165D1C598C5D8115AD12F"
+    },
+    "download_size": 34371810,
+    "identifier": "ModeratelyPlaneRelated",
+    "install": [
+        {
+            "filter": ".DS_Store",
+            "find": "Moderately-Plane-Related",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 158801480,
+    "ksp_version": "1.12.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Moderately Plane Related BETA",
+    "release_date": "2022-08-31T22:48:34.895759+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Drag0nD3str0yer/Moderately-Plane-Related/issues",
+        "repository": "https://github.com/Drag0nD3str0yer/Moderately-Plane-Related",
+        "spacedock": "https://spacedock.info/mod/3104/Moderately%20Plane%20Related%20BETA",
+        "x_screenshot": "https://spacedock.info/content/Drag0n_80740/Moderately_Plane_Related/Moderately_Plane_Related-1661984761.jpg"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "v0.1.1",
+    "x_generated_by": "netkan"
+}

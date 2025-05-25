@@ -1,0 +1,51 @@
+{
+    "abstract": "A complete rewrite of KSP's strategy system. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "nightingale",
+    "depends": [
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/jrossignol/Strategia/releases/download/1.8.0/Strategia_1.8.0.zip?auth_key=1748275915-5c5114e121e84a88aed98f22d4597838-0-b3046f46fb2b6743502e478248eeb8b9&size=225093&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "384391D3A13DAC16A5FD82E7EE7542B1CD892EAF",
+        "sha256": "B158DBF9F6B072F1AACACA5D25FBEF9F8C37B40546234F789F54CBBD448B75CE"
+    },
+    "download_size": 225093,
+    "identifier": "Strategia",
+    "install": [
+        {
+            "find": "Strategia",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 359013,
+    "ksp_version_max": "1.99.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Strategia [PRO-KCMIRROR]",
+    "release_date": "2019-10-22T16:51:18Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/jrossignol/Strategia/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/131808-12x-strategia-v140-2016-11-21/",
+        "license": "https://raw.githubusercontent.com/jrossignol/Strategia/master/LICENSE.txt",
+        "metanetkan": "https://raw.githubusercontent.com/jrossignol/Strategia/master/Strategia.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/jrossignol/Strategia/master/GameData/Strategia/Strategia.version",
+        "repository": "https://github.com/jrossignol/Strategia"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "career"
+    ],
+    "version": "1.8.0",
+    "x_generated_by": "netkan"
+}

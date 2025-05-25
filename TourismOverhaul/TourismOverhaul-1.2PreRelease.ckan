@@ -1,0 +1,49 @@
+{
+    "abstract": "Completely revamps tourism contracts [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "iLikeGothMommys",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/iLikeGothMommys/TourismOverhaul/releases/download/Release1.2PreRelease/TourismOverhaul1.2.-.Pre-Release.zip?auth_key=1748275916-ff4109c7362f459e910133f470dc0b89-0-755fc108f6e04183a9bc3cee2782bac8&size=79194&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "33634BA7AEDA03E6735F0C932AE4D5112945A76F8778F5CC1D664776384504AE"
+    },
+    "download_size": 79194,
+    "identifier": "TourismOverhaul",
+    "install": [
+        {
+            "find": "ContractPacks",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 250192,
+    "ksp_version_max": "1.99.99",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-SA",
+    "name": "Tourism Overhaul [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "Strategia"
+        }
+    ],
+    "release_date": "2025-01-26T19:55:16Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/iLikeGothMommys/TourismOverhaul/issues",
+        "remote-avc": "https://raw.githubusercontent.com/iLikeGothMommys/TourismOverhaul/refs/heads/main/ContractPack-TourismOverhaul.version",
+        "repository": "https://github.com/iLikeGothMommys/TourismOverhaul"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "career",
+        "config"
+    ],
+    "version": "1.2PreRelease",
+    "x_generated_by": "netkan"
+}

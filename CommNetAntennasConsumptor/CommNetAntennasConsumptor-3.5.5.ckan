@@ -1,0 +1,65 @@
+{
+    "abstract": "Extended antennas consume EC for supporting CommNet. New disable/enable action for the static antennas - enabled antennas consume EC. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "flart",
+    "conflicts": [
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/yalov/CommNetAntennasConsumptor/releases/download/3.5.5/CommNetAntennasConsumptor-v3.5.5.zip?auth_key=1748275918-bd84e4bb9f464db1965e6426d593f2cf-0-905293fc3d626746d09b51f7a166b20c&size=84637&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1CF29EEFEAD7C88E2F643DF801AE6E66FA5ED0BC",
+        "sha256": "7361482269678C560B6083BB1F8E8A55495BAA089A32E21011EC647B09E0CA36"
+    },
+    "download_size": 84637,
+    "identifier": "CommNetAntennasConsumptor",
+    "install_size": 58249,
+    "ksp_version_max": "1.12.9",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "CommNet Antennas Consumptor [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "CommNetAntennasExtension"
+        },
+        {
+            "name": "CommNetAntennasInfo"
+        }
+    ],
+    "release_date": "2022-02-19T19:34:40Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/yalov/CommNetAntennasConsumptor/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177292-*",
+        "remote-avc": "https://raw.githubusercontent.com/yalov/CommNetAntennasConsumptor/master/CommNetAntennasConsumptor.version",
+        "repository": "https://github.com/yalov/CommNetAntennasConsumptor"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "DMagicOrbitalScience"
+        },
+        {
+            "name": "NearFutureExploration"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "comms"
+    ],
+    "version": "3.5.5",
+    "x_generated_by": "netkan"
+}

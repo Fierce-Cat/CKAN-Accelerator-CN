@@ -1,0 +1,42 @@
+{
+    "abstract": "Some cool parts",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "KSPWheel"
+        },
+        {
+            "name": "BDAnimationModules"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1641/Retracting/vectoring%20engines%2C%20Critter%20Crawler/download/1.3.5.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "52A55A33902331FF1BD431FA09942C1FB714E9BA",
+        "sha256": "E6BB4A0F0F86279794D2195150A06CA5E36A29CC863ADCDCB57FABEA5001BF99"
+    },
+    "download_size": 4071245,
+    "identifier": "CritterCrawler",
+    "install": [
+        {
+            "find": "BahaSP",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-SA",
+    "name": "Retracting/vectoring engines, Critter Crawler",
+    "release_date": "2019-10-27T03:11:17.734248+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169354-131-bdynamics-retractingvectoring-engines-critter-crawler/",
+        "repository": "https://github.com/linuxgurugamer/CritterCrawlerRetractingVectoringEngines",
+        "spacedock": "https://spacedock.info/mod/1641/Retracting/vectoring%20engines,%20Critter%20Crawler"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.3.5.3",
+    "x_generated_by": "netkan"
+}

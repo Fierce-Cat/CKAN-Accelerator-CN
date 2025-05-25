@@ -1,0 +1,65 @@
+{
+    "abstract": "Customizable fuel resources added to Stock, B9, and Procedural Wings by Tortoise. The intention of this is to improve weight & balance, reduce craft size, and increase aesthetics. Supports all stock fuel types, ability to modify in VAB/SPH.",
+    "author": "BeautiCode",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "ConfigurableContainers"
+                },
+                {
+                    "name": "InterstellarFuelSwitch"
+                },
+                {
+                    "name": "ModularFuelTanks"
+                },
+                {
+                    "name": "FirespitterCore"
+                }
+            ]
+        }
+    ],
+    "download": "https://spacedock.info/mod/1290/FuelWings/download/v4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A1595059128A416607EE291A11AF7624523E9F1A",
+        "sha256": "9826F3A9821889D8E5AF0D195F4221AC4F9DE80355350A2C84BD035549C87BDD"
+    },
+    "download_size": 109681,
+    "identifier": "FuelWings",
+    "install": [
+        {
+            "filter": [
+                "ModularFuelTanks"
+            ],
+            "find": "GameData/FuelWings",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 22726,
+    "ksp_version": "1.10.1",
+    "license": "restricted",
+    "name": "FuelWings",
+    "release_date": "2020-11-09T04:27:53.722995+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/diygary/FuelWings/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/87605-122fuelwings-v32-fuel-customization-in-stock-b9-proceduralwings-03092017/&",
+        "repository": "https://github.com/diygary/FuelWings",
+        "spacedock": "https://spacedock.info/mod/1290/FuelWings",
+        "x_screenshot": "https://spacedock.info/content/BeautiCode_11821/FuelWings/FuelWings-1490978780.7555523.png"
+    },
+    "spec_version": "v1.26",
+    "supports": [
+        {
+            "name": "B9"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "1:v4",
+    "x_generated_by": "netkan"
+}

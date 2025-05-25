@@ -1,0 +1,49 @@
+{
+    "abstract": "Spend science points to improve the stats of the parts you have already unlocked in a career game.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2311/Kerbal%20Research%20%26%20Development/download/1.16.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0885DCEA6575BB7CD03E1F0C8F84F549D5451889",
+        "sha256": "55885F8B5C0CCB09959AAE2D4DC2EF62E6FF0A526251DF8711178339DD86A818"
+    },
+    "download_size": 56261,
+    "identifier": "KRnD",
+    "install": [
+        {
+            "find": "KRnD",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Kerbal Research & Development",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191014-*",
+        "repository": "https://github.com/linuxgurugamer/KRnD",
+        "spacedock": "https://spacedock.info/mod/2311/Kerbal%20Research%20&%20Development",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Kerbal_Research__Development/Kerbal_Research__Development-1578962824.0145452.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "science"
+    ],
+    "version": "1.16.0.1",
+    "x_generated_by": "netkan"
+}

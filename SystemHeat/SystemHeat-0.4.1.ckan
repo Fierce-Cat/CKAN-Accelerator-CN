@@ -1,0 +1,66 @@
+{
+    "abstract": "System Heat revamps the Core Heat system used in stock KSP to drive drills and harvesters with a new, more powerful system. This core package does not make changes to the base game - install other SystemHeat packs to change drills, converters and the like to use Systemheat [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/SystemHeat/releases/download/0.4.1/SystemHeat_0_4_1.zip?auth_key=1748275917-aec07f9332c4424eb2ee07598fa7c9ba-0-b67aeb242ea54ab39ee7ab0b5ae03192&size=2192829&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "43144A856F0A13FDF327AC10D27579B27F7E0CE5",
+        "sha256": "6015B2DE10BE6DF8E7CB91DC39F9B8E84C9E3F7ED3B167306B443A15E78F95BB"
+    },
+    "download_size": 2192829,
+    "identifier": "SystemHeat",
+    "install": [
+        {
+            "find": "SystemHeat",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.11.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "zh-cn",
+        "ru",
+        "en-us"
+    ],
+    "name": "System Heat [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "HeatControl"
+        }
+    ],
+    "release_date": "2021-04-14T22:49:55Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/SystemHeat/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193909-1",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/SystemHeat/raw/master/CKAN/SystemHeat.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/SystemHeat/master/GameData/SystemHeat/Versioning/SystemHeat.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/SystemHeat"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SystemHeatConverters"
+        },
+        {
+            "name": "SystemHeatFissionReactors"
+        },
+        {
+            "name": "SystemHeatFissionEngines"
+        },
+        {
+            "name": "SystemHeatHarvesters"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "0.4.1",
+    "x_generated_by": "netkan"
+}

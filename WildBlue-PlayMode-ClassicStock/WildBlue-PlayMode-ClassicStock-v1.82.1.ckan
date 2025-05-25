@@ -1,0 +1,60 @@
+{
+    "abstract": "Back in KSP 0.19, developers NovaSilisko and HarvesteR proposed a resource system that included Propellium, Oxium, Nitronite, Water, Blutonium, Hexagen, and Zeonium that ultimately converted into the resources we know today as LiquidFuel, Oxidizer, MonoPropellant, and XenonGas. You can see their concept image here: i.imgur.com/08hdJyj.png This play mode is inspired by their vision and adds some additional resources and converters to round out your templates. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "conflicts": [
+        {
+            "name": "WildBlue-PlayMode"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "WildBlueTools"
+        },
+        {
+            "name": "ClassicStockResources"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/WildBlueTools/releases/download/v1.82.1/WildBlueTools.zip?auth_key=1748275918-ac9da95afe0947f5a5a76ac0aa06dae9-0-3e29f48be54d8fb45fdab6f626b42100&size=21976293&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F33F5E2F5516F110DEBFEDD42653E055DF940688",
+        "sha256": "2ACAF645D72B3AFE584B10F70D885DB3F455CB342737E6C4176171BED7B420B2"
+    },
+    "download_size": 21976293,
+    "identifier": "WildBlue-PlayMode-ClassicStock",
+    "install": [
+        {
+            "find": "000WildBlueTools/Templates/ClassicStock",
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates"
+        },
+        {
+            "find": "000WildBlueTools/Templates/ClassicStock.cfg",
+            "find_matches_file": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates"
+        }
+    ],
+    "ksp_version_min": "1.11.0",
+    "license": "GPL-3.0",
+    "name": "WildBlueIndustries Classic Stock Play Mode [PRO-KCMIRROR]",
+    "provides": [
+        "WildBlue-PlayMode"
+    ],
+    "release_date": "2021-03-14T19:39:42Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/WildBlueTools/issues",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/WildBlueTools/master/GameData/WildBlueIndustries/000WildBlueTools/WildBlueTools.version",
+        "repository": "https://github.com/Angel-125/WildBlueTools"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "v1.82.1",
+    "x_generated_by": "netkan"
+}

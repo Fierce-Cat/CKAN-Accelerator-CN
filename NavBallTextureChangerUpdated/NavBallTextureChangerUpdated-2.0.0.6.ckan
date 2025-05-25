@@ -1,0 +1,48 @@
+{
+    "abstract": "This mod will let you change the textures of the navbal [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/NavBallTextureChanger/releases/download/2.0.0.6/NavBallTextureChanger-1.10.1-2.0.0.6.zip?auth_key=1748275915-3e9fff93ba1345d7b730fe1370c40f88-0-6571bad76454a00b68a18bbbcc66e619&size=2038575&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0FA3CD7F647609F40529441E5100A828E76C8331",
+        "sha256": "9B192AA1060B734AF1C0127CA157904B6434D2F32AED04DD71051542D4403871"
+    },
+    "download_size": 2038575,
+    "identifier": "NavBallTextureChangerUpdated",
+    "install": [
+        {
+            "filter_regexp": [
+                ".*\\.pdb$"
+            ],
+            "find": "NavBallTextureChanger",
+            "install_to": "GameData"
+        }
+    ],
+    "license": "MIT",
+    "name": "Nav Ball Texture Changer [PRO-KCMIRROR]",
+    "release_date": "2021-03-07T02:45:34Z",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200741-1",
+        "remote-avc": "http://ksp.spacetux.net/avc/NavBallTextureChanger",
+        "repository": "https://github.com/linuxgurugamer/NavBallTextureChanger"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "version": "2.0.0.6",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

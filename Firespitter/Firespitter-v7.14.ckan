@@ -1,0 +1,53 @@
+{
+    "abstract": "Propeller plane and helicopter parts [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "BobPalmer",
+        "snjo"
+    ],
+    "depends": [
+        {
+            "min_version": "7.1",
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "FirespitterResourcesConfig"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/snjo/Firespitter/releases/download/v7.14/Firespitter_7.14.zip?auth_key=1748275916-dbdb56118ea94addba30dffb03ef90dc-0-0df75a0b8038b9676915ada6c655393c&size=30747228&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D887F686A3D2B8476F6F93A0B183155E776DB59D",
+        "sha256": "8BE91F432A074F955B9FEC55611F316554607382ED708B17315762D9DA8E4B64"
+    },
+    "download_size": 30747228,
+    "identifier": "Firespitter",
+    "install": [
+        {
+            "comment": "Plugins and version file are installed from FirespitterCore, Resources from FirespitterResourcesConfig",
+            "filter": [
+                "Firespitter.version",
+                "Plugins",
+                "Resources",
+                "Old Example Craft.zip"
+            ],
+            "find": "Firespitter",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "Firespitter [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "http://snjo.github.io/",
+        "repository": "https://github.com/snjo/Firespitter"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "crewed",
+        "sound"
+    ],
+    "version": "v7.14",
+    "x_generated_by": "netkan"
+}

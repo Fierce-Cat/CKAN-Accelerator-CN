@@ -1,0 +1,69 @@
+{
+    "abstract": "SSPX-alike greenhouses for all life support systems",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3060/Moldavite%20Machines/download/1.2.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "95ED59ACAE08B5933875972BC115680D1514300E",
+        "sha256": "01FC56D025AEA7CD289E18D86799D2508A9348A77C6079C6ACB23CD7BEE3CB99"
+    },
+    "download_size": 2443536,
+    "identifier": "MoldaviteMachines",
+    "install_size": 18590582,
+    "ksp_version": "1.12.3",
+    "license": "CC-BY-NC-SA",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Moldavite Machines",
+    "release_date": "2022-07-31T22:36:16.657475+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/MoldaviteMachines/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208988-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/MoldaviteMachines/main/GameData/MoldaviteMachines/Version/MoldaviteMachines.version",
+        "repository": "https://github.com/JadeOfMaar/MoldaviteMachines",
+        "spacedock": "https://spacedock.info/mod/3060/Moldavite%20Machines",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Moldavite_Machines/Moldavite_Machines-1657915965.png"
+    },
+    "spec_version": "v1.18",
+    "suggests": [
+        {
+            "name": "MoldaviteMachinesKerbalism"
+        }
+    ],
+    "supports": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "IFILS"
+        },
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "tags": [
+        "parts",
+        "crewed",
+        "resources"
+    ],
+    "version": "1.2.1",
+    "x_generated_by": "netkan"
+}

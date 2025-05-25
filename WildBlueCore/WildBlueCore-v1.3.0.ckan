@@ -1,0 +1,45 @@
+{
+    "abstract": "A lightweight plugin created for mods like Buffalo 2, Sandcastle, and SunkWorks [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/WildBlueCore/releases/download/v1.3.0/WildBlueCore.zip?auth_key=1748275917-12ec6f28728642db8595f566b70ef3b1-0-a167a853a692dc9992a97c7ed8945934&size=2580309&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7E7107C1BE17CB21CEB18043074282A251A531DB",
+        "sha256": "24B9469F9B3DC2554842E02A09CF830335A5BDD2E990B33C0B2AA7421C1CFC35"
+    },
+    "download_size": 2580309,
+    "identifier": "WildBlueCore",
+    "install": [
+        {
+            "find": "00WildBlueCore",
+            "install_to": "GameData/WildBlueIndustries"
+        }
+    ],
+    "install_size": 4142384,
+    "ksp_version_min": "1.12.3",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "it-it"
+    ],
+    "name": "WildBlueCore [PRO-KCMIRROR]",
+    "release_date": "2025-04-11T23:40:55Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/WildBlueCore/issues",
+        "manual": "https://github.com/Angel-125/WildBlueCore/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/WildBlueCore/main/ReleaseFolder/GameData/WildBlueIndustries/00WildBlueCore/WildBlueCore.version",
+        "repository": "https://github.com/Angel-125/WildBlueCore"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "v1.3.0",
+    "x_generated_by": "netkan"
+}

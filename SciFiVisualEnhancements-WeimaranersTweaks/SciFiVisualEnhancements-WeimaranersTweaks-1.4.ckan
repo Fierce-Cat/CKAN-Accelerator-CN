@@ -1,0 +1,68 @@
+{
+    "abstract": "Some config tweaks for Sci-Fi VE",
+    "author": "weimaraner",
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        },
+        {
+            "name": "SciFiVisualEnhancements"
+        }
+    ],
+    "depends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2415/Weimaraner%27s%20Sci-Fi%20VE%20Config%20Tweaks/download/1.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BD3E38A971AFF6A0AC8043CD092A000B3BF1FD33",
+        "sha256": "86F9C9DD4C09D942F91201246B084525D54EA5F71DD6261980D671C23CEA0885"
+    },
+    "download_size": 69658386,
+    "identifier": "SciFiVisualEnhancements-WeimaranersTweaks",
+    "install": [
+        {
+            "find": "ScifiVisualEnchancements_Base",
+            "install_to": "GameData"
+        },
+        {
+            "find": "ScifiVisualEnchancements_Atmospheres",
+            "install_to": "GameData"
+        },
+        {
+            "find": "ScifiVisualEnchancements_Clouds",
+            "install_to": "GameData"
+        },
+        {
+            "find": "ScifiVisualEnchancements_Dust",
+            "install_to": "GameData"
+        },
+        {
+            "find": "ScifiVisualEnchancements_Glows",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.2",
+    "ksp_version_min": "1.9.1",
+    "license": "CC-BY-NC-2.0",
+    "name": "Weimaraner's Sci-Fi VE Config Tweaks",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config",
+        "SciFiVisualEnhancements"
+    ],
+    "release_date": "2020-05-24T01:01:08.207638+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194102-19x-weimaraners-sci-fi-ve-config-tweaks/",
+        "spacedock": "https://spacedock.info/mod/2415/Weimaraner's%20Sci-Fi%20VE%20Config%20Tweaks",
+        "x_screenshot": "https://spacedock.info/content/weimaraner_40318/Weimaraners_Sci-Fi_VE_Config_Tweaks/Weimaraners_Sci-Fi_VE_Config_Tweaks-1590281276.6988182.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1.4",
+    "x_generated_by": "netkan"
+}

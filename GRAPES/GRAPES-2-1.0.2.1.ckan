@@ -1,0 +1,56 @@
+{
+    "abstract": "Provide a means to purchase fuel in orbit",
+    "author": [
+        "FruitGoose",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/FruitKocktail/releases/download/0.0.0.3/GRAPES-1.0.2.1.zip",
+        "https://spacedock.info/mod/2790/GRAPES/download/1.0.2.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7DA9E881D2346D3DFFD7AFDA05AA3E8CD59632CB",
+        "sha256": "F56AD04CB318E2A8A2FF908355A002EB4AFF89FC1F355F1D90F2F581DB48CC45"
+    },
+    "download_size": 162611,
+    "identifier": "GRAPES",
+    "install": [
+        {
+            "find": "FruitKocktail",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 3270118,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.11.2",
+    "license": "CC-BY-NC-SA",
+    "name": "Gas Repairs And Probably Expensive Snacks",
+    "release_date": "2024-07-24T15:14:26.805989+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/FruitKocktail/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/202889-1112-fruitkocktail-a-collection-of-mini-life-improvement-mods-with-fruit-based-acronyms-as-names-full-release/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/FruitKocktail/main/GRAPES/GRAPES.version",
+        "repository": "https://github.com/linuxgurugamer/FruitKocktail",
+        "spacedock": "https://spacedock.info/mod/2790/GRAPES"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "parts",
+        "resources"
+    ],
+    "version": "2:1.0.2.1",
+    "x_generated_by": "netkan"
+}

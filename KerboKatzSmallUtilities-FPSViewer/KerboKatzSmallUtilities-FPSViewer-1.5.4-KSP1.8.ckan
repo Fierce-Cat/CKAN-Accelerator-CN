@@ -1,0 +1,47 @@
+{
+    "abstract": "A simple and easy way to display the current game fps [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "SpaceTiger",
+        "SpaceKitty"
+    ],
+    "conflicts": [
+        {
+            "name": "KerboKatzSmallUtilities"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "1.5.2",
+            "name": "KerboKatzUtilities"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KerboKatz/SmallUtilities/releases/download/1.5.4-KSP1.8/SmallUtilities.FPSViewer.zip?auth_key=1748275915-e89cb8e00475455a9930311888dc5a35-0-778465e7f40f29d65b82514118c1b8c5&size=72795&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "38538EA89013A0589F937BDC422E5EB55041B8FB",
+        "sha256": "0F845AB03861154751A9BF60ABED63A2F40F061A5DD00924DF9C246A8A43E485"
+    },
+    "download_size": 72795,
+    "identifier": "KerboKatzSmallUtilities-FPSViewer",
+    "install": [
+        {
+            "find": "FPSViewer",
+            "install_to": "GameData/KerboKatz/SmallUtilities"
+        }
+    ],
+    "ksp_version": "1.8",
+    "license": "restricted",
+    "name": "KerboKatz - SmallUtilities - FPSViewer [PRO-KCMIRROR]",
+    "release_date": "2019-10-18T19:35:54Z",
+    "resources": {
+        "bugtracker": "https://github.com/KerboKatz/SmallUtilities/issues",
+        "homepage": "http://kerbokatz.github.io/",
+        "repository": "https://github.com/KerboKatz/SmallUtilities"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.5.4-KSP1.8",
+    "x_generated_by": "netkan"
+}

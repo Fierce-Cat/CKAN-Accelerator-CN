@@ -1,0 +1,72 @@
+{
+    "abstract": "Real fuels and tanks for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "ialdabaoth",
+        "NathanKell",
+        "taniwha",
+        "Starwaster",
+        "blowfish"
+    ],
+    "conflicts": [
+        {
+            "name": "ModularFuelSystem"
+        },
+        {
+            "name": "ModularFuelTanks"
+        },
+        {
+            "name": "Fuelswitchtoeverytank"
+        },
+        {
+            "name": "StockFuelSwitch"
+        },
+        {
+            "name": "EngineIgnitor"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealFuels-Engine-Configs"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "SolverEngines"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/NathanKell/ModularFuelSystem/releases/download/rf-v12.8.4/RealFuels_v12.8.4.zip?auth_key=1748275916-343643cde94846ee8ebdde7bbf61ba49-0-a3fab9e1dd2eb707c2502398a8d0faf7&size=326818&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AF757C4CAE347D045A2A3B829705DAB43D18E116",
+        "sha256": "3DBCB06A71C7BA1DD2BC8FACB7DA8184CB1A6AFA838798C00D9F1F269FBA135B"
+    },
+    "download_size": 326818,
+    "identifier": "RealFuels",
+    "install": [
+        {
+            "filter": ".DS_Store",
+            "find": "RealFuels",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.7.0",
+    "license": "CC-BY-SA",
+    "name": "Real Fuels [PRO-KCMIRROR]",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?showtopic=58236",
+        "metanetkan": "https://raw.githubusercontent.com/NathanKell/ModularFuelSystem/master/NetKAN/RealFuels.netkan",
+        "repository": "https://github.com/NathanKell/ModularFuelSystem"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "rf-v12.8.4",
+    "x_generated_by": "netkan"
+}

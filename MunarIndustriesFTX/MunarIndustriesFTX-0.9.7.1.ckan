@@ -1,0 +1,56 @@
+{
+    "abstract": "A collection of 52 modular parts designed to allow for greater flexibility in craft configuration.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/ModularFuelTankExpansion/releases/download/0.9.7.1/FuelTankExpansion-1.12.0-0.9.7.1.zip",
+        "https://spacedock.info/mod/1396/Fuel%20Tank%20Expansion%20Rebuilt/download/0.9.7.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "54C4FE2710B036DB2521A35CD48D63B2DE307932",
+        "sha256": "71B41D1FECF08C7EB8E99B760471DD90E262DC209629FD7ACECE6B697C0DE09F"
+    },
+    "download_size": 9343608,
+    "identifier": "MunarIndustriesFTX",
+    "install": [
+        {
+            "find": "MunarIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 23616438,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Fuel Tank Expansion Rebuilt",
+    "recommends": [
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        }
+    ],
+    "release_date": "2022-01-25T19:36:46.156058+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/ModularFuelTankExpansion/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/161093-12-13-beta-release-munar-industries-modular-fuel-tank-expansion-rebuilt/",
+        "remote-avc": "http://ksp.spacetux.net/avc/FuelTankExpansion",
+        "repository": "https://github.com/linuxgurugamer/ModularFuelTankExpansion",
+        "spacedock": "https://spacedock.info/mod/1396/Fuel%20Tank%20Expansion%20Rebuilt",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Fuel_Tank_Expansion_Rebuilt/Fuel_Tank_Expansion_Rebuilt-1496318657.181578.jpg"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "0.9.7.1",
+    "x_generated_by": "netkan"
+}

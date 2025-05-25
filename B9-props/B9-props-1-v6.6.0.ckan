@@ -1,0 +1,56 @@
+{
+    "abstract": "A selection of IVA props from B9's cockpits [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "bac9",
+    "depends": [
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/blowfishpro/B9-Aerospace/releases/download/v6.6.0/B9_Aerospace_v6.6.0.zip?auth_key=1748275917-36d4ccbb4a874972a51a538eeb3fc334-0-ee754b6ba52103e3f263bbe12bdab730&size=79103001&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C3A726230D6B5ECB0E178AC8029AF2CE3CFF0184",
+        "sha256": "1383D7112F6599F6948DC74F70D282D3B9006DD5B6341B0781E5CC7B58ACA936"
+    },
+    "download_size": 79103001,
+    "identifier": "B9-props",
+    "install": [
+        {
+            "file": "GameData/B9_Aerospace/Props",
+            "install_to": "GameData/B9_Aerospace"
+        },
+        {
+            "file": "GameData/B9_Aerospace/B9_Aerospace.version",
+            "install_to": "GameData/B9_Aerospace/Props"
+        }
+    ],
+    "install_size": 11595173,
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "B9 Aerospace Props [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "B9"
+        }
+    ],
+    "release_date": "2020-02-05T08:30:58Z",
+    "resources": {
+        "bugtracker": "https://github.com/blowfishpro/B9-Aerospace/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=155491",
+        "metanetkan": "https://raw.githubusercontent.com/blowfishpro/B9-Aerospace/master/NetKAN/B9-props.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/blowfishpro/B9-Aerospace/master/GameData/B9_Aerospace/B9_Aerospace.version",
+        "repository": "https://github.com/blowfishpro/B9-Aerospace"
+    },
+    "spec_version": "v1.2",
+    "tags": [
+        "config",
+        "crewed",
+        "first-person"
+    ],
+    "version": "1:v6.6.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,60 @@
+{
+    "abstract": "Aircraft routes all around the Kerbin! Contracts to perform various flights between majority of Kerbin Side bases. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Keniamin",
+    "depends": [
+        {
+            "name": "KerbinSide-virt"
+        },
+        {
+            "min_version": "1.12.1",
+            "name": "ContractConfigurator"
+        },
+        {
+            "min_version": "2.0",
+            "name": "ContractConfigurator-KerbinSideJobs"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Keniamin/KerbinSideGAP/releases/download/1.4/KerbinSideGAP-1.4.zip?auth_key=1748275915-510a8f75486c467a98a6e4906c4bb707-0-b6fe78fb0d9723f1d6f221d5b374458d&size=163788&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D9A593E101AC92C3DDC89F24D83FB909A64785D9",
+        "sha256": "0627DFC40B5BCA5B9E33CA9B0DFDA5CB7177972E294EED6921EA72836DE506B0"
+    },
+    "download_size": 163788,
+    "identifier": "KerbinSideGAP",
+    "install": [
+        {
+            "file": "KerbinSideGAP",
+            "install_to": "GameData/ContractPacks"
+        },
+        {
+            "file": "KerbinSideRunways.rwy",
+            "install_to": "GameData/KerbalScienceFoundation/NavInstruments/Runways"
+        }
+    ],
+    "license": "CC-BY-NC-4.0",
+    "name": "Kerbin Side GAP [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "NavUtilities"
+        },
+        {
+            "name": "WaypointManager"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133545-10x-kerbin-side-gap/",
+        "repository": "https://github.com/Keniamin/KerbinSideGAP"
+    },
+    "spec_version": "v1.10",
+    "suggests": [
+        {
+            "name": "KerbalAircraftExpansion"
+        },
+        {
+            "name": "WiderContractsApp"
+        }
+    ],
+    "version": "1.4",
+    "x_generated_by": "netkan"
+}

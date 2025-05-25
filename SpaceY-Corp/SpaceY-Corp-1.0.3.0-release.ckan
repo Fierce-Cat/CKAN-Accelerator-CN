@@ -1,0 +1,46 @@
+{
+    "abstract": "Space, why? Because it's there! Y is greater than X. Adds SpaceY Corporation's agent, flags, and common config files used in all SpaceY add-ons for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3093/SpaceY%20Corporation%20(SYC)/download/1.0.3.0-release",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A9E2F5C2FB4DE32EEE910DA61020B8E62F6725A9",
+        "sha256": "4C2E9FC4CCB222CB511D15D05B89E5586F1FFCCA21A0148C904320C3541E7929"
+    },
+    "download_size": 49774,
+    "identifier": "SpaceY-Corp",
+    "install": [
+        {
+            "find": "SpaceY",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 687951,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-SA",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "SpaceY Corporation (SYC)",
+    "release_date": "2023-06-27T06:06:08.467552+00:00",
+    "resources": {
+        "homepage": "https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorp",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/SpaceYCorp/master/SpaceYCorp.version",
+        "repository": "https://zer0kerbal.github.io/SpaceYCorp",
+        "spacedock": "https://spacedock.info/mod/3093/SpaceY%20Corporation%20(SYC)",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/SpaceY_Corp_SYC/SpaceY_Corp_SYC-1683834408.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "agency",
+        "flags"
+    ],
+    "version": "1.0.3.0-release",
+    "x_generated_by": "netkan"
+}

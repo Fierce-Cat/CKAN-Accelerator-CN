@@ -1,0 +1,70 @@
+{
+    "abstract": "A set of parts that enable you to make new parts in flight, recycle old parts, and convert ore",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "Workshop"
+        },
+        {
+            "name": "OSEWorkShopCont"
+        }
+    ],
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2086/OSE%20Workshop%20Reworked/download/1.2.14.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B1F16E8766466B9756DDE70A0A58C4F504800C4D",
+        "sha256": "FC3BBFE64946001E57CCCA8B7D335690CED97CC2DF5BA11007E9AA3B992331AA"
+    },
+    "download_size": 5764610,
+    "identifier": "OSEWorkShopReworked",
+    "install": [
+        {
+            "find": "Workshop",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 27616049,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "OSE Workshop Reworked",
+    "release_date": "2020-07-07T18:52:59.437257+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/Workshop/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182425-161-ose-workshop-reworked/",
+        "remote-avc": "http://ksp.spacetux.net/avc/Workshop",
+        "repository": "https://github.com/linuxgurugamer/Workshop",
+        "spacedock": "https://spacedock.info/mod/2086/OSE%20Workshop%20Reworked",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/OSE_Workshop_Reworked/OSE_Workshop_Reworked-1551017415.9841497.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1.2.14.3",
+    "x_generated_by": "netkan"
+}

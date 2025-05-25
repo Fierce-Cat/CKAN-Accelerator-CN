@@ -1,0 +1,45 @@
+{
+    "abstract": "An ingame implementation of Alexmun's Launch Window Planner [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "TriggerAu",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/TriggerAu/TransferWindowPlanner/releases/download/v1.8.0.0/TransferWindowPlanner_1.8.0.0.zip?auth_key=1748275915-e1182818c9ce490b953bbdf0297dbd57-0-3b053c156ba0fb9983b8a4ab9fc878a3&size=97344&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ABB352F4BCEA5734039DB1AA8A82AADF97B01E0B",
+        "sha256": "C71E5A25AC6C9BE01C5E038DE141C99BB18986C227A8A6C0B8A5A0E7128B358F"
+    },
+    "download_size": 97344,
+    "identifier": "TransferWindowPlanner",
+    "install": [
+        {
+            "find": "TransferWindowPlanner",
+            "install_to": "GameData/TriggerTech"
+        }
+    ],
+    "install_size": 168693,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "Transfer Window Planner [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "TriggerAu-Flags"
+        }
+    ],
+    "release_date": "2022-04-11T08:15:38Z",
+    "resources": {
+        "bugtracker": "https://github.com/TriggerAu/TransferWindowPlanner/issues",
+        "curse": "http://kerbal.curseforge.com/projects/transfer-window-planner",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/84005-*",
+        "license": "https://github.com/TriggerAu/TransferWindowPlanner/blob/master/LICENSE",
+        "manual": "http://triggerau.github.io/TransferWindowPlanner/",
+        "remote-avc": "https://raw.githubusercontent.com/TriggerAu/TransferWindowPlanner/master/TransferWindowPlanner/TransferWindowPlanner.version",
+        "repository": "https://github.com/TriggerAu/TransferWindowPlanner"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "v1.8.0.0",
+    "x_generated_by": "netkan"
+}

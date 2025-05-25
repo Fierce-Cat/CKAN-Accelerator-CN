@@ -1,0 +1,54 @@
+{
+    "abstract": "Visual Antenna Helper [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/Antenna-Helper/releases/download/1.0.7.7/AntennaHelper-1.12.0-1.0.7.7.zip?auth_key=1748275915-b104794200704752902f256b4c55115b-0-cb5f0e333aa1325342c7186d413f2a74&size=128440&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "981E0DE9FB2E951D5590E687E15D5AF47FB2CA6D",
+        "sha256": "A5E5F12841923A9AC4FF1C8255313B4CC61381779965A5E1B1153EE5EDD5074D"
+    },
+    "download_size": 128440,
+    "identifier": "AntennaHelper",
+    "install": [
+        {
+            "find": "AntennaHelper",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 224571,
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Antenna Helper [PRO-KCMIRROR]",
+    "release_date": "2022-01-23T20:31:52Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/Antenna-Helper/issues",
+        "discussions": "https://github.com/linuxgurugamer/Antenna-Helper/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188294-*",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/Antenna-Helper/master/AntennaHelper.version",
+        "repository": "https://github.com/linuxgurugamer/Antenna-Helper"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information",
+        "comms"
+    ],
+    "version": "2:1.0.7.7",
+    "x_generated_by": "netkan"
+}

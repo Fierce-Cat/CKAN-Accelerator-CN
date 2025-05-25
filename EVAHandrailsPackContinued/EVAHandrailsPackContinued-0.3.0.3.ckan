@@ -1,0 +1,58 @@
+{
+    "abstract": "handrails",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "NebulaEVAHandrails"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "2.6.5",
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/49/EVA%20Handrails%20Continued/download/0.3.0.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "21FB1393E60648739C78596E2B2E0E28CA134150",
+        "sha256": "D1EACC8D0796B4665776EF14EE31CBA79CC52C75EF5CA321AE078E0D199B04BF"
+    },
+    "download_size": 120804,
+    "identifier": "EVAHandrailsPackContinued",
+    "install": [
+        {
+            "filter_regexp": "ModuleManager.+\\.dll",
+            "find": "NEBULA",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 419457,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-SA-3.0",
+    "name": "EVA Handrails Continued",
+    "provides": [
+        "NebulaEVAHandrails"
+    ],
+    "release_date": "2020-03-20T14:26:31.801139+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/EVAHandrailsPack/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158708-12-nebula-eva-handrails-continued/",
+        "remote-avc": "http://ksp.spacetux.net/avc/EVAHandrailsPackContinued",
+        "repository": "https://github.com/linuxgurugamer/EVAHandrailsPack",
+        "spacedock": "https://spacedock.info/mod/49/EVA%20Handrails%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/EVA_Handrails_Continued/EVA_Handrails_Continued-1478004467.1139538.jpg"
+    },
+    "spec_version": "v1.10",
+    "suggests": [
+        {
+            "name": "EvaHandrailsKISCompatibility"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "0.3.0.3",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,43 @@
+{
+    "abstract": "A bunch of small utilities to make life in kerbal more enjoyable. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "SpaceTiger",
+        "SpaceKitty"
+    ],
+    "depends": [
+        {
+            "min_version": "1.5.2",
+            "name": "KerboKatzUtilities"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KerboKatz/SmallUtilities/releases/download/1.5.4-KSP1.8/SmallUtilities.zip?auth_key=1748275917-ab023fca043b4c3ea6398f4973f2917d-0-c9b1db58c7ebbf7a0e1df7e1fba2b93e&size=181201&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "21DA1306F80F228338C927B108AD9DBA85A13C0D",
+        "sha256": "6E47A15E492B468810BA4B4F0978DBCDDB089D2A90120ED0341789A665778530"
+    },
+    "download_size": 181201,
+    "identifier": "KerboKatzSmallUtilities",
+    "install": [
+        {
+            "find": "SmallUtilities",
+            "install_to": "GameData/KerboKatz"
+        }
+    ],
+    "ksp_version": "1.8",
+    "license": "restricted",
+    "name": "KerboKatz - SmallUtilities [PRO-KCMIRROR]",
+    "release_date": "2019-10-18T19:34:50Z",
+    "resources": {
+        "bugtracker": "https://github.com/KerboKatz/SmallUtilities/issues",
+        "homepage": "http://kerbokatz.github.io/",
+        "repository": "https://github.com/KerboKatz/SmallUtilities"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1.5.4-KSP1.8",
+    "x_generated_by": "netkan"
+}

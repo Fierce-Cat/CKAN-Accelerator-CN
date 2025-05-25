@@ -1,0 +1,48 @@
+{
+    "abstract": "Adds green rings to Kerbin! (Optionally) moves Minmus inside them, with new science logs!",
+    "author": "Lithium_7",
+    "conflicts": [
+        {
+            "name": "MinmarKerbinRings-Classic"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3031/Minmar%20Kerbin%20Rings/download/2.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3FF69B0AB4B4E9D0BAF196D8F590BB68A7885A91",
+        "sha256": "AAEE4FE6463E9194BCDB65EF3EAA7E1A61E1EFD0327604A6AAC759EB7F69CD7A"
+    },
+    "download_size": 6802709,
+    "identifier": "MinmarKerbinRings-New",
+    "install": [
+        {
+            "find": "MinmarKerbinRings",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 39395,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Minmar Kerbin Rings - New Texture",
+    "release_date": "2023-03-09T04:38:15.654391+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190029-112x-minmar-kerbin-rings-20-kopernicus/",
+        "spacedock": "https://spacedock.info/mod/3031/Minmar%20Kerbin%20Rings",
+        "x_screenshot": "https://spacedock.info/content/Lithium_7_82426/Minmar_Kerbin_Rings/Minmar_Kerbin_Rings-1678336713.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "2.4",
+    "x_generated_by": "netkan"
+}

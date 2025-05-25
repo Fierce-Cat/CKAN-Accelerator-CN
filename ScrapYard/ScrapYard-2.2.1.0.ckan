@@ -1,0 +1,99 @@
+{
+    "abstract": "A common part inventory add-on for Kerbal Space Program.",
+    "author": [
+        "magico13",
+        "severedsolo",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1746/ScrapYard%20(SYD)/download/2.2.1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7C2095792549785A1CF32D5A911722800690FFC5",
+        "sha256": "D96245EA5EB5251DAF5335232508E140C1CBF5407CFA1E6988DAFB2A1E326102"
+    },
+    "download_size": 116007,
+    "identifier": "ScrapYard",
+    "install_size": 294036,
+    "ksp_version_max": "1.12.9999",
+    "ksp_version_min": "1.7.3",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "ScrapYard",
+    "recommends": [
+        {
+            "name": "OhScrap"
+        },
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "release_date": "2022-03-27T06:04:07.209678+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/ScrapYard/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192456-*",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/ScrapYard/master/GameData/ScrapYard/ScrapYard.version",
+        "repository": "https://github.com/zer0Kerbal/ScrapYard",
+        "spacedock": "https://spacedock.info/mod/1746/ScrapYard%20(SYD)",
+        "x_screenshot": "https://spacedock.info/content/magico13_204/ScrapYard/ScrapYard-1584356712.188748.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "Kaboom"
+        },
+        {
+            "name": "Komplexity"
+        },
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "StageRecovery"
+        },
+        {
+            "name": "KerbalKrashSystem"
+        },
+        {
+            "name": "Tweakscale"
+        },
+        {
+            "name": "KSP-Recall"
+        }
+    ],
+    "supports": [
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "KerbalKrashSystem"
+        },
+        {
+            "name": "FerramAerospaceResearchContinued"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "editor"
+    ],
+    "version": "2.2.1.0",
+    "x_generated_by": "netkan"
+}

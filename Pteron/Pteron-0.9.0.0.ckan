@@ -1,0 +1,67 @@
+{
+    "abstract": "Three kerbal Micro Shuttle and Rescue Vehicle (MSRV) for Kerbal Space Program. This is not a SSTO.",
+    "author": "zer0Kerbal",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2379/Pteron/download/0.9.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F76E691AA5AA5B1BD5640EFAEB0209E2792F78C1",
+        "sha256": "E21B59D53836D59891D8C1BF729723F8603168B8625C4FBBFE87AB2FFDF38984"
+    },
+    "download_size": 1937692,
+    "identifier": "Pteron",
+    "install": [
+        {
+            "find": "FruitBatIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 12286112,
+    "ksp_version_max": "1.12.2",
+    "ksp_version_min": "1.7.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Pteron",
+    "release_date": "2021-12-07T01:55:11.418748+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/Pteron/issues",
+        "discussions": "https://github.com/zer0Kerbal/Pteron/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/Pteron.version",
+        "repository": "https://github.com/zer0Kerbal/Pteron",
+        "spacedock": "https://spacedock.info/mod/2379/Pteron",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Pteron/Pteron-1587347777.7326088.jpg"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "ScrapYard"
+        },
+        {
+            "name": "OhScrap"
+        },
+        {
+            "name": "StageRecovery"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "0.9.0.0",
+    "x_generated_by": "netkan"
+}

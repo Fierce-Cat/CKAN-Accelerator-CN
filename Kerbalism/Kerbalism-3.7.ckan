@@ -1,0 +1,89 @@
+{
+    "abstract": "Add life support, quality-of-life, radiation, malfunctions, signals and space weather mechanics. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Kerbalism Contributors",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "Kerbalism-Config"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kerbalism/Kerbalism/releases/download/3.7/Kerbalism-Core_v3.7_for_KSP1.5.0-1.9.9.zip?auth_key=1748275917-772e310fabdc4ca592e4cf1b0908298c-0-e8166f4e0779d4c0443a35e08fcc617c&size=1500914&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "82B3D32E58F593ED30B846869889840F4A77C4CD",
+        "sha256": "E62DDF73775BE5B773561785A89724C363F8891038C117E1B9713108927B1ED6"
+    },
+    "download_size": 1500914,
+    "identifier": "Kerbalism",
+    "install": [
+        {
+            "find": "Kerbalism",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.9",
+    "ksp_version_min": "1.5.0",
+    "license": "Unlicense",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Kerbalism [PRO-KCMIRROR]",
+    "provides": [
+        "Harmony1"
+    ],
+    "recommends": [
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "resources": {
+        "homepage": "https://kerbalism.github.io/Kerbalism",
+        "repository": "https://github.com/Kerbalism/Kerbalism"
+    },
+    "spec_version": "v1.18",
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "SCANsat"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed",
+        "science",
+        "resources"
+    ],
+    "version": "3.7",
+    "x_generated_by": "netkan"
+}

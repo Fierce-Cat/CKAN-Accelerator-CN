@@ -1,0 +1,74 @@
+{
+    "abstract": "Read info and follow the forum instructions! Parts that are walkable inside. Is Like near future Vtol flying car, but this one can go to space.",
+    "author": "Climberfx",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KSPWheel"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2413/Omicron%20Flying%20Space%20Car/download/0.6.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C59BFC148B6F53E9C082368636C1678126FADA10",
+        "sha256": "E1F9D5234D8C1AC515EC50BBAD31E75EB67AFFD472A2998FEB87559853C81596"
+    },
+    "download_size": 21750549,
+    "identifier": "OmicronFlyingSpaceCar",
+    "install": [
+        {
+            "find": "Omicron",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.7.3",
+    "license": "GPL-3.0",
+    "name": "Omicron Flying Space Car",
+    "recommends": [
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "UniversalStorage2"
+        }
+    ],
+    "release_date": "2020-05-27T23:21:46.345034+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/rvalle7/Omicron/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/154862-191-omicron-flying-space-car-release-060/",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?download&id=418",
+        "repository": "https://github.com/rvalle7/Omicron",
+        "spacedock": "https://spacedock.info/mod/2413/Omicron%20Flying%20Space%20Car",
+        "x_screenshot": "https://spacedock.info/content/Climberfx_40376/Omicron_Flying_Space_Car/Omicron_Flying_Space_Car-1589099562.3637786.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "RemoteTech"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "0.6.5",
+    "x_generated_by": "netkan"
+}

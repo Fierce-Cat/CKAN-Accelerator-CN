@@ -1,0 +1,39 @@
+{
+    "abstract": "A kOS-based autopilot for KSP",
+    "author": "spacetravel",
+    "depends": [
+        {
+            "name": "kOS"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3155/SimpleAutopilot/download/V1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E113F07C6F7B304C0758B77203FB4FDABD66BEB6",
+        "sha256": "104A53FC2D0BA1A6366244ADCB9373CF35D52D7371E80C89F1BA6172C9373BCD"
+    },
+    "download_size": 65126,
+    "identifier": "kOS-SimpleAutopilot",
+    "install": [
+        {
+            "find": "Script",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 120415,
+    "ksp_version": "1.12.4",
+    "license": "CC-BY",
+    "name": "SimpleAutopilot",
+    "release_date": "2022-11-19T10:52:40.035561+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3155/SimpleAutopilot",
+        "x_screenshot": "https://spacedock.info/content/spacetravel_87893/SimpleAutopilot/SimpleAutopilot-1670264994.png"
+    },
+    "spec_version": "v1.29",
+    "tags": [
+        "config",
+        "control"
+    ],
+    "version": "V1.0",
+    "x_generated_by": "netkan"
+}

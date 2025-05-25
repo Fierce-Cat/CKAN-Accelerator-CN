@@ -1,0 +1,54 @@
+{
+    "abstract": "Adds the recently announced National Team's Lander to KSP.",
+    "author": "IsaQuest",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "download": [
+        "https://github.com/IsaQuest/BlueMoonKSP/releases/download/v1.1.0/IsaQuest_BlueMoon_v1.1.0.zip",
+        "https://spacedock.info/mod/3403/IsaQuest's%20Blue%20Moon/download/v1.1.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8020DC6EA4D0F60D5A77185A3DFE5BBDF168262A",
+        "sha256": "1E526D1E3D35A916D1A9801A0CA7C2449C1779918405AEFB58C2DB7C0FB1EF74"
+    },
+    "download_size": 24624830,
+    "identifier": "IsaQuestsBlueMoon",
+    "install": [
+        {
+            "find": "IQ_BlueMoon",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 80293189,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "IsaQuest's Blue Moon",
+    "recommends": [
+        {
+            "name": "ProvenanceAerospace"
+        }
+    ],
+    "release_date": "2024-08-10T15:52:21.65238+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/IsaQuest/BlueMoonKSP/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/217607-ksp-v112x-isaquests-blue-moon-lander/",
+        "repository": "https://github.com/IsaQuest/BlueMoonKSP",
+        "spacedock": "https://spacedock.info/mod/3403/IsaQuest's%20Blue%20Moon",
+        "x_screenshot": "https://spacedock.info/content/IsaQuest_62203/IsaQuests_Blue_Moon/IsaQuests_Blue_Moon-1686253543.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "parts",
+        "crewed",
+        "graphics"
+    ],
+    "version": "v1.1.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,37 @@
+{
+    "abstract": "Mapping tool for craft sharing site with Auto Mod Detection and Search-By-Mod feature. Not the primary KerbalX Mod [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "katateochi",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Sujimichi/KerbalX/releases/download/0.4.2/PartMapper.zip?auth_key=1748275918-947ad7cc4b9644cd8bf5057280f3353f-0-74b595e0c0dbe92d4b66c622010855b3&size=2364774&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B427EC1C84C94C0CB252C2BF36263519B31A7593",
+        "sha256": "5664A2EA5C2C6D0C3CEE639196B7B2D07FBF8962C3D163D2E3C20F1AF782B369"
+    },
+    "download_size": 2364774,
+    "identifier": "PartMapper",
+    "install": [
+        {
+            "file": "PartMapper.exe",
+            "install_to": "GameRoot"
+        },
+        {
+            "file": "ignore_mods.txt",
+            "install_to": "GameRoot"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "GPL-3.0",
+    "name": "KerbalX Part Mapper [PRO-KCMIRROR]",
+    "resources": {
+        "bugtracker": "https://github.com/Sujimichi/KerbalX/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/150441-140-kerbalx-mod-upload-to-kerbalx-direct-from-ksp/",
+        "repository": "https://github.com/Sujimichi/KerbalX"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "app"
+    ],
+    "version": "0.4.2",
+    "x_generated_by": "netkan"
+}

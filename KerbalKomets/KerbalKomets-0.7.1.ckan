@@ -1,0 +1,48 @@
+{
+    "abstract": "Add komets to your game!",
+    "author": "Angel125",
+    "depends": [
+        {
+            "name": "KerbalKomets-PlayMode"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1249/Kerbal%20Komets/download/0.7.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "639A80B05D143B7D88B185702D02AB9C953A0CF5",
+        "sha256": "2127AB6C524FC7C060248CC1456CD85BAE1EB95D543ECA358F31D0E71DE7D30C"
+    },
+    "download_size": 143914,
+    "identifier": "KerbalKomets",
+    "install": [
+        {
+            "filter_regexp": [
+                ".*\\.pdb$",
+                "Templates"
+            ],
+            "find": "WildBlueIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 161884,
+    "ksp_version_max": "1.9.0",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Kerbal Komets",
+    "release_date": "2020-02-11T18:22:55.604749+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/KerbalKomets/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/157387-122-kerbalkomets-v020-add-komets-to-your-game/",
+        "remote-avc": "https://github.com/Angel-125/KerbalKomets/raw/master/GameData/WildBlueIndustries/KerbalKomets/KerbalKomets.version",
+        "repository": "https://github.com/Angel-125/KerbalKomets",
+        "spacedock": "https://spacedock.info/mod/1249/Kerbal%20Komets",
+        "x_screenshot": "https://spacedock.info/content/Angel125_1093/Kerbal_Komets/Kerbal_Komets-1488831145.115356.png"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "plugin",
+        "planet-pack"
+    ],
+    "version": "0.7.1",
+    "x_generated_by": "netkan"
+}

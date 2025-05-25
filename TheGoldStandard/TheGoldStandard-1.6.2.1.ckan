@@ -1,0 +1,109 @@
+{
+    "abstract": "Adds the pursuit of gold and an extremely rare resource called Unobtainium to the game! Mine either of these heavy resources for fun and profit! A great alternative to contract spam! Eight new parts and and additional functionality to several stock parts in Kerbal Space Program.",
+    "author": [
+        "dewar",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/963/The%20Gold%20Standard!%20(GOLD)%20by%20Dewar/download/1.6.2.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "079FF1884F5112AE7887C205E36FC2374B2755ED",
+        "sha256": "81F3EF08AD84F288E42F15C4C49FA565B28F92B670331C577C906977FA0D4DD0"
+    },
+    "download_size": 3441038,
+    "identifier": "TheGoldStandard",
+    "install": [
+        {
+            "find": "TheGoldStandard",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 11315134,
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.12.2",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "The Gold Standard! (GOLD) by Dewar",
+    "release_date": "2022-01-18T07:23:27.950636+00:00",
+    "resources": {
+        "homepage": "https://www.curseforge.com/kerbal/ksp-mods/TheGoldStandard",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/TheGoldStandard/master/TheGoldStandard.version",
+        "repository": "https://zer0kerbal.github.io/TheGoldStandard",
+        "spacedock": "https://spacedock.info/mod/963/The%20Gold%20Standard!%20(GOLD)%20by%20Dewar",
+        "x_screenshot": "https://spacedock.info/content/dewar_8109/The_Gold_Standard/The_Gold_Standard-1686249622.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SimpleLogistics"
+        },
+        {
+            "name": "SimpleConstruction"
+        },
+        {
+            "name": "NotSoSimpleConstruction"
+        },
+        {
+            "name": "Biomatic"
+        },
+        {
+            "name": "DockingPortDescriptions"
+        },
+        {
+            "name": "PicoPortShielded"
+        },
+        {
+            "name": "ODFC-Refueled"
+        },
+        {
+            "name": "FieldTrainingFacility"
+        },
+        {
+            "name": "FieldTrainingLaboratory"
+        },
+        {
+            "name": "TransparentPods"
+        },
+        {
+            "name": "Nuke-TinyPartsRefueled"
+        },
+        {
+            "name": "ScrapYard"
+        },
+        {
+            "name": "DMTanks-AeroRTG"
+        },
+        {
+            "name": "DMTanks-CargoBays"
+        },
+        {
+            "name": "DMTanks-Fuselage"
+        },
+        {
+            "name": "DMTanks-SphericalTanks"
+        },
+        {
+            "name": "B9StockPatches"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "StockalikeMiningExtension"
+        }
+    ],
+    "tags": [
+        "config",
+        "parts",
+        "resources"
+    ],
+    "version": "1.6.2.1",
+    "x_generated_by": "netkan"
+}

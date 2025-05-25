@@ -1,0 +1,47 @@
+{
+    "abstract": "Batteries and thermoelectric converters [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.4.9/SterlingSystems_Electrics_0.4.9.zip?auth_key=1748275916-248573e562374903bc134fc3c54f8e74-0-5025516997cda0eb5465bcd356199dea&size=35768177&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AC9817016AF0AFB5E573F2EB3D62A33031B880D3",
+        "sha256": "71B740B0071ABF5B7E8600E056C7D041F240D39AE207C507533C808B38733513"
+    },
+    "download_size": 35768177,
+    "identifier": "SterlingSystemsElectrics",
+    "install": [
+        {
+            "find": "Electrics",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 126699071,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Electrics [PRO-KCMIRROR]",
+    "release_date": "2024-09-28T17:06:05Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.4.9",
+    "x_generated_by": "netkan"
+}

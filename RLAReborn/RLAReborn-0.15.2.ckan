@@ -1,0 +1,60 @@
+{
+    "abstract": "Parts to fill stock niches",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "RLA-Stockalike"
+        },
+        {
+            "name": "RLARecontinued"
+        },
+        {
+            "name": "RLAContinued"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/RLA_Reborn/releases/download/0.15.2/RLA_Reborn-0.15.2.zip",
+        "https://spacedock.info/mod/1880/RLA%20Reborn/download/0.15.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7BB2B91F6B985C905A9772DCD525EAEEB3153B58",
+        "sha256": "62B2E51B305495DE9A9BF4E95DDB1447AC54A776E4DE783FC03313DDE00BAA70"
+    },
+    "download_size": 7329628,
+    "identifier": "RLAReborn",
+    "install": [
+        {
+            "find": "RLA_Reborn",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 18234072,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-SA-4.0",
+    "localizations": [
+        "en-us",
+        "es-es"
+    ],
+    "name": "RLA Reborn",
+    "release_date": "2019-12-14T03:28:39.52943+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/RLA_Reborn/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175512-14-rla-reborn/",
+        "remote-avc": "http://ksp.spacetux.net/avc/RLA_Reborn",
+        "repository": "https://github.com/linuxgurugamer/RLA_Reborn",
+        "spacedock": "https://spacedock.info/mod/1880/RLA%20Reborn"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.15.2",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,101 @@
+{
+    "abstract": "Starship vehicle by SpaceX [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Kari",
+        "Sofie"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "KSPCommunityPartModules"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kari1407/Starship-Expansion-Project/releases/download/v3.0.0-b1/Starship-Expansion-Project-v3.0.0-b1.zip?auth_key=1748275914-d64c910878964e0e95b4b126232a49cc-0-01a7f14e0952cfe1904b649b4a1f525a&size=508166502&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "88538B069C4F0EA049B5C35A37AA9558A2BF769D9840DB9400E771B6639E7F95"
+    },
+    "download_size": 508166502,
+    "identifier": "StarshipExpansionProject",
+    "install": [
+        {
+            "filter": "Spaces",
+            "find": "StarshipExpansionProject",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1310597676,
+    "ksp_version_min": "1.12",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Starship Expansion Project [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "StarshipExpansionProjectIVA"
+        },
+        {
+            "name": "StarshipLaunchExpansion"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "Resurfaced"
+        },
+        {
+            "name": "KerbalJointReinforcementNext"
+        }
+    ],
+    "release_date": "2024-11-30T22:12:24Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/Kari1407/Starship-Expansion-Project/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/206555-1101-112x-starship-expansion-project-sep-v100-january-23rd-2022/",
+        "repository": "https://github.com/Kari1407/Starship-Expansion-Project"
+    },
+    "spec_version": "v1.36",
+    "suggests": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ModularLaunchPads"
+        },
+        {
+            "name": "TundraExploration"
+        },
+        {
+            "name": "FMRS"
+        },
+        {
+            "name": "Trajectories"
+        },
+        {
+            "name": "JNSQ"
+        }
+    ],
+    "supports": [
+        {
+            "name": "HullcamVDSContinued"
+        },
+        {
+            "name": "NeptuneCamera"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "v.3.0.0-b1",
+    "x_generated_by": "netkan"
+}

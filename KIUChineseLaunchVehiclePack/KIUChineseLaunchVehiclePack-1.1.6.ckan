@@ -1,0 +1,74 @@
+{
+    "abstract": "This mod aims to bring as many Chinese Launch vehicles to KSP as possible.",
+    "author": [
+        "Old_Copper",
+        "Armo",
+        "Launcelot"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "KIUChinese-Common"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3143/KCLV%20(KIU%20Chinese%20Launch%20Vehicle%20Pack)/download/1.1.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7978E6D5BBE771EB0126C9505573B70CF5818448",
+        "sha256": "4D5AF7B02EDCADB45AA8FCA8D64DE9EFF976BAF30BBD96E949F9648DC4274282"
+    },
+    "download_size": 81603242,
+    "identifier": "KIUChineseLaunchVehiclePack",
+    "install": [
+        {
+            "filter": [
+                "Common",
+                "CraftFiles"
+            ],
+            "find": "KIU",
+            "install_to": "GameData"
+        },
+        {
+            "as": "VAB",
+            "find": "CraftFiles/Non-RO",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 298748642,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "KIU Chinese Launch Vehicle Pack",
+    "recommends": [
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "release_date": "2024-02-29T02:55:05.087098+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Armo00/KIU-Pack/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208654-1123nt-chinese-aerospace-packv120/",
+        "repository": "https://github.com/Armo00/KIU-Pack",
+        "spacedock": "https://spacedock.info/mod/3143/KCLV%20(KIU%20Chinese%20Launch%20Vehicle%20Pack)",
+        "x_screenshot": "https://spacedock.info/content/Old_Copper_79837/KIU_Chinese_Launch_Vehicle_Pack/KIU_Chinese_Launch_Vehicle_Pack-1667076477.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts",
+        "graphics"
+    ],
+    "version": "1.1.6",
+    "x_generated_by": "netkan"
+}

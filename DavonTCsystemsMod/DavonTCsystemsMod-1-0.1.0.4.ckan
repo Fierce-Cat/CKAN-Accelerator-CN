@@ -1,0 +1,50 @@
+{
+    "abstract": "VTOL Autopilot",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2516/Davon%20Throttle%20Control%20Systems/download/0.1.0.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "89565294F14831A93A32792FB9D1969EC8399532",
+        "sha256": "1D784ED2EF183E40A12A571CCD46C3E3D4E5BECC4C9C1A4305ECD0394A4518C1"
+    },
+    "download_size": 35821,
+    "identifier": "DavonTCsystemsMod",
+    "install": [
+        {
+            "find": "DavonTCsystemsMod",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 74739,
+    "ksp_version_max": "1.12.4",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-2.0",
+    "name": "Davon Throttle Control Systems",
+    "release_date": "2022-11-30T01:23:45.359466+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/DavonTCsystemsMod/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196642-18-19-110-davon-throttle-control-systems-mod-renewed/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/DavonTCsystemsMod/master/DavonTCsystemsMod.version",
+        "repository": "https://github.com/linuxgurugamer/DavonTCsystemsMod",
+        "spacedock": "https://spacedock.info/mod/2516/Davon%20Throttle%20Control%20Systems",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Davon_Throttle_Control_Systems/Davon_Throttle_Control_Systems-1598965786.9999108.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "1:0.1.0.4",
+    "x_generated_by": "netkan"
+}

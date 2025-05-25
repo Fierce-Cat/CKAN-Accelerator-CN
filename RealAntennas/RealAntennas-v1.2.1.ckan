@@ -1,0 +1,45 @@
+{
+    "abstract": "KSP Mod to add better antenna / link calculations to CommNet. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "DRVeyl",
+    "conflicts": [
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "CommNetVisualization"
+        },
+        {
+            "name": "CommNetConstellation"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/DRVeyl/RealAntennas/releases/download/v1.2.1/RealAntennas-1.2.1.zip?auth_key=1748275916-4a55ddcf3162451e88871da66b5cced7-0-d8e10be53d1bd068060fb31dda4dac30&size=75646&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7B00A8660F3CA5C0F9E800B4D348C702401FC8CF",
+        "sha256": "1AD752ABCDA069471461D96B2F4E72B36B8137260EF9AB1235CC1C8DE27A2F63"
+    },
+    "download_size": 75646,
+    "identifier": "RealAntennas",
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-SA-4.0",
+    "name": "Real Antennas [PRO-KCMIRROR]",
+    "release_date": "2020-07-18T03:13:33Z",
+    "resources": {
+        "bugtracker": "https://github.com/DRVeyl/RealAntennas/issues",
+        "homepage": "https://github.com/DRVeyl/RealAntennas/wiki",
+        "repository": "https://github.com/DRVeyl/RealAntennas"
+    },
+    "spec_version": 1,
+    "tags": [
+        "comms",
+        "plugin"
+    ],
+    "version": "v1.2.1",
+    "x_generated_by": "netkan"
+}

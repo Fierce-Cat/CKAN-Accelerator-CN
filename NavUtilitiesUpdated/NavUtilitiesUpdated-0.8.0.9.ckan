@@ -1,0 +1,65 @@
+{
+    "abstract": "HSI and Instrument Landing System for both standalone and RPM",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "NavUtilities"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/NavInstruments/releases/download/0.8.0.9/NavInstruments-1.12.0-0.8.0.9.zip",
+        "https://spacedock.info/mod/2879/NavUtilities%20Updated/download/0.8.0.9"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A48CED84F7C603A52026E754D4340BB600D7A20F",
+        "sha256": "E82B529DB051A44CB902414DC528AA1169B62F8CFE44D9FB39762CB0458F3DD5"
+    },
+    "download_size": 1040147,
+    "identifier": "NavUtilitiesUpdated",
+    "install": [
+        {
+            "find": "NavInstruments",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1890972,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "NavUtilities Updated",
+    "provides": [
+        "NavUtilities"
+    ],
+    "release_date": "2022-12-06T04:08:00.579798+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/NavInstruments/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204929-112x-navutilities-continued-ft-hsi-instrument-landing-system-beta-now-available/page/2/",
+        "remote-avc": "http://ksp.spacetux.net/avc/NavInstruments",
+        "repository": "https://github.com/linuxgurugamer/NavInstruments",
+        "spacedock": "https://spacedock.info/mod/2879/NavUtilities%20Updated",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/NavUtilities_Updated/NavUtilities_Updated-1634491303.0875568.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "information",
+        "crewed"
+    ],
+    "version": "0.8.0.9",
+    "x_generated_by": "netkan"
+}

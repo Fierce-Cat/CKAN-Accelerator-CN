@@ -1,0 +1,57 @@
+{
+    "abstract": "Provides support to make creating and using custom tech trees easier. Allows part unlocks to be listed in the TechTree ConfigNode rather than having to edit every Part ConfigNode. Adds support for using custom textures to create icons for the tech tree. Adds a tree selection window to let the player select a tree for each new game.",
+    "author": [
+        "yongedevil",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "YongeTechTreesPlugin"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/YTK_TechTrees/releases/download/0.7.0.1/YongeTech_Tech_Trees_Plugin_Re-Revived-0.7.0.1.zip",
+        "https://spacedock.info/mod/1526/YongeTech:%20Tech%20Trees%20Plugin%20Re-Revived/download/0.7.0.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2FC1F9DC2F37DC74E02F52BF72C40EE5CC81687E",
+        "sha256": "4C5C3872A784A9381D52761799F763658E76D641DFF9059EFD71054DF7936028"
+    },
+    "download_size": 35667,
+    "identifier": "YongeTechTreesPlugin-Revived",
+    "install": [
+        {
+            "find": "GameData/YongeTech_TechTreesPlugin",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 56893,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "YongeTech Tech Trees Plugin Revived",
+    "provides": [
+        "YongeTechTreesPlugin"
+    ],
+    "release_date": "2025-01-24T14:59:30.305556+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/165667-yongetech-tech-trees-plugin-re-revived/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/YTK_TechTrees/refs/heads/master/YongeTech_TechTreesPlugin.version",
+        "repository": "https://github.com/linuxgurugamer/YTK_TechTrees",
+        "spacedock": "https://spacedock.info/mod/1526/YongeTech:%20Tech%20Trees%20Plugin%20Re-Revived",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/YongeTech_Tech_Trees_Plugin_Re-Revived/YongeTech_Tech_Trees_Plugin_Re-Revived-1505867502.4576943.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "ETT"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "tech-tree"
+    ],
+    "version": "1:0.7.0.1",
+    "x_generated_by": "netkan"
+}

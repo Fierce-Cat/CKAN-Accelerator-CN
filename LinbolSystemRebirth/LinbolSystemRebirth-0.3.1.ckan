@@ -1,0 +1,46 @@
+{
+    "abstract": "Replaces the stock system with an expansive quaternary system at 1/4 IRL Scale.",
+    "author": "RevanX",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3434/Linbol%20System%20Rebirth/download/0.3.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "753D2AB31256A2F31692184B7BE55149410962FA",
+        "sha256": "98BBCF83C2BB0468B43B437039D177622BBFBD1C1A87A90FC7302A7C7B0A043B"
+    },
+    "download_size": 287431172,
+    "identifier": "LinbolSystemRebirth",
+    "install": [
+        {
+            "find": "LSR",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1336570663,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Linbol System Rebirth",
+    "release_date": "2023-07-28T04:09:16.974291+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/RevanX-LSR/Linbol-System-Rebirth/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/218342-linbol-system-rebirth-a-quaternary-star-system-with-119-bodies-wip/",
+        "repository": "https://github.com/RevanX-LSR/Linbol-System-Rebirth",
+        "spacedock": "https://spacedock.info/mod/3434/Linbol%20System%20Rebirth",
+        "x_screenshot": "https://spacedock.info/content/RevanX_117585/Linbol_System_Rebirth/Linbol_System_Rebirth-1690204002.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "planet-pack",
+        "config"
+    ],
+    "version": "0.3.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

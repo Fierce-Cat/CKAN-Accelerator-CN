@@ -1,0 +1,60 @@
+{
+    "abstract": "Adds the possibility to mute all the KSP sounds.",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/108/QuickMute/download/1.4.0.8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2CCDA7D0C8C152322408B9AF1B6D28491E0B527D",
+        "sha256": "F78D810862822A63D253F322DC739A8FB536311B0BFBFCA72B2C6F556B151AF9"
+    },
+    "download_size": 53088,
+    "identifier": "QuickMute",
+    "install": [
+        {
+            "file": "GameData/QuickMods/QuickMute",
+            "install_to": "GameData/QuickMods"
+        }
+    ],
+    "install_size": 136066,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "fr-fr",
+        "zh-cn"
+    ],
+    "name": "QuickMute",
+    "release_date": "2024-03-15T18:50:42.613686+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/QuickMods/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
+        "remote-avc": "http://ksp.spacetux.net/avc/QuickMute",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/108/QuickMute"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "convenience",
+        "sound"
+    ],
+    "version": "1:1.4.0.8",
+    "x_generated_by": "netkan"
+}

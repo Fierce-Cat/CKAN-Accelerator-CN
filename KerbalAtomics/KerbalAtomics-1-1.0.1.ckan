@@ -1,0 +1,76 @@
+{
+    "abstract": "Provides several new and exciting nuclear engines to use in your game in many size classes and technologies, such as gas-core reactors, nuclear aerospikes and multimode engines.",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/710/Kerbal%20Atomics/download/1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2606D6C914B594FA05B1C18A2C5677369DFD1682",
+        "sha256": "864AAE1E887B9256D27C4E41D0959D6E5CBC5532F727FBBA1360020E77C16782"
+    },
+    "download_size": 71026871,
+    "identifier": "KerbalAtomics",
+    "install": [
+        {
+            "find": "KerbalAtomics",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.6.0",
+    "license": "restricted",
+    "name": "Kerbal Atomics",
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "KerbalAtomics-NTRModSupport"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/130503-16x-kerbal-atomics-fancy-nuclear-engines-january-21/",
+        "repository": "https://github.com/ChrisAdderley/KerbalAtomics",
+        "spacedock": "https://spacedock.info/mod/710/Kerbal%20Atomics",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Kerbal_Atomics/Kerbal_Atomics-1463537395.8438432.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        }
+    ],
+    "version": "1:1.0.1",
+    "x_generated_by": "netkan"
+}

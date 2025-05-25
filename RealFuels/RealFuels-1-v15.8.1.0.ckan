@@ -1,0 +1,86 @@
+{
+    "abstract": "Real fuels and tanks for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "ialdabaoth",
+        "NathanKell",
+        "taniwha",
+        "Starwaster",
+        "blowfish"
+    ],
+    "conflicts": [
+        {
+            "name": "ModularFuelSystem"
+        },
+        {
+            "name": "ModularFuelTanks"
+        },
+        {
+            "name": "Fuelswitchtoeverytank"
+        },
+        {
+            "name": "StockFuelSwitch"
+        },
+        {
+            "name": "EngineIgnitor"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealFuels-Engine-Configs",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityResourcePack",
+            "suppress_recommendations": true
+        },
+        {
+            "min_version": "v3.11.0",
+            "name": "SolverEngines",
+            "suppress_recommendations": true
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RealFuels/releases/download/v15.8.1.0/RealFuels_v15.8.1.0.zip?auth_key=1748275916-9f05721b0810427a97a28d0a1e283ece-0-ef430c289e8be08a40c9783b5178ee94&size=572679&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1F7396B4ED84E132B96B60AB2DB84E41ECEC68A0",
+        "sha256": "2D6411F9D3DFC9AC5887C3DDCBC1FFFFDD921204C97FB63D5DF9924E46488B33"
+    },
+    "download_size": 572679,
+    "identifier": "RealFuels",
+    "install": [
+        {
+            "filter": ".DS_Store",
+            "find": "RealFuels",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1573032,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-SA",
+    "localizations": [
+        "en-us",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Real Fuels [PRO-KCMIRROR]",
+    "release_date": "2023-11-08T08:48:20Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/RealFuels/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?showtopic=58236",
+        "metanetkan": "https://raw.githubusercontent.com/KSP-RO/RealFuels/master/NetKAN/RealFuels.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/RealFuels/master/RealFuels/RealFuels.version",
+        "repository": "https://github.com/KSP-RO/RealFuels"
+    },
+    "spec_version": "v1.26",
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "1:v15.8.1.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,83 @@
+{
+    "abstract": "Adds stockalike Apollo, Saturn, Titan, Atlas and many many other things besides",
+    "author": [
+        "CobaltWolf",
+        "Jso"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DMagicScienceAnimate"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "NearFutureProps"
+        }
+    ],
+    "download": "https://spacedock.info/mod/442/Bluedog%20Design%20Bureau/download/1.5.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7750438100CD4CA44D17AD3DF81F2A0E6C679BF1",
+        "sha256": "0120DFEE877C175631890272436E82163FC9682BA79727FE85B7AA656704939B"
+    },
+    "download_size": 130985889,
+    "identifier": "BluedogDB",
+    "install": [
+        {
+            "find": "Bluedog_DB",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 391619498,
+    "ksp_version": "1.7.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Bluedog Design Bureau",
+    "release_date": "2019-02-09T00:26:27Z",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/122020-wip-105-bluedog-design-bureau-v010-pre-release-available/#comment-2205042",
+        "spacedock": "https://spacedock.info/mod/442/Bluedog%20Design%20Bureau",
+        "x_screenshot": "https://spacedock.info/content/CobaltWolf_2659/Bluedog_Design_Bureau/Bluedog_Design_Bureau-1548455630.0695882.png"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "HullcamVDS"
+        },
+        {
+            "name": "RealPlume"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "HullcamVDSContinued"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "USI-LS"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "v1.5.2",
+    "x_generated_by": "netkan"
+}

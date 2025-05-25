@@ -1,0 +1,46 @@
+{
+    "abstract": "Addon for kOS that allows controlling a kerbal while on EVA",
+    "author": "JonnyOThan",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "kOS"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2531/kOS-EVA/download/0.1.2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B2D9A7CF37160CA722FF4D71E45FD4EE53C3C05B",
+        "sha256": "B78C3AFC799863AE37AA3865BB59F162F0A022D1F5A332FAFB1238333895F894"
+    },
+    "download_size": 76575,
+    "identifier": "kOS-EVA",
+    "install_size": 1144129,
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "kOS-EVA",
+    "release_date": "2020-09-19T03:59:32.602214+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JonnyOThan/kOS-EVA/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196981-18x-110x-kos-addons-stockcamera-eva-scansat-career/",
+        "remote-avc": "https://raw.githubusercontent.com/JonnyOThan/kOS-EVA/master/GameData/kOS-EVA/kOS-EVA.version",
+        "repository": "https://github.com/JonnyOThan/kOS-EVA",
+        "spacedock": "https://spacedock.info/mod/2531/kOS-EVA"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KIS"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "version": "0.1.2.0",
+    "x_generated_by": "netkan"
+}

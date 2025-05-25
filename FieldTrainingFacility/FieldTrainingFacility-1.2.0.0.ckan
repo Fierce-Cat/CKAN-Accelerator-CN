@@ -1,0 +1,58 @@
+{
+    "abstract": "This addon provides training for your kerbalnauts by adding a Field Training Facility (FTF) (school) into all science labs. You can train your kerbalnaut(s) over time with space stations and planetary bases.",
+    "author": [
+        "Efour",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/978/Field%20Training%20Facility%20(FTF)/download/1.2.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AB7EB381195F280009FEA569F1ADF37CE7437575",
+        "sha256": "038BACEBE9981AA19332AF8980D2494C30012F4108D1A42F23734B82469B539D"
+    },
+    "download_size": 21432,
+    "identifier": "FieldTrainingFacility",
+    "install_size": 52632,
+    "ksp_version_max": "1.9.9999",
+    "ksp_version_min": "1.9.1",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Field Training Facility (FTF)",
+    "release_date": "2020-04-05T05:18:31.958112+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/FieldTrainingFacility/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188841-*/",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/FieldTrainingFacility/master/FieldTrainingFacility.version",
+        "repository": "https://github.com/zer0Kerbal/FieldTrainingFacility",
+        "spacedock": "https://spacedock.info/mod/978/Field%20Training%20Facility%20(FTF)",
+        "x_screenshot": "https://spacedock.info/content/Efour_8237/Field_Training_Facility_FTF/Field_Training_Facility_FTF-1656567693.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "FieldTrainingLaboratory"
+        },
+        {
+            "name": "BetterScienceLabs"
+        },
+        {
+            "name": "ODFC"
+        },
+        {
+            "name": "KGEx"
+        }
+    ],
+    "tags": [
+        "config",
+        "crewed"
+    ],
+    "version": "1.2.0.0",
+    "x_generated_by": "netkan"
+}

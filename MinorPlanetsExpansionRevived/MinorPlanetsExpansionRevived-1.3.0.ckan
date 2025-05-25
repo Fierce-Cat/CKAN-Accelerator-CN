@@ -1,0 +1,52 @@
+{
+    "abstract": "A.K.A. MPE. This one's for the little guys! Originally by Exo, this planet pack adds 22 new bodies to the Kerbol system to explore based on real-world asteroids and dwarf planets. Features hand-drawn maps, biomes, and precious, PRECIOUS science.",
+    "author": "InterplanetJanet",
+    "conflicts": [
+        {
+            "name": "MinorPlanetsExpansion"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2854/Minor%20Planets%20Expansion%20Revived/download/1.3.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "41303721D90D2DDE4490E41684EF6D052C079536",
+        "sha256": "7BAEC32F464DAEF4134E7C77BCDDDC9D7462B6BDDB1FD76454F0620731BF82AD"
+    },
+    "download_size": 102334047,
+    "identifier": "MinorPlanetsExpansionRevived",
+    "install": [
+        {
+            "find": "MPE",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.12.2",
+    "license": "MIT",
+    "name": "Minor Planets Expansion Revived",
+    "release_date": "2021-10-16T05:47:24.44721+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/TheWhistleGang/mpe-revived/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204858-112-minor-planets-expansion-revived-111/",
+        "repository": "https://github.com/TheWhistleGang/mpe-revived",
+        "spacedock": "https://spacedock.info/mod/2854/Minor%20Planets%20Expansion%20Revived",
+        "x_screenshot": "https://spacedock.info/content/InterplanetJanet_65659/Minor_Planets_Expansion_Revived/Minor_Planets_Expansion_Revived-1635029230.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.3.0",
+    "x_generated_by": "netkan"
+}

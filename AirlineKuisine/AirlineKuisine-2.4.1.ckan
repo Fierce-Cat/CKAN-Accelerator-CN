@@ -1,0 +1,93 @@
+{
+    "abstract": "Everyone's favorite life support in everyone's favorite shapes. The Mk2 and Mk3 body. Needs Deep Sky Core.",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "DeepSkyCore"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1252/Airline%20Kuisine/download/2.4.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F4D7852942C74C56195D1036326ED27FB3057446",
+        "sha256": "89887CCB55CB5ADD982FEF1BB63E6DA8F2CF9C9AAFC5BCB05D81950DA51D0318"
+    },
+    "download_size": 54267982,
+    "identifier": "AirlineKuisine",
+    "install": [
+        {
+            "filter_regexp": [
+                ".*\\.pdb$"
+            ],
+            "find": "DeepSky",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.1",
+    "ksp_version_min": "1.9.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Airline Kuisine",
+    "release_date": "2020-08-19T15:57:21.238023+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/156475-12x-airline-kuisine-v100/",
+        "repository": "https://github.com/JadeOfMaar/AirlineKuisine",
+        "spacedock": "https://spacedock.info/mod/1252/Airline%20Kuisine",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Airline_Kuisine/Airline_Kuisine-1515070664.3178043.jpg"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "Mk2Expansion"
+        },
+        {
+            "name": "Mk3Expansion"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ClassicStockResources"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "Pathfinder"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "TacLifeSupport"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "WildBlueTools"
+        }
+    ],
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "2.4.1",
+    "x_generated_by": "netkan"
+}

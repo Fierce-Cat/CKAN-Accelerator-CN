@@ -1,0 +1,59 @@
+{
+    "abstract": "Robotic parts for your constructions [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Rudolf Meier",
+        "ZodiusInfuser",
+        "Ziw",
+        "sirkut"
+    ],
+    "conflicts": [
+        {
+            "name": "InfernalRobotics"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/meirumeiru/InfernalRobotics/releases/download/v3.1.10/InfernalRobotics_v3.1.10.zip?auth_key=1748275917-482c2b141edd4f12a2d7d777a4013aa7-0-866057093e9728503a0ea2215776cd91&size=3096611&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2622A278077ACCBDF39FE43C4AD974BE188D63BB",
+        "sha256": "CB2367BABC1F639A64833F6B9F1FC139E65E075B64D78EDD708F090EF5551218"
+    },
+    "download_size": 3096611,
+    "identifier": "InfernalRoboticsNext",
+    "install": [
+        {
+            "file": "GameData/MagicSmokeIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 10899431,
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Infernal Robotics - Next [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KerbalJointReinforcementNext"
+        }
+    ],
+    "release_date": "2023-03-04T16:41:08Z",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184787-*",
+        "remote-avc": "https://github.com/meirumeiru/InfernalRobotics/raw/develop/Resources/GameData/MagicSmokeIndustries/InfernalRobotics.version",
+        "repository": "https://github.com/meirumeiru/InfernalRobotics"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "v3.1.10",
+    "x_generated_by": "netkan"
+}

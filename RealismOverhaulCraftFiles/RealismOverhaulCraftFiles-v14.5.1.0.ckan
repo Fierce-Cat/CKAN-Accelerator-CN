@@ -1,0 +1,96 @@
+{
+    "abstract": "Craft files for the various mods suggested by Realism Overhaul. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "SirKeplan",
+        "StollD",
+        "al2me6",
+        "blowfishpro",
+        "cherrydev",
+        "pjf",
+        "rsparkyc",
+        "stratochief66",
+        "zorg2044",
+        "NathanKell"
+    ],
+    "conflicts": [
+        {
+            "name": "ROEngines"
+        },
+        {
+            "name": "ROCapsules"
+        }
+    ],
+    "depends": [
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RealismOverhaul/releases/download/v14.5.1.0/RealismOverhaul-v14.5.1.0.zip?auth_key=1748275915-5f25953d687b4e64966bea51f256e15b-0-02f41a83777d01b568b0194bf3b14bfd&size=15549681&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "43167A4C80DA227122A885FD74809D37AB7DA698",
+        "sha256": "F26CEA1F537018791B1E23722840F34F7AC16B65AE0C5205F698FB213FA50899"
+    },
+    "download_size": 15549681,
+    "identifier": "RealismOverhaulCraftFiles",
+    "install": [
+        {
+            "comment": "VAB craft files",
+            "file": "Ships/VAB",
+            "install_to": "Ships"
+        },
+        {
+            "comment": "SPH craft files",
+            "file": "Ships/SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "license": "CC-BY-SA",
+    "name": "Realism Overhaul Craft Files [PRO-KCMIRROR]",
+    "release_date": "2021-08-29T01:56:17Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/RealismOverhaul/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155700-*",
+        "metanetkan": "https://raw.githubusercontent.com/KSP-RO/RealismOverhaul/master/RealismOverhaulCraftFiles.netkan",
+        "repository": "https://github.com/KSP-RO/RealismOverhaul"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "FASA"
+        },
+        {
+            "name": "AntaresCygnus"
+        },
+        {
+            "name": "RN-SovietRockets"
+        },
+        {
+            "name": "RN-SalyutStations"
+        },
+        {
+            "name": "RN-SovietSpacecraft"
+        },
+        {
+            "name": "RN-Skylab"
+        },
+        {
+            "name": "RN-SovietProbes"
+        },
+        {
+            "name": "RN-USProbesPack"
+        },
+        {
+            "name": "RN-USRockets"
+        },
+        {
+            "name": "NewTantares"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "v14.5.1.0",
+    "x_generated_by": "netkan"
+}

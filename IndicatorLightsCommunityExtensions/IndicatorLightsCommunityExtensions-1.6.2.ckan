@@ -1,0 +1,52 @@
+{
+    "abstract": "Compatibility patches for IndicatorLights for various third-party mods.",
+    "author": "Snark",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "IndicatorLights"
+        }
+    ],
+    "download": "https://spacedock.info/mod/974/IndicatorLights%20Community%20Extensions/download/1.6.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DDE24FFD86352FC01DB164088484DF4EA8171528",
+        "sha256": "BC1154298AEFA29E17E4E3EE99A8222D33B0C6D3421A7E3D157EA5BBF7C4ECCE"
+    },
+    "download_size": 19360,
+    "identifier": "IndicatorLightsCommunityExtensions",
+    "install_size": 84512,
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.10",
+    "license": "MIT",
+    "name": "IndicatorLights Community Extensions",
+    "release_date": "2020-07-26T17:33:12.071064+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/KSPSnark/IndicatorLightsCommunityExtensions/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/149567-113-indicatorlights-community-extensions-v10-compatibility-patches-for-indicatorlights/",
+        "repository": "https://github.com/KSPSnark/IndicatorLightsCommunityExtensions",
+        "spacedock": "https://spacedock.info/mod/974/IndicatorLights%20Community%20Extensions"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "ImpossibleInnovations"
+        },
+        {
+            "name": "Mk1CabinHatch"
+        },
+        {
+            "name": "PartOverhauls"
+        },
+        {
+            "name": "VenStockRevamp"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "1.6.2",
+    "x_generated_by": "netkan"
+}

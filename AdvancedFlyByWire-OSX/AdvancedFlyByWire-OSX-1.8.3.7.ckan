@@ -1,0 +1,63 @@
+{
+    "abstract": "AFBW is an input overhaul mod. It dramatically enhances the stock input system with a bunch of fixes and many new features. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "AdvancedFlyByWireRevived"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/ksp-advanced-flybywire/releases/download/1.8.3.7/ksp-advanced-flybywire-1.12.0-1.8.3.7-osx.zip?auth_key=1748275916-137029ea97b44d7c80b5d18aec11aa31-0-50e5cc7fecad1a372dcb54e92862e191&size=103082&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2458B26D489EF05B0497C9419B47DFA3EF49BBCA",
+        "sha256": "20BFF74F0D22035763EC9091346E09A4E53EC9162EE18C2141E2017F2C7EF0A8"
+    },
+    "download_size": 103082,
+    "identifier": "AdvancedFlyByWire-OSX",
+    "install": [
+        {
+            "file": "GameData/ksp-advanced-flybywire",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 241047,
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "Advanced Fly-By-Wire (OSX) [PRO-KCMIRROR]",
+    "provides": [
+        "AdvancedFlyByWireRevived"
+    ],
+    "recommends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "release_date": "2022-08-22T22:31:17Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/ksp-advanced-flybywire/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175359-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/ksp-advanced-flybywire",
+        "repository": "https://github.com/linuxgurugamer/ksp-advanced-flybywire",
+        "spacedock": "https://spacedock.info/mod/1878/ABFW%20Revived%20(OSX%20version)",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/ABFW_Revived_OSX_version/ABFW_Revived_OSX_version-1527782505.4308672.png"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "1.8.3.7",
+    "x_generated_by": "netkan"
+}

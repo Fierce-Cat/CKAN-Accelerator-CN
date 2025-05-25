@@ -1,0 +1,38 @@
+{
+    "abstract": "Provids trim pointers opposite the control axis pointers",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/2179/TrimIndicators/download/0.1.0.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6A5C20816EF482E6BDF0DB0035186A7760904776",
+        "sha256": "F22B201ED3828C8B424732924D688BE429D1F2FFFE371BDB98AE6E345D1DD4D1"
+    },
+    "download_size": 6812,
+    "identifier": "TrimIndicators",
+    "install": [
+        {
+            "find": "TrimIndicators",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-SA-3.0",
+    "name": "TrimIndicators",
+    "release_date": "2020-06-20T16:44:02.83095+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/TrimIndicators/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/186067-172-trimindicators/",
+        "remote-avc": "http://ksp.spacetux.net/avc/TrimIndicators",
+        "repository": "https://github.com/linuxgurugamer/TrimIndicators",
+        "spacedock": "https://spacedock.info/mod/2179/TrimIndicators",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/TrimIndicators/TrimIndicators-1562269117.507755.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "0.1.0.3",
+    "x_generated_by": "netkan"
+}

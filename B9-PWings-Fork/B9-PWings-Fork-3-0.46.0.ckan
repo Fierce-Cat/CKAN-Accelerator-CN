@@ -1,0 +1,81 @@
+{
+    "abstract": "Fork of Bac9's Procedural Wings mod for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Crzyrndm",
+        "jrodrigv",
+        "Rafterman82",
+        "CarnationRED",
+        "tetraflon",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "B9AerospaceProceduralParts"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/B9-Procedural-Wings/B9-PWings-Modified/releases/download/0.46.0/B9_Aerospace_ProceduralWings-1.12.0-0.46.0.zip?auth_key=1748275915-59e964b4ccd54a859d0a7f49a80aa562-0-33cd8200ad41812a4d3c6bf3408195c0&size=2399177&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "735C59758FF968620569E5485BC2393B2E87FD37",
+        "sha256": "034178E504B383D0D81FE3BD91D50992D438C97966B06FD8F555CA2B7EAEEB79"
+    },
+    "download_size": 2399177,
+    "identifier": "B9-PWings-Fork",
+    "install": [
+        {
+            "find": "B9_Aerospace_ProceduralWings",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Ships/SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 3842363,
+    "ksp_version_min": "1.10.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "it-it",
+        "ja",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "B9 Aerospace Procedural Wings - Fork [PRO-KCMIRROR]",
+    "release_date": "2024-08-06T14:28:33Z",
+    "resources": {
+        "bugtracker": "https://github.com/B9-Procedural-Wings/B9-PWings-Modified/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/203629-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/B9_Aerospace_ProceduralWings.version",
+        "repository": "https://github.com/B9-Procedural-Wings/B9-PWings-Modified"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "3:0.46.0",
+    "x_generated_by": "netkan",
+    "x_licence_assets": "CC-BY-NC-SA-4.0",
+    "x_licence_code": "MIT"
+}

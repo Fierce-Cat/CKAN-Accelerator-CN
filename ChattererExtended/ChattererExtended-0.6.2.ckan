@@ -1,0 +1,39 @@
+{
+    "abstract": "This add-on for the formidable \"Chatterer\" mod by Athlonic will currently add 625 new kerbalized chatter-files for your hearing pleasure.",
+    "author": "hoover2701",
+    "depends": [
+        {
+            "name": "Chatterer"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1367/Chatterer%20Extended/download/0.6.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E5FE9404717FDDB75210C04135C19C3F7F846872",
+        "sha256": "CDF7843AC1657E4839DEA13EE7106DDDA16F11CA279CE0698525BDD21938CDE5"
+    },
+    "download_size": 38638937,
+    "identifier": "ChattererExtended",
+    "install": [
+        {
+            "find": "Chatterer",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-4.0",
+    "name": "Chatterer Extended",
+    "release_date": "2018-04-05T21:55:24.513144+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160545-122-chatterer-extended-more-kerbalized-chatter-for-chatterer-v06/",
+        "spacedock": "https://spacedock.info/mod/1367/Chatterer%20Extended",
+        "x_screenshot": "https://spacedock.info/content/hoover2701_12827/Chatterer_Extended/Chatterer_Extended-1495805517.6280513.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "sound"
+    ],
+    "version": "0.6.2",
+    "x_generated_by": "netkan"
+}

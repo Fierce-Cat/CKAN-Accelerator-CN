@@ -1,0 +1,109 @@
+{
+    "abstract": "Giant floating aircraft [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "WBIProps"
+        },
+        {
+            "name": "WBIResources"
+        },
+        {
+            "name": "WBIScience"
+        },
+        {
+            "name": "WBIWidgets"
+        },
+        {
+            "name": "HooliganLabsAirships"
+        },
+        {
+            "name": "KerbalActuators"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/Airships/releases/download/v2.20.0/Heisenberg.zip?auth_key=1748275918-f39d9a5c647f49c3868ed216ba4d6014-0-90d1211cc55d2870ca1359cb5ec39fc9&size=48199227&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9608D298F74274756F05B598B78C32EA90D21AF6",
+        "sha256": "3A6519DFF7FE6B34D0D637414A2FFFE465334E315FAE48367B423DFDCD0CC81A"
+    },
+    "download_size": 48199227,
+    "identifier": "Heisenberg",
+    "install": [
+        {
+            "filter_regexp": [
+                ".*\\.pdb$",
+                "SampleCraft"
+            ],
+            "find": "WildBlueIndustries/Heisenberg",
+            "install_to": "GameData/WildBlueIndustries"
+        },
+        {
+            "find": "VAB",
+            "install_to": "Ships"
+        },
+        {
+            "find": "SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 84559035,
+    "ksp_version_min": "1.12.5",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Airships [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ClassicStockResources"
+        },
+        {
+            "name": "AirParkContinued"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "AircraftCarrierAccessories"
+        }
+    ],
+    "release_date": "2025-04-27T00:58:40Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/Airships/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/150702-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/Airships/master/GameData/WildBlueIndustries/Heisenberg/Airships/Airships.version",
+        "repository": "https://github.com/Angel-125/Airships"
+    },
+    "spec_version": "v1.10",
+    "suggests": [
+        {
+            "name": "Pathfinder"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "TACLS"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin",
+        "crewed"
+    ],
+    "version": "v2.20.0",
+    "x_generated_by": "netkan"
+}

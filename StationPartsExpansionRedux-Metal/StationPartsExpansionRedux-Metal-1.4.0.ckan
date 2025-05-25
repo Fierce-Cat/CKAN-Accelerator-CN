@@ -1,0 +1,44 @@
+{
+    "abstract": "Metal textures and endcap types for old versions of Stockalike Station Parts Expansion Redux (1.4.0 and older), bundled with newer versions. This addon is incompatible with KSP 1.12.",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "StationPartsExpansionRedux"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1682/Stockalike%20Station%20Parts%20Expansion%20Redux/download/1.4.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "923BB79C36924E11DCE74E58CD0F0D186A24C88F",
+        "sha256": "F52A83ADDA2A8B6A54820CAEB4791A71E4FFC77EC46615EBD73DD1BAE0CD14FD"
+    },
+    "download_size": 306293596,
+    "identifier": "StationPartsExpansionRedux-Metal",
+    "install": [
+        {
+            "find": "StationPartsExpansionMetal",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "Stockalike Station Parts Expansion Redux - Metal Surfaces",
+    "release_date": "2020-12-27T17:02:47.171895+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170211-*",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux/raw/master/CKAN/StationPartsExpansionRedux-Metal.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/StationPartsExpansionRedux/master/GameData/StationPartsExpansionRedux/Versioning/StationPartsExpansionRedux.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux",
+        "spacedock": "https://spacedock.info/mod/1682/Stockalike%20Station%20Parts%20Expansion%20Redux",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Stockalike_Station_Parts_Expansion_Redux/Stockalike_Station_Parts_Expansion_Redux-1517167763.862289.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1.4.0",
+    "x_generated_by": "netkan"
+}

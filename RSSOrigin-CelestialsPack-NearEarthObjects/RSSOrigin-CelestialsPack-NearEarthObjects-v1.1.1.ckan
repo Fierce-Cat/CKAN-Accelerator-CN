@@ -1,0 +1,41 @@
+{
+    "abstract": "Exclusive add-ons with hundreds of asteroids, comets, moons and overhauls RSS [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "CharonSSS",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RSSOrigin"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/CharonSSS/RSS-Origin/releases/download/v1.1.1/RSS-Origin.CelestialsPack.NearEarthObjects.zip?auth_key=1748275917-38a6530c0e6b463db13692926234f2e6-0-d69879b65b5add2ea589a08efb0ad77d&size=42640303&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "48B15B330FBD7B35C6EC3861DA6464DBB9A1FFFC",
+        "sha256": "97339DBAE41F26FA2F37FB161242D296574DF12BD9F66252F9172295AE0E4EC3"
+    },
+    "download_size": 42640303,
+    "identifier": "RSSOrigin-CelestialsPack-NearEarthObjects",
+    "install": [
+        {
+            "find": "RSSOrigin",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 119339197,
+    "ksp_version": "1.12",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "RSS-Origin CelestialsPack NearEarthObjects [PRO-KCMIRROR]",
+    "release_date": "2024-09-26T13:33:44Z",
+    "resources": {
+        "bugtracker": "https://github.com/CharonSSS/RSS-Origin/issues",
+        "repository": "https://github.com/CharonSSS/RSS-Origin"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "planet-pack"
+    ],
+    "version": "v1.1.1",
+    "x_generated_by": "netkan"
+}

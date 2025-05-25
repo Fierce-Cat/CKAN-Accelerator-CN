@@ -1,0 +1,66 @@
+{
+    "abstract": "Allows users to replace the planetary system used by the game. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "BryceSchroeder",
+        "Teknoman117",
+        "Thomas P.",
+        "NathanKell",
+        "KillAshley",
+        "Gravitasi",
+        "KCreator",
+        "Sigma88",
+        "R-T-B",
+        "prestja"
+    ],
+    "depends": [
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "1.2.4.0",
+            "name": "ModularFlightIntegrator"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kopernicus/Kopernicus/releases/download/release-1.9.1-11/Kopernicus-1.9.1-11.zip?auth_key=1748275914-9322763ed0204f03b71e66f282d4017f-0-f1f6a6e71be3f2ca77af67c4f02570c9&size=393055&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C2BECB6F2FA60C9958AB38F4B9C44663CCA38277",
+        "sha256": "450C692B37CAB0DF544A1E1E259C7F099B22ED2D4EB5371195564A37B24C7072"
+    },
+    "download_size": 393055,
+    "identifier": "Kopernicus",
+    "install": [
+        {
+            "find": "Kopernicus",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.9.1",
+    "license": "LGPL-3.0",
+    "localizations": [
+        "en-us",
+        "it-it",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Kopernicus Planetary System Modifier [PRO-KCMIRROR]",
+    "release_date": "2020-10-31T20:23:45Z",
+    "resources": {
+        "bugtracker": "https://github.com/Kopernicus/Kopernicus/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194936-*",
+        "repository": "https://github.com/Kopernicus/Kopernicus"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KittopiaTech"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "2:release-1.9.1-11",
+    "x_generated_by": "netkan"
+}

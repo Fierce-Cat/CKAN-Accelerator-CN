@@ -1,0 +1,54 @@
+{
+    "abstract": "View your vessel in the IVA ",
+    "author": "linuxgurugamer",
+    "comment": "Providing but not conflicting is deliberate, as both UIs can be installed at the same time.",
+    "depends": [
+        {
+            "name": "VesselView"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/923/Vessel%20Viewer%20Continued/download/0.8.8.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "725C8930912BAC6D1D7003479A1A561D9B5BCE27",
+        "sha256": "D690A77CC35E43C56C1EFF553FB8DB810B29D6069CE65F48490CB456B8F96C53"
+    },
+    "download_size": 888135,
+    "identifier": "VesselView-UI-Toolbar",
+    "install": [
+        {
+            "find": "VesselViewPlugin.dll",
+            "find_matches_files": true,
+            "install_to": "GameData/VesselView/Plugins"
+        }
+    ],
+    "ksp_version_max": "1.9.0",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "VesselView-UI-Toolbar",
+    "provides": [
+        "VesselView-UI"
+    ],
+    "release_date": "2019-11-13T13:54:10.356502+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/VesselViewer/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/146692-113-vessel-viewer-continued/",
+        "remote-avc": "http://ksp.spacetux.net/avc/VesselView",
+        "repository": "https://github.com/linuxgurugamer/VesselViewer",
+        "spacedock": "https://spacedock.info/mod/923/Vessel%20Viewer%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Vessel_Viewer_Continued/Vessel_Viewer_Continued-1472389126.1938586.png"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "1:0.8.8.3",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,81 @@
+{
+    "abstract": "The definitive collection of all of SilentVelcro's mods.",
+    "author": [
+        "AtomicTech",
+        "LonesomeRobots",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "AnimatedDecouplers"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "ASETAvionics"
+        },
+        {
+            "name": "TDProps"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3019/The%20LonesomeRobots%20Collection/download/0.2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ECAF0827E57781C3EDD9DC905DBDB8A407043823",
+        "sha256": "6C946635E43B78AB84C09434A663A904902594AB4938C571FDA1620448169C03"
+    },
+    "download_size": 108919793,
+    "identifier": "TheLonesomeRobotsCollection",
+    "install": [
+        {
+            "filter": ".gitignore",
+            "find": "LonesomeRobots",
+            "install_to": "GameData"
+        },
+        {
+            "find": "README.md",
+            "find_matches_files": true,
+            "install_to": "GameData/LonesomeRobots"
+        },
+        {
+            "find": "LICENSE.md",
+            "find_matches_files": true,
+            "install_to": "GameData/LonesomeRobots"
+        }
+    ],
+    "install_size": 512236979,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "The LonesomeRobots Collection",
+    "release_date": "2022-04-21T18:38:07.2707+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/AtomikkuSan/The-LonesomeRobots-Collection/issues",
+        "discussions": "https://github.com/AtomikkuSan/The-LonesomeRobots-Collection/discussions",
+        "repository": "https://github.com/AtomikkuSan/The-LonesomeRobots-Collection",
+        "spacedock": "https://spacedock.info/mod/3019/The%20LonesomeRobots%20Collection",
+        "x_screenshot": "https://spacedock.info/content/AtomicTech_61568/The_LonesomeRobots_Collection/The_LonesomeRobots_Collection-1650566570.jpg"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "0.2.0",
+    "x_generated_by": "netkan"
+}

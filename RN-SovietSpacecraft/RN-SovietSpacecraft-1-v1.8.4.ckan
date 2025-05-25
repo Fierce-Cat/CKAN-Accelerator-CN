@@ -1,0 +1,62 @@
+{
+    "abstract": "Soviet spacecraft pack that contains Soyuz 7K-T, 7K-OKA, 7K-OKP 7K-T-AF and Progress 7K-TG, and Vostok/Voskhod spacecraft, and TKS/VA [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Raidernick",
+    "comment": "Ships installed again",
+    "conflicts": [
+        {
+            "name": "RN-SalyutStations-SoyuzFerries"
+        }
+    ],
+    "depends": [
+        {
+            "name": "BDAnimationModules"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/SovietSpacecraft/releases/download/v1.8.4/RN_SovietSpacecraft_v1.8.4.zip?auth_key=1748275915-655718cc1cbe48e0b0a12f871c29c0a7-0-3dd6ae32a553db3ee05a9a0593838cd6&size=87814780&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8A05222EB21A2B13C10AEB867BC89E3E0B0B55A2",
+        "sha256": "9D07777B311481C17AE4FB5DB2CE52A9C2E06D86490C37470FB34A0B29B25D10"
+    },
+    "download_size": 87814780,
+    "identifier": "RN-SovietSpacecraft",
+    "install": [
+        {
+            "find": "RN_Soyuz",
+            "install_to": "GameData"
+        },
+        {
+            "file": "Ships/VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.3.0",
+    "license": "CC-BY-NC-ND-3.0",
+    "name": "Soviet Spacecraft - Soyuz, Progress, Vostok/Voskhod, TKS/VA [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RN-SalyutStations"
+        },
+        {
+            "name": "RN-SovietRockets"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133579-*",
+        "repository": "https://github.com/KSP-RO/SovietSpacecraft"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1:v1.8.4",
+    "x_generated_by": "netkan"
+}

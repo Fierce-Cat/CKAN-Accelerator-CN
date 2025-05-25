@@ -1,0 +1,39 @@
+{
+    "abstract": "Adds RealFuels configs to stock and many mods' engines, keeping engine role as designed to fit with stock and stock-aligned mods. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Raptor831",
+    "comment": "Multiple configs can be installed; RO disables its engine configs if RFStockalike is detected. KSP-CKAN/NetKAN#55.",
+    "depends": [
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "ModuleRCSFX"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Raptor831/RFStockalike/releases/download/v2.1.5/RFStockalike_2_1_5.zip?auth_key=1748275917-1fb66bb76adb4acdba66af1482a70467-0-04484c9a79e1aee4e534897c7981b809&size=126305&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1DC2241B0CB5836C315F0588594E7DDDD9ADEC23",
+        "sha256": "7A936969481C0D30F27D41FDEE11A27AB2133E2059CA0A2F331ECE0359EC04D8"
+    },
+    "download_size": 126305,
+    "identifier": "RFStockalike",
+    "install": [
+        {
+            "file": "RFStockalike/GameData/RealFuels",
+            "install_to": "GameData"
+        }
+    ],
+    "license": "CC-BY-SA",
+    "name": "RealFuels: Stockalike RF Configs [PRO-KCMIRROR]",
+    "provides": [
+        "RealFuels-Engine-Configs"
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/81239",
+        "repository": "https://github.com/Raptor831/RFStockalike"
+    },
+    "spec_version": 1,
+    "version": "v2.1.5",
+    "x_generated_by": "netkan"
+}

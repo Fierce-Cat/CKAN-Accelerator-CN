@@ -1,0 +1,58 @@
+{
+    "abstract": "Fork of Bac9's Procedural Wings mod for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Jebman82",
+        "bac9",
+        "Crzyrndm",
+        "jrodrigv"
+    ],
+    "conflicts": [
+        {
+            "name": "B9AerospaceProceduralParts"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/jrodrigv/B9-PWings-Fork/releases/download/v0.93/B9-PWings-Fork.0.93_03142020.zip?auth_key=1748275915-d98b166bfacd4dd6adbc1dc02331c6ce-0-3e20f75695a186b3403bf4196b5f2448&size=1849245&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "74ECB7B59EE5736E2759039517E2D7F819493A93",
+        "sha256": "233C3AC8D2495F5533ED86D485B68415BF79A4B0A2066BCF10ED53E99151D722"
+    },
+    "download_size": 1849245,
+    "identifier": "B9-PWings-Fork",
+    "install": [
+        {
+            "file": "B9_Aerospace_ProceduralWings",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.9",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "B9 Aerospace Procedural Wings - Fork [PRO-KCMIRROR]",
+    "release_date": "2020-03-14T16:27:04Z",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175197-*",
+        "repository": "https://github.com/jrodrigv/B9-PWings-Fork"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "ProceduralParts"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1:v0.93",
+    "x_generated_by": "netkan",
+    "x_licence_assets": "CC-BY-NC-SA-4.0",
+    "x_licence_code": "MIT"
+}

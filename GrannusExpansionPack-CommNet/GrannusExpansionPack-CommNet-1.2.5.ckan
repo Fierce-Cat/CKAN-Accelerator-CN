@@ -1,0 +1,48 @@
+{
+    "abstract": "Grannus Expansion Pack with level 4 Tracking Station and a powerful new antenna to increase communications range [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "OhioBob",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "GrannusExpansionPack"
+        },
+        {
+            "name": "CustomBarnKit"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/OhioBob/Grannus-Expansion-Pack/releases/download/1.2.5/GrannusExpansionPack_1.2.5.zip?auth_key=1748275916-11891f7194f04cce9bbe2ec02a40b420-0-b528c9cfa7298bb3e8cae5eb46fbef5d&size=339713357&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ABC7CD86454CB386EDD06BEDB90370CCA012427C",
+        "sha256": "9FADCE56A4A3AD3265A1E495F0B0A79C42855DFA2FE6C2723FC3F293C3986061"
+    },
+    "download_size": 339713357,
+    "identifier": "GrannusExpansionPack-CommNet",
+    "install": [
+        {
+            "find": "GEP_CommNet/GameData/GEP",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-ND",
+    "name": "Grannus Expansion Pack CommNet [PRO-KCMIRROR]",
+    "release_date": "2021-10-21T16:36:26Z",
+    "resources": {
+        "bugtracker": "https://github.com/OhioBob/Grannus-Expansion-Pack/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169664-*",
+        "remote-avc": "https://raw.githubusercontent.com/OhioBob/Grannus-Expansion-Pack/master/GameData/GEP/Version/GrannusExpansionPack.version",
+        "repository": "https://github.com/OhioBob/Grannus-Expansion-Pack"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack",
+        "comms"
+    ],
+    "version": "1.2.5",
+    "x_generated_by": "netkan"
+}

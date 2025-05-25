@@ -1,0 +1,56 @@
+{
+    "abstract": "Updated  version of Thomassino's \"Astroniki Sunflare for Scatterer\" made to work with Stock KSP. Thanks to Astroniki for providing the textures for this mod!",
+    "author": [
+        "vaughn",
+        "Astroniki"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Scatterer-sunflare-default"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2462/Vaughn's%20Astroniki%20Sunflare%20for%20Stock%20KSP/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0B26CB66190B5CA62A1CFCCF24E75CDC65910CC5",
+        "sha256": "02947414F66638A8EB2723288C20EE5EA258ED12BEEF33456B61E09A70027B78"
+    },
+    "download_size": 4069784,
+    "identifier": "VaughnsAstronikiSunflareforStockKSP",
+    "install": [
+        {
+            "find": "ASF",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2582885,
+    "ksp_version": "1.9.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Vaughn's Astroniki Sunflare for Stock KSP",
+    "recommends": [
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "release_date": "2020-06-29T05:02:51.491166+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/2462/Vaughn's%20Astroniki%20Sunflare%20for%20Stock%20KSP",
+        "x_screenshot": "https://spacedock.info/content/vaughn_40071/Vaughns_Astroniki_Sunflare_for_Stock_KSP/Vaughns_Astroniki_Sunflare_for_Stock_KSP-1593407447.8690336.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

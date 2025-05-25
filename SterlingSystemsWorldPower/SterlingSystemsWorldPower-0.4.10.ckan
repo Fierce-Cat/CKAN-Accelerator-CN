@@ -1,0 +1,50 @@
+{
+    "abstract": "Boxed parts designed to cluster easily like in RTS games and provide massive power and cooling for your colonies [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "SterlingSystemsElectrics"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.4.10/SterlingSystems_WorldPower_0.4.10.zip?auth_key=1748275917-20b79e15d03641b6aaea8ddce8c208a8-0-4b3d6495025e5c26cef2c2caa8b3c4ca&size=23307302&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6FA7937FADD75C8947FF9784E466433B6F25E4AC",
+        "sha256": "118DFB6E6C782B6E2164F5827A87416010B4F7D56C0800D8510CAF3804A1E085"
+    },
+    "download_size": 23307302,
+    "identifier": "SterlingSystemsWorldPower",
+    "install": [
+        {
+            "find": "WorldPower",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 230656602,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling World Power [PRO-KCMIRROR]",
+    "release_date": "2025-02-03T00:43:42Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.4.10",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,99 @@
+{
+    "abstract": "Vexarp IVA add RPM/MAS cockpits for Near Future Spacecraft",
+    "author": "Vexmae",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ASETAvionics"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "AvionicsSystems"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2795/VexarpIVA/download/0.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9225D09B1CC2117E14A0E0533D9A7D2E5F373F40",
+        "sha256": "B92AA1BB5873FF33BF962B1B7C5B39E8A0B545A81A9C4DA076A662B0149A9C3C"
+    },
+    "download_size": 193913,
+    "identifier": "VexarpIVA",
+    "ksp_version": "1.12.2",
+    "license": "CC-BY-4.0",
+    "name": "VexarpIVA",
+    "recommends": [
+        {
+            "name": "Astrogator"
+        },
+        {
+            "name": "Chatterer"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "HullcamVDSContinued"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "ThroughTheEyesOfaKerbal"
+        },
+        {
+            "name": "VesselView"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "Kerbalism"
+                },
+                {
+                    "name": "TACLS"
+                },
+                {
+                    "name": "USI-LS"
+                }
+            ]
+        }
+    ],
+    "release_date": "2021-08-24T10:37:19.980071+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/203242-vexarp-iva-rpmmas-ivas-for-nfspacecraft/&tab=comments#comment-3993989",
+        "spacedock": "https://spacedock.info/mod/2795/VexarpIVA",
+        "x_screenshot": "https://spacedock.info/content/Vexmae_62952/VexarpIVA/VexarpIVA-1624531222.3264554.png"
+    },
+    "spec_version": "v1.26",
+    "tags": [
+        "config",
+        "crewed"
+    ],
+    "version": "0.6",
+    "x_generated_by": "netkan"
+}

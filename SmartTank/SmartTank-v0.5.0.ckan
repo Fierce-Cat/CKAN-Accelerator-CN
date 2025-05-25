@@ -1,0 +1,67 @@
+{
+    "abstract": "Automatically scale tanks from Procedural Parts to fit a specified TWR [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "HebaruSan",
+    "comment": "Indexed by author. Please report any problems at the repository bugtracker.",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ProceduralParts"
+        }
+    ],
+    "description": "Uses the stock vessel simulator to determine the TWR of each stage, then adjusts the sizes of tanks from Procedural Parts to fit a user-specified TWR. Also sets top and bottom diameters to match attached parts, matches the fuel tank type to the attached engine, and allows the user to change the default texture. All such features can be toggled at the part level with tweakables or at the system level via a button in the stock toolbar.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/HebaruSan/SmartTank/releases/download/v0.5.0/SmartTank.zip?auth_key=1748275918-822c250b2f5946579e160abf0d835a06-0-49e2bb3152587cc609162d10e209001b&size=40856&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "35461F60F93B93D4B966B9013A2551911BD3716B",
+        "sha256": "6DDE6B5DBFC115252A795860017BD3A04990A4AFAA0231EF4315AD5A24F9F395"
+    },
+    "download_size": 40856,
+    "identifier": "SmartTank",
+    "install_size": 92286,
+    "kind": "package",
+    "ksp_version_max": "1.12",
+    "ksp_version_min": "1.9",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "es-es"
+    ],
+    "name": "Smart Tank [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "LoadingTipsPlus"
+        },
+        {
+            "name": "ProceduralParts-Textures-BattleTechAerospace"
+        },
+        {
+            "name": "ProceduralParts-Textures-SCCKSCS"
+        },
+        {
+            "name": "ProceduralParts-Textures-SaturnNova"
+        },
+        {
+            "name": "VensStylePPTextures"
+        },
+        {
+            "name": "MainSailorTextures-Complete"
+        }
+    ],
+    "release_date": "2020-11-04T01:05:26Z",
+    "resources": {
+        "bugtracker": "https://github.com/HebaruSan/SmartTank/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/162743-*",
+        "remote-avc": "https://raw.githubusercontent.com/HebaruSan/SmartTank/master/SmartTank.version",
+        "repository": "https://github.com/HebaruSan/SmartTank"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "editor",
+        "convenience"
+    ],
+    "version": "v0.5.0",
+    "x_generated_by": "netkan"
+}

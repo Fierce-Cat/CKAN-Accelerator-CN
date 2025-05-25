@@ -1,0 +1,53 @@
+{
+    "abstract": "What the titel says: Do an experiment, recover it, get the full reward instead of just 56.23456% of it.",
+    "author": "maculator",
+    "depends": [
+        {
+            "min_version": "2.6.0",
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/74/Science%20-%20Full%20reward%21/download/4.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6ADDDB60252BF93D0F31B463E92E92EB99A9C19D",
+        "sha256": "606B2F95568FF4E8BD27FF7C2B2EFB02063F332DDACF1C5E8057CA00D9B3FF1D"
+    },
+    "download_size": 1598,
+    "identifier": "NMSG",
+    "install": [
+        {
+            "file": "Science-Full-reward",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "MIT",
+    "name": "Science - Full reward!",
+    "recommends": [
+        {
+            "name": "xScience"
+        },
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "release_date": "2019-09-30T09:47:18.839475+00:00",
+    "replaced_by": {
+        "name": "Science-Full-Reward"
+    },
+    "resources": {
+        "bugtracker": "https://github.com/maculator/Science-Full-reward/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/113323-science-full-reward/",
+        "repository": "https://github.com/maculator/Science-Full-reward",
+        "spacedock": "https://spacedock.info/mod/74/Science%20-%20Full%20reward!",
+        "x_screenshot": "https://spacedock.info/content/maculator_425/Science_-_Full_reward/Science_-_Full_reward-1455834699.3218288.png"
+    },
+    "spec_version": "v1.26",
+    "tags": [
+        "config",
+        "science"
+    ],
+    "version": "4.1",
+    "x_generated_by": "netkan"
+}

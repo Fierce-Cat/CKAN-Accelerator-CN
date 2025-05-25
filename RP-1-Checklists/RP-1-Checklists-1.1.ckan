@@ -1,0 +1,47 @@
+{
+    "abstract": "Adds the RP-1 Checklists from the KSP-RP1-Werner-Checklist-Config to the KerbalChecklists Mod.",
+    "author": "averageksp",
+    "depends": [
+        {
+            "name": "KerbalChecklists"
+        },
+        {
+            "name": "RP-1"
+        }
+    ],
+    "download": [
+        "https://github.com/averageksp/RP-1-Checklists/releases/download/1.1/RP-1.Checklists.zip",
+        "https://spacedock.info/mod/3858/RP-1%20Checklists/download/1.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "818C55004F3D9E38C7DCE980F95FF44A98A1DB33",
+        "sha256": "AB7EAE9D9C000FFF741DEE875F7A69147143094915F30EEDB1C817ACE31A63A1"
+    },
+    "download_size": 2075,
+    "identifier": "RP-1-Checklists",
+    "install": [
+        {
+            "find": "RP-1 Checklists",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2825,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "RP-1 Checklists",
+    "release_date": "2025-04-11T18:30:46.108011+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/averageksp/RP-1-Checklists/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227623-112x-rp-1-checklists-requires-kerbalchecklists/",
+        "repository": "https://github.com/averageksp/RP-1-Checklists",
+        "spacedock": "https://spacedock.info/mod/3858/RP-1%20Checklists",
+        "x_screenshot": "https://spacedock.info/content/averageksp_154330/RP-1_Checklists/RP-1_Checklists-1744220549.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

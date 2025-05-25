@@ -1,0 +1,61 @@
+{
+    "abstract": "Big, boxy parts",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/LLL-Continued/releases/download/1.4.0.3/LLL-1.12.0-1.4.0.3.zip",
+        "https://spacedock.info/mod/856/Lack%20Luster%20Labs%20Continued/download/1.4.0.3"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8C9FDEF1A124F1093B03C822DF97052EFADA39A9",
+        "sha256": "76281328992AB0117B29F87878011935FDB993FD88694B004F50E5D27DB32203"
+    },
+    "download_size": 12982669,
+    "identifier": "LLL",
+    "install": [
+        {
+            "find": "GameData/LLL",
+            "install_to": "GameData"
+        },
+        {
+            "filter": "Parts",
+            "find": "GameData/LLL-Extra",
+            "install_to": "GameData/LLL"
+        }
+    ],
+    "install_size": 88547499,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.9.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Lack Luster Labs Continued",
+    "recommends": [
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "CrewManifest"
+        }
+    ],
+    "release_date": "2022-08-12T21:44:02.016361+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209329-112x-lackluster-labs-flying-boxes-continued/",
+        "remote-avc": "http://ksp.spacetux.net/avc/LLL",
+        "repository": "https://github.com/linuxgurugamer/LLL-Continued",
+        "spacedock": "https://spacedock.info/mod/856/Lack%20Luster%20Labs%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Lack_Luster_Labs_Continued/Lack_Luster_Labs_Continued-1660947723.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "parts"
+    ],
+    "version": "1:1.4.0.3",
+    "x_generated_by": "netkan"
+}

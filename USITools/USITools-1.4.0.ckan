@@ -1,0 +1,56 @@
+{
+    "abstract": "Common libraries for Umbra Space Industries mods [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/UmbraSpaceIndustries/USITools/releases/download/1.4.0/USITools_1.4.0.0.zip?auth_key=1748275918-9fe7e15f6177448d95ae7ce2aa043cd4-0-0eacc760f1a874c962074596c1993356&size=2739986&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AAD29812CFF93C262B5547663E2C478015B63A58",
+        "sha256": "66C42947B66F1D9147E6481724405741841415685EEA66FADF7990C63D1C0011"
+    },
+    "download_size": 2739986,
+    "identifier": "USITools",
+    "install": [
+        {
+            "file": "GameData/000_USITools",
+            "install_to": "GameData"
+        },
+        {
+            "find": "UmbraSpaceIndustries/FX",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "USI Tools [PRO-KCMIRROR]",
+    "provides": [
+        "USI-Tools"
+    ],
+    "release_date": "2020-12-21T21:38:22Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/UmbraSpaceIndustries/USITools/issues",
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "metanetkan": "https://raw.githubusercontent.com/UmbraSpaceIndustries/CKAN/master/USITools.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/BobPalmer/UmbraSpaceIndustries/master/FOR_RELEASE/GameData/000_USITools/USITools.version",
+        "repository": "https://github.com/UmbraSpaceIndustries/USITools"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "plugin",
+        "library",
+        "crewed",
+        "graphics"
+    ],
+    "version": "1.4.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

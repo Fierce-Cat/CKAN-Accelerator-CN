@@ -1,0 +1,41 @@
+{
+    "abstract": "No more infinite EVA Fuel!",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "EvaFuel"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1274/EVAFuel%20Continued/download/1.6.7.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B8AF3F76739C6FE783A31DF1648D9007D7DE7BFB",
+        "sha256": "B1DE174E75A979C46282C417142EAB3609613828FF2383C85207ED7CE10C6190"
+    },
+    "download_size": 45458,
+    "identifier": "EvaFuelCont",
+    "install": [
+        {
+            "find": "EvaFuel",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.0",
+    "license": "MIT",
+    "name": "EVAFuel Continued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158156-12",
+        "repository": "https://github.com/linuxgurugamer/EvaFuel",
+        "spacedock": "https://spacedock.info/mod/1274/EVAFuel%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/EVAFuel_Continued/EVAFuel_Continued-1490381840.2394588.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.6.7.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

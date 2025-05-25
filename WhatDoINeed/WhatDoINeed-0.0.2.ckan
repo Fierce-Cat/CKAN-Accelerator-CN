@@ -1,0 +1,68 @@
+{
+    "abstract": "Show on-screen what science parts are needed",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "ContractParser"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/WhatDoINeed/releases/download/0.0.2/WhatDoINeed-1.12.0-0.0.2.zip",
+        "https://spacedock.info/mod/3806/What%20Do%20I%20Need%3F/download/0.0.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6443C7205DFB24F4D4BF608A0ADC7D08AFE073D1",
+        "sha256": "C76D117FD98EEE0D49073DB60E902DE68F759C4531E6C25316D50AB58FCE0B82"
+    },
+    "download_size": 160430,
+    "identifier": "WhatDoINeed",
+    "install_size": 227146,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.9.0",
+    "license": "GPL-3.0",
+    "name": "What Do I Need?",
+    "recommends": [
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "release_date": "2025-02-05T02:36:39.749896+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/WhatDoINeed/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/226666-112x-what-do-i-need/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/WhatDoINeed/refs/heads/main/WhatDoINeed.version",
+        "repository": "https://github.com/linuxgurugamer/WhatDoINeed",
+        "spacedock": "https://spacedock.info/mod/3806/What%20Do%20I%20Need?",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/What_Do_I_Need/What_Do_I_Need-1737389620.png"
+    },
+    "spec_version": "v1.34",
+    "supports": [
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "DMagicOrbitalScience"
+        },
+        {
+            "name": "KIS"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "career",
+        "information",
+        "editor"
+    ],
+    "version": "0.0.2",
+    "x_generated_by": "netkan"
+}

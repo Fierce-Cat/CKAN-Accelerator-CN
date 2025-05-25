@@ -1,0 +1,83 @@
+{
+    "abstract": "Provides new, very high efficiency engines in 1.25m, 2.5m and 3.75m size classes that burn liquid hydrogen.",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/709/Cryogenic%20Engines/download/2.0.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B050F132FE604B3A283F15E3A5A182D20DF70A2B",
+        "sha256": "6B266F4C5BD7E6C04F7C63C32F4F8EEE16B8E81163FD8F85E374A0E52DCFA2B7"
+    },
+    "download_size": 94709162,
+    "identifier": "CryoEngines",
+    "install": [
+        {
+            "find": "CryoEngines",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 111309244,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.10.0",
+    "license": "restricted",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr",
+        "ja",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Cryogenic Engines",
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "release_date": "2022-01-22T19:58:32.264074+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/CryoEngines/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/106089-16x-cryogenic-engines-high-isp-chemical-rockets-january-21/",
+        "metanetkan": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/CryoEngines/master/CKAN/CryoEngines.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/CryoEngines/master/GameData/CryoEngines/Versioning/CryoEngines.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/CryoEngines",
+        "spacedock": "https://spacedock.info/mod/709/Cryogenic%20Engines"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KerbalAtomics"
+        }
+    ],
+    "supports": [
+        {
+            "name": "CryoEngines-LFO"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1:2.0.6",
+    "x_generated_by": "netkan"
+}

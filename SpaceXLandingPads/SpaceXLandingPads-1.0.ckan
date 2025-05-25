@@ -1,0 +1,45 @@
+{
+    "abstract": "This mod adds the SpaceX Landing Zones and will eventually include the pad at Starbase and all 3 droneships.",
+    "author": "Fossilized",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KerbalKonstructs"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2941/SpaceX%20Landing%20Pads/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D36DF57052D49CC9D6E60EDD7315385CEAD88EEF",
+        "sha256": "CDA14FB38517642D2F991EF8A94120E211ABEECAF46B579DDFA2C5DA3939A4C8"
+    },
+    "download_size": 8200706,
+    "identifier": "SpaceXLandingPads",
+    "install": [
+        {
+            "find": "Fossil Industries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.10",
+    "license": "restricted",
+    "name": "SpaceX Landing Pads",
+    "release_date": "2022-01-01T16:26:09.643908+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Fossilized4/SpaceX-Landing-Pads/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/206211-spacex-landing-pads-1101/",
+        "repository": "https://github.com/Fossilized4/SpaceX-Landing-Pads",
+        "spacedock": "https://spacedock.info/mod/2941/SpaceX%20Landing%20Pads",
+        "x_screenshot": "https://spacedock.info/content/Fossilized_71779/SpaceX_Landing_Pads_1.10.1/SpaceX_Landing_Pads_1.10.1-1641054407.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "buildings"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

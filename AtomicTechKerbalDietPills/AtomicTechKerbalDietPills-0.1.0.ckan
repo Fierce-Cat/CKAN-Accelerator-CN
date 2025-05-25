@@ -1,0 +1,39 @@
+{
+    "abstract": "Loose that stubborn tank weight!",
+    "author": "AtomicTech",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2903/AtomicTech%20Inc.%27s%20Kerbal%20Diet%20Pills/download/0.1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "64EADCC154EC1EEF1B7185A29054FA1FF0823FB6",
+        "sha256": "9536FA3E997194FCB56E7488B97F8EF5BCC87BFBB64F44294D98324E37D346AE"
+    },
+    "download_size": 5725,
+    "identifier": "AtomicTechKerbalDietPills",
+    "install": [
+        {
+            "find_regexp": ".",
+            "install_to": "GameData/AtomicTechDietPills"
+        }
+    ],
+    "ksp_version": "1.12.2",
+    "license": "BSD-3-clause",
+    "name": "AtomicTech Inc.'s Kerbal Diet Pills",
+    "release_date": "2021-11-25T13:44:57.222016+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JamesErvin-5/Kerbal-Diet-Pills/issues",
+        "repository": "https://github.com/JamesErvin-5/Kerbal-Diet-Pills",
+        "spacedock": "https://spacedock.info/mod/2903/AtomicTech%20Inc.'s%20Kerbal%20Diet%20Pills",
+        "x_screenshot": "https://spacedock.info/content/AtomicTech_61568/AtomicTech_Inc.s_Kerbal_Diet_Pills/AtomicTech_Inc.s_Kerbal_Diet_Pills-1637847929.jpg"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "config"
+    ],
+    "version": "0.1.0",
+    "x_generated_by": "netkan"
+}

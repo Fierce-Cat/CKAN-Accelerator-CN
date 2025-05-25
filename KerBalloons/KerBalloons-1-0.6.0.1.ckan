@@ -1,0 +1,52 @@
+{
+    "abstract": "a KSP mod that adds a wide array of balloons to the game, which can be used on any planet with an atmosphere",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/KerballoonsReinflated/releases/download/0.6.0.1/KerBalloons-1.12.0-0.6.0.1.zip",
+        "https://spacedock.info/mod/2662/KerBalloons%20Continued/download/0.6.0.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "87DE3C7C20BE709D68B58CB686621224447890F1",
+        "sha256": "9C669AAA824B78DEAE9B16D19735D8FFFA8E05D971BE0BDA892FA90F7BDF6F0C"
+    },
+    "download_size": 2157732,
+    "identifier": "KerBalloons",
+    "install_size": 8256193,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "KerBalloons Continued",
+    "release_date": "2024-11-27T18:45:00.402495+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199372-18-19-110-kerballoons-reinflated-real-science-beta/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/KerballoonsReinflated/refs/heads/master/KerBalloons.version",
+        "repository": "https://github.com/linuxgurugamer/KerballoonsReinflated",
+        "spacedock": "https://spacedock.info/mod/2662/KerBalloons%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/KerBalloons_Continued/KerBalloons_Continued-1616214989.9763002.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "1:0.6.0.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,39 @@
+{
+    "abstract": "In this 4k skybox you orbit a star within the SN 1006 Nebula.",
+    "author": "DarkFighter",
+    "depends": [
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2036/DF%20Skybox:%20SN%201006%20Nebula%20-%20Unedited/download/1.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "019617A7561977098394E82D7292C180521479FA",
+        "sha256": "5F584379E0BB36DA8EDDD2BDF6121BA852B9AB48C415B647FD712005BE8C09DE"
+    },
+    "download_size": 12770620,
+    "identifier": "SN1006-Unedited-Skybox",
+    "install": [
+        {
+            "find": "TextureReplacer",
+            "install_to": "GameData/SN1006-Unedited-Skybox"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "restricted",
+    "name": "DF Skybox: SN 1006 Nebula - Unedited",
+    "release_date": "2018-12-28T19:41:53.754731+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177203-14x-darkfighters-skyboxes-update/",
+        "spacedock": "https://spacedock.info/mod/2036/DF%20Skybox:%20SN%201006%20Nebula%20-%20Unedited",
+        "x_screenshot": "https://spacedock.info/content/DarkFighter_21023/DF_Skybox_SN_1006_Nebula_-_Unedited/DF_Skybox_SN_1006_Nebula_-_Unedited-1546022632.262316.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1.3",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,39 @@
+{
+    "abstract": "Hides any tech tree nodes that don't have parts and reassigns parent-node connections so that non-empty nodes have only non-empty parents. To be used with modded tech trees.",
+    "author": "ev0",
+    "download": "https://spacedock.info/mod/577/Hide%20Empty%20Tech%20Tree%20Nodes/download/1.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5E3EF4CF4DAF936F7D5DFCBE29D346BCD04CFA88",
+        "sha256": "12174A70C9CD2A6FE3DAEC66331D0F071C008EE152D193B02BEBADE90EF2736E"
+    },
+    "download_size": 25214,
+    "identifier": "HideEmptyTechNodes",
+    "install": [
+        {
+            "file": "GameData/HideEmptyTechTreeNodes",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "CC-BY-NC-4.0",
+    "localizations": [
+        "en-us",
+        "ja"
+    ],
+    "name": "Hide Empty Tech Tree Nodes",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/118305-11-hide-empty-tech-tree-nodes-for-community-tech-tree-derivatives-v04/",
+        "repository": "https://github.com/Orthethac/HideEmptyTechTreeNodes",
+        "spacedock": "https://spacedock.info/mod/577/Hide%20Empty%20Tech%20Tree%20Nodes",
+        "x_screenshot": "https://spacedock.info/content/ev0_3901/Hide_Empty_Tech_Tree_Nodes/Hide_Empty_Tech_Tree_Nodes-1461472715.9140308.jpg"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "version": "1.1.1",
+    "x_generated_by": "netkan"
+}

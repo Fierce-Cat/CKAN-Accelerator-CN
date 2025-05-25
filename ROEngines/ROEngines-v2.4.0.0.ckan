@@ -1,0 +1,89 @@
+{
+    "abstract": "ROEngines is a mod that takes the best versions of engine models available and uses them as the in-game models for Realism Overhaul parts. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "pap1723",
+        "KSP-RO"
+    ],
+    "conflicts": [
+        {
+            "name": "TweakableEverythingCont"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ROLib"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/ROEngines/releases/download/v2.4.0.0/ROEngines-v2.4.0.0.zip?auth_key=1748275918-c9acea11fe304e60bfd017bf4a4f1ee5-0-f495d129fd48c9d7fd961dbf7dc7983b&size=263095782&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6E6A30E11D88323FA0A47D484F17605624E68C7B",
+        "sha256": "A1A9DEBE494CBCEAB20E72689B0206A36217B6C6E662874A7E317E2F6F3BA6AB"
+    },
+    "download_size": 263095782,
+    "identifier": "ROEngines",
+    "install_size": 778673141,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-ND",
+    "name": "RO Engines [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ROSolar"
+        },
+        {
+            "name": "ROTanks"
+        },
+        {
+            "name": "ROCapsules"
+        }
+    ],
+    "release_date": "2023-08-20T05:56:30Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/ROEngines/issues",
+        "homepage": "https://discordapp.com/invite/ZGbR6nv",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/ROEngines/master/GameData/ROEngines/ROEngines.version",
+        "repository": "https://github.com/KSP-RO/ROEngines"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "RP-0"
+        }
+    ],
+    "tags": [
+        "parts",
+        "config",
+        "graphics"
+    ],
+    "version": "v2.4.0.0",
+    "x_generated_by": "netkan"
+}

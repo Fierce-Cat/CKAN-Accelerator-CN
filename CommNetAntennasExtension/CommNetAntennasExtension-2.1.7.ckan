@@ -1,0 +1,71 @@
+{
+    "abstract": "Add 6 new antennas for CommNet, filling a niche in the transmission ranges: direct 5M, relay 32M, relays 7G and 25G, direct and relay 500G. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "flart",
+    "conflicts": [
+        {
+            "name": "RemoteTech"
+        }
+    ],
+    "depends": [
+        {
+            "name": "RemoteTechRedevAntennas"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/yalov/CommNetAntennasExtension/releases/download/2.1.7/CommNetAntennasExtension-v2.1.7.zip?auth_key=1748275914-0a35db87139b4486aec7b06b9c525849-0-801f8022b3209f47dc5c3b9a58fcc081&size=538392&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9A33A87325D09B22F420E14DE97EFE537CC18624",
+        "sha256": "F87E700D2AAD424415C1D063EED05AFDEB67237DCA966001336AA84F9E1B4BC0"
+    },
+    "download_size": 538392,
+    "identifier": "CommNetAntennasExtension",
+    "install_size": 908180,
+    "ksp_version_max": "1.12.9",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "CommNet Antennas Extension [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "CommunityPartsTitles"
+        },
+        {
+            "name": "CommNetAntennasInfo"
+        },
+        {
+            "name": "CommNetAntennasConsumptor"
+        }
+    ],
+    "release_date": "2022-03-12T07:51:41Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/yalov/CommNetAntennasExtension/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177292-*",
+        "remote-avc": "https://raw.githubusercontent.com/yalov/CommNetAntennasExtension/master/CommNetAntennasExtension.version",
+        "repository": "https://github.com/yalov/CommNetAntennasExtension"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "SpeedUnitAnnex"
+        }
+    ],
+    "supports": [
+        {
+            "name": "NearFutureExploration"
+        }
+    ],
+    "tags": [
+        "parts",
+        "comms"
+    ],
+    "version": "2.1.7",
+    "x_generated_by": "netkan"
+}

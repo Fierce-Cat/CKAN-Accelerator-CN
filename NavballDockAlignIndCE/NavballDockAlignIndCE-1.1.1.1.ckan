@@ -1,0 +1,48 @@
+{
+    "abstract": "Adds an alignment indicator to the navball",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "NavballDockingIndicator"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1098/Navball%20Docking%20Alignment%20Indicator%20CE-2/download/1.1.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "08A0EFEC82B967AF35F16241EF59D93FCBC8EF9E",
+        "sha256": "5C40D90C0D63591FEAB7D16DC32FC787B1D059AB815DE2E67E5BD995870C02D3"
+    },
+    "download_size": 19598,
+    "identifier": "NavballDockAlignIndCE",
+    "install": [
+        {
+            "find": "NavBallDockingAlignmentIndicatorCE",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 46742,
+    "ksp_version_max": "1.12.2",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "Navball Docking Alignment Indicator CE-2",
+    "provides": [
+        "NavballDockingIndicator"
+    ],
+    "release_date": "2021-08-06T21:09:18.887015+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/NavBallDockingAlignmentIndicatorCE/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/152739-121-navball-docking-alignment-indicator-community-edition-v2/",
+        "remote-avc": "http://ksp.spacetux.net/avc/NavBallDockingAlignmentIndicatorCE",
+        "repository": "https://github.com/linuxgurugamer/NavBallDockingAlignmentIndicatorCE",
+        "spacedock": "https://spacedock.info/mod/1098/Navball%20Docking%20Alignment%20Indicator%20CE-2",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Navball_Docking_Alignment_Indicator_CE-2/Navball_Docking_Alignment_Indicator_CE-2-1480427599.4822311.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "1.1.1.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

@@ -1,0 +1,65 @@
+{
+    "abstract": "Used and Refurbished Parts;  it's not old, it's a classic",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "USITools"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1444/Tokamak%20Refurbished%20Parts/download/0.3.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2A7216F44675D4AC2A274ACBDC011279D683FB5F",
+        "sha256": "129C6DBD4452EA582FF0F98E3EE658A3EB67A955E72429BEBD6143511475E1E5"
+    },
+    "download_size": 51759160,
+    "identifier": "TokamakRefurbishedParts",
+    "install": [
+        {
+            "find": "TokamakIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es"
+    ],
+    "name": "Tokamak Refurbished Parts",
+    "release_date": "2022-01-28T14:11:19.506795+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/163166-13-tokamak-industries-refurbished-parts-featuring-porkjets-hab-pack/",
+        "remote-avc": "http://ksp.spacetux.net/avc/TokamakIndustries",
+        "repository": "https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts",
+        "spacedock": "https://spacedock.info/mod/1444/Tokamak%20Refurbished%20Parts",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Tokamak_Refurbished_Parts/Tokamak_Refurbished_Parts-1499823251.7804608.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "0.3.1.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,48 @@
+{
+    "abstract": "Waterfall configuration for the Restock and Restock+ mods. Adds Waterfall-driven effects to most engines and lights. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Chris Adderley (Nertea)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "ReStock"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/WaterfallRestock/releases/download/0.2.0/WaterfallRestock_0_2_0.zip?auth_key=1748275915-e7b0fe618a9142e38aed1e195c43c20d-0-cff80b042228e718576f11cbedc60159&size=20143064&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6D9E5FEA913421FB3935D2EE4EFC798E342FE31B",
+        "sha256": "373621D63EAE0AF80BE13AAB317F50D2BBB1607244FDE104D5688A438D4384BA"
+    },
+    "download_size": 20143064,
+    "identifier": "WaterfallRestock",
+    "install": [
+        {
+            "find": "WaterfallRestock",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Waterfall - Restock [PRO-KCMIRROR]",
+    "release_date": "2021-02-25T16:33:00Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/WaterfallRestock/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196309-wip-waterfall-a-framework-for-continuous-mesh-driven-engine-effects-dec-19/",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/WaterfallRestock/raw/master/CKAN/WaterfallRestock.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/WaterfallRestock/master/GameData/WaterfallRestock/Versioning/WaterfallRestock.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/WaterfallRestock"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "graphics",
+        "plugin"
+    ],
+    "version": "0.2.0",
+    "x_generated_by": "netkan"
+}

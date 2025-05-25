@@ -1,0 +1,59 @@
+{
+    "abstract": "Harvesting Carbon Dioxide for Fun and Profit",
+    "author": "janMelantu",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2538/Melantu%20Atmospheric%20Harvesting/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7BDBE9CD18B457EC96FABA1F20EBD7463C7944F2",
+        "sha256": "5743C5029AAC86482ACDE7ADB33368B33AEFF6E60C4DFAA543F8156677BCD8A5"
+    },
+    "download_size": 458974,
+    "identifier": "MelantuAtmosphericHarvesting",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "MelantuAtmoHarvest",
+            "install_to": "GameData"
+        },
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "Ships/VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 1597929,
+    "ksp_version": "1.10.1",
+    "license": "MIT",
+    "name": "Melantu Atmospheric Harvesting",
+    "recommends": [
+        {
+            "name": "CryoTanks"
+        }
+    ],
+    "release_date": "2020-09-23T00:05:57.357153+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/janMelantu/AtmosphericHarvesting/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/197064-110x-melantu-atmospheric-harvesting-stockalike-isru-no-ore-required-v10-2020-09-22/",
+        "repository": "https://github.com/janMelantu/AtmosphericHarvesting",
+        "spacedock": "https://spacedock.info/mod/2538/Melantu%20Atmospheric%20Harvesting"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "resources"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

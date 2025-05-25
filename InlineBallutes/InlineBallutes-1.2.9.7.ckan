@@ -1,0 +1,39 @@
+{
+    "abstract": "Inline Ballutes - aerobrake your rocket in an upper atmosphere [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/InlineBallutes/releases/download/1.2.9.7/InlineBallutes-1.2.9.7.zip?auth_key=1748275915-368cdcac78c44028add7f002aa90e2cf-0-34021c79dd6fb1f59373c5e1cd76826b&size=1263611&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3BF1568A44F6577292DF61E1D434A6D4A67734AD",
+        "sha256": "D172C27933497EE0114F6526EB5C94EAD39A7622E0BA8744E9B31ADB7ECB0BC9"
+    },
+    "download_size": 1263611,
+    "identifier": "InlineBallutes",
+    "install": [
+        {
+            "find": "KermangeddonIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.0.5",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Inline Ballutes [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/121162-*",
+        "repository": "https://github.com/linuxgurugamer/InlineBallutes"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "FerramAerospaceResearch"
+        },
+        {
+            "name": "EntropyRealChute"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "version": "1.2.9.7",
+    "x_generated_by": "netkan"
+}

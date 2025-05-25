@@ -1,0 +1,36 @@
+{
+    "abstract": "Draft, tour with, or rescue your twitch viewers as in-game Kerbals! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/DraftTwitchViewers/releases/download/2.6.1.3/DraftTwitchViewers-1.4.5-2.6.1.3.zip?auth_key=1748275916-fda59d65f8c944cbad131487eb7e9fa6-0-bec85c4efa381a61ed7be9d2dfa58892&size=234892&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AD9D065BB1DAE3587F49BCD20668EFA79FF1570E",
+        "sha256": "A5D1FAB4A1187FC1A441BB24E0F6AB0CEA7561E813AFE10EEF7A0594253FB112"
+    },
+    "download_size": 234892,
+    "identifier": "DTV2",
+    "install": [
+        {
+            "find": "DraftTwitchViewers",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.5.1",
+    "license": "GPL-3.0",
+    "name": "Draft Twitch Viewers [PRO-KCMIRROR]",
+    "resources": {
+        "repository": "https://github.com/linuxgurugamer/DraftTwitchViewers"
+    },
+    "spec_version": "v1.4",
+    "version": "2.6.1.3",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

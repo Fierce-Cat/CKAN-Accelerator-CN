@@ -1,0 +1,65 @@
+{
+    "abstract": "Micro Shuttle and Rescue Vehicle for three (3) kerbals",
+    "author": "zer0Kerbal",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2379/Pteron/download/0.7.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1517F3F8A9A37F981911970E2F2097142709AFEE",
+        "sha256": "E57A09419093323D34497606EFE6B759C64FDCFED9FA4AE9D60560AED157268F"
+    },
+    "download_size": 1046335,
+    "identifier": "Pteron",
+    "install": [
+        {
+            "find": "FruitBatIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.9999",
+    "ksp_version_min": "1.7.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Pteron",
+    "release_date": "2020-04-20T01:38:49.204613+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/Pteron/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/Pteron.version",
+        "repository": "https://github.com/zer0Kerbal/Pteron",
+        "spacedock": "https://spacedock.info/mod/2379/Pteron",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Pteron/Pteron-1587347777.7326088.jpg"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "ScrapYard"
+        },
+        {
+            "name": "OhScrap"
+        },
+        {
+            "name": "StageRecovery"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "0.7.0.0",
+    "x_generated_by": "netkan"
+}

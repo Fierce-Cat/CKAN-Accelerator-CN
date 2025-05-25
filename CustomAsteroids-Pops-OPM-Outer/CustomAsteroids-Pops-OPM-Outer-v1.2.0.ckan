@@ -1,0 +1,65 @@
+{
+    "abstract": "Adds Kentaurs and trans-Neidonian objects",
+    "author": "Starstrider42",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "comment": "Requires comet support.",
+            "max_version": "v1.99.99",
+            "min_version": "v1.9.0",
+            "name": "CustomAsteroids"
+        }
+    ],
+    "download": "https://api.github.com/repos/Starstrider42/Custom-Asteroids-Extras/zipball/v1.2.0",
+    "download_content_type": "application/vnd.github+json",
+    "download_hash": {
+        "sha1": "56A2F860F9BD130ED98E3C6B0E95B2A2444957CA",
+        "sha256": "A4080A213D0F4AD5FB3A125E42A63F4FB52C38A722D63F303155EE9000C90260"
+    },
+    "download_size": 9128,
+    "identifier": "CustomAsteroids-Pops-OPM-Outer",
+    "install": [
+        {
+            "filter_regexp": "(?<!Trans-Neidon\\.cfg)$",
+            "find": "config",
+            "install_to": "GameData/CustomAsteroids"
+        }
+    ],
+    "install_size": 8622,
+    "ksp_version_min": "1.10.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Custom Asteroids (Kuiper belt analog for OPM)",
+    "provides": [
+        "CustomAsteroids-Pops"
+    ],
+    "recommends": [
+        {
+            "comment": "Depends on Stockalike for standard comets.",
+            "max_version": "v1.99.99",
+            "min_version": "v1.9.0",
+            "name": "CustomAsteroids-Pops-Stock-Stockalike"
+        }
+    ],
+    "release_date": "2021-01-24T23:01:34Z",
+    "resources": {
+        "bugtracker": "https://github.com/Starstrider42/Custom-Asteroids-Extras/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/72785-*",
+        "repository": "https://github.com/Starstrider42/Custom-Asteroids-Extras"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "v1.2.0",
+    "x_generated_by": "netkan",
+    "x_maintained_by": "Starstrider42"
+}

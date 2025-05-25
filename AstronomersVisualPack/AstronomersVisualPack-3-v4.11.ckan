@@ -1,0 +1,72 @@
+{
+    "abstract": "The total visual overhaul for Kerbal Space Program, originally by Astronomer. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "themaster402",
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "AVP-Textures"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/themaster402/AstronomersVisualPack/releases/download/v4.11/AVP.v.4.11.zip?auth_key=1748275914-be46ea6d5fd64554bbdfe36c57af98f1-0-9a263f039651e228ddbd9f4d8567c794&size=51073524&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A39ABDE13A19C4F68514CB2B32E0DFF9B008C23E",
+        "sha256": "801C4102D186438521346BFA1F77AB6A3EB8A2DBFB1DD2D61F3E5CC53F782F20"
+    },
+    "download_size": 51073524,
+    "identifier": "AstronomersVisualPack",
+    "ksp_version_max": "1.12.9",
+    "ksp_version_min": "1.11.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Astronomer's Visual Pack [PRO-KCMIRROR]",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config",
+        "EnvironmentalVisualEnhancements-Config-stock"
+    ],
+    "recommends": [
+        {
+            "name": "KS3P"
+        },
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "release_date": "2021-05-21T15:27:10Z",
+    "resources": {
+        "bugtracker": "https://github.com/themaster402/AstronomersVisualPack/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160878-*",
+        "remote-avc": "https://raw.githubusercontent.com/themaster402/AstronomersVisualPack/master/GameData/AstronomersVisualPack/AstronomersVisualPack.version",
+        "repository": "https://github.com/themaster402/AstronomersVisualPack"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "Chatterer"
+        }
+    ],
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "3:v4.11",
+    "x_generated_by": "netkan"
+}

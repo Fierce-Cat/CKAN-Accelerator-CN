@@ -1,0 +1,68 @@
+{
+    "abstract": "Craft files for the various mods suggested by Realism Overhaul. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "NathanKell",
+    "depends": [
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RealismOverhaul/releases/download/v11.5.1/RealismOverhaul-v11.5.1.zip?auth_key=1748275915-66b4c11f7a41434b8fe16a9f3c5e90d2-0-09461ce8c49e6f8c173a9dc13c43862f&size=8456446&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "15AADC2300DAADCDD2596BD93474B4F6232A5A66",
+        "sha256": "4B7772B0D0AD064FD7C69D0B34D2984B358E22CA445B9D55C057F1821833D14C"
+    },
+    "download_size": 8456446,
+    "identifier": "RealismOverhaulCraftFiles",
+    "install": [
+        {
+            "comment": "VAB craft files",
+            "file": "Ships/VAB",
+            "install_to": "Ships"
+        },
+        {
+            "comment": "SPH craft files",
+            "file": "Ships/SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "license": "CC-BY-SA",
+    "name": "Realism Overhaul Craft Files [PRO-KCMIRROR]",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/140070-11",
+        "repository": "https://github.com/KSP-RO/RealismOverhaul"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "FASA"
+        },
+        {
+            "name": "AntaresCygnus"
+        },
+        {
+            "name": "RN-SovietRockets"
+        },
+        {
+            "name": "RN-SalyutStations"
+        },
+        {
+            "name": "RN-Skylab"
+        },
+        {
+            "name": "RN-SovietProbes"
+        },
+        {
+            "name": "RN-USProbesPack"
+        },
+        {
+            "name": "RN-USRockets"
+        },
+        {
+            "name": "NewTantares"
+        }
+    ],
+    "version": "v11.5.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,72 @@
+{
+    "abstract": "A Payload parts mod that Delivers your big cargo to the planet surface without flipping!  Vertical frames with integrated legs for interstage and planetary delivery.",
+    "author": [
+        "riocrokite",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/zer0Kerbal/StorkDeliverySystem/releases/download/0.0.5.0/StorkDeliverySystem-0.0.5.0.zip",
+        "https://spacedock.info/mod/2347/Stork%20Delivery%20System%20%5BSDS%5D/download/0.0.5.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3CBE6BAF73A1C0AEF0A5A8513EF709A4D3AE094E",
+        "sha256": "9831A9549B608A13DBEA97E532A345CC4A259CF2C404C6A8499A41BA13D166F7"
+    },
+    "download_size": 330641,
+    "identifier": "StorkDeliverySystem",
+    "install": [
+        {
+            "find": "KermangeddonIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1356670,
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.7.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Stork Delivery System [SDS]",
+    "release_date": "2020-03-08T09:35:11.778045+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/StorkDeliverySystem/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191921-*",
+        "remote-avc": "https://github.com/zer0Kerbal/StorkDeliverySystem/raw/master/StorkDeliverySystem.version",
+        "repository": "https://github.com/zer0Kerbal/StorkDeliverySystem",
+        "spacedock": "https://spacedock.info/mod/2347/Stork%20Delivery%20System%20[SDS]",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Stork_Delivery_System_SDS/Stork_Delivery_System_SDS-1582612467.3169608.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "MoarKerbals"
+        },
+        {
+            "name": "MFS"
+        },
+        {
+            "name": "SimpleLogistics"
+        },
+        {
+            "name": "SimpleConstruction"
+        },
+        {
+            "name": "NotSoSimpleConstruction"
+        },
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1:0.0.5.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,47 @@
+{
+    "abstract": "Persistent rotation, momentum and much more!",
+    "author": "MarkusA380",
+    "download": [
+        "https://github.com/markusa380/PersistentRotation/releases/download/1.8.7/PersistentRotation-1.8.7.zip",
+        "https://spacedock.info/mod/447/PersistentRotation/download/1.8.7"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "68073E62F94CFD899D392F5E9C94F095F7252F3C",
+        "sha256": "4877FA853E9F66DB92D8E6E90CAE2A8CDDBE4C164247B5FBF2BE9931EF71D446"
+    },
+    "download_size": 27449,
+    "identifier": "PersistentRotation",
+    "install": [
+        {
+            "file": "GameData/PersistentRotation",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 51622,
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "PersistentRotation",
+    "release_date": "2020-03-27T09:02:12.734421+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/markusa380/PersistentRotation/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/102277-10x-persistentrotation-102/",
+        "remote-avc": "https://raw.githubusercontent.com/markusa380/PersistentRotation/Development/GameData/PersistentRotation/PersistentRotation.version",
+        "repository": "https://github.com/markusa380/PersistentRotation",
+        "spacedock": "https://spacedock.info/mod/447/PersistentRotation",
+        "x_screenshot": "https://spacedock.info/content/MarkusA380_985/PersistentRotation/PersistentRotation-1459174738.8231518.jpg"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "1.8.7",
+    "x_generated_by": "netkan"
+}

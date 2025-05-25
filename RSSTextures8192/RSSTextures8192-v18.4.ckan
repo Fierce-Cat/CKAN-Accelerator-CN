@@ -1,0 +1,56 @@
+{
+    "abstract": "Textures for Real Solar Systems",
+    "author": [
+        "NathanKell",
+        "SirKeplan",
+        "StollD",
+        "al2me6",
+        "blowfishpro",
+        "cherrydev",
+        "pjf",
+        "rsparkyc",
+        "stratochief66",
+        "zorg2044",
+        "siimav"
+    ],
+    "conflicts": [
+        {
+            "name": "RSSTextures"
+        }
+    ],
+    "download": "https://github.com/KSP-RO/RSS-Textures/releases/download/v18.4/8192.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "41E0C4A331FC1B541695307FCF236F30826D39FB",
+        "sha256": "F39D31621131DD20E326238A7B2246FA1A4201DC4842437BD69278CB9BB99047"
+    },
+    "download_size": 1063420641,
+    "identifier": "RSSTextures8192",
+    "install": [
+        {
+            "find": "RSS-Textures",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1705185090,
+    "ksp_version_min": "1.8",
+    "license": "CC-BY-NC-SA",
+    "name": "Real Solar System Textures - 8192 x 4096",
+    "provides": [
+        "RSSTextures"
+    ],
+    "release_date": "2022-04-12T00:57:29Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/RSS-Textures/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177216-*",
+        "repository": "https://github.com/KSP-RO/RSS-Textures"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "v18.4",
+    "x_generated_by": "netkan"
+}

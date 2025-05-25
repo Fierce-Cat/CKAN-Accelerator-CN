@@ -1,0 +1,55 @@
+{
+    "abstract": "The Science Report and Checklist for KSP.  [x] Science! keeps track of the science experiments completed, recovered and held on vehicles and kerbals.",
+    "author": [
+        "Z-Key Aerospace",
+        "Brodrick",
+        "Flupster",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3100/%5BX%5D%20Science!%20Continued/download/6.0.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E2F40AD98F1CEDD814C126557192784E8EAAB8AF",
+        "sha256": "1E0E1249364DA9BEB8E410BF82E87105BE960D391F145E81A87260E0C15E3A1C"
+    },
+    "download_size": 208933,
+    "identifier": "xScienceContinued",
+    "install": [
+        {
+            "find": "[x]_Science!",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 364064,
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "[x] Science! Continued",
+    "release_date": "2022-09-22T01:08:56.2704+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199287-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/X-Science",
+        "repository": "https://github.com/linuxgurugamer/KSP-X-Science",
+        "spacedock": "https://spacedock.info/mod/3100/[X]%20Science!%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/X_Science_Continued/X_Science_Continued-1661905460.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information",
+        "science"
+    ],
+    "version": "6.0.1.1",
+    "x_generated_by": "netkan"
+}

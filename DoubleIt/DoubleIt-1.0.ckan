@@ -1,0 +1,42 @@
+{
+    "abstract": "A small planets pack which adds binary companions to the stock planets: Eve, Kerbin, Duna and Eeloo.",
+    "author": "Hyper_Fun",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2399/Double%20It/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "85C8168B67705AB2E8301ED7D489F38B5F8393E4",
+        "sha256": "DA0868C826A9EF5DB77BF23BB67B16C91F140192089A5C2F8DCAD385EA6835C9"
+    },
+    "download_size": 17608010,
+    "identifier": "DoubleIt",
+    "install": [
+        {
+            "find": "DoubleTheFun",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 98595893,
+    "ksp_version": "1.8.1",
+    "license": "CC0",
+    "name": "Double It",
+    "release_date": "2020-04-11T11:38:08.834614+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/2399/Double%20It",
+        "x_screenshot": "https://spacedock.info/content/Hyper_Fun_30907/Double_It/Double_It-1586615177.6712496.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

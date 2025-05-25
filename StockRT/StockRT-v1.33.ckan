@@ -1,0 +1,50 @@
+{
+    "abstract": "Adds the possibility to use the RemoteTech mod without the additional parts.",
+    "author": "malah",
+    "depends": [
+        {
+            "min_version": "2.6.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "v1.6.0",
+            "name": "RemoteTech"
+        }
+    ],
+    "download": "https://spacedock.info/mod/113/StockRT/download/v1.33",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A797BC2D394D3469AC0F4181C85B1DEF95C14CD0",
+        "sha256": "EE8E8B3D285FBE54DCF75547393124A30ACE9A513FAFCAFC7E5CC7AD2177B984"
+    },
+    "download_size": 37688,
+    "identifier": "StockRT",
+    "ksp_version_max": "1.99.99",
+    "ksp_version_min": "1.1.0",
+    "license": "Unlicense",
+    "name": "StockRT",
+    "release_date": "2016-07-22T02:27:29.238202+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/90061-1",
+        "repository": "https://github.com/malahx/StockRT",
+        "spacedock": "https://spacedock.info/mod/113/StockRT"
+    },
+    "spec_version": "v1.18",
+    "supports": [
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "ContractConfigurator-RemoteTech"
+        }
+    ],
+    "tags": [
+        "config",
+        "comms"
+    ],
+    "version": "v1.33",
+    "x_generated_by": "netkan"
+}

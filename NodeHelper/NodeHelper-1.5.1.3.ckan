@@ -1,0 +1,42 @@
+{
+    "abstract": "KSP node editor [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Felbourn",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/NodeHelper/releases/download/1.5.1.3/NodeHelper-1.8.0-1.5.1.3.zip?auth_key=1748275918-08f55bbce2314909b76fcdc95eefb24b-0-80be69b536930f7bf19748fdebfd7b10&size=32809&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0049BF7CAD6DE23E866790CD12B979161253B37D",
+        "sha256": "1E15150D8B483D84F95AFB3A925670F06C73627F081AE9B62C8022F1C109DB71"
+    },
+    "download_size": 32809,
+    "identifier": "NodeHelper",
+    "install": [
+        {
+            "find": "NodeHelper",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Node Helper [PRO-KCMIRROR]",
+    "release_date": "2020-07-03T21:28:55Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/NodeHelper/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190144-*",
+        "repository": "https://github.com/linuxgurugamer/NodeHelper"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "app"
+    ],
+    "version": "1.5.1.3",
+    "x_generated_by": "netkan"
+}

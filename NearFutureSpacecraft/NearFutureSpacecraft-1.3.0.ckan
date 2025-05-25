@@ -1,0 +1,84 @@
+{
+    "abstract": "New command pods, control systems and engines for crewed spacecraft",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/708/Near%20Future%20Spacecraft/download/1.3.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4A92DA59624AB4B8D988C93AE0DD86318664480C",
+        "sha256": "C3DFB963B060B002C61E4A5C03FCB8B00ACC33557909529AB08481802E4BAFEC"
+    },
+    "download_size": 91164205,
+    "identifier": "NearFutureSpacecraft",
+    "install": [
+        {
+            "find": "NearFutureSpacecraft",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "ru",
+        "zh-cn",
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr"
+    ],
+    "name": "Near Future Spacecraft",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-16x-near-future-technologies-16x-fixes-jan-21/",
+        "metanetkan": "https://github.com/ChrisAdderley/NearFutureSpacecraft/raw/master/CKAN/NearFutureSpacecraft.netkan",
+        "repository": "https://github.com/ChrisAdderley/NearFutureSpacecraft",
+        "spacedock": "https://spacedock.info/mod/708/Near%20Future%20Spacecraft",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Spacecraft/Near_Future_Spacecraft-1463532778.5485678.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        }
+    ],
+    "supports": [
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        }
+    ],
+    "tags": [
+        "parts",
+        "graphics",
+        "crewed"
+    ],
+    "version": "1.3.0",
+    "x_generated_by": "netkan"
+}

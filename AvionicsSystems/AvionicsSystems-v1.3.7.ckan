@@ -1,0 +1,80 @@
+{
+    "abstract": "MOARdV's Avionics Systems for Kerbal Space Program - a new generation of IVA enhancement. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "MOARdV",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "ASETAvionics"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/FirstPersonKSP/AvionicsSystems/releases/download/v1.3.7/AvionicsSystems-1.3.7.zip?auth_key=1748275917-a75960854adf483b8f36af102ab86426-0-167c1469c8493f1ef9d72d7bbfb3095b&size=29237495&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4D38DC54E96F5834232C4F70ACC7210D481F64DB",
+        "sha256": "B965E2BC0943EE7F9A31B1FE492BCA07A52D81D7318AC5379348054A2C91D040"
+    },
+    "download_size": 29237495,
+    "identifier": "AvionicsSystems",
+    "install": [
+        {
+            "find": "MOARdV",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 40393435,
+    "ksp_version_max": "1.12.9",
+    "ksp_version_min": "1.12.0",
+    "license": "restricted",
+    "localizations": [
+        "en-us",
+        "zh-cn",
+        "zh-tw"
+    ],
+    "name": "Avionics Systems [PRO-KCMIRROR]",
+    "release_date": "2023-04-07T21:51:04Z",
+    "resources": {
+        "bugtracker": "https://github.com/FirstPersonKSP/AvionicsSystems/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*",
+        "license": "https://github.com/MOARdV/AvionicsSystems/blob/master/LICENSE.md",
+        "remote-avc": "https://raw.githubusercontent.com/MOARdV/AvionicsSystems/master/GameData/MOARdV/AvionicsSystems/AvionicsSystems.version",
+        "repository": "https://github.com/FirstPersonKSP/AvionicsSystems"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "AdvancedJetEngine"
+        },
+        {
+            "name": "Chatterer"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "FAR"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "RealChute"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "v1.3.7",
+    "x_generated_by": "netkan"
+}

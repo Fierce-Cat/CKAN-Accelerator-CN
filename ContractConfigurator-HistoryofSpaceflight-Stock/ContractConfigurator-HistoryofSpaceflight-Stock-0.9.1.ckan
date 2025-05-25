@@ -1,0 +1,65 @@
+{
+    "abstract": "A contract pack recreating almost all real-life missions that were actually flown, currently up until 1967. This version is for users of Stock and any other non-RSS planet pack.",
+    "author": [
+        "Morphisor",
+        "Frylovespi"
+    ],
+    "conflicts": [
+        {
+            "name": "ContractConfigurator-HistoryofSpaceflight"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2386/History%20of%20Spaceflight%20Stock/download/0.9.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E74FFDA59052E8607C94EF01AF0031F87B81672B",
+        "sha256": "C0BA825AB19900375D5CBF24E904F32405EA274A6EBE6AF93FA5F05F43ABBAA8"
+    },
+    "download_size": 5019860,
+    "identifier": "ContractConfigurator-HistoryofSpaceflight-Stock",
+    "install": [
+        {
+            "find": "ContractPacks",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.99.99",
+    "ksp_version_min": "1.2.2",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "History of Spaceflight Stock",
+    "provides": [
+        "ContractConfigurator-HistoryofSpaceflight"
+    ],
+    "recommends": [
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "NewTantares"
+        },
+        {
+            "name": "ProbesPlus"
+        }
+    ],
+    "release_date": "2020-06-01T12:03:26.996469+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192880-12-19x-contract-pack-history-of-spaceflight/",
+        "repository": "https://github.com/Frylovespi/History-of-Spaceflight/",
+        "spacedock": "https://spacedock.info/mod/2386/History%20of%20Spaceflight%20Stock"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "career"
+    ],
+    "version": "0.9.1",
+    "x_generated_by": "netkan"
+}

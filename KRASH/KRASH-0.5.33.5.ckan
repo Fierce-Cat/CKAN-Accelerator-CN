@@ -1,0 +1,52 @@
+{
+    "abstract": "Simulation mod",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/302/KRASH%20-%20Kerbal%20Ramification%20Artifical%20Simulation%20Hub%20(simulation%20mod%20for%20KSP)/download/0.5.33.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CC542746B8DA33F5FFFC6E592C3864DE046ABF8D",
+        "sha256": "4FB6688A8679ECC490589CB7FB17774D8C6A9850052689E1E75C59D4915CFFA6"
+    },
+    "download_size": 87679,
+    "identifier": "KRASH",
+    "install": [
+        {
+            "find": "KRASH",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 204083,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "KRASH - Kerbal Ramification Artifical Simulation Hub (simulation mod for KSP)",
+    "recommends": [
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "release_date": "2021-08-29T14:45:43.217298+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/KRASH/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133082-krash-kerbal-ramification-artifical-simulation-hub-simulation-mod-for-ksp/",
+        "remote-avc": "http://ksp.spacetux.net/avc/KRASH",
+        "repository": "https://github.com/linuxgurugamer/KRASH",
+        "spacedock": "https://spacedock.info/mod/302/KRASH%20-%20Kerbal%20Ramification%20Artifical%20Simulation%20Hub%20(simulation%20mod%20for%20KSP)",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/KRASH_-_Kerbal_Ramification_Artifical_Simulation_Hub_simulation_mod_for_KSP/KRASH_-_Kerbal_Ramification_Artifical_Simulation_Hub_simulation_mod_for_KSP-1456623331.1446705.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "career"
+    ],
+    "version": "0.5.33.5",
+    "x_generated_by": "netkan"
+}

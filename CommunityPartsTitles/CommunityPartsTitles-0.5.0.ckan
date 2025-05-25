@@ -1,0 +1,204 @@
+{
+    "abstract": "Rename parts for useful and consistent grouping/sorting in the VAB/SPH. Many mods are supported [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "flart",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/yalov/CommunityPartsTitles/releases/download/0.5.0/CommunityPartsTitles-v0.5.0.zip?auth_key=1748275916-2e406fb0690540ddb401222c63882e40-0-b24c022eb7d6bd320eec2fb0e04e3e20&size=142266&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "384FEA9890253BC11C299156D42557894C6DBD42",
+        "sha256": "A962E8C023445775DE1DF44B060829B067EC183E892C90A8209BF13BD399A863"
+    },
+    "download_size": 142266,
+    "identifier": "CommunityPartsTitles",
+    "install": [
+        {
+            "comment": "Exclude Extras/ folder. There are CommunityPartsTitlesExtrasCategory and CommunityPartsTitlesExtrasNoCCKDup for it",
+            "file": "GameData/002_CommunityPartsTitles",
+            "filter": "Extras",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.9",
+    "ksp_version_min": "1.3.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Community Parts Titles [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "CommunityPartsTitlesExtrasCategory"
+        },
+        {
+            "name": "CommunityPartsTitlesExtrasNoCCKDup"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SpeedUnitAnnex"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174189-*",
+        "repository": "https://github.com/yalov/CommunityPartsTitles"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "FuelTanksPlus"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "SpaceY-Expanded"
+        },
+        {
+            "name": "BetterSRBs"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "HeatControl"
+        },
+        {
+            "name": "RecycledPartsAtomicAge"
+        },
+        {
+            "name": "MissingHistory"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "FASALaunchClampsContinued"
+        },
+        {
+            "name": "Mk2Expansion"
+        },
+        {
+            "min_version": "2.8.0",
+            "name": "KerbalAircraftExpansion"
+        },
+        {
+            "name": "AirplanePlus"
+        },
+        {
+            "name": "MK1StkOpenCockpit"
+        },
+        {
+            "name": "Kerbonov"
+        },
+        {
+            "name": "CommNetAntennasExtension"
+        },
+        {
+            "name": "JX2Antenna"
+        },
+        {
+            "name": "SurfaceExperimentPack"
+        },
+        {
+            "name": "TarsierSpaceTechnologyWithGalaxies"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "KerbalFoundriesContinued"
+        },
+        {
+            "name": "MSP3000"
+        },
+        {
+            "name": "DMagicOrbitalScience"
+        },
+        {
+            "name": "PicoPort"
+        },
+        {
+            "name": "GlassPanesandEnclosures"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "UniversalStorage2"
+        },
+        {
+            "name": "RLAReborn"
+        },
+        {
+            "name": "MandatoryRCSPartPack"
+        },
+        {
+            "name": "InternalRCS"
+        },
+        {
+            "name": "DockRotate"
+        },
+        {
+            "name": "PWBFuelBalancerRestored"
+        },
+        {
+            "name": "Interkosmos"
+        },
+        {
+            "name": "SolidFuelCell"
+        }
+    ],
+    "version": "0.5.0",
+    "x_generated_by": "netkan"
+}

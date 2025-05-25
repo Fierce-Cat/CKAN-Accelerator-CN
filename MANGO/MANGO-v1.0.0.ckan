@@ -1,0 +1,35 @@
+{
+    "abstract": "A mini-mod that changes the behaviour of transmitting science to prevent the \"not enough power\" spam",
+    "author": "FruitGooseKSP",
+    "download": "https://spacedock.info/mod/2669/My%20Antennae%20Never%20Go%20Offline%20%28MANGO%29/download/v1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ABC5EDB942AC247CDDC2C3F7D5C303F1E6321ABA",
+        "sha256": "A06F62173176BFF9F25F6F5A8E87F8B45DDB8780DBFCBF184F226F32AB851E1C"
+    },
+    "download_size": 6000,
+    "identifier": "MANGO",
+    "install": [
+        {
+            "find": "FruitKocktail",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.11.2",
+    "license": "MIT",
+    "name": "My Antennae Never Go Offline (MANGO)",
+    "release_date": "2021-03-25T12:13:50.979587+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201227-1112-fruitkocktail-a-collection-of-mini-life-improvement-mods-with-fruit-based-acronyms-as-names/",
+        "repository": "https://github.com/FruitGooseKSP/MyAntennaeNeverGoOffline",
+        "spacedock": "https://spacedock.info/mod/2669/My%20Antennae%20Never%20Go%20Offline%20(MANGO)",
+        "x_screenshot": "https://spacedock.info/content/FruitGooseKSP_58074/My_Antennae_Never_Go_Offline_MANGO/My_Antennae_Never_Go_Offline_MANGO-1617379896.6228127.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "comms"
+    ],
+    "version": "v1.0.0",
+    "x_generated_by": "netkan"
+}

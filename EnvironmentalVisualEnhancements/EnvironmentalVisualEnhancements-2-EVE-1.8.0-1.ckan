@@ -1,0 +1,39 @@
+{
+    "abstract": "City Lights for Kerbin and Clouds for Any planet you wish [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "WazWaz",
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-LR"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/WazWaz/EnvironmentalVisualEnhancements/releases/download/EVE-1.8.0-1/EnvironmentalVisualEnhancements-1.8.0.0.zip?auth_key=1748275915-02ca30f1282e4661abde1b55df0d4a60-0-0ec102c5411022391b3eca8cac7a37b2&size=753264&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C4C554796D10CCCAE1F9C71F4707365D86A5B388",
+        "sha256": "9825D7EA46CAF3565EE02DD6FBA481E263A3DB9E9E4EC8709501B523267F6986"
+    },
+    "download_size": 753264,
+    "identifier": "EnvironmentalVisualEnhancements",
+    "install": [
+        {
+            "file": "GameData/EnvironmentalVisualEnhancements",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Environmental Visual Enhancements [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/149733-EVE",
+        "repository": "https://github.com/WazWaz/EnvironmentalVisualEnhancements"
+    },
+    "spec_version": 1,
+    "version": "2:EVE-1.8.0-1",
+    "x_generated_by": "netkan"
+}

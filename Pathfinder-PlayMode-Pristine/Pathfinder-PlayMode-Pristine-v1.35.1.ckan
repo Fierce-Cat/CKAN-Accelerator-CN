@@ -1,0 +1,55 @@
+{
+    "abstract": "Space Camping @ Geoscience [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "WildBlue-PlayMode-Pristine"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Pathfinder"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/Pathfinder/releases/download/v1.35.1/Pathfinder_1_35_1.zip?auth_key=1748275915-a5c0451a268643989c9d366989358c2b-0-60b33e7a33fd215761e2adbff784aa3b&size=62211775&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2671FCFAD7432E0808CDE02E89CCB6427BD6F52C",
+        "sha256": "87520389DB09D4528EFA7864133913C1677AEC518E2AD3BDB33E3842319AB42B"
+    },
+    "download_size": 62211775,
+    "identifier": "Pathfinder-PlayMode-Pristine",
+    "install": [
+        {
+            "find": "Pathfinder/Templates/Pristine.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/Pathfinder/Templates"
+        },
+        {
+            "as": "Pristine Mode.cfg",
+            "find": "Pathfinder/Templates/Pristine/Pristine Mode.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/Pathfinder/Templates/Pristine"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Pathfinder Pristine Play Mode [PRO-KCMIRROR]",
+    "provides": [
+        "Pathfinder-PlayMode"
+    ],
+    "release_date": "2020-06-19T19:10:14Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/Pathfinder/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/121397-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/Pathfinder/master/GameData/WildBlueIndustries/Pathfinder/Pathfinder.version",
+        "repository": "https://github.com/Angel-125/Pathfinder"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config"
+    ],
+    "version": "v1.35.1",
+    "x_generated_by": "netkan"
+}

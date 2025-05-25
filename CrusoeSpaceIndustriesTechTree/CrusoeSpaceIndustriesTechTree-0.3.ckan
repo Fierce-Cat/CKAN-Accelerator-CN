@@ -1,0 +1,47 @@
+{
+    "abstract": "Cruesoe Space Industries Tech Tree [WIP] - Unmanned before Manned Tech Tree, with [hopefully) logical progression.",
+    "author": "Cruesoe",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2748/CSI%20Tech%20Tree/download/0.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C739EB53A1DE66EAB197D18C4FE784F5E12AD2A7",
+        "sha256": "E3B6E11BD388FD137753ACF575D0A4BB4D8B03EAD0040F2B81D38A9811FAB0CE"
+    },
+    "download_size": 142425,
+    "identifier": "CrusoeSpaceIndustriesTechTree",
+    "install": [
+        {
+            "find": "CSITechTree",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.12.1",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "CSI Tech Tree",
+    "release_date": "2021-05-16T13:40:25.441944+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Cruesoe/CSITechTree/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/202292-wip111x-csi-tech-tree/",
+        "repository": "https://github.com/Cruesoe/CSITechTree",
+        "spacedock": "https://spacedock.info/mod/2748/CSI%20Tech%20Tree"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "tech-tree",
+        "uncrewed"
+    ],
+    "version": "0.3",
+    "x_generated_by": "netkan"
+}

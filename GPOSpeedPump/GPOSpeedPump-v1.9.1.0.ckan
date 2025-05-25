@@ -1,0 +1,56 @@
+{
+    "abstract": "Allows you to automatically transfer or balance fuel.",
+    "author": [
+        "Gaius Goodspeed",
+        "Geordiepigeonowner",
+        "hab136",
+        "LisiasT",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/546/Goo%20Pumps%20&%20Oils'%20Speed%20Pump%20(GPOSP)/download/1.9.1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9328C078B770CA8AE449E29DCFD1D308E2B84492",
+        "sha256": "23E5F1FC58B2883AADA227394D90A48A74C69A8B6EBF83F742F21968E216F2BD"
+    },
+    "download_size": 92172,
+    "identifier": "GPOSpeedPump",
+    "install_size": 215589,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.3.1",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "it-it",
+        "ja",
+        "pt-br"
+    ],
+    "name": "Goo Pumps & Oils' Speed Pump",
+    "provides": [
+        "Goodspeed",
+        "GPOSpeedFuelPump"
+    ],
+    "release_date": "2023-06-12T05:59:55.560391+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/net-lisias-ksp/GPOSpeedPump/issues",
+        "discussions": "https://github.com/net-lisias-ksp/GPOSpeedPump/discussions",
+        "homepage": "https://net-lisias-ksp.github.io/GPOSpeedPump/",
+        "remote-avc": "https://raw.githubusercontent.com/net-lisias-ksp/GPOSpeedPump/master/GPOSpeedPump.version",
+        "repository": "https://github.com/net-lisias-ksp/GPOSpeedPump",
+        "spacedock": "https://spacedock.info/mod/546/Goo%20Pumps%20&%20Oils'%20Speed%20Pump%20(GPOSP)",
+        "x_screenshot": "https://spacedock.info/content/hab136_461/Goo_Pumps__Oils_Speed_Pump_GPOSP/Goo_Pumps__Oils_Speed_Pump_GPOSP-1663660394.png"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "resources"
+    ],
+    "version": "v1.9.1.0",
+    "x_generated_by": "netkan"
+}

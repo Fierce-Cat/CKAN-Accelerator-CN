@@ -1,0 +1,72 @@
+{
+    "abstract": "Next Star Industries has several divisions in its ranks from basic ship building parts, to a highly developed mining division, plus a well rounded military division.",
+    "author": "Next_Star_Industries",
+    "conflicts": [
+        {
+            "name": "BDArmoryWeaponsExtension"
+        },
+        {
+            "name": "PEWPromethiumExperimentalWeaponry"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        },
+        {
+            "name": "BDArmoryContinued"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2506/Next%20Star%20Industries/download/v2.4.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "44552285DA77AB1325948A3ECD84C9B8BA0F9640",
+        "sha256": "8080FDC8125AEBA306AB6466FEB912797AB7AFC7A3F2969089C9667C3F50FD84"
+    },
+    "download_size": 379034255,
+    "identifier": "NextStarIndustries",
+    "install": [
+        {
+            "find": "GameData/NSI",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 936630150,
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.9.1",
+    "license": "CC-BY-SA-2.0",
+    "localizations": [
+        "cs",
+        "de",
+        "en-us",
+        "es-es",
+        "fr",
+        "it",
+        "ja",
+        "nl",
+        "pt-BR",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Next Star Industries",
+    "release_date": "2020-10-23T16:35:32.598847+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/NextStarIndustries/Next-Star-Industries/issues",
+        "homepage": "https://github.com/NextStarIndustries/Next-Star-Industries",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=552",
+        "repository": "https://github.com/NextStarIndustries/Next-Star-Industries",
+        "spacedock": "https://spacedock.info/mod/2506/Next%20Star%20Industries",
+        "x_screenshot": "https://spacedock.info/content/Next_Star_Industries_13277/Next_Star_Industries/Next_Star_Industries-1602732135.3310738.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts",
+        "combat"
+    ],
+    "version": "2:v2.4.2",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,31 @@
+{
+    "abstract": "Shader asset bundle loader for KSP",
+    "author": "taniwha",
+    "depends": [
+        {
+            "name": "Harmony2"
+        }
+    ],
+    "download": "https://archive.org/download/Shabby-0.3.0.0/67798B09-Shabby-0.3.0.0.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "67798B09CA1EF68A4125E96D650ECD9709443794",
+        "sha256": "C42706BABE51C03DD6CC9C266214F68BB0EBEA902FA7E345FCE8301168529670"
+    },
+    "download_size": 388639,
+    "identifier": "Shabby",
+    "install_size": 48643,
+    "license": "GPL-3.0",
+    "name": "Shabby",
+    "resources": {
+        "remote-avc": "http://taniwha.org/~bill/Shabby.version",
+        "repository": "https://github.com/taniwha/Shabby"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "library",
+        "plugin"
+    ],
+    "version": "0.3.0.0",
+    "x_generated_by": "netkan"
+}

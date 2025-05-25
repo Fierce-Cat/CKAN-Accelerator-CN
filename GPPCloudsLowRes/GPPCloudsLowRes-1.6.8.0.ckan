@@ -1,0 +1,67 @@
+{
+    "abstract": "Low resolution clouds for GPP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Galileo88",
+        "OhioBob"
+    ],
+    "conflicts": [
+        {
+            "name": "GPPCloudsHighRes"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "GPP"
+                },
+                {
+                    "name": "GPPSecondary"
+                }
+            ]
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Galileo88/Galileos-Planet-Pack/releases/download/1.6.8.0/Galileos-Planet-Pack-1.6.8.0.zip?auth_key=1748275918-efbe88ff7a0945cf8aac7030f02097a8-0-ecddcd44fd994bb7645204573626bbb6&size=349842953&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F113BD19E5C340117D7E0958CA4505F25CF6681B",
+        "sha256": "7607F5DB8C0F25BFF18B82A724954B0BB31EAEF7A6386593589D3E109B1382E2"
+    },
+    "download_size": 349842953,
+    "identifier": "GPPCloudsLowRes",
+    "install": [
+        {
+            "comment": "This installs the low resolution clouds configs for GPP",
+            "find": "Optional Mods/GPP_Clouds/Low-res Clouds_GameData inside/GameData/GPP",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 67700516,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-ND",
+    "name": "GPP LowRes clouds [PRO-KCMIRROR]",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config"
+    ],
+    "release_date": "2021-11-25T17:17:12Z",
+    "resources": {
+        "bugtracker": "https://github.com/Galileo88/Galileos-Planet-Pack/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/152136-*",
+        "remote-avc": "https://raw.githubusercontent.com/Galileo88/Galileos-Planet-Pack/master/GameData/GPP/Version/GalileosPlanetPack.version",
+        "repository": "https://github.com/Galileo88/Galileos-Planet-Pack"
+    },
+    "spec_version": "v1.26",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1.6.8.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,69 @@
+{
+    "abstract": "The plugin, what enhanced antennas info panel in the VAB/SPH [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "flart",
+    "conflicts": [
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/yalov/CommNetAntennasInfo/releases/download/3.1.4/CommNetAntennasInfo-v3.1.4.zip?auth_key=1748275917-3d83bc759066434b98b7e10f6ce4821a-0-4f60dfd8d795dd44bfb3c504a683c135&size=90101&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DA353A2C2CAE1663FC7313520CB0FCFDC4EADD53",
+        "sha256": "1ACDA6CE740A15D7EB38B915D3CA4390D1862901130B8B1622E989E8F2F4EDBD"
+    },
+    "download_size": 90101,
+    "identifier": "CommNetAntennasInfo",
+    "install_size": 70316,
+    "ksp_version_max": "1.12.9",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "CommNet Antennas Info [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "CommNetAntennasExtension"
+        },
+        {
+            "name": "CommNetAntennasConsumptor"
+        }
+    ],
+    "release_date": "2024-08-31T23:10:08Z",
+    "resources": {
+        "bugtracker": "https://github.com/yalov/CommNetAntennasInfo/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177292-*",
+        "remote-avc": "https://raw.githubusercontent.com/yalov/CommNetAntennasInfo/master/CommNetAntennasInfo.version",
+        "repository": "https://github.com/yalov/CommNetAntennasInfo"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "SpeedUnitAnnex"
+        },
+        {
+            "name": "ScienceLabInfo"
+        },
+        {
+            "name": "ScienceSituationInfo"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "information",
+        "comms"
+    ],
+    "version": "3.1.4",
+    "x_generated_by": "netkan"
+}

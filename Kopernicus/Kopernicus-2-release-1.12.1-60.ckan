@@ -1,0 +1,68 @@
+{
+    "abstract": "Allows users to replace the planetary system used by the game. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "BryceSchroeder",
+        "Teknoman117",
+        "Thomas P.",
+        "NathanKell",
+        "KillAshley",
+        "Gravitasi",
+        "KCreator",
+        "Sigma88",
+        "R-T-B",
+        "prestja"
+    ],
+    "depends": [
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "1.2.4.0",
+            "name": "ModularFlightIntegrator"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kopernicus/Kopernicus/releases/download/release-60/Kopernicus-1.12.1-60.zip?auth_key=1748275914-b636ef19fd8e4c54bedc489c5a4160c6-0-ccf06fb89ef9b4e5f6599d856aaf9248&size=400503&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "365ADAC7A6EB972DB15D292C3B70D1A3A113AEEA",
+        "sha256": "43A690B446187FEFF2E750BD411DFE668A1ACC787CED78FC8DE447DEEEE2C91D"
+    },
+    "download_size": 400503,
+    "identifier": "Kopernicus",
+    "install": [
+        {
+            "find": "Kopernicus",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.9.0",
+    "license": "LGPL-3.0",
+    "localizations": [
+        "en-us",
+        "it-it",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Kopernicus Planetary System Modifier [PRO-KCMIRROR]",
+    "release_date": "2021-10-30T14:04:32Z",
+    "resources": {
+        "bugtracker": "https://github.com/Kopernicus/Kopernicus/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200143-*",
+        "remote-avc": "https://raw.githubusercontent.com/Kopernicus/Kopernicus/master/build/KSP19+/GameData/Kopernicus/Plugins/Kopernicus.version",
+        "repository": "https://github.com/Kopernicus/Kopernicus"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KittopiaTech"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "2:release-1.12.1-60",
+    "x_generated_by": "netkan"
+}

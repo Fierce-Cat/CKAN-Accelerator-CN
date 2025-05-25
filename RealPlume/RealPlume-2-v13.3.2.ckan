@@ -1,0 +1,65 @@
+{
+    "abstract": "A set of expanding plume effects and basic configs that can be attached to any engine as appropriate.  Requires SmokeScreen and secondary configs to function correctly. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Zorg",
+        "Blowfish",
+        "Felger"
+    ],
+    "conflicts": [
+        {
+            "name": "HotRockets"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "RealPlumeConfigs"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RealPlume/releases/download/v13.3.2/RealPlume_v13.3.2.zip?auth_key=1748275914-af48cd29bd494825b07d3a5944c47f42-0-e8cd4b0ceb750946d671b2248e7dcb53&size=20225113&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DB096429D35DFF023B0FB4A91656AD38E2211F43",
+        "sha256": "1B30DA749575F8D8E010D3AA0D985F32DA197E0941F562DAD07606C47F679E1A"
+    },
+    "download_size": 20225113,
+    "identifier": "RealPlume",
+    "install": [
+        {
+            "filter": ".DS_Store",
+            "find": "RealPlume",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 29826044,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8",
+    "license": "CC-BY-NC-SA",
+    "name": "Real Plume [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "EngineLighting"
+        }
+    ],
+    "release_date": "2020-10-15T09:43:15Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/RealPlume/issues",
+        "homepage": "https://github.com/KSP-RO/RealPlume/wiki",
+        "metanetkan": "https://raw.githubusercontent.com/KSP-RO/RealPlume/master/RealPlume.netkan",
+        "repository": "https://github.com/KSP-RO/RealPlume"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics",
+        "sound"
+    ],
+    "version": "2:v13.3.2",
+    "x_generated_by": "netkan"
+}

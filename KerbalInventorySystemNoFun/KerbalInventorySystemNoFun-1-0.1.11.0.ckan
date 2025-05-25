@@ -1,0 +1,53 @@
+{
+    "abstract": "ModularManagement config script for removing \"fun\" items from Kerbal Inventory System. For Kerbal Space Program. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "QuickBASIC",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KIS"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/zer0Kerbal/KerbalInventorySystemNoFun/releases/download/0.1.11.0/KerbalInventorySystemNoFun-0.1.11.0.zip?auth_key=1748275915-ddb8d9aaed8c4736895d48fe86ce38b4-0-e09e7977839b265f332ee6e8cd8ef80a&size=18574&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "30684D5AC6C70BEC40BAEFDFA1E0005DDC780DB8",
+        "sha256": "8C5CCFCF9C9C0E025EE68E4CFCDD41A0C789FD252A6433E90BC68FA054D69558"
+    },
+    "download_size": 18574,
+    "identifier": "KerbalInventorySystemNoFun",
+    "install": [
+        {
+            "find": "KerbalInventorySystemNoFun",
+            "install_to": "GameData/QuickBASIC"
+        }
+    ],
+    "install_size": 54067,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.0.0",
+    "license": "MIT",
+    "name": "Kerbal Inventory System - No Fun [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "release_date": "2021-09-09T13:39:22Z",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/KerbalInventorySystemNoFun/issues",
+        "discussions": "https://github.com/zer0Kerbal/KerbalInventorySystemNoFun/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204752-*",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/KerbalInventorySystemNoFun/master/KerbalInventorySystemNoFun.version",
+        "repository": "https://github.com/zer0Kerbal/KerbalInventorySystemNoFun"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "1:0.1.11.0",
+    "x_generated_by": "netkan"
+}

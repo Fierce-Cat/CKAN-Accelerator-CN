@@ -1,0 +1,40 @@
+{
+    "abstract": "Procedural test weights for launchers",
+    "author": [
+        "linuxgurugamer",
+        "stupid_chris",
+        "kotysoft"
+    ],
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/386/Kerbal%20NRAP%20-%20Procedural%20Test%20Weights/download/1.5.14",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8AB6418B8D95BA97484797C0D55B935DB2ACB24C",
+        "sha256": "EB6D9B2C260C1BC33E552365339878F049BAD7B514291DC70DE143BBED13EA06"
+    },
+    "download_size": 256143,
+    "identifier": "KerbalNRAP",
+    "install": [
+        {
+            "file": "GameData/NRAP",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.2",
+    "ksp_version_min": "1.5.1",
+    "license": "CC-BY-SA",
+    "name": "Kerbal NRAP - Procedural Test Weights",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/156017-x",
+        "repository": "https://github.com/linuxgurugamer/NRAP",
+        "spacedock": "https://spacedock.info/mod/386/Kerbal%20NRAP%20-%20Procedural%20Test%20Weights",
+        "x_screenshot": "https://spacedock.info/content/stupid_chris_2190/Kerbal_NRAP_-_Procedural_Test_Weights/Kerbal_NRAP_-_Procedural_Test_Weights-1457583001.4521554.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.5.14",
+    "x_generated_by": "netkan"
+}

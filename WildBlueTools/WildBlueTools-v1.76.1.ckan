@@ -1,0 +1,55 @@
+{
+    "abstract": "Parts and PartModules for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KerbalActuators"
+        },
+        {
+            "name": "BarisBridge"
+        },
+        {
+            "name": "WildBlue-PlayMode"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/WildBlueTools/releases/download/v1.76.1/WildBlueTools_1_76_1.zip?auth_key=1748275918-54fcacc444fe4638b351715bc811ea80-0-5aea4da79eb87a820f9a20a4c1c35745&size=21708365&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "27528B13FC355CBDC6F69C4B40D2595B9A282468",
+        "sha256": "7CB91F977D1CCED16D6A2F90E0CF3030399B9C66B54BF9EAB0AA30271DF31A94"
+    },
+    "download_size": 21708365,
+    "identifier": "WildBlueTools",
+    "install": [
+        {
+            "filter": [
+                "Templates"
+            ],
+            "find": "000WildBlueTools",
+            "install_to": "GameData/WildBlueIndustries"
+        },
+        {
+            "find": "000WildBlueTools/Templates/Common",
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Wild Blue Tools [PRO-KCMIRROR]",
+    "release_date": "2020-04-29T17:29:58Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/WildBlueTools/issues",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/WildBlueTools/master/GameData/WildBlueIndustries/000WildBlueTools/WildBlueTools.version",
+        "repository": "https://github.com/Angel-125/WildBlueTools"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "v1.76.1",
+    "x_generated_by": "netkan"
+}

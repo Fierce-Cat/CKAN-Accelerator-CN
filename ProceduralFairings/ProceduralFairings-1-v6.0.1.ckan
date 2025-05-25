@@ -1,0 +1,54 @@
+{
+    "abstract": "Fairings that automatically reshape for any attached payload [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Felger",
+        "NathanKell",
+        "Pap1723"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/ProceduralFairings/releases/download/v6.0.1/ProceduralFairings-6.0.1.zip?auth_key=1748275915-1d9057f7399847d6ac6805bebfcad299-0-894df06d6a7dbaf6be3bd648a5f2023b&size=5602842&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2513A39836AE16D9193DF8E4753352803BCC8655",
+        "sha256": "C4C54950DBEEA28FD20FF8DBB183A4DDA2F2337CCC627EC33207B827D8C368DC"
+    },
+    "download_size": 5602842,
+    "identifier": "ProceduralFairings",
+    "install": [
+        {
+            "file": "ProceduralFairings",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY",
+    "name": "Procedural Fairings [PRO-KCMIRROR]",
+    "release_date": "2021-06-26T15:50:22Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/ProceduralFairings/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184187-*",
+        "metanetkan": "https://raw.githubusercontent.com/KSP-RO/ProceduralFairings/master/ProceduralFairings.netkan",
+        "remote-avc": "https://github.com/KSP-RO/ProceduralFairings/raw/master/GameData/ProceduralFairings/ProceduralFairings.version",
+        "repository": "https://github.com/KSP-RO/ProceduralFairings"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "PFTextures"
+        },
+        {
+            "name": "ProceduralFairings-ForEverything"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1:v6.0.1",
+    "x_generated_by": "netkan"
+}

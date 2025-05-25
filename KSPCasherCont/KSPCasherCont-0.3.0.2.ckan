@@ -1,0 +1,94 @@
+{
+    "abstract": "Provides a cash-based economy, with daily budgets, turn cash into science",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "KerbalConstructionTime"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/kspcasher/releases/download/0.3.0.2/KSPCasher-1.12.0-0.3.0.2.zip",
+        "https://spacedock.info/mod/1267/KSPCasher%20Continued/download/0.3.0.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E2DB68BEFF5B5E75E2784D4CEBB693941181E850",
+        "sha256": "C5E309B9F60F68A9E87DCDBF807A66417F706D0303C617F15792031AA6F40B0F"
+    },
+    "download_size": 23526,
+    "identifier": "KSPCasherCont",
+    "install": [
+        {
+            "find": "KSPCasher",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 46097,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "KSPCasher Continued",
+    "recommends": [
+        {
+            "name": "Karbonite"
+        },
+        {
+            "name": "KerbinSide"
+        }
+    ],
+    "release_date": "2021-08-26T15:40:11.887673+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/kspcasher/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158009-12-",
+        "remote-avc": "http://ksp.spacetux.net/avc/KSPCasher",
+        "repository": "https://github.com/linuxgurugamer/kspcasher",
+        "spacedock": "https://spacedock.info/mod/1267/KSPCasher%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/KSPCasher_Continued/KSPCasher_Continued-1490095848.8556225.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "ContractConfigurator-AnomalySurveyor"
+        },
+        {
+            "name": "ContractConfigurator-KerbinSpaceStation"
+        },
+        {
+            "name": "ContractConfigurator-CleverSats"
+        },
+        {
+            "name": "ContractConfigurator-FieldResearch"
+        },
+        {
+            "name": "ContractConfigurator-KerbalAcademy"
+        },
+        {
+            "name": "ContractConfigurator-RemoteTech"
+        },
+        {
+            "name": "ContractConfigurator-Tourism"
+        }
+    ],
+    "supports": [
+        {
+            "name": "Strategia"
+        },
+        {
+            "name": "RealSolarSystem"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "career"
+    ],
+    "version": "0.3.0.2",
+    "x_generated_by": "netkan"
+}

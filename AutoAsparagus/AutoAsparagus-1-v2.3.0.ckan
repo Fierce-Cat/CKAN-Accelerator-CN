@@ -1,0 +1,45 @@
+{
+    "abstract": "Asparagus staging is awesome, but tedious. So, I built a plugin to do it for me! :)",
+    "author": "hab136",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/281/AutoAsparagus/download/v2.3.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7913E30E355F8899A19E769DDAA14BEA199A35D2",
+        "sha256": "F6B4E59BF878331D3E4BBE6D163284F10D6F9EFF55F09A63152A24F4B240FB8A"
+    },
+    "download_size": 38605,
+    "identifier": "AutoAsparagus",
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.9.0",
+    "license": "Apache-2.0",
+    "name": "AutoAsparagus",
+    "recommends": [
+        {
+            "name": "SmartStage"
+        }
+    ],
+    "release_date": "2020-04-12T19:46:08.426802+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/henrybauer/AutoAsparagus/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/55748-105-autoasparagus-v11/",
+        "repository": "https://github.com/henrybauer/AutoAsparagus",
+        "spacedock": "https://spacedock.info/mod/281/AutoAsparagus",
+        "x_screenshot": "https://spacedock.info/content/hab136_461/AutoAsparagus/AutoAsparagus-1456506731.7570364.png"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "convenience",
+        "editor"
+    ],
+    "version": "1:v2.3.0",
+    "x_generated_by": "netkan"
+}

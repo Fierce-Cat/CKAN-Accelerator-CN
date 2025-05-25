@@ -1,0 +1,60 @@
+{
+    "abstract": "New categories of heat radiator for your spacecraft",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://spacedock.info/mod/537/Heat%20Control/download/0.6.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0DD4497691EAB94E9A79FCFA18D9F9DE373C924E",
+        "sha256": "DA9BDF38E168DBC94D39D5E7EB4F21B8E285282C87B5B19F03C28EB38C42B685"
+    },
+    "download_size": 6353885,
+    "identifier": "HeatControl",
+    "install": [
+        {
+            "find": "HeatControl",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.1",
+    "license": "restricted",
+    "localizations": [
+        "ru",
+        "de-de",
+        "es-es",
+        "zh-cn",
+        "en-us",
+        "pt-br"
+    ],
+    "name": "Heat Control",
+    "release_date": "2021-01-20T05:23:38.506419+00:00",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/HeatControl/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/112027-16x-heat-control-more-radiators-january-21/&page=1",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/HeatControl/raw/master/CKAN/HeatControl.netkan",
+        "remote-avc": "https://raw.githubusercontent.com:443/post-kerbin-mining-corporation/HeatControl/master/GameData/HeatControl/Versioning/HeatControl.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/HeatControl",
+        "spacedock": "https://spacedock.info/mod/537/Heat%20Control",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Heat_Control/Heat_Control-1461001260.81544.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "0.6.0",
+    "x_generated_by": "netkan"
+}

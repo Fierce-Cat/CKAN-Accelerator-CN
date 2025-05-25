@@ -1,0 +1,74 @@
+{
+    "abstract": "A (re)stockalike Dragonfly Quad-copter",
+    "author": "Rodg88",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "KerbalActuators"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DMagicScienceAnimate"
+        }
+    ],
+    "download": [
+        "https://github.com/Rodg88/BumbleBee/releases/download/0.6.1/Bumblebee0.6.1.zip",
+        "https://spacedock.info/mod/2428/Bumblebee/download/0.6.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9C83C3F42064967C1BBCB0218BCDA2B0C4C39E72",
+        "sha256": "20D6B40DC9D8BBA01E0BFACBC6629A68B6195F0D054DB34AB8CCE41B797B532D"
+    },
+    "download_size": 12646560,
+    "identifier": "Bumblebee",
+    "install_size": 29992266,
+    "ksp_version_max": "1.12",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Bumblebee",
+    "release_date": "2021-10-18T16:36:02.188095+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Rodg88/BumbleBee/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193843-bumblebee/",
+        "repository": "https://github.com/Rodg88/BumbleBee",
+        "spacedock": "https://spacedock.info/mod/2428/Bumblebee",
+        "x_screenshot": "https://spacedock.info/content/Rodg88_364/Bumblebee/Bumblebee-1589382881.8068674.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "IndicatorLights"
+        },
+        {
+            "name": "NearFutureElectrical"
+        }
+    ],
+    "supports": [
+        {
+            "name": "HullcamVDSContinued"
+        },
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "ProbesPlus"
+        }
+    ],
+    "tags": [
+        "parts",
+        "uncrewed"
+    ],
+    "version": "0.6.1",
+    "x_generated_by": "netkan"
+}

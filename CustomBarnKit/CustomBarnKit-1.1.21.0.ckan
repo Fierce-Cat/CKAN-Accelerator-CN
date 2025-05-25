@@ -1,0 +1,37 @@
+{
+    "abstract": "A small plugin to change a bunch of parameters related to career, science, the buildings upgrade cost and when various features are unlocked. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Sarbian",
+    "download": "https://hk-github.mirror.kerbcat.cn/sarbian/jenkins/job/CustomBarnKit/47/artifact/CustomBarnKit-1.1.21.0.zip?auth_key=1748275915-99ff32d728c445ef93dd3570aef7d68f-0-bd841686d20c64dbaba90954c2b45599&size=16161&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FA2123D777CBF8ADE02D926034B1230BE0062025",
+        "sha256": "63F16908212A992610AD155EB63F1483466D6577C59372D24231D8C8EA319A80"
+    },
+    "download_size": 16161,
+    "identifier": "CustomBarnKit",
+    "install": [
+        {
+            "find": "CustomBarnKit",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Custom Barn Kit [PRO-KCMIRROR]",
+    "release_date": "2020-08-20T17:47:02.013Z",
+    "resources": {
+        "ci": "https://ksp.sarbian.com/jenkins/job/CustomBarnKit/",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/109027-*",
+        "remote-avc": "https://ksp.sarbian.com/jenkins/job/CustomBarnKit/lastSuccessfulBuild/artifact/CustomBarnKit/CustomBarnKit.version",
+        "repository": "https://github.com/sarbian/CustomBarnKit"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "plugin",
+        "library",
+        "buildings"
+    ],
+    "version": "1.1.21.0",
+    "x_generated_by": "netkan"
+}

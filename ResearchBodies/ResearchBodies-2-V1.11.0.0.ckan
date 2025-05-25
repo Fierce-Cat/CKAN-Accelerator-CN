@@ -1,0 +1,66 @@
+{
+    "abstract": "ResearchBodies is a mod that adds the functionality of hiding celestial bodies and requiring you to find and track celestial bodies to explore them. ",
+    "author": "Jplrepo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "REPOSoftTech-Agencies"
+        }
+    ],
+    "download": "https://spacedock.info/mod/684/ResearchBodies/download/V1.11.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "329F32F118C54F2B6FBCC07402C15DC314D4D1B3",
+        "sha256": "0C424B4EB01FC393E501D52F8BDA7F7CEFA85CB96B6FCF16DA6FDFA98939FB80"
+    },
+    "download_size": 12121688,
+    "identifier": "ResearchBodies",
+    "install": [
+        {
+            "find": "ResearchBodies",
+            "install_to": "GameData/REPOSoftTech"
+        },
+        {
+            "find": "ProgressiveCBMaps",
+            "install_to": "GameData/REPOSoftTech"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us",
+        "fr-fr",
+        "es-es",
+        "es-mx",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "ResearchBodies",
+    "release_date": "2019-10-19T04:36:37.180284+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/139473-112",
+        "repository": "https://github.com/JPLRepo/ResearchBodies",
+        "spacedock": "https://spacedock.info/mod/684/ResearchBodies",
+        "x_screenshot": "https://spacedock.info/content/Jplrepo_405/ResearchBodies/ResearchBodies-1468113614.7654183.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "AsteroidDay"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts",
+        "career"
+    ],
+    "version": "2:V1.11.0.0",
+    "x_generated_by": "netkan"
+}

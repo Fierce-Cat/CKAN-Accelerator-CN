@@ -1,0 +1,114 @@
+{
+    "abstract": "Nehemiah Engineering Orbital Science is a collection of orbital science experiments aimed at prolonged station keeping. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "N3h3miah",
+        "Micha"
+    ],
+    "conflicts": [
+        {
+            "name": "KeminiResearchProgram"
+        },
+        {
+            "name": "KerbalEnvironmentalEffectsStudy"
+        },
+        {
+            "name": "KerbalLifeScience"
+        },
+        {
+            "name": "NehemiahInc-Complete"
+        },
+        {
+            "name": "NehemiahMultiPurposeParts"
+        },
+        {
+            "name": "NehemiahScienceCommon"
+        },
+        {
+            "name": "OrbitalMaterialScience"
+        },
+        {
+            "max_version": "2.99",
+            "name": "Kerbalism"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KIS"
+        }
+    ],
+    "description": "Nehemiah Engineering Orbital Science is a collection of orbital science experiments aimed at prolonged station keeping. It consists of three distinct sets of experiments:\n* Kemini Research Program (KRP) - early-game experiments run from within a capsule based on real-life experiments run during the Gemini program.\n* Kerbal Environmental Effects Study (KEES) - mid-game experiments for attaching to the outside of a small station based on real-life material exposure experiments run on the MIR station.\n* Orbital Station Science (OSS) - Kerbal Life Science (KLS) and Orbital Material Science (OMS) - late-game large-scale station experiments based on real-life ISS experiments. These require modular station construction and maintenance.\n\nAll of the experiments are designed to be run in the background while the player performs other missions.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/mwerle/OrbitalMaterialScience/releases/download/0.9.0/NehemiahEngineeringOrbitalScience_0.9.0.zip?auth_key=1748275917-3932eefd7aa64777ab7e4a1c14a38130-0-77412ff7b0a795b6da2256a82662969d&size=17157124&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F0F5914AADAB862D8E005A37E73213BE6E619811",
+        "sha256": "1ACB0ACBAB0FC063A5B1E53A2A4A8B3635154C20959F1333452CBEA60B54EBB7"
+    },
+    "download_size": 17157124,
+    "identifier": "NehemiahEngineeringOrbitalScience",
+    "install": [
+        {
+            "file": "NehemiahInc",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es"
+    ],
+    "name": "Nehemiah Engineering Orbital Science [PRO-KCMIRROR]",
+    "provides": [
+        "NehemiahInc-Complete",
+        "NehemiahScienceCommon",
+        "NehemiahMultiPurposeParts",
+        "KeminiResearchProgram",
+        "KerbalEnvironmentalEffectsStudy",
+        "KerbalLifeScience",
+        "OrbitalMaterialScience"
+    ],
+    "recommends": [
+        {
+            "name": "Corvus125mTwoKerbalPod"
+        },
+        {
+            "name": "K2CommandPodCont"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        }
+    ],
+    "resources": {
+        "bugtracker": "https://github.com/mwerle/OrbitalMaterialScience/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=149298",
+        "repository": "https://github.com/mwerle/OrbitalMaterialScience",
+        "spacedock": "https://spacedock.info/mod/1393/Nehemiah%20Engineering%20Orbital%20Science"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "UniversalStorage2"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts",
+        "science",
+        "crewed"
+    ],
+    "version": "0.9.0",
+    "x_generated_by": "netkan"
+}

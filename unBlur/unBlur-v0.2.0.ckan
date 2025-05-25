@@ -1,0 +1,36 @@
+{
+    "abstract": "Allows fixing blurry UI textures without renaming or modifying actual texture files in the installation. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "cake-pie",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/cake-pie/unBlur/releases/download/v0.2.0/unBlur.0.2.0.zip?auth_key=1748275917-495d51b2403f4c0092616a9d3a3d920f-0-3fa0541f3bf0fed720d0b75feaf20133&size=8539&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A8E64D45B2745C274A29B1223A816117B75E0142",
+        "sha256": "9E018E186CE84E64BC41194CB1BDC5B3940BE9CE3468BCCCFF255AC4F5BDAF4D"
+    },
+    "download_size": 8539,
+    "identifier": "unBlur",
+    "install": [
+        {
+            "find_matches_files": true,
+            "find_regexp": "unBlur.*\\.dll$",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.9",
+    "ksp_version_min": "1.3.0",
+    "license": "MIT",
+    "name": "unBlur [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=184268",
+        "repository": "https://github.com/cake-pie/unBlur"
+    },
+    "spec_version": "v1.16",
+    "supports": [
+        {
+            "min_version": "2.3.2",
+            "name": "ModuleManager"
+        }
+    ],
+    "version": "v0.2.0",
+    "x_generated_by": "netkan"
+}

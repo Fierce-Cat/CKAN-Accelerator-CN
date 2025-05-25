@@ -1,0 +1,61 @@
+{
+    "abstract": "An IVA mod for KSP, to add more interactive IVAs [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "DemonEin",
+        "JonnyOThan"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JonnyOThan/DE_IVAExtension/releases/download/v1.0.3/DE_IVAExtension-v1.0.3.zip?auth_key=1748275917-b82c28f5610f462abc7dbbaeac0a309c-0-67bb9e014304907c28d9fa20b2a0a9cf&size=110592&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2BF9BC3F7031230702D21514EFE70BE36C9FD78B",
+        "sha256": "482392A26D27F2A3374606BCFF0ADD87C5305147B9799E61F8F6448A9D23EBEB"
+    },
+    "download_size": 110592,
+    "identifier": "DE-IVAExtension",
+    "install": [
+        {
+            "find": "DE_IVAExtension",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 552857,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "DE IVAExtension [PRO-KCMIRROR]",
+    "release_date": "2023-02-07T21:53:19Z",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/211932-*",
+        "remote-avc": "https://raw.githubusercontent.com/JonnyOThan/DE_IVAExtension/master/GameData/DE_IVAExtension/DE_IVAExtension.version",
+        "repository": "https://github.com/JonnyOThan/DE_IVAExtension"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "ProbeControlRoom"
+        }
+    ],
+    "tags": [
+        "config",
+        "crewed"
+    ],
+    "version": "v1.0.3",
+    "x_generated_by": "netkan"
+}

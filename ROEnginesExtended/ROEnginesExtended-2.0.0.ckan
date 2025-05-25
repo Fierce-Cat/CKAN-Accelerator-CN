@@ -1,0 +1,61 @@
+{
+    "abstract": "Duplicates and tweaks existing ROEngines parts to create placeholders for more obscure engines [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Its-Just-Luci",
+        "Capkirk123"
+    ],
+    "conflicts": [
+        {
+            "name": "TweakableEverythingCont"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ROEngines"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Capkirk123/ROEngines-Extended/releases/download/2.0.0/ROEnginesExtended-v2.0.0.zip?auth_key=1748275914-81b69e90c903412ebf9a78af1ce367cb-0-329063dd02c44a6f61ddf11fbe3e4376&size=24328454&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "83D0DEB9DD4011E88ACC50C63C2C95063BF54C08",
+        "sha256": "4B392105623F4AAF348B32CFBFCBE55DE9E9A306B4208B25ADDFE89AC9A4C62A"
+    },
+    "download_size": 24328454,
+    "identifier": "ROEnginesExtended",
+    "install_size": 47535562,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "ROEngines Extended [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "ROCapsules"
+        },
+        {
+            "name": "ROTanks"
+        },
+        {
+            "name": "RP-0"
+        }
+    ],
+    "release_date": "2023-06-06T02:12:59Z",
+    "resources": {
+        "remote-avc": "https://raw.githubusercontent.com/Capkirk123/ROEngines-Extended/master/Gamedata/ROEnginesExtended/ROEnginesExtended.version",
+        "repository": "https://github.com/Capkirk123/ROEngines-Extended"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "2.0.0",
+    "x_generated_by": "netkan"
+}

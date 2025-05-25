@@ -1,0 +1,53 @@
+{
+    "abstract": "Display selected active contract",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "ContractParser"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2948/Simple%20Contract%20Display/download/0.0.0.8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D97F25C1AF38DF40E24CCB8E1191B2528B113B73",
+        "sha256": "36D160C16C68A77F9C08EFE935176A4CCC56CD2CC792A2989365AC445395A674"
+    },
+    "download_size": 71716,
+    "identifier": "SimpleContractDisplay",
+    "install": [
+        {
+            "filter_regexp": "\\.mdb$",
+            "find": "SimpleContractDisplay",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.9.0",
+    "license": "MIT",
+    "name": "Simple Contract Display",
+    "release_date": "2022-02-04T01:18:15.706411+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/SimpleContractDisplay/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/206386-112x-simple-contract-display/",
+        "remote-avc": "http://ksp.spacetux.net/avc/SimpleContractDisplay",
+        "repository": "https://github.com/linuxgurugamer/SimpleContractDisplay",
+        "spacedock": "https://spacedock.info/mod/2948/Simple%20Contract%20Display",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Simple_Contract_Display/Simple_Contract_Display-1642035050.png"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "plugin"
+    ],
+    "version": "0.0.0.8",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

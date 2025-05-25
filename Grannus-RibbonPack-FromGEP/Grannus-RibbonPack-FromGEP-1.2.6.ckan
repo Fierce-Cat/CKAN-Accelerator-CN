@@ -1,0 +1,41 @@
+{
+    "abstract": "GPP and GEP both have Grannus ribbons; these are the ones from GEP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "OhioBob",
+    "conflicts": [
+        {
+            "name": "Grannus-RibbonPack"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/OhioBob/Grannus-Expansion-Pack/releases/download/1.2.6/GrannusExpansionPack_1.2.6.zip?auth_key=1748275916-e62fd42cb6954d0b80fd737e54a1785f-0-c71d53d65fc3c453b31f395384982f36&size=339713931&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4D2F6EC0EAC751512ED63AB5196FD96CC61B272F",
+        "sha256": "29AEFB88F043EBC9634C8F74D14AF6C0D5F276CACD70EFB44ED23F33C98AC25B"
+    },
+    "download_size": 339713931,
+    "identifier": "Grannus-RibbonPack-FromGEP",
+    "install": [
+        {
+            "find": "GameData/Nereid/FinalFrontier/Ribbons/Grannus",
+            "install_to": "GameData/Nereid/FinalFrontier/Ribbons"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-ND",
+    "name": "Grannus Ribbons from GEP [PRO-KCMIRROR]",
+    "provides": [
+        "Grannus-RibbonPack"
+    ],
+    "release_date": "2021-11-25T17:02:28Z",
+    "resources": {
+        "bugtracker": "https://github.com/OhioBob/Grannus-Expansion-Pack/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169664-*",
+        "repository": "https://github.com/OhioBob/Grannus-Expansion-Pack"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "1.2.6",
+    "x_generated_by": "netkan"
+}

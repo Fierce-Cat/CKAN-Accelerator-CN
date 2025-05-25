@@ -1,0 +1,49 @@
+{
+    "abstract": "Inspired by SimplePlanes' fuselage parts. Designed for limitless shape construction.",
+    "author": [
+        "CarnationRED",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2380/CRFP%20-%20CarnationRED%20Flexible%20Parts/download/0.7.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0C6F775600604B0EDB44B423FE3F27E8DD15FC54",
+        "sha256": "0859939F9EDF27584F60E4C4C565CCA20E7DD8E6640BDB0E2E4DCACE69A78C0B"
+    },
+    "download_size": 33545231,
+    "identifier": "CarnationREDFlexibleParts",
+    "install": [
+        {
+            "find": "CarnationREDFlexiblePart",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.2",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-SA-4.0",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "CRFP - CarnationRED Flexible Parts",
+    "release_date": "2021-12-07T17:30:30.373386+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/205381-112x-crfp-carnationred-flexible-parts-updated-beta-release/",
+        "remote-avc": "http://ksp.spacetux.net/avc/CarnationREDFlexibleParts",
+        "repository": "https://github.com/linuxgurugamer/CarnationREDFlexibleParts",
+        "spacedock": "https://spacedock.info/mod/2380/CRFP%20-%20CarnationRED%20Flexible%20Parts",
+        "x_screenshot": "https://spacedock.info/content/CarnationRED_35565/CRFP_-_CarnationRED_Flexible_Parts/CRFP_-_CarnationRED_Flexible_Parts-1596929040.2151582.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "0.7.0.1",
+    "x_generated_by": "netkan"
+}

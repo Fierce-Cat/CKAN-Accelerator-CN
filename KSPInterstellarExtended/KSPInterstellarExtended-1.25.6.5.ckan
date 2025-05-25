@@ -1,0 +1,100 @@
+{
+    "abstract": "KSP Interstellar Extended (KSPI-E) is a plugin for Kerbal Space Program, designed to encourage bootstrapping toward ever more advanced levels of technology as well as utilizing In-Situ resources to expand the reach of Kerbal civilization. KSP Interstellar Extended aims to continue in Fractals original KSPI vision in providing a realistic road to the stars. Note: requires CTT 3.0.1",
+    "author": "FreeThinker",
+    "depends": [
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/172/KSP%20Interstellar%20Extended/download/1.25.6.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7B491E17F8DDA1A1F4AE26140CD537F5DF6F4B6D",
+        "sha256": "BCC14CBF889A04E33C4FC78157CAEB7EAB931FBCFB30B9B5168AF5DD538AB072"
+    },
+    "download_size": 186627380,
+    "identifier": "KSPInterstellarExtended",
+    "install": [
+        {
+            "find": "GameData/WarpPlugin",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.1",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "pt-br",
+        "ru",
+        "zh-cn",
+        "de-de"
+    ],
+    "name": "KSP Interstellar Extended",
+    "recommends": [
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "InterstellarFuelSwitch"
+        },
+        {
+            "name": "PersistentRotation"
+        },
+        {
+            "name": "FilterExtensions"
+        },
+        {
+            "name": "PhotonSailor"
+        },
+        {
+            "name": "BetterBurnTime"
+        },
+        {
+            "name": "HideEmptyTechNodes"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172026-*",
+        "repository": "https://github.com/sswelm/KSP-Interstellar-Extended",
+        "spacedock": "https://spacedock.info/mod/172/KSP%20Interstellar%20Extended",
+        "x_screenshot": "https://spacedock.info/content/FreeThinker_517/KSP_Interstellar_Extended/KSP_Interstellar_Extended-1470128568.7429862.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "HeatControl"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "UniversalStorage"
+        },
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts",
+        "resources",
+        "graphics",
+        "crewed",
+        "sound"
+    ],
+    "version": "1.25.6.5",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,56 @@
+{
+    "abstract": "Mod for Kerbal Space Program: Simulation of wind and turbulence. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "DaMichel",
+        "silverfox8124",
+        "Flibble"
+    ],
+    "comment": "FAR only supports one wind provider at once",
+    "conflicts": [
+        {
+            "name": "FARWind"
+        }
+    ],
+    "depends": [
+        {
+            "name": "FAR"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/RCrockford/KerbalWind/releases/download/v1.0.2/KerbalWind.zip?auth_key=1748275915-3d3794b83be446d196c862ed2a37a5cc-0-fc1a24f4ef3d5a8ea3a01b9a79743f1e&size=27728&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D6296282297EEA47B38DA313200E5E06DDCE7F91",
+        "sha256": "63E1DD13FDAE639773EFCAAF1BBC5F941EDFA5EE64A6831AFD0AD4D6D8B08471"
+    },
+    "download_size": 27728,
+    "identifier": "KerbalWind",
+    "install": [
+        {
+            "filter": "settings.cfg",
+            "find": "KerbalWind",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 52961,
+    "ksp_version_max": "1.12.9",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Kerbal Wind [PRO-KCMIRROR]",
+    "provides": [
+        "FARWind"
+    ],
+    "release_date": "2022-08-30T11:44:33Z",
+    "resources": {
+        "bugtracker": "https://github.com/RCrockford/KerbalWind/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/195587-*",
+        "remote-avc": "https://raw.githubusercontent.com/RCrockford/KerbalWind/master/GameData/KerbalWind/KerbalWind.version",
+        "repository": "https://github.com/RCrockford/KerbalWind"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "1:v1.0.2",
+    "x_generated_by": "netkan"
+}

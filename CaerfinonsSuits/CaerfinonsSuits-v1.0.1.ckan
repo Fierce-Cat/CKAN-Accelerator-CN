@@ -1,0 +1,49 @@
+{
+    "abstract": "Suits for Stock KSP Suit Picker. ",
+    "author": "Caerfinon",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3089/Caerfinon's%20Suits/download/v1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "210BA3EBB3238CF6EBF63F7177937935575FFD41",
+        "sha256": "270F6DE7E9054ED19CAA319C8D265D6F6D105AD4CCF129B30CBB03339033CB48"
+    },
+    "download_size": 117159895,
+    "identifier": "CaerfinonsSuits",
+    "install": [
+        {
+            "filter": ".gitignore",
+            "find": "Caerfinon",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 246949715,
+    "ksp_version": "1.12.3",
+    "license": "MIT",
+    "name": "Caerfinon's Suits",
+    "recommends": [
+        {
+            "name": "Benjee10Suits"
+        }
+    ],
+    "release_date": "2022-08-21T18:17:04.059184+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/caerfinon/Caerfinon-Suits/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209430-1123-caerfinons-suits-v100/",
+        "repository": "https://github.com/caerfinon/Caerfinon-Suits",
+        "spacedock": "https://spacedock.info/mod/3089/Caerfinon's%20Suits",
+        "x_screenshot": "https://spacedock.info/content/Caerfinon_49341/Caerfinons_Suits/Caerfinons_Suits-1660963255.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "crewed",
+        "graphics",
+        "suits"
+    ],
+    "version": "v1.0.1",
+    "x_generated_by": "netkan"
+}

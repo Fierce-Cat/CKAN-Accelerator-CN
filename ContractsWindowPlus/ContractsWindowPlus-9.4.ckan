@@ -1,0 +1,65 @@
+{
+    "abstract": "A new, more flexible contract monitoring window.",
+    "author": "DMagic",
+    "depends": [
+        {
+            "name": "ProgressParser"
+        },
+        {
+            "name": "ContractParser"
+        }
+    ],
+    "download": "https://spacedock.info/mod/130/Contracts%20Window%20%2B/download/9.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B4C76F41372821BFA0E7D6104445382A19F26753",
+        "sha256": "F09F098C5D05D5B59AFE022AE8DF011CC1B6F5AB36F9994092AC85932DA4F890"
+    },
+    "download_size": 190948,
+    "identifier": "ContractsWindowPlus",
+    "install": [
+        {
+            "file": "GameData/DMagicUtilities/ContractsWindow",
+            "install_to": "GameData/DMagicUtilities"
+        }
+    ],
+    "install_size": 290172,
+    "ksp_version_max": "1.8.8",
+    "ksp_version_min": "1.8.1",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "pl",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Contracts Window +",
+    "release_date": "2019-11-02T03:26:08.834107+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/DMagic1/KSP_Contract_Window/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/82106-1",
+        "remote-avc": "https://raw.githubusercontent.com/DMagic1/KSP_Contract_Window/master/GameData/DMagicUtilities/ContractsWindow/ContractsWindowPlus.version",
+        "repository": "https://github.com/DMagic1/KSP_Contract_Window",
+        "spacedock": "https://spacedock.info/mod/130/Contracts%20Window%20+",
+        "x_screenshot": "https://spacedock.info/content/DMagic_247/Contracts_Window/Contracts_Window-1455815988.0339985.png"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "CapCom"
+        },
+        {
+            "name": "ContractRewardModifier"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "career",
+        "information",
+        "convenience"
+    ],
+    "version": "9.4",
+    "x_generated_by": "netkan"
+}

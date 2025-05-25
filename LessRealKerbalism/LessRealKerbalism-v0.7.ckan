@@ -1,0 +1,67 @@
+{
+    "abstract": "LRTR KerbalismConfig [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "pehvbot",
+    "conflicts": [
+        {
+            "name": "Kerbalism-Config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/pehvbot/LRKerbalism/releases/download/v0.7/LRKerbalism-v0.7.zip?auth_key=1748275918-f4b3695cdcb9440291453469780236d9-0-09a3c2ca798cb5671213072f56cf0fde&size=14777258&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CAE8DD915F98FD67CE080C8004FBF8C05EE5B11E",
+        "sha256": "C5E05535D702B715259DF8065A0DAE38BF37325E3C843AA23D69888C4F357480"
+    },
+    "download_size": 14777258,
+    "identifier": "LessRealKerbalism",
+    "install": [
+        {
+            "find": "KerbalismConfig",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.5.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us",
+        "zh-cn",
+        "es-es",
+        "ru",
+        "ko-kr",
+        "de-de",
+        "pt-br"
+    ],
+    "name": "Kerbalism - LRTR Config [PRO-KCMIRROR]",
+    "provides": [
+        "Kerbalism-Config"
+    ],
+    "recommends": [
+        {
+            "name": "LessRealThanReal"
+        }
+    ],
+    "release_date": "2020-10-15T17:14:21Z",
+    "resources": {
+        "bugtracker": "https://github.com/pehvbot/LRKerbalism/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189978-*",
+        "repository": "https://github.com/pehvbot/LRKerbalism"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config",
+        "crewed",
+        "science",
+        "parts"
+    ],
+    "version": "v0.7",
+    "x_generated_by": "netkan"
+}

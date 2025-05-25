@@ -1,0 +1,54 @@
+{
+    "abstract": "TweakScale lets you change the size of a part. Not just that, but it will figure out how much fuel is in the resized part. And if it's an engine, it will become more powerful by scaling it bigger, or weaker by scaling it smaller.",
+    "author": [
+        "Biotronic",
+        "pellinor",
+        "LisiasT"
+    ],
+    "depends": [
+        {
+            "min_version": "2.7.1",
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/127/TweakScale/download/2.4.4.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F434EA9503948950F662DCA6126A413FDD152ECC",
+        "sha256": "882A408E569A37038A8B9CCC0D4AE593C4FA3C99CFDD73087286B4FD3A405F5D"
+    },
+    "download_size": 282687,
+    "identifier": "TweakScale",
+    "install": [
+        {
+            "file": "GameData/999_Scale_Redist.dll",
+            "install_to": "GameData"
+        },
+        {
+            "file": "GameData/TweakScale",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.1",
+    "ksp_version_min": "1.4.4",
+    "license": [
+        "GPL-2.0",
+        "restricted"
+    ],
+    "name": "TweakScale - Rescale Everything!",
+    "release_date": "2020-12-31T15:13:51.798057+00:00",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*",
+        "repository": "https://github.com/net-lisias-ksp/TweakScale",
+        "spacedock": "https://spacedock.info/mod/127/TweakScale",
+        "x_screenshot": "https://spacedock.info/content/Pellinor_227/TweakScale/TweakScale-1540681746.7632673.png"
+    },
+    "spec_version": "v1.2",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "v2.4.4.2",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,112 @@
+{
+    "abstract": "Module Manager patches for translating KSP mods (mostly parts) to Chinese (Simplified Chinese only) [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "tinygrox",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/tinygrox/KSP_Chinese_Patches/releases/download/0.10.0/KSP_Chinese_Patches_0.10.0.zip?auth_key=1748275917-93260d0183f744c0b2c54c245ceff52f-0-dca658082df0eb71aa3fee58f7ac3809&size=310221&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6891299943B9045BC27A97169EE16345E798216D",
+        "sha256": "6255598B237B2FD2E9E0A11ABCEBBC757C6A41F11AB39E7649660122762E2E7A"
+    },
+    "download_size": 310221,
+    "identifier": "ChineseModPatches",
+    "install": [
+        {
+            "find": "0000Tinygrox_CNPatches",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 888884,
+    "license": "CC-BY-4.0",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "Chinese Mod Patches [PRO-KCMIRROR]",
+    "release_date": "2024-01-28T11:34:12Z",
+    "resources": {
+        "bugtracker": "https://github.com/tinygrox/KSP_Chinese_Patches/issues",
+        "repository": "https://github.com/tinygrox/KSP_Chinese_Patches"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "Benjee10Suits"
+        },
+        {
+            "name": "Benjee10-SharedAssets"
+        },
+        {
+            "name": "HabTechRobotics"
+        },
+        {
+            "name": "PlanetsideExplorationTechnologies"
+        },
+        {
+            "name": "HabTech2"
+        },
+        {
+            "name": "MoldaviteMachines"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        },
+        {
+            "name": "SpaceAge"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "CrusoeSpaceIndustriesTechTree"
+        },
+        {
+            "name": "BeamedPowerPlugin"
+        },
+        {
+            "name": "BeamedPowerPlugin-Realistic"
+        },
+        {
+            "name": "JamesWebbForKerbal"
+        },
+        {
+            "name": "KerbalWeatherProject"
+        },
+        {
+            "name": "KerbalActuators"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "UnKerballedStart"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "RealExoplanets"
+        },
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "AdvancedJetEngine"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "0.10.0",
+    "x_generated_by": "netkan"
+}

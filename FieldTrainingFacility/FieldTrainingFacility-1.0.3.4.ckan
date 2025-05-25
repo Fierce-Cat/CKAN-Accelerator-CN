@@ -1,0 +1,51 @@
+{
+    "abstract": "This mod adds a Field Training Facility {FTF} module in the mobile lab. You can train your kerbalnaut over time with space stations and planetary bases.",
+    "author": [
+        "Efour",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/978/Field%20Training%20Facility/download/1.0.3.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C5BC5120B40C7825986404759C5E665D29A07D69",
+        "sha256": "FD3CBB8BF08ACF0A43DEA17E48B6FF5AA73D352FDB09DC7FE8009956812F31E9"
+    },
+    "download_size": 14908,
+    "identifier": "FieldTrainingFacility",
+    "ksp_version_max": "1.7.9999",
+    "ksp_version_min": "1.7.1",
+    "license": "MIT",
+    "name": "Field Training Facility",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188841-*",
+        "repository": "https://github.com/zer0Kerbal/FieldTrainingFacility",
+        "spacedock": "https://spacedock.info/mod/978/Field%20Training%20Facility",
+        "x_screenshot": "https://spacedock.info/content/Efour_8237/Field_Training_Facility/Field_Training_Facility-1571198519.4389682.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "FieldTrainingLaboratory"
+        },
+        {
+            "name": "BetterScienceLabs"
+        },
+        {
+            "name": "ODFC"
+        },
+        {
+            "name": "KGEx"
+        }
+    ],
+    "tags": [
+        "config",
+        "crewed"
+    ],
+    "version": "1.0.3.4",
+    "x_generated_by": "netkan"
+}

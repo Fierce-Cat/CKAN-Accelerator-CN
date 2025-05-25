@@ -1,0 +1,42 @@
+{
+    "abstract": "Overhaul of the stock Exploration contracts [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "severedsolo",
+    "depends": [
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/severedsolo/ExplorationPlus/releases/download/2.0.1/ExplorationPlus.zip?auth_key=1748275918-85bca59d754543d69beaf22d388db5d7-0-359f6addbcce5c9d516dcbbad83cd554&size=9145&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5E9C92733FC2CC8391461805390689D99D9239F7",
+        "sha256": "14F50974DC8B6376C0CC923192292582FCD70C3A74439969B3261635D67F131E"
+    },
+    "download_size": 9145,
+    "identifier": "ContractConfigurator-ExplorationPlus",
+    "install": [
+        {
+            "find": "ContractPacks",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 15125,
+    "ksp_version_max": "1.99.99",
+    "ksp_version_min": "1.9.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Contract Pack: Exploration Plus [PRO-KCMIRROR]",
+    "release_date": "2020-05-24T14:33:19Z",
+    "resources": {
+        "bugtracker": "https://github.com/severedsolo/ExplorationPlus/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/156338-*",
+        "remote-avc": "https://github.com/severedsolo/ExplorationPlus/raw/master/ExplorationPlus.version",
+        "repository": "https://github.com/severedsolo/ExplorationPlus"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "career"
+    ],
+    "version": "2.0.1",
+    "x_generated_by": "netkan"
+}

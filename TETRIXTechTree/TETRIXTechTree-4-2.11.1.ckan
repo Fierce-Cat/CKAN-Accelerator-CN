@@ -1,0 +1,49 @@
+{
+    "abstract": "An extended TechTree in the style of Simplex, with additional nodes to better support mods.",
+    "author": "theJesuit",
+    "conflicts": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "SimplexTechTree"
+        },
+        {
+            "name": "ETT"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2299/TETRIX%20TechTree/download/2.11.1.20210817",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "87DD11F80550327B0372EED11F022BB237534C4C",
+        "sha256": "942AB00C45679BB546B6D86E040E8951A3379287A46BAAAC029C43E5A1740A2A"
+    },
+    "download_size": 103682,
+    "identifier": "TETRIXTechTree",
+    "install": [
+        {
+            "find": "AngleCanMods",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.12.2",
+    "license": "CC-BY-NC-SA",
+    "name": "TETRIX TechTree",
+    "release_date": "2021-08-16T18:32:38.623266+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174731-18x-and-prior-simplex-techtree-110/",
+        "spacedock": "https://spacedock.info/mod/2299/TETRIX%20TechTree"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "tech-tree"
+    ],
+    "version": "4:2.11.1",
+    "x_generated_by": "netkan"
+}

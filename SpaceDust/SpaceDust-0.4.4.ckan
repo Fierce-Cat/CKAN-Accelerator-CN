@@ -1,0 +1,53 @@
+{
+    "abstract": "A mod supplying a new experience for atmospheric and exospheric resource harvesting. Includes a new harvesting system, displays, resource distributions and parts. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/SpaceDust/releases/download/0.4.4/SpaceDust_0_4_4.zip?auth_key=1748275917-f5ddda7369b6413e91b001b49b4ed160-0-3ba9a100127cda5f2f90ee1f90cd3761&size=10657011&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D0DF71434CB93F5FBAB0AC46A0A857D7525DF65D",
+        "sha256": "D81B89AA45457B4A2B31D885BD376F039C3895312B49D6F76E913CDEE6B33ED6"
+    },
+    "download_size": 10657011,
+    "identifier": "SpaceDust",
+    "install": [
+        {
+            "find": "SpaceDust",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 28842148,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Space Dust [PRO-KCMIRROR]",
+    "release_date": "2022-06-25T04:37:29Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/SpaceDust/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/197723-1",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/SpaceDust/raw/master/CKAN/SpaceDust.netkan",
+        "remote-avc": "https://raw.githubusercontent.com:443/post-kerbin-mining-corporation/SpaceDust/master/GameData/SpaceDust/Versioning/SpaceDust.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/SpaceDust"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "plugin",
+        "resources",
+        "science"
+    ],
+    "version": "0.4.4",
+    "x_generated_by": "netkan"
+}

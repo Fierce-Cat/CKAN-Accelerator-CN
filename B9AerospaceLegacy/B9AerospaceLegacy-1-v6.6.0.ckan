@@ -1,0 +1,50 @@
+{
+    "abstract": "B9 parts which will no longer be updated and minimally maintained - modular wings, landing gear [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "bac9",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/blowfishpro/B9-Aerospace/releases/download/v6.6.0/B9_Aerospace_Legacy_v6.6.0.zip?auth_key=1748275915-b412fc8325334a06b402d21174911676-0-16f55081db1593ea42ffc9556ad5d0f9&size=10829226&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6C94330B681CD6C1E72D11878D82FAF09803921E",
+        "sha256": "81B02CBDA62266D13B022D2D9878864DD1EC451AD19DC61305EBF031EDF0A7FB"
+    },
+    "download_size": 10829226,
+    "identifier": "B9AerospaceLegacy",
+    "install": [
+        {
+            "file": "GameData/B9_Aerospace_Legacy",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 34277437,
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "B9 Aerospace - Legacy Parts Pack [PRO-KCMIRROR]",
+    "release_date": "2020-02-05T08:31:00Z",
+    "resources": {
+        "bugtracker": "https://github.com/blowfishpro/B9-Aerospace/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=155491",
+        "metanetkan": "https://raw.githubusercontent.com/blowfishpro/B9-Aerospace/master/NetKAN/B9AerospaceLegacy.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/blowfishpro/B9-Aerospace/master/GameData/B9_Aerospace_Legacy/B9_Aerospace_Legacy.version",
+        "repository": "https://github.com/blowfishpro/B9-Aerospace"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KSPWheel"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1:v6.6.0",
+    "x_generated_by": "netkan"
+}

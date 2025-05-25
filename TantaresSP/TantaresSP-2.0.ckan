@@ -1,0 +1,53 @@
+{
+    "abstract": "Soviet Space Probes and Interplanetary Spacecraft",
+    "author": "Beale",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2498/TantaresSP/download/2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1546999C501502BF95D7936D264F778751AC3547",
+        "sha256": "A02C91BDB013151453092A1695850371FCB9DCAF4A8F9632EEC23FBC586CD324"
+    },
+    "download_size": 4921169,
+    "identifier": "TantaresSP",
+    "install": [
+        {
+            "find": "TantaresSP",
+            "install_to": "GameData"
+        },
+        {
+            "as": "VAB",
+            "find": "Crafts",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version": "1.10",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "TantaresSP",
+    "recommends": [
+        {
+            "name": "NeptuneCamera"
+        }
+    ],
+    "release_date": "2020-09-19T16:51:31.668298+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/73686-110x-tantares-stockalike-soyuz-and-mir-1004082020venera-1va/",
+        "repository": "https://github.com/Tantares/TantaresSP",
+        "spacedock": "https://spacedock.info/mod/2498/TantaresSP",
+        "x_screenshot": "https://spacedock.info/content/Beale_838/TantaresSP/TantaresSP-1597583057.8210793.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts",
+        "uncrewed"
+    ],
+    "version": "2.0",
+    "x_generated_by": "netkan"
+}

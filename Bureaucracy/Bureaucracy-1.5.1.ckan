@@ -1,0 +1,67 @@
+{
+    "abstract": "Replacement for Monthly Budgets, now with Construction and Research Funding! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "severedsolo",
+    "conflicts": [
+        {
+            "name": "MonthlyBudgets"
+        },
+        {
+            "name": "SpaceProgramFunding"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "FlightTracker"
+        },
+        {
+            "name": "CustomBarnKit"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/severedsolo/Bureaucracy/releases/download/1.5.1/Bureaucracy.zip?auth_key=1748275914-de73c8e8a5264514af4a9cae63b2a13a-0-9bc23ab49728d5a136fb5408224a84f6&size=173504&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "987EED434B8F8CF9CCEE669EFC36DC16E70FB919",
+        "sha256": "1B33218C2F1F8C4D77E1DBD76A28DF72AEF2854797AA89CBA84466B26B1FED7C"
+    },
+    "download_size": 173504,
+    "identifier": "Bureaucracy",
+    "install": [
+        {
+            "find": "Bureaucracy",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 229905,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "Bureaucracy [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "ContractConfigurator-ExplorationPlus"
+        }
+    ],
+    "release_date": "2021-08-13T16:04:31Z",
+    "resources": {
+        "bugtracker": "https://github.com/severedsolo/Bureaucracy/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/191192-*",
+        "remote-avc": "https://raw.githubusercontent.com:443/severedsolo/Bureaucracy/master/GameData/Bureaucracy/Bureaucracy.version",
+        "repository": "https://github.com/severedsolo/Bureaucracy"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "career"
+    ],
+    "version": "1.5.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,64 @@
+{
+    "abstract": "Adds TweakScale /L patches for ReStockPlus",
+    "author": [
+        "OnlyLightMatters",
+        "LisiasT"
+    ],
+    "depends": [
+        {
+            "min_version": "4.0.3",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "2.4.4",
+            "name": "TweakScale"
+        },
+        {
+            "min_version": "1.0.3",
+            "name": "ReStockPlus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2424/TweakScale%20Companion%20for%20ReStock+/download/1.1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "388F5CDE40DDDC514C0484BC843317E5DC5CC1E5",
+        "sha256": "BFBE8EEA2DFB8C3C84C22B3C9A64D109D06655126A949793EE93EB8C93EB65AC"
+    },
+    "download_size": 19195,
+    "identifier": "TweakScaleCompanion-ReStockPlus",
+    "install": [
+        {
+            "file": "GameData/TweakScaleCompanion/ReStockPlus",
+            "install_to": "GameData/TweakScaleCompanion"
+        }
+    ],
+    "install_size": 60071,
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.8.1",
+    "license": [
+        "GPL-2.0",
+        "restricted"
+    ],
+    "name": "TweakScale Companion for ReStockPlus",
+    "release_date": "2020-05-09T21:52:39.367603+00:00",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/TweakScale/Companion_ReStockPlus/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192216-tweakscale-companion-program/",
+        "remote-avc": "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus/master/TweakScaleCompanion_ReStockPlus.version",
+        "repository": "https://github.com/TweakScale/Companion_ReStockPlus",
+        "spacedock": "https://spacedock.info/mod/2424/TweakScale%20Companion%20for%20ReStock+",
+        "x_screenshot": "https://spacedock.info/content/Lisias_20517/TweakScale_Companion_for_ReStock/TweakScale_Companion_for_ReStock-1589061279.6133378.png"
+    },
+    "spec_version": "v1.8",
+    "suggests": [
+        {
+            "name": "RestockRigidLegs"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "v1.1.0.0",
+    "x_generated_by": "netkan"
+}

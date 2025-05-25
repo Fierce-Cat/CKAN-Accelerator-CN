@@ -1,0 +1,62 @@
+{
+    "abstract": "Crew Dragon, Starlink, Falcon 9, Falcon Heavy, Drone Ships to land your boosters on, Raptor engines and much more!",
+    "author": "Kartoffelkuchen",
+    "conflicts": [
+        {
+            "name": "SpaceXLaunchVehicles-StockSize"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/269/SpaceX%20Launch%20Vehicles/download/6.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9A7BD8A35E03FBA425E2FCA10DB0A8DC71D580E5",
+        "sha256": "CF6F9749127631D0696768DE5136E6647B62E95391D62BF02D7CBC6F37A0FA89"
+    },
+    "download_size": 129316900,
+    "identifier": "SpaceXLaunchVehicles",
+    "install": [
+        {
+            "find": "Kartoffelkuchen",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Launchers Pack",
+            "install_to": "GameData"
+        },
+        {
+            "file": "Ships/VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version": "1.9.1",
+    "license": "restricted",
+    "name": "SpaceX Launch Vehicles - Real Size",
+    "recommends": [
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "AnimatedDecouplers"
+        },
+        {
+            "name": "RetractableLiftingSurface"
+        }
+    ],
+    "release_date": "2020-06-03T20:45:58.845206+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193933-19x-kks-spacex-pack-17-05-2020/",
+        "spacedock": "https://spacedock.info/mod/269/SpaceX%20Launch%20Vehicles",
+        "x_screenshot": "https://spacedock.info/content/Kartoffelkuchen_1350/SpaceX_Launch_Vehicles/SpaceX_Launch_Vehicles-1589667274.7884016.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "6.2",
+    "x_generated_by": "netkan"
+}

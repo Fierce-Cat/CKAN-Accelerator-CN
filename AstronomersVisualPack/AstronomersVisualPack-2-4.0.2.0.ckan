@@ -1,0 +1,68 @@
+{
+    "abstract": "The total visual overhaul for Kerbal Space Program, originally by Astronomer. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "themaster402",
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "AVP-Textures"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/themaster402/AstronomersVisualPack/releases/download/v4.02/AVP.v.4.02.zip?auth_key=1748275914-989e6a3010fc43f0baa143c9060980c4-0-f3d43e29bbd68bdb1ba8cf00d6b597c7&size=50830982&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A0A3AC89BAE36D3578B96B94526C06524102E307",
+        "sha256": "88CB16AD327B6A8754819B54B17EA750929E1FC1A9F75C07F088F7293E2FCF43"
+    },
+    "download_size": 50830982,
+    "identifier": "AstronomersVisualPack",
+    "ksp_version_max": "1.9.9",
+    "ksp_version_min": "1.9.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Astronomer's Visual Pack [PRO-KCMIRROR]",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config"
+    ],
+    "recommends": [
+        {
+            "name": "KS3P"
+        },
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160878-*",
+        "repository": "https://github.com/themaster402/AstronomersVisualPack"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "Chatterer"
+        }
+    ],
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "2:4.0.2.0",
+    "x_generated_by": "netkan"
+}

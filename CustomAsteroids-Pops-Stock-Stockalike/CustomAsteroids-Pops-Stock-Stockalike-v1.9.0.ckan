@@ -1,0 +1,98 @@
+{
+    "abstract": "Emulates stock asteroids with Custom Asteroids groups.",
+    "author": "Starstrider42",
+    "comment": "Match to Custom Asteroids v1.9.0, see NetKAN#3841.",
+    "conflicts": [
+        {
+            "comment": "No Kerbin.",
+            "name": "AlienSpaceProgram"
+        },
+        {
+            "comment": "Completely different system.",
+            "name": "AlternisKerbolRekerjiggered"
+        },
+        {
+            "comment": "Completely different system.",
+            "name": "AlternisRealSolarSystem"
+        },
+        {
+            "comment": "Completely different system.",
+            "name": "Ktolemy"
+        },
+        {
+            "comment": "Completely different system.",
+            "name": "LittleGreenMenFromMars"
+        },
+        {
+            "comment": "Completely different system.",
+            "name": "NewHorizons"
+        },
+        {
+            "comment": "Completely different system.",
+            "name": "RealSolarSystem"
+        },
+        {
+            "comment": "Completely different system.",
+            "name": "SmallSolarSystem"
+        },
+        {
+            "comment": "Completely different system.",
+            "name": "StockAlikeSolarSystem"
+        },
+        {
+            "comment": "Completely different system.",
+            "name": "UnchartedLands"
+        }
+    ],
+    "depends": [
+        {
+            "comment": "Requires comet support.",
+            "max_version": "v1.99.99",
+            "min_version": "v1.9.0",
+            "name": "CustomAsteroids"
+        }
+    ],
+    "download": "https://spacedock.info/mod/210/Custom%20Asteroids/download/v1.9.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C1506459EE855623DB635443445440B743F87F2D",
+        "sha256": "B876A2DE5A269D1032CCCF5FF58797273EC3CE552E7C2516FB471D819A2A5AAA"
+    },
+    "download_size": 126522,
+    "identifier": "CustomAsteroids-Pops-Stock-Stockalike",
+    "install": [
+        {
+            "file": "GameData/CustomAsteroids",
+            "filter_regexp": "(?<!Stockalike\\.cfg)$",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 7353,
+    "ksp_version_max": "1.12.4",
+    "ksp_version_min": "1.10.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Custom Asteroids (stockalike config)",
+    "provides": [
+        "CustomAsteroids-Pops"
+    ],
+    "release_date": "2021-01-24T23:17:51.974602+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Starstrider42/Custom-Asteroids/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/72785-custom-asteroids/",
+        "remote-avc": "https://raw.githubusercontent.com/Starstrider42/Custom-Asteroids/master/CustomAsteroids.version",
+        "repository": "https://github.com/Starstrider42/Custom-Asteroids",
+        "spacedock": "https://spacedock.info/mod/210/Custom%20Asteroids",
+        "x_screenshot": "https://spacedock.info/content/Starstrider42_1134/Custom_Asteroids/Custom_Asteroids-1611536424.9279203.png"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "v1.9.0",
+    "x_generated_by": "netkan",
+    "x_maintained_by": "Starstrider42"
+}

@@ -1,0 +1,57 @@
+{
+    "abstract": "This pack includes early Soviet probes such as Sputnik, Luna, Molniya and Polyot. Probes are meant to be used with my Soviet Rockets pack. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Raidernick",
+    "comment": "Ships installed again",
+    "depends": [
+        {
+            "name": "BDAnimationModules"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/SovietProbes/releases/download/v2.9/RN_Soviet_Probes_v2.9.zip?auth_key=1748275917-3f648d8168ae4c9fbf45a441cf29a405-0-c9f9b8813155c4ea3ce1994bfcf61433&size=30106883&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E8C84A7E2CD0C1C50AF8C5CDA1CD7C2130CD40EA",
+        "sha256": "74669A134CA909545B64903A8DF2275B7C4F4CF96FE4CFEF0D111D30898C8B7B"
+    },
+    "download_size": 30106883,
+    "identifier": "RN-SovietProbes",
+    "install": [
+        {
+            "find": "RN_Soviet_Probes",
+            "install_to": "GameData"
+        },
+        {
+            "file": "Ships/VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-ND-3.0",
+    "name": "Soviet Probes [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RN-SovietRockets"
+        }
+    ],
+    "release_date": "2020-04-16T21:44:25Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/SovietProbes/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/79433-*",
+        "remote-avc": "http://raw.githubusercontent.com/KSP-RO/SovietProbes/master/GameData/RN_Soviet_Probes/SovietProbes.version",
+        "repository": "https://github.com/KSP-RO/SovietProbes"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "uncrewed"
+    ],
+    "version": "1:v2.9",
+    "x_generated_by": "netkan"
+}

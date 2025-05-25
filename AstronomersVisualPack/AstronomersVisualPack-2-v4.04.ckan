@@ -1,0 +1,70 @@
+{
+    "abstract": "The total visual overhaul for Kerbal Space Program, originally by Astronomer. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "themaster402",
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "AVP-Textures"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/themaster402/AstronomersVisualPack/releases/download/v4.04/AVP.v.4.04.zip?auth_key=1748275914-4009303c7deb4af585484a2e8953cda0-0-e1e01317fd9d18cf03099ae04a3a39b8&size=50833229&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "36FEB927B898DC09D8967FE829BCA3EBCACCB02F",
+        "sha256": "4F3E47DEC759611F1B794DDC4447D6E57D7A849EC0EDD5102D8775C6C3851F67"
+    },
+    "download_size": 50833229,
+    "identifier": "AstronomersVisualPack",
+    "ksp_version_max": "1.9.9",
+    "ksp_version_min": "1.9.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Astronomer's Visual Pack [PRO-KCMIRROR]",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config"
+    ],
+    "recommends": [
+        {
+            "name": "KS3P"
+        },
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "release_date": "2020-06-07T14:35:06Z",
+    "resources": {
+        "bugtracker": "https://github.com/themaster402/AstronomersVisualPack/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160878-*",
+        "repository": "https://github.com/themaster402/AstronomersVisualPack"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "Chatterer"
+        }
+    ],
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "2:v4.04",
+    "x_generated_by": "netkan"
+}

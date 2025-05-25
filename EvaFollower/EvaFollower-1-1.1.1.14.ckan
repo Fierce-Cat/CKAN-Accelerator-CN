@@ -1,0 +1,39 @@
+{
+    "abstract": "This mod allows you to order kerbals around, make them follow you, or make them patrol the area.",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/1582/EvaFollower/download/1.1.1.14",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "44E487D3DC88F00F5B3418FB9D0C0A3FB5BAF9ED",
+        "sha256": "E5795C0D7E70D097523EA9B4F3F07323816CB53DBB057A8467F036B641FEB805"
+    },
+    "download_size": 37335,
+    "identifier": "EvaFollower",
+    "install": [
+        {
+            "find": "EvaFollower",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 73048,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "EvaFollower",
+    "release_date": "2022-08-24T03:11:35.103786+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/EvaFollower/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167310-131-eva-follower/",
+        "remote-avc": "http://ksp.spacetux.net/avc/EvaFollower",
+        "repository": "https://github.com/linuxgurugamer/EvaFollower",
+        "spacedock": "https://spacedock.info/mod/1582/EvaFollower"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "crewed",
+        "control"
+    ],
+    "version": "1:1.1.1.14",
+    "x_generated_by": "netkan"
+}

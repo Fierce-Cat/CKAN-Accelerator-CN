@@ -1,0 +1,45 @@
+{
+    "abstract": "This mod is designed to add rings to Dres, just like ksp2, it can also add a satellite to Dres (optional), just like Fissure in Afterkerbin, this mod has bugs such as inaccurate lightmaps, is still being tested and does not represent the final version",
+    "author": "InnerPlanetModOfficial",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3580/Dres%20Ring%20Mod/download/test0.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "41C609165EEAD2E1A6C6A7459552FBD36704BFC3",
+        "sha256": "334FF9D47B3D5BDDC1E8B6AE78BF979A73DC0DE5E978427CB445D14B8A736381"
+    },
+    "download_size": 77609694,
+    "identifier": "DresRingMod",
+    "install": [
+        {
+            "find": "Dres",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 77986050,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "Dres Ring Mod",
+    "release_date": "2024-03-23T02:46:37.624418+00:00",
+    "resources": {
+        "homepage": "https://spacedock.info/profile/InnerPlanetModOfficial",
+        "repository": "https://spacedock.info/profile/InnerPlanetModOfficial",
+        "spacedock": "https://spacedock.info/mod/3580/Dres%20Ring%20Mod",
+        "x_screenshot": "https://spacedock.info/content/InnerPlanetModOfficial_129069/Dres_Ring_Mod/Dres_Ring_Mod-1711162019.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "planet-pack",
+        "graphics"
+    ],
+    "version": "test0.0.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

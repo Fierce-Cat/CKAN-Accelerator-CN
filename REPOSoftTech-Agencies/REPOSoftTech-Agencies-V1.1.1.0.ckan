@@ -1,0 +1,39 @@
+{
+    "abstract": "This adds the agencies required by JPLRepo's mods.",
+    "author": "Jplrepo",
+    "comment": "agencymod",
+    "download": "https://spacedock.info/mod/144/AmpYear/download/V1.1.1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BB9AA60BC1201EA7F1643E0CA77FE4E8F7223BA9",
+        "sha256": "A539573DA9B82433A841C5A1C60669E1DE0B6B03523F5F6E4F7D7C97663B6763"
+    },
+    "download_size": 668179,
+    "identifier": "REPOSoftTech-Agencies",
+    "install": [
+        {
+            "find": "Agencies",
+            "install_to": "GameData/REPOSoftTech"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "REPOSoftTech-Agencies",
+    "recommends": [
+        {
+            "name": "AmpYearPowerManager"
+        },
+        {
+            "name": "DeepFreeze"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/114991",
+        "repository": "https://github.com/JPLRepo/AmpYear",
+        "spacedock": "https://spacedock.info/mod/144/AmpYear",
+        "x_screenshot": "https://spacedock.info/content/Jplrepo_405/AmpYear/AmpYear-1455818746.3515532.png"
+    },
+    "spec_version": "v1.4",
+    "version": "V1.1.1.0",
+    "x_generated_by": "netkan"
+}

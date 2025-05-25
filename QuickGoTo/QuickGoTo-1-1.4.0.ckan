@@ -1,0 +1,46 @@
+{
+    "abstract": "Adds the possibility to go to an other scene from anywhere (VAB, SPH, Tracking Station ...).",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/102/QuickGoTo/download/1.4.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0612A38CBD8C60A1022F3FE1F2B71EA2E6DA81B0",
+        "sha256": "2F1CF856F9EBC83A1935A0580031E48A6512E5C6C28EC3CC4350402AD8B1AC87"
+    },
+    "download_size": 76211,
+    "identifier": "QuickGoTo",
+    "install": [
+        {
+            "file": "GameData/QuickMods/QuickGoTo",
+            "install_to": "GameData/QuickMods"
+        }
+    ],
+    "ksp_version": "1.8.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "fr-fr"
+    ],
+    "name": "QuickGoTo",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/102/QuickGoTo"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "version": "1:1.4.0",
+    "x_generated_by": "netkan"
+}

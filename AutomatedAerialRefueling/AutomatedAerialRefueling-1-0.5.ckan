@@ -1,0 +1,51 @@
+{
+    "abstract": "Automated Aerial Refueling System (AARS) provides a set of military airforce equipment used for aerial refueling.",
+    "author": [
+        "IcecoveryStudio",
+        "flywlyx"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1167/Automated%20Aerial%20Refueling%20System/download/0.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "55C8AD84DB3447D2E846782A652B9B14B93FE768",
+        "sha256": "E8D5F3FBD0D0BB5252FA26786E7589CDDA77C137084C3F15B5CC305BF7EE9F69"
+    },
+    "download_size": 9551596,
+    "identifier": "AutomatedAerialRefueling",
+    "install": [
+        {
+            "find": "AARS",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.2",
+    "license": "CC-BY-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Automated Aerial Refueling System",
+    "recommends": [
+        {
+            "name": "BDArmoryContinued"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179515-151automated-aerial-refueling-system-continuedv05-2018-11-3/",
+        "repository": "https://github.com/Icecovery/Automated-Aerial-Refueling-System",
+        "spacedock": "https://spacedock.info/mod/1167/Automated%20Aerial%20Refueling%20System",
+        "x_screenshot": "https://spacedock.info/content/IcecoveryStudio_9112/Automated_Aerial_Refueling_System/Automated_Aerial_Refueling_System-1495545640.9175797.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts",
+        "combat"
+    ],
+    "version": "1:0.5",
+    "x_generated_by": "netkan"
+}

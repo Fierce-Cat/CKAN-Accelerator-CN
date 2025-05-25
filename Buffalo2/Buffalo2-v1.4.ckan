@@ -1,0 +1,82 @@
+{
+    "abstract": "A next-gen, Restock-alike replacement for the original Buffalo mod [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "WildBlueCore"
+        },
+        {
+            "name": "KerbalActuators"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/Buffalo2/releases/download/v1.4/Buffalo2.zip?auth_key=1748275918-7d17b247054a4a4ca4a5fde86217f04d-0-c00d7191ac9d738d9346ea2fc57f12ea&size=116092344&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "121A32DC641529302DC6C0AC694BBCEDDE250BB2",
+        "sha256": "6BB38C026215A5841BA9DD4FA118F65978C129A683567ACAE72A58D653F105D2"
+    },
+    "download_size": 116092344,
+    "identifier": "Buffalo2",
+    "install": [
+        {
+            "filter": "Ships",
+            "find": "Buffalo2",
+            "install_to": "GameData/WildBlueIndustries"
+        },
+        {
+            "find": "Buffalo2/Ships/SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 236724800,
+    "ksp_version_min": "1.12.3",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Buffalo2 [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "ASET"
+        },
+        {
+            "name": "ASETAvionics"
+        }
+    ],
+    "release_date": "2022-10-26T22:57:30Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/Buffalo2/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/206638-*",
+        "license": "https://github.com/Angel-125/Buffalo2/blob/main/ReleaseFolder/GameData/WildBlueIndustries/Buffalo2/Readme.txt",
+        "manual": "https://github.com/Angel-125/Buffalo2/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/Buffalo2/main/ReleaseFolder/GameData/WildBlueIndustries/Buffalo2/Buffalo2.version",
+        "repository": "https://github.com/Angel-125/Buffalo2"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "Snacks"
+        }
+    ],
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "v1.4",
+    "x_generated_by": "netkan"
+}

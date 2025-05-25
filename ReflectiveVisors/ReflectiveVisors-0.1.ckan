@@ -1,0 +1,39 @@
+{
+    "abstract": "Adds reflective visors.",
+    "author": "SillyGoose",
+    "depends": [
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3496/Reflective%20Visors/download/0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "891FD0941FFD52A473D8CEA2778347FEAA749D9F",
+        "sha256": "31B423F61FA435CCC730807129F183D82FC0EF0CD2D1C7117D73DA602B0E29D6"
+    },
+    "download_size": 1712,
+    "identifier": "ReflectiveVisors",
+    "install": [
+        {
+            "find": "TextureReplacer",
+            "install_to": "GameData/ReflectiveVisors"
+        }
+    ],
+    "install_size": 747,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Reflective Visors",
+    "release_date": "2023-11-04T22:22:25.307221+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3496/Reflective%20Visors",
+        "x_screenshot": "https://spacedock.info/content/SillyGoose_125235/Reflective_Visors/Reflective_Visors-1699137487.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "graphics"
+    ],
+    "version": "0.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

@@ -1,0 +1,62 @@
+{
+    "abstract": "Express Installation for RP-1, Realism Overhaul, Real Solar System etc. Select only this mod and hit apply, CKAN will guide you through the rest. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "KSP-RO Group",
+    "depends": [
+        {
+            "choice_help_text": "Select your graphics level. Low graphics will function on 8GB of RAM and requires the least powerful computer. Medium graphics looks better, but needs 16GB of RAM and a GTX 970/R9 390 or better. High graphics is best with 24GB+ (but might function on 16GB) and needs more modern graphics hardware (GTX 1070+/RX 5600+).",
+            "name": "RP-1-ExpressInstall-Graphics"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RP-1-ExpressInstall/releases/download/v1.0/RP-1-ExpressInstall.zip?auth_key=1748275914-01474891aa1e46bbb93ca28543142098-0-3e648a4e59a528a236fe357c4762f7db&size=1153&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5BEDF5EBC2DC485B3C0E3CDB39767156BD674B07",
+        "sha256": "713E0713A628987DC0AEFEDF28DD1834A02F90E63480E6A7225D6A97CDEE8733"
+    },
+    "download_size": 1153,
+    "identifier": "RP-1-ExpressInstall",
+    "install_size": 939,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.10.1",
+    "license": "CC-BY-NC-SA",
+    "name": "Realistic Progression One (RP-1) Express Install [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "EditorExtensionsRedux"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "TransferWindowPlannerFork"
+        },
+        {
+            "name": "LunarTransferPlanner"
+        }
+    ],
+    "release_date": "2021-08-08T06:13:46Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/RP-0/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*",
+        "manual": "https://github.com/KSP-RO/RP-0/wiki",
+        "metanetkan": "https://github.com/KSP-RO/RP-1-ExpressInstall/raw/main/RP-1-ExpressInstall.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/RP-1-ExpressInstall/main/GameData/RP-1-ExpressInstall/RP-1-ExpressInstall.version",
+        "repository": "https://github.com/KSP-RO/RP-0"
+    },
+    "spec_version": "v1.31",
+    "tags": [
+        "plugin",
+        "config",
+        "parts",
+        "career",
+        "science",
+        "planet-pack",
+        "resources",
+        "graphics"
+    ],
+    "version": "v1.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,72 @@
+{
+    "abstract": "A plethora of new station parts in several size classes.",
+    "author": "Nertea (Chris Adderley)",
+    "conflicts": [
+        {
+            "name": "StationPartsExpansionRedux-Metal"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1682/Stockalike%20Station%20Parts%20Expansion%20Redux/download/2.0.9",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "607AF93B3F71615181DEEB410949AEE6D9A7B0C5",
+        "sha256": "5C4558BB9780B7F66FC6B85E663F01FD4688D84F363FDD65FEE113506CC90C56"
+    },
+    "download_size": 444681018,
+    "identifier": "StationPartsExpansionRedux",
+    "install": [
+        {
+            "find": "StationPartsExpansionRedux",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "it-it",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Stockalike Station Parts Expansion Redux",
+    "release_date": "2022-06-13T05:44:39.965176+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170211-*",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux/raw/master/CKAN/StationPartsExpansionRedux.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/StationPartsExpansionRedux/master/GameData/StationPartsExpansionRedux/Versioning/StationPartsExpansionRedux.version",
+        "repository": "https://github.com/ChrisAdderley/StationPartsExpansionRedux",
+        "spacedock": "https://spacedock.info/mod/1682/Stockalike%20Station%20Parts%20Expansion%20Redux",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Stockalike_Station_Parts_Expansion_Redux/Stockalike_Station_Parts_Expansion_Redux-1517167763.862289.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "StationPartsExpansionRedux-IVAs"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        }
+    ],
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "2.0.9",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,58 @@
+{
+    "abstract": "KSP workers suggested names for ships",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/ChampagneBottleRedux/releases/download/0.3.11.5/ChampagneBottle-1.12.0-0.3.11.5.zip",
+        "https://spacedock.info/mod/613/Champagne%20Bottle%20Redux/download/0.3.11.5"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5579339C3233F3432406FAE14BDB80C15B8D0C0A",
+        "sha256": "A7F8E1D80535C66D8CD39C61739EE5727AC760C2A85A51BAB492712280FB6FDC"
+    },
+    "download_size": 39487,
+    "identifier": "ChampagneBottleRedux",
+    "install": [
+        {
+            "find": "Champagne",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 76605,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.9.0",
+    "license": "CC-BY-NC-SA",
+    "name": "Champagne Bottle Redux",
+    "recommends": [
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "release_date": "2022-11-30T01:43:01.170585+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/ChampagneBottleRedux/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/138349-champagne-bottle-redux/",
+        "remote-avc": "http://ksp.spacetux.net/avc/ChampagneBottle",
+        "repository": "https://github.com/linuxgurugamer/ChampagneBottleRedux",
+        "spacedock": "https://spacedock.info/mod/613/Champagne%20Bottle%20Redux",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Champagne_Bottle_Redux/Champagne_Bottle_Redux-1507555067.0730748.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "editor"
+    ],
+    "version": "0.3.11.5",
+    "x_generated_by": "netkan"
+}

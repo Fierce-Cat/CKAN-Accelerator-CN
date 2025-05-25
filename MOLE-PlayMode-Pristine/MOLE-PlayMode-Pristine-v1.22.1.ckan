@@ -1,0 +1,55 @@
+{
+    "abstract": "Mark One Laboratory Extensions- early space stations for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "WildBlue-PlayMode-Pristine"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "MOLE"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/MOLE/releases/download/v1.22.1/MOLE_1_22_1.zip?auth_key=1748275915-79fa8e25883542f1a0e01ccb1adc098c-0-d589a6712ce5aeb8d8816b32fef13605&size=53280241&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A3289DE5951D878D550D0FA3C0EB9BBBC7F0A491",
+        "sha256": "C8888FCB68B95C3FA9F7A3DCB3267BE6933A9DF9E37EAAD6F8300EC15306DF1C"
+    },
+    "download_size": 53280241,
+    "identifier": "MOLE-PlayMode-Pristine",
+    "install": [
+        {
+            "find": "WildBlueIndustries/MOLE/Templates/Pristine.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/MOLE/Templates"
+        },
+        {
+            "as": "MM_Pristine.cfg",
+            "find": "MOLE/Templates/Pristine/MM_Pristine.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/MOLE/Templates/Pristine"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "MOLE Pristine Play Mode [PRO-KCMIRROR]",
+    "provides": [
+        "MOLE-PlayMode"
+    ],
+    "release_date": "2020-07-23T19:44:38Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/MOLE/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/154893-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/MOLE/master/GameData/WildBlueIndustries/MOLE/MOLE.version",
+        "repository": "https://github.com/Angel-125/MOLE"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config"
+    ],
+    "version": "v1.22.1",
+    "x_generated_by": "netkan"
+}

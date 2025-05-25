@@ -1,0 +1,59 @@
+{
+    "abstract": "TweakScale lets you change the size of a part. Not just that, but it will figure out how much fuel is in the resized part. And if it's an engine, it will become more powerful by scaling it bigger, or weaker by scaling it smaller.",
+    "author": [
+        "Biotronic",
+        "pellinor",
+        "LisiasT"
+    ],
+    "depends": [
+        {
+            "min_version": "2.7.1",
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KSP-Recall"
+        }
+    ],
+    "download": "https://spacedock.info/mod/127/TweakScale/download/2.4.5.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C18CF8E249197B9F3F2DB1BBAEF28F23325F5270",
+        "sha256": "768F4C1BAC59806C7448E067753C0341A6C74F2948C4CFD62A3DD2E03CC08C06"
+    },
+    "download_size": 288150,
+    "identifier": "TweakScale",
+    "install": [
+        {
+            "file": "GameData/999_Scale_Redist.dll",
+            "install_to": "GameData"
+        },
+        {
+            "file": "GameData/TweakScale",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.1",
+    "ksp_version_min": "1.4.4",
+    "license": [
+        "GPL-2.0",
+        "restricted"
+    ],
+    "name": "TweakScale - Rescale Everything!",
+    "release_date": "2021-06-27T13:29:56.901567+00:00",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/net-lisias-ksp/TweakScale/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*",
+        "remote-avc": "https://raw.githubusercontent.com/net-lisias-ksp/TweakScale/master/TweakScale.version",
+        "repository": "https://github.com/net-lisias-ksp/TweakScale",
+        "spacedock": "https://spacedock.info/mod/127/TweakScale",
+        "x_screenshot": "https://spacedock.info/content/Pellinor_227/TweakScale/TweakScale-1540681746.7632673.png"
+    },
+    "spec_version": "v1.2",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "v2.4.5.1",
+    "x_generated_by": "netkan"
+}

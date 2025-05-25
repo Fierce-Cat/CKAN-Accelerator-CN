@@ -1,0 +1,73 @@
+{
+    "abstract": "This is a mod that adds SpaceX parts like the Dragon V2, Falcon 9 and more!",
+    "author": "damon",
+    "depends": [
+        {
+            "name": "SpaceXLegs"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TundraTechnologies"
+        }
+    ],
+    "download": "https://spacedock.info/mod/223/Tundra%20Exploration%20-%20Stockalike%20Dragon%20V2%20and%20Falcon%209/download/6.1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "653CD7DF56839AFE4C725D49133D1D30C6452CED",
+        "sha256": "53460818527662D4532E033081AF8E3C9FDBC38FE184AFAFC4F2CADF19522EBE"
+    },
+    "download_size": 89427437,
+    "identifier": "TundraExploration",
+    "install": [
+        {
+            "filter": "Thumbs.db",
+            "find": "TundraExploration",
+            "install_to": "GameData"
+        },
+        {
+            "description": "Tundra Exploration example crafts",
+            "find": "Ships/VAB",
+            "install_to": "Ships",
+            "optional": true
+        }
+    ],
+    "install_size": 329486704,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.1",
+    "license": "restricted",
+    "name": "Tundra Exploration - Stockalike Dragon V2 and Falcon 9",
+    "recommends": [
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "FMRS"
+        },
+        {
+            "name": "FreeIva"
+        }
+    ],
+    "release_date": "2022-11-03T20:42:55.726178+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/TundraMods/TundraExploration/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/166915-131-tundra-exploration-v093-stockalike-falcon-9-and-dragon-v2/",
+        "remote-avc": "https://raw.githubusercontent.com/damonvv/TundraExploration/master/GameData/TundraExploration/Versioning/TundraExploration.version",
+        "repository": "https://github.com/TundraMods/TundraExploration",
+        "spacedock": "https://spacedock.info/mod/223/Tundra%20Exploration%20-%20Stockalike%20Dragon%20V2%20and%20Falcon%209",
+        "x_screenshot": "https://spacedock.info/content/damon_4180/Tundra_Exploration_-_Stockalike_Dragon_V2_and_Falcon_9/Tundra_Exploration_-_Stockalike_Dragon_V2_and_Falcon_9-1642948646.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "6.1.0",
+    "x_generated_by": "netkan"
+}

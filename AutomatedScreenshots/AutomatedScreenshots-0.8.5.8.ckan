@@ -1,0 +1,47 @@
+{
+    "abstract": "automated screenshots [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/AutomatedScreenshots/releases/download/0.8.5.8/automatedscreenshots-1.12.0-0.8.5.8.zip?auth_key=1748275918-48f82e33eb0d41caadea10e684e23f8e-0-058f84d1c551d7df6f768d5ca9689680&size=49620&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8B361547170E67BE0391336E6C93A9BDADACB3B5",
+        "sha256": "97EC993600034619C3DA8C203935A7ED8A743F8F8734EFB082E264C4699A65FE"
+    },
+    "download_size": 49620,
+    "identifier": "AutomatedScreenshots",
+    "install": [
+        {
+            "find": "AutomatedScreenshots",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 79609,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "Automated Screenshots & Saves [PRO-KCMIRROR]",
+    "release_date": "2024-12-24T21:50:49Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/AutomatedScreenshots/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/116979-*",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/AutomatedScreenshots/refs/heads/master/automatedscreenshots.version",
+        "repository": "https://github.com/linuxgurugamer/AutomatedScreenshots",
+        "spacedock": "https://spacedock.info/mod/43/Automated%20Screenshots%20&%20Saves",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Automated_Screenshots__Saves/Automated_Screenshots__Saves-1456622044.5102704.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "0.8.5.8",
+    "x_generated_by": "netkan"
+}

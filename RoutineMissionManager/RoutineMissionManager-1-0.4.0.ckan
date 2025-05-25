@@ -1,0 +1,52 @@
+{
+    "abstract": "This mod allows a player to track routine flights to vessels and stations in orbit of Kerbin and it's moons and then have these mission repeated automatically in the backround.",
+    "author": [
+        "PrivateFlip",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/362/Routine%20Mission%20Manager/download/0.4.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "930E57AFC5434FB8383C9588A8E89F57F7CCBBC5",
+        "sha256": "C07B7CB109267E1DF310EC00E9C0180A07EB4C8CD498E3AA3A6AD68B93287F31"
+    },
+    "download_size": 97366,
+    "identifier": "RoutineMissionManager",
+    "install": [
+        {
+            "file": "GameData/RoutineMissionManager",
+            "filter_regexp": "Licences and Source",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.8.0",
+    "license": "BSD-2-clause",
+    "name": "Routine Mission Manager",
+    "release_date": "2020-03-19T22:24:53.697047+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192520-18x-19x-routine-mission-manager/",
+        "remote-avc": "http://ksp.spacetux.net/avc/RoutineMissionManager",
+        "spacedock": "https://spacedock.info/mod/362/Routine%20Mission%20Manager",
+        "x_screenshot": "https://spacedock.info/content/PrivateFlip_1691/Routine_Mission_Manager/Routine_Mission_Manager-1457288835.3569176.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "career",
+        "convenience"
+    ],
+    "version": "1:0.4.0",
+    "x_generated_by": "netkan"
+}

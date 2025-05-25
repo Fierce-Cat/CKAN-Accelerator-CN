@@ -1,0 +1,42 @@
+{
+    "abstract": "Multiplayer mod for Kerbal Space Program (KSP) [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "gavazquez",
+    "comment": "Version file is outdated",
+    "depends": [
+        {
+            "name": "Harmony2"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/LunaMultiplayer/LunaMultiplayer/releases/download/0.29.0-Draft/LunaMultiplayer-Client-Release.zip?auth_key=1748275914-0f3bc4ba79884fbb95f4cc22e71ab624-0-f34b7c615230f5efedbecbac39eda85c&size=1135191&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "283444AFB545440EEA971B5B2632328E8255351203FAE7BF84B7638DC19CECEA"
+    },
+    "download_size": 1135191,
+    "identifier": "LunaMultiplayer",
+    "install": [
+        {
+            "filter": "0Harmony.dll",
+            "find": "LunaMultiplayer",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1794588,
+    "ksp_version": "1.12",
+    "license": "MIT",
+    "name": "Luna Multiplayer Client [PRO-KCMIRROR]",
+    "release_date": "2023-06-03T18:20:43Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/LunaMultiplayer/LunaMultiplayer/issues",
+        "homepage": "https://lunamultiplayer.com/",
+        "manual": "https://github.com/LunaMultiplayer/LunaMultiplayer/wiki",
+        "repository": "https://github.com/LunaMultiplayer/LunaMultiplayer"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "plugin"
+    ],
+    "version": "0.29.0-Draft",
+    "x_generated_by": "netkan"
+}

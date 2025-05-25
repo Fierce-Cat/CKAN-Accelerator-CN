@@ -1,0 +1,44 @@
+{
+    "abstract": "Grannus Expansion Pack rescaled 2.5x [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "OhioBob",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "GrannusExpansionPack"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/OhioBob/Grannus-Expansion-Pack/releases/download/1.2.7/GrannusExpansionPack_1.2.7.zip?auth_key=1748275918-20f5af89dd3742219f4492394777baa2-0-b8986f53d805e393fa0bcaeb04ab4241&size=339713982&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EF70AADD2697155AEB0588B1D0BB9E3335AC6981",
+        "sha256": "4B1842723671C1C8FF9AAF384052C6B0D53353D5941131E609BF12F26FBC964C"
+    },
+    "download_size": 339713982,
+    "identifier": "GrannusExpansionPack-Rescale",
+    "install": [
+        {
+            "find": "GEP_Rescale/Rescale_2.5X/Game Data/GEP_Rescale",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-ND",
+    "name": "Grannus Expansion Pack Rescale [PRO-KCMIRROR]",
+    "release_date": "2022-05-08T17:01:57Z",
+    "resources": {
+        "bugtracker": "https://github.com/OhioBob/Grannus-Expansion-Pack/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169664-*",
+        "remote-avc": "https://raw.githubusercontent.com/OhioBob/Grannus-Expansion-Pack/master/GameData/GEP/Version/GrannusExpansionPack.version",
+        "repository": "https://github.com/OhioBob/Grannus-Expansion-Pack"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.2.7",
+    "x_generated_by": "netkan"
+}

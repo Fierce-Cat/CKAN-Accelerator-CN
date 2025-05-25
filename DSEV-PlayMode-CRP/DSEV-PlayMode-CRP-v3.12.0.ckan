@@ -1,0 +1,86 @@
+{
+    "abstract": "Deep Space Exploration Vessels for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "WildBlue-PlayMode-CRP"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "DSEV"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/DSEV/releases/download/v3.12.0/DSEV.zip?auth_key=1748275915-85de6223a8c24328a2f931e6bf10f6f4-0-7e1cdbac65c18e3e49941a0052eb990b&size=132510416&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "13437B5CF9E158A7AF394699AF1045C74FAD0E36",
+        "sha256": "A83ECAE1BA748957808B81669FE2868BB1560C9344287BB7495600946DB805D2"
+    },
+    "download_size": 132510416,
+    "identifier": "DSEV-PlayMode-CRP",
+    "install": [
+        {
+            "find": "WildBlueIndustries/DSEV/Templates/CRP.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/DSEV/Templates"
+        },
+        {
+            "as": "D2Templates.cfg",
+            "find": "DSEV/Templates/CRP/D2Templates.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/DSEV/Templates/CRP"
+        },
+        {
+            "as": "MM_CompactISRU.cfg",
+            "find": "DSEV/Templates/CRP/MM_CompactISRU.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/DSEV/Templates/CRP"
+        },
+        {
+            "as": "MM_Snacks.cfg",
+            "find": "DSEV/Templates/CRP/MM_Snacks.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/DSEV/Templates/CRP"
+        },
+        {
+            "as": "MM_Trinity.cfg",
+            "find": "DSEV/Templates/CRP/MM_Trinity.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/DSEV/Templates/CRP"
+        },
+        {
+            "as": "PathfinderTemplates.cfg",
+            "find": "DSEV/Templates/CRP/PathfinderTemplates.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/DSEV/Templates/CRP"
+        },
+        {
+            "as": "Scanners.cfg",
+            "find": "DSEV/Templates/CRP/Scanners.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/DSEV/Templates/CRP"
+        }
+    ],
+    "install_size": 26849,
+    "ksp_version_min": "1.12.2",
+    "license": "restricted",
+    "name": "DSEV CRP Play Mode [PRO-KCMIRROR]",
+    "provides": [
+        "DSEV-PlayMode"
+    ],
+    "release_date": "2022-08-23T21:02:13Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/DSEV/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/122162-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/DSEV/master/GameData/WildBlueIndustries/DSEV/DSEV.version",
+        "repository": "https://github.com/Angel-125/DSEV"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config"
+    ],
+    "version": "v3.12.0",
+    "x_generated_by": "netkan"
+}

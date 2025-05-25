@@ -1,0 +1,79 @@
+{
+    "abstract": "Structural components and truss segments for building deep space vessels and bases. Includes various skeletal adapters and docking ports.",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/563/Near%20Future%20Construction/download/1.2.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E9F77D106A06E2D86558E074520037E567AD1D6B",
+        "sha256": "10B8FEDEB734585689ED85955B3377DB4F9059D950B82AFB3EA23278C712866E"
+    },
+    "download_size": 34875765,
+    "identifier": "NearFutureConstruction",
+    "install": [
+        {
+            "find": "NearFutureConstruction",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "ru",
+        "zh-cn",
+        "de-de",
+        "en-us",
+        "es-es"
+    ],
+    "name": "Near Future Construction",
+    "release_date": "2020-02-20T19:31:16.278596+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-16x-near-future-technologies-16x-fixes-jan-21/",
+        "metanetkan": "https://github.com/ChrisAdderley/NearFutureConstruction/raw/master/CKAN/NearFutureConstruction.netkan",
+        "repository": "https://github.com/ChrisAdderley/NearFutureConstruction",
+        "spacedock": "https://spacedock.info/mod/563/Near%20Future%20Construction",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Construction/Near_Future_Construction-1461355818.018581.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1.2.2",
+    "x_generated_by": "netkan"
+}

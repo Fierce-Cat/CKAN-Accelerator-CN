@@ -1,0 +1,81 @@
+{
+    "abstract": "Default configuration for Kerbalism [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Kerbalism Contributors",
+    "conflicts": [
+        {
+            "name": "Kerbalism-Config"
+        },
+        {
+            "name": "UKS"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "BackgroundProcessing"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kerbalism/Kerbalism/releases/download/3.16/Kerbalism-Config_v3.16_for_KSP1.8.0-1.12.9.zip?auth_key=1748275916-ad456641597f457ca63f6c26f5a04525-0-48495411eb9ad5b049ca30dec5b20b96&size=14954824&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4A2DB20BC66DD93A5776568426F0EE3FE321223E",
+        "sha256": "AEB22611D39DBD2DF98997AB6BC42CBA94ECB29B43016E3BE0C951F4A9A0282F"
+    },
+    "download_size": 14954824,
+    "identifier": "Kerbalism-Config-Default",
+    "install": [
+        {
+            "find": "KerbalismConfig",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 39771139,
+    "ksp_version_max": "1.12.9",
+    "ksp_version_min": "1.8.0",
+    "license": "Unlicense",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "ko-kr",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Kerbalism - Default Config [PRO-KCMIRROR]",
+    "provides": [
+        "Kerbalism-Config"
+    ],
+    "release_date": "2022-08-02T17:40:07Z",
+    "resources": {
+        "bugtracker": "https://github.com/Kerbalism/Kerbalism/issues",
+        "remote-avc": "https://raw.githubusercontent.com/Kerbalism/Kerbalism/master/GameData/Kerbalism/Kerbalism.version",
+        "repository": "https://github.com/Kerbalism/Kerbalism"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config",
+        "physics",
+        "crewed",
+        "science"
+    ],
+    "version": "3.16",
+    "x_generated_by": "netkan"
+}

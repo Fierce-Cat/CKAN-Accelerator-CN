@@ -1,0 +1,47 @@
+{
+    "abstract": "11 New contracts to send tourists across the Kerbol system [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "phillo3",
+    "depends": [
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/phillo3/TourismExpanded/releases/download/1.0.1/TourismExpanded.zip?auth_key=1748275917-7cbb6268a18f41a49def7d1c48ea74b2-0-b461d9b6dffdbe2509d9d1ec100136a6&size=31984&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "56001474546ECB64267E1997213C45FF664DC695",
+        "sha256": "7F0A98A5172498967B8F33DCBFD81DE8EEEE15093C94AEDA19434FDB5EEB1AB6"
+    },
+    "download_size": 31984,
+    "identifier": "TourismExpanded",
+    "install": [
+        {
+            "find": "ContractPacks",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 78826,
+    "ksp_version_max": "1.99.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Tourism Expanded [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "WaypointManager"
+        }
+    ],
+    "release_date": "2022-10-07T18:55:57Z",
+    "resources": {
+        "bugtracker": "https://github.com/phillo3/TourismExpanded/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/210022-*",
+        "repository": "https://github.com/phillo3/TourismExpanded"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "career",
+        "crewed"
+    ],
+    "version": "1.0.1",
+    "x_generated_by": "netkan"
+}

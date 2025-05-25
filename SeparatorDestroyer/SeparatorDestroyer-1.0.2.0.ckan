@@ -1,0 +1,40 @@
+{
+    "abstract": "Adds a GUI menu to stack separators to optionally destroy them when they are decoupled. this feature is disabled by default and will not work with omni-directional decouplers.",
+    "author": "Xyphos",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1379/Separator%20Destroyer/download/1.0.2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2C58194E831E656E0159718F8E31B4762EC6F5F1",
+        "sha256": "EDA556BA42FF961A3F4F7FC54BED31C539D4BDBE6E36AF64E40901099A8C2921"
+    },
+    "download_size": 4849,
+    "identifier": "SeparatorDestroyer",
+    "install": [
+        {
+            "find": "XyphosAerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.10.1",
+    "license": "public-domain",
+    "name": "Separator Destroyer",
+    "release_date": "2019-10-25T09:44:04.694634+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Xyphos/KSP_SeparatorDestroyer/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/163051-13-separator-destroyer-v1001-09-july-2017/",
+        "repository": "https://github.com/Xyphos/KSP_SeparatorDestroyer",
+        "spacedock": "https://spacedock.info/mod/1379/Separator%20Destroyer"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1.0.2.0",
+    "x_generated_by": "netkan"
+}

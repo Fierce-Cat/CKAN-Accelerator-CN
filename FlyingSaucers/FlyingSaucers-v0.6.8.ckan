@@ -1,0 +1,78 @@
+{
+    "abstract": "Build Flying Saucers in KSP! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "BarisBridge"
+        },
+        {
+            "name": "WildBlueTools"
+        },
+        {
+            "name": "KerbalActuators"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/FlyingSaucers/releases/download/v0.6.8/KFS.zip?auth_key=1748275917-24fe42c82a0e4342a3d4654e90c724ad-0-130132dcf00c749112de1a42e3743730&size=121686263&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "15BA7B61D6A7137B375F0008E0E25D1EFBE9CBBD",
+        "sha256": "022C77247DE77470419F818789561283A120B1E531B4014E96E03ED73804B651"
+    },
+    "download_size": 121686263,
+    "identifier": "FlyingSaucers",
+    "install": [
+        {
+            "find": "GameData/WildBlueIndustries/FlyingSaucers",
+            "install_to": "GameData/WildBlueIndustries"
+        }
+    ],
+    "ksp_version_min": "1.12.2",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Flying Saucers [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        }
+    ],
+    "release_date": "2022-03-09T00:20:43Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/FlyingSaucers/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173857-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/FlyingSaucers/master/GameData/WildBlueIndustries/FlyingSaucers/KFS.version",
+        "repository": "https://github.com/Angel-125/FlyingSaucers"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "TACLS"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin",
+        "crewed"
+    ],
+    "version": "v0.6.8",
+    "x_generated_by": "netkan"
+}

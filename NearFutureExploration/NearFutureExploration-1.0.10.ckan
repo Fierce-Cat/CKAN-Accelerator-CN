@@ -1,0 +1,77 @@
+{
+    "abstract": "Expands probe selection with new cores, new probe bus parts, mini satellite parts and a large quantity of antennas. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ChrisAdderley/NearFutureExploration/releases/download/1.0.10/NearFutureExploration_1_0_10.zip?auth_key=1748275917-2387a14ca4524c8e985f722d6f669fc3-0-5a2e7384297acef25e732421ba24d550&size=42378196&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E0B6D1C0C96555677DC0461FF7ECB8FDFE8E1871",
+        "sha256": "C35C78913E4CFE163F7D0F9718F722005FE20A7C8F7A004DEF179319C89AFCEF"
+    },
+    "download_size": 42378196,
+    "identifier": "NearFutureExploration",
+    "install": [
+        {
+            "find": "NearFutureExploration",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "zh-cn",
+        "en-us"
+    ],
+    "name": "Near Future Exploration [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        }
+    ],
+    "release_date": "2020-08-03T19:21:56Z",
+    "resources": {
+        "bugtracker": "https://github.com/ChrisAdderley/NearFutureExploration/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-18x-near-future-technologies-18-updates-november-6th/",
+        "metanetkan": "https://github.com/ChrisAdderley/NearFutureExploration/raw/master/CKAN/NearFutureExploration.netkan",
+        "repository": "https://github.com/ChrisAdderley/NearFutureExploration"
+    },
+    "spec_version": "v1.26",
+    "suggests": [
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        }
+    ],
+    "tags": [
+        "parts",
+        "uncrewed",
+        "comms"
+    ],
+    "version": "1.0.10",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,51 @@
+{
+    "abstract": "Adds a series of low tech sounding rockets to the 'start' node. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/UmbraSpaceIndustries/SoundingRockets/releases/download/v112.0.1/SoundingRockets_112.0.1.zip?auth_key=1748275915-bb383fbf5235478fb08ae64427ca6c09-0-38dfc85eefd7549534c7137cc91713de&size=4240793&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "06D4864C8CE5EBCA9A53B2B5C0111F586D895FDE",
+        "sha256": "7DC0E9CDF2DF9FED0D157520C23241B122C9F5215CE2E86F56D0F05DA01447C0"
+    },
+    "download_size": 4240793,
+    "identifier": "SoundingRockets",
+    "install": [
+        {
+            "file": "GameData/UmbraSpaceIndustries/SoundingRockets",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "install_size": 4343565,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "Sounding Rockets! [PRO-KCMIRROR]",
+    "release_date": "2022-05-29T22:02:51Z",
+    "resources": {
+        "bugtracker": "https://github.com/UmbraSpaceIndustries/SoundingRockets/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/92434-*",
+        "manual": "https://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "remote-avc": "https://raw.githubusercontent.com/UmbraSpaceIndustries/SoundingRockets/main/FOR_RELEASE/GameData/UmbraSpaceIndustries/SoundingRockets/SoundingRockets.version",
+        "repository": "https://github.com/UmbraSpaceIndustries/SoundingRockets"
+    },
+    "spec_version": "v1.2",
+    "tags": [
+        "parts"
+    ],
+    "version": "v112.0.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,40 @@
+{
+    "abstract": "Advanced console for in-game logging system. Supports persistense, filtering, records grouping, and many more. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "IgorZ"
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ihsoft/KSPDev_LogConsole/releases/download/2.1/KSPDev_LogConsole_v2.1.zip?auth_key=1748275917-2ef94c47eec74d9199f8e6ee7370f87c-0-fc2c5c85bbed98bdb574e5d79e21e008&size=167620&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C4722DA4F45403AECEA7700BF947173E65FD795D",
+        "sha256": "9248355623B5DD49330FF222E4E177A2C9101D60C485AF2DB27838DB6134A446"
+    },
+    "download_size": 167620,
+    "identifier": "KSPDev-LogConsole",
+    "install": [
+        {
+            "file": "GameData/KSPDev",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 721442,
+    "ksp_version_max": "1.99.99",
+    "ksp_version_min": "1.8.0",
+    "license": "public-domain",
+    "name": "KSPDev LogConsole [PRO-KCMIRROR]",
+    "release_date": "2020-04-27T08:37:36Z",
+    "resources": {
+        "bugtracker": "https://github.com/ihsoft/KSPDev_LogConsole/issues/new",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150786-12-kspdev-logconsole-v0120-utils-v0190/",
+        "metanetkan": "https://raw.githubusercontent.com/ihsoft/KSPDev_LogConsole/master/KSPDev_LogConsole.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/ihsoft/KSPDev_LogConsole/master/KSPDev_LogConsole.version",
+        "repository": "https://github.com/ihsoft/KSPDev_LogConsole/tree/master/Source"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "1:2.1",
+    "x_generated_by": "netkan"
+}

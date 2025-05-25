@@ -1,0 +1,72 @@
+{
+    "abstract": "REKT",
+    "author": [
+        "steedcrugeon",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RetractableLiftingSurface"
+        },
+        {
+            "name": "KSPWheel"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1021/Recoverable%20Emergency%20Kerbal%20Transport/download/0.4.8.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F58B7A0A4EE835E9081316BD1310E8E51E4C6D8F",
+        "sha256": "4BC07AA7BBE2D0AA6F2D1700C5A58851AD048750908761D221E4534A54015421"
+    },
+    "download_size": 6454080,
+    "identifier": "REKT",
+    "install": [
+        {
+            "filter": [
+                "Agencies",
+                "License",
+                "RetractableLiftingSurface"
+            ],
+            "find": "SHED",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 117491937,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "es-es"
+    ],
+    "name": "Recoverable Emergency Kerbal Transport",
+    "recommends": [
+        {
+            "name": "IndicatorLights"
+        },
+        {
+            "name": "Landertron"
+        },
+        {
+            "name": "RasterPropMonitor"
+        }
+    ],
+    "release_date": "2020-10-06T13:10:27.852853+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/REKT/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181613-145-151-161-rekt-escape-pod-mod/",
+        "remote-avc": "http://ksp.spacetux.net/avc/RecoverableEmergencyKerbalTransport",
+        "repository": "https://github.com/linuxgurugamer/REKT",
+        "spacedock": "https://spacedock.info/mod/1021/Recoverable%20Emergency%20Kerbal%20Transport",
+        "x_screenshot": "https://spacedock.info/content/steedcrugeon_8650/Recoverable_Emergency_Kerbal_Transport/Recoverable_Emergency_Kerbal_Transport-1477517270.5627637.png"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "0.4.8.2",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,38 @@
+{
+    "abstract": "Resource definition required by some mods [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "snjo",
+        "BobPalmer"
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/snjo/Firespitter/releases/download/v7.15/Firespitter_7.15.zip?auth_key=1748275918-eec50038a9604e068c1d3043e4ff6825-0-d50ab701ca4c380824e1858e9df548b7&size=30747452&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8053C02A7FFF59FCD2DFB0A31CF19FC42BD9802A",
+        "sha256": "C5DDC4D1B6EF3E31F1901FD4568137016749F47E13742D9FB23B5A32FA845037"
+    },
+    "download_size": 30747452,
+    "identifier": "FirespitterResourcesConfig",
+    "install": [
+        {
+            "find": "Firespitter/Resources",
+            "install_to": "GameData/Firespitter"
+        }
+    ],
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "Firespitter Resources config [PRO-KCMIRROR]",
+    "release_date": "2019-12-14T11:58:09Z",
+    "resources": {
+        "bugtracker": "https://github.com/snjo/Firespitter/issues",
+        "homepage": "http://snjo.github.io/",
+        "repository": "https://github.com/snjo/Firespitter"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "resources"
+    ],
+    "version": "v7.15",
+    "x_generated_by": "netkan"
+}

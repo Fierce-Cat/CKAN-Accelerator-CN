@@ -1,0 +1,47 @@
+{
+    "abstract": "This mod is focused around the idea of encouraging the player to keep a deeper roster of crew, and to increase the value of individual experienced crew.",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "BetterCrewAssignment"
+        },
+        {
+            "name": "CrewQueue"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1324/Crew%20R%26R/download/1.1.10.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "01A07F03452E292747529D6A68AED3FB2FCE6FB5",
+        "sha256": "228CBBB775647C8D8ED5E9BC8F9B95495D967EAAACF506F2EA26E3A40BC9BF45"
+    },
+    "download_size": 70447,
+    "identifier": "CrewQueueTwo",
+    "install": [
+        {
+            "find": "CrewRandR",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Crew R&R",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/159299-12-crewqueue-crew-rotation-and-vacations/",
+        "repository": "https://github.com/linuxgurugamer/CrewRandR",
+        "spacedock": "https://spacedock.info/mod/1324/Crew%20R&R"
+    },
+    "spec_version": "v1.4",
+    "version": "1.1.10.3",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

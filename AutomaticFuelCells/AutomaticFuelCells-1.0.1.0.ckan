@@ -1,0 +1,40 @@
+{
+    "abstract": "This plugin will attempt to conserve fuel consumption by automatically toggling Fuel Cells on or off in accordance with a minimum and maximum threshold setting on the Fuel Cell's context menu.",
+    "author": "Xyphos",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2248/Automatic%20Fuel%20Cells/download/1.0.1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C708E7D16FCC447DD3FB6846E4D136FCD27DB169",
+        "sha256": "F7882162945E88C4239AD1A28156D2D97744B9E7A0478A29BFAB43D7BF9109C5"
+    },
+    "download_size": 6414,
+    "identifier": "AutomaticFuelCells",
+    "install": [
+        {
+            "find": "XyphosAerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.10.1",
+    "license": "MIT",
+    "name": "Automatic Fuel Cells",
+    "release_date": "2019-10-25T05:07:22.325609+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Xyphos/KSP_AutomaticFuelCells/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188891-17x-release-automatic-fuel-cells/",
+        "repository": "https://github.com/Xyphos/KSP_AutomaticFuelCells",
+        "spacedock": "https://spacedock.info/mod/2248/Automatic%20Fuel%20Cells"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1.0.1.0",
+    "x_generated_by": "netkan"
+}

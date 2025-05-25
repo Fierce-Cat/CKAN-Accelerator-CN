@@ -1,0 +1,40 @@
+{
+    "abstract": "Allows unmanned vessels which are dead due to switched-off batteries to be re-activated",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/2553/BatteryActivatorReactivated/download/1.2.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "710D72F5A1C4123AB56AAC6B183E56B83AC0B114",
+        "sha256": "AC7EA71E34E62AD772F9D019272ABA40B65503340FE5743DC6DBACE212FD441F"
+    },
+    "download_size": 20273,
+    "identifier": "BatteryActivatorReactivated",
+    "install": [
+        {
+            "find": "BatteryActivator",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 49345,
+    "ksp_version_max": "1.12.2",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "BatteryActivatorReactivated",
+    "release_date": "2021-09-03T15:00:31.53591+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/BatteryActivator/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/197788-18x-19x-110x-battery-activator-reactivated/",
+        "remote-avc": "https://github.com/linuxgurugamer/BatteryActivator/raw/main/BatteryActivator.version",
+        "repository": "https://github.com/linuxgurugamer/BatteryActivator",
+        "spacedock": "https://spacedock.info/mod/2553/BatteryActivatorReactivated",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/BatteryActivatorReactivated/BatteryActivatorReactivated-1603981465.7235832.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "1.2.0.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

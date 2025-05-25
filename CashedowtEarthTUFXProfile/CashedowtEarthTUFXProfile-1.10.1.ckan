@@ -1,0 +1,43 @@
+{
+    "abstract": "DO NOT use the Profile if you don't play RSSVE",
+    "author": "Cashedowt",
+    "depends": [
+        {
+            "name": "TUFX"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2897/Cashedowt%20RSSVE%20TUFX%20Profile/download/1.10.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B2A3A46EF7CD557CCEE0F6077397E084C2BD9170",
+        "sha256": "75A2B1953AE25E658BF0DA21EF9AEB712DDB5D1BF82ABA77FFE359138800E340"
+    },
+    "download_size": 761,
+    "identifier": "CashedowtEarthTUFXProfile",
+    "install": [
+        {
+            "file": "Cashedowt.cfg",
+            "install_to": "GameData/CashedowtEarth"
+        }
+    ],
+    "ksp_version": "1.12.2",
+    "license": "MIT",
+    "name": "Cashedowt RSSVE TUFX Profile",
+    "release_date": "2021-11-23T02:44:11.142424+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/2897/Cashedowt%20RSSVE%20TUFX%20Profile",
+        "x_screenshot": "https://spacedock.info/content/Cashedowt_71741/Cashedowt_Earth_TUFX_Profile/Cashedowt_Earth_TUFX_Profile-1637635576.png"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "RealSolarSystem"
+        }
+    ],
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1.10.1",
+    "x_generated_by": "netkan"
+}

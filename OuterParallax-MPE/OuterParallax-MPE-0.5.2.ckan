@@ -1,0 +1,63 @@
+{
+    "abstract": "Adds Parallax Continued configs for MPE with custom assets.",
+    "author": "jthero3",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "OuterParallax"
+        },
+        {
+            "name": "MinorPlanetsExpansion"
+        }
+    ],
+    "download": [
+        "https://github.com/jthero3/OuterParallax-Continued/releases/download/0.5.2/OuterParallax-MPE_0.5.2.zip",
+        "https://spacedock.info/mod/3834/OuterParallax-MPE/download/0.5.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "13C3722DF7A7FF4B3E3F1B1F58CB3748A19D7B24",
+        "sha256": "3B2FCBBB4EC26D5DE275EE123A0B4240CAD7BA80C105D7643E2350DFD294B906"
+    },
+    "download_size": 501786080,
+    "identifier": "OuterParallax-MPE",
+    "install": [
+        {
+            "find": "MPE",
+            "install_to": "GameData/OuterParallax"
+        }
+    ],
+    "install_size": 621116840,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "OuterParallax-MPE",
+    "release_date": "2025-04-06T03:13:31.504983+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/226905-1125-aetherium-021-16-feb-2025-random-assortment-of-parallax-continued-configs/",
+        "repository": "https://github.com/jthero3/OuterParallax-Continued",
+        "spacedock": "https://spacedock.info/mod/3834/OuterParallax-MPE",
+        "x_screenshot": "https://spacedock.info/content/jthero3_151376/OuterParallax-MPE/OuterParallax-MPE-1740978724.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "Deferred"
+        }
+    ],
+    "supports": [
+        {
+            "name": "MinorPlanetsExpansion"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "0.5.2",
+    "x_generated_by": "netkan"
+}

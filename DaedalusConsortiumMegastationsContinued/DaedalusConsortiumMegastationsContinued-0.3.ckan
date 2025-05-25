@@ -1,0 +1,51 @@
+{
+    "abstract": "A group of 50-100m components designed for building truly massive space stations, now in more compact package",
+    "author": [
+        "Monniasza",
+        "Nyxton"
+    ],
+    "download": "https://spacedock.info/mod/2493/Daedalus%20Consortium%20Megastations%20Continued/download/0.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F035C812489CB2B698D26692BF0AA2E2B9DE9729",
+        "sha256": "AD9459E51CAA9E3DBAECF815104EFFF32141643AD3BFF57A949560919901B590"
+    },
+    "download_size": 133000,
+    "identifier": "DaedalusConsortiumMegastationsContinued",
+    "install": [
+        {
+            "find": "DaedalusConsortium",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 9210829,
+    "ksp_version": "1.8.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Daedalus Consortium Megastations Continued",
+    "recommends": [
+        {
+            "name": "HangarExtender"
+        },
+        {
+            "name": "PhysicsRangeExtender"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        },
+        {
+            "name": "HyperEdit"
+        }
+    ],
+    "release_date": "2020-08-04T08:25:02.614475+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Monniasza/DaedalusConsortiumMegastations/issues",
+        "repository": "https://github.com/Monniasza/DaedalusConsortiumMegastations",
+        "spacedock": "https://spacedock.info/mod/2493/Daedalus%20Consortium%20Megastations%20Continued"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.3",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,70 @@
+{
+    "abstract": "Core plugin for Interstellar Fuel Switch",
+    "author": "FreeThinker",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "download": "https://spacedock.info/mod/175/Interstellar%20Fuel%20Switch/download/3.16.0.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FE2AD83FDC1C5F7B399F1458D8E0F6633AED9F7E",
+        "sha256": "E87BA0BF027064EBD4BFFE89F2C007EE2AE0CD5DFB015C139CE208E431FB475B"
+    },
+    "download_size": 14713206,
+    "identifier": "InterstellarFuelSwitch-Core",
+    "install": [
+        {
+            "find": "InterstellarFuelSwitch/Plugins",
+            "install_to": "GameData/InterstellarFuelSwitch"
+        },
+        {
+            "find": "InterstellarFuelSwitch/Resources",
+            "install_to": "GameData/InterstellarFuelSwitch"
+        },
+        {
+            "find": "InterstellarFuelSwitch/Localization",
+            "install_to": "GameData/InterstellarFuelSwitch"
+        }
+    ],
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.8.1",
+    "license": "GPL-2.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Interstellar Fuel Switch Core",
+    "provides": [
+        "DeadskinsTextureSwitch",
+        "DeadskinsMeshSwitch"
+    ],
+    "recommends": [
+        {
+            "min_version": "0.7.1",
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "release_date": "2020-05-22T12:59:32.47702+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/106243-105interstellar-fuel-switch-118-updated-10-11-2015/",
+        "repository": "https://github.com/sswelm/KSP-Interstellar-Extended/tree/master/FuelSwitch",
+        "spacedock": "https://spacedock.info/mod/175/Interstellar%20Fuel%20Switch",
+        "x_screenshot": "https://spacedock.info/content/FreeThinker_517/Interstellar_Fuel_Switch/Interstellar_Fuel_Switch-1481278354.0821617.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "resources",
+        "library"
+    ],
+    "version": "3.16.0.5",
+    "x_generated_by": "netkan"
+}

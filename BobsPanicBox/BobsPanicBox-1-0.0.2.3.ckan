@@ -1,0 +1,59 @@
+{
+    "abstract": "Automatic control of the abort systems [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/BobsPanicBox/releases/download/0.0.2.3/BobsPanicBox-1.8.0-0.0.2.3.zip?auth_key=1748275914-935d1e1f94294a44b10c76a4609fe38f-0-bc4ca9e2c0784a1dbc26f88ba1ae4b64&size=61421&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CC1A1A1B3A4BEE28BC3B85877223C08BC94740C3",
+        "sha256": "DAA49F97D7E0C8E017373BB9FA1835BAB88C41E45C59ADB12BC5EB2E4C741825"
+    },
+    "download_size": 61421,
+    "identifier": "BobsPanicBox",
+    "install": [
+        {
+            "find": "BobsPanicBox",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Bob's Panic Box [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "release_date": "2019-10-27T02:55:08Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/BobsPanicBox/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/176073-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/BobsPanicBox",
+        "repository": "https://github.com/linuxgurugamer/BobsPanicBox",
+        "spacedock": "https://spacedock.info/mod/1894/Bob's%20Panic%20Box",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Bobs_Panic_Box/Bobs_Panic_Box-1529932018.4543815.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "1:0.0.2.3",
+    "x_generated_by": "netkan"
+}

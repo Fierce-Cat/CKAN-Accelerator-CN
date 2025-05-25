@@ -1,0 +1,42 @@
+{
+    "abstract": "Better multithreaded performance for mods that use it. Requires Mono on Linux and macOS (you have it if you're running CKAN). [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Unity",
+    "depends": [
+        {
+            "name": "KSPBurst-Lite"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSPModdingLibs/KSPBurst/releases/download/v1.5.5.2/KSPBurst_Compiler_1.5.5.2.zip?auth_key=1748275917-563d9d0298154a4baa49d1c9f1934664-0-6776249464c8141ecd4e6271b78109da&size=315574068&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "94EE549EDDB0F62F77D7EE2F3C8B52D6102F9356",
+        "sha256": "A98099C4661272945F46D8A8563E325FB6380DDDDD5BC20099BB4B1D5B7716AB"
+    },
+    "download_size": 315574068,
+    "identifier": "KSPBurst",
+    "install": [
+        {
+            "comment": "This package is the burst compiler, while KSPBurst-Lite is the plugins that mods interface with. the compiler is wrapped in a zip file that the plugins unpack at runtime. The compiler is rather large and doesn't change often, so it's split out. Further, an automated build system may choose to install just the plugins to save space (but Burst will not be functional).  A mod author may also choose to depend on KSPBurst-Lite to leave the choice up to the user.",
+            "find": "000_KSPBurst",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 316770190,
+    "license": "unknown",
+    "name": "KSPBurst Compiler [PRO-KCMIRROR]",
+    "provides": [
+        "KSPBurst-Full"
+    ],
+    "release_date": "2025-04-06T12:42:40Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSPModdingLibs/KSPBurst/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201112-*",
+        "repository": "https://github.com/KSPModdingLibs/KSPBurst"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "library"
+    ],
+    "version": "v1.5.5.2",
+    "x_generated_by": "netkan"
+}

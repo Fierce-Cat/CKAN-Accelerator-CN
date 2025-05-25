@@ -1,0 +1,47 @@
+{
+    "abstract": "QuarterRSS textures for QuarterRSS [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "pap1723",
+    "conflicts": [
+        {
+            "name": "QuarterRSS-Textures"
+        }
+    ],
+    "depends": [
+        {
+            "name": "QuarterRSS"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/ScaledRSS-Textures/releases/download/1.4/ScaledRSS-8192.zip?auth_key=1748275916-b2817eab71ba42cb951ecaa354f99a69-0-feda4833da4dead6d389f787cc63001c&size=548466730&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "94E097CD68F434CDF095BC4693748389316DE788",
+        "sha256": "51DE1349FEFD3E4D86738C73EBA26258872D1A5569C9A67FFD27BF000FCF7BFA"
+    },
+    "download_size": 548466730,
+    "identifier": "QuarterRSS-Textures8192",
+    "install": [
+        {
+            "file": "GameData/RSS-Textures",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-SA",
+    "name": "Quarter Size Real Solar System Textures - 8192 x 4096 [PRO-KCMIRROR]",
+    "provides": [
+        "QuarterRSS-Textures"
+    ],
+    "release_date": "2017-08-22T21:01:17Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/ScaledRSS-Textures/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160191-*",
+        "repository": "https://github.com/KSP-RO/ScaledRSS-Textures"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1.4",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,42 @@
+{
+    "abstract": "Bind resource locking on a per tank basis to action groups.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/592/TankLock/download/0.2.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "46F016221068BCD1D9FD04938B6CBFDD78D57522",
+        "sha256": "A8B53DBBE43ACD66C62FF7343E762A940273428C21EB07A890022D1E1C3175E1"
+    },
+    "download_size": 26906,
+    "identifier": "TankLockRedux",
+    "install": [
+        {
+            "find": "TankLock",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.0",
+    "ksp_version_min": "1.8.0",
+    "license": "BSD-2-clause",
+    "name": "TankLock",
+    "release_date": "2019-11-11T18:03:55.046967+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/TankLock/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/138111-tanklockredux-released-for-11/#comment-2539479",
+        "remote-avc": "http://ksp.spacetux.net/avc/TankLock",
+        "repository": "https://github.com/linuxgurugamer/TankLock",
+        "spacedock": "https://spacedock.info/mod/592/TankLock"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "convenience"
+    ],
+    "version": "0.2.6",
+    "x_generated_by": "netkan"
+}

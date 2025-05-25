@@ -1,0 +1,62 @@
+{
+    "abstract": "Duplicates and tweaks existing ROEngines parts to create placeholders for more obscure engines [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Its-Just-Luci",
+        "Capkirk123"
+    ],
+    "conflicts": [
+        {
+            "name": "TweakableEverythingCont"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ROEngines"
+        },
+        {
+            "name": "Waterfall",
+            "suppress_recommendations": true
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Capkirk123/ROEngines-Extended/releases/download/2.2.0/ROEnginesExtended-v2.2.0.zip?auth_key=1748275914-b6abc95cb26042afa400e1a8a063bdd1-0-d5c43ad53f50bd2dc1611c776c5cda51&size=24332835&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6BEB8C6655C30E70B44D8F2437DC6A196436189F",
+        "sha256": "8F8057F8839C6612D2D50BE282DA85D1597F82D42CDDFA11AD2926AC0CCF648B"
+    },
+    "download_size": 24332835,
+    "identifier": "ROEnginesExtended",
+    "install_size": 47541290,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "ROEngines Extended [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "ROCapsules"
+        },
+        {
+            "name": "ROTanks"
+        },
+        {
+            "name": "RP-0"
+        }
+    ],
+    "release_date": "2023-09-24T19:00:03Z",
+    "resources": {
+        "remote-avc": "https://raw.githubusercontent.com/Capkirk123/ROEngines-Extended/master/Gamedata/ROEnginesExtended/ROEnginesExtended.version",
+        "repository": "https://github.com/Capkirk123/ROEngines-Extended"
+    },
+    "spec_version": "v1.26",
+    "tags": [
+        "parts"
+    ],
+    "version": "2.2.0",
+    "x_generated_by": "netkan"
+}

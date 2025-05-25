@@ -1,0 +1,104 @@
+{
+    "abstract": "AngleCan SIMPLEX TechTree is a rework of the Stock Tech Tree.",
+    "author": "theJesuit",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1848/SIMPLEX%20TechTree/download/1.9.20190531",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1C80FB122B2E1BAB43C9F2E73E58F0A385DFC603",
+        "sha256": "32B2D3B60060DFD728133054E100BA6DDD7FCF5CE3977C9D4C7FC72070947BAD"
+    },
+    "download_size": 25859,
+    "identifier": "SimplexTechTree",
+    "install": [
+        {
+            "find": "AngleCanMods",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.2",
+    "license": "CC-BY-NC-SA",
+    "name": "SIMPLEX TechTree",
+    "recommends": [
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "KEI"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174731-14x-simplex-techtree/",
+        "spacedock": "https://spacedock.info/mod/1848/SIMPLEX%20TechTree"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "DockRotate"
+        },
+        {
+            "name": "FASA-RCS"
+        },
+        {
+            "name": "HullCamVDSContinued"
+        },
+        {
+            "name": "IFILS"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "Konstruction"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "ResearchBodies"
+        },
+        {
+            "name": "SSPX"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "StockalikeMiningExtension"
+        },
+        {
+            "name": "TokamakRefurbishedParts"
+        },
+        {
+            "name": "UniversalStorage2"
+        }
+    ],
+    "tags": [
+        "config",
+        "tech-tree"
+    ],
+    "version": "1.9.20190531",
+    "x_generated_by": "netkan"
+}

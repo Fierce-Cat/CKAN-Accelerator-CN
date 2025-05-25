@@ -1,0 +1,63 @@
+{
+    "abstract": "A community-built replacement for KSP's part models and textures. No effects on gameplay [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "ReStock Team",
+    "conflicts": [
+        {
+            "name": "VenStockRevamp"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/PorktoberRevolution/ReStocked/releases/download/1.4.0/ReStock_1_4_0.zip?auth_key=1748275915-a10fd509ba88415d8055b69146cc8a5f-0-d1e0d94bebd86b7dee5fe08cf96e4276&size=235729032&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0E5D07B1FE9358150D701EE4012E3F82424FC421",
+        "sha256": "B6D3AEB62B3C761BCCE29AF0AE9216ECF7231C260B2DB308741E02D74B06730C"
+    },
+    "download_size": 235729032,
+    "identifier": "ReStock",
+    "install": [
+        {
+            "comment": "Restock installation",
+            "find": "ReStock",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.1",
+    "license": "restricted",
+    "localizations": [
+        "ja",
+        "en-us",
+        "zh-cn",
+        "pt-br",
+        "es-es",
+        "ru",
+        "fr-fr",
+        "de-de"
+    ],
+    "name": "ReStock [PRO-KCMIRROR]",
+    "release_date": "2021-07-20T16:08:58Z",
+    "resources": {
+        "bugtracker": "https://github.com/PorktoberRevolution/ReStocked/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182679-161-restock-revamping-ksps-art/",
+        "metanetkan": "https://github.com/PorktoberRevolution/ReStocked/raw/master/CKAN/ReStock.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/PorktoberRevolution/ReStocked/prod/Distribution/Restock/GameData/ReStock/Versioning/ReStock.version",
+        "repository": "https://github.com/PorktoberRevolution/ReStocked"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ReStockPlus"
+        }
+    ],
+    "tags": [
+        "parts",
+        "graphics"
+    ],
+    "version": "1.4.0",
+    "x_generated_by": "netkan"
+}

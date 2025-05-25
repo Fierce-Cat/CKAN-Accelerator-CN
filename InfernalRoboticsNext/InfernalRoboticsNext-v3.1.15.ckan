@@ -1,0 +1,65 @@
+{
+    "abstract": "Robotic parts for your constructions [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Rudolf Meier",
+        "ZodiusInfuser",
+        "Ziw",
+        "sirkut"
+    ],
+    "conflicts": [
+        {
+            "name": "InfernalRobotics"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "IR-ConnectionSystem"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/meirumeiru/InfernalRobotics/releases/download/v3.1.15/InfernalRobotics_v3.1.15.zip?auth_key=1748275917-384136c834b945cfbb64211d070315a2-0-396e69395bc3984d11401476f8ef4f53&size=3088400&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BAFE3B2B16CCA7AD6BF74A3AAF2130815DF4C894",
+        "sha256": "913EFAE1367DFA3E25D78B9255197562E20A7D073F9E1834043209928F9A08E0"
+    },
+    "download_size": 3088400,
+    "identifier": "InfernalRoboticsNext",
+    "install": [
+        {
+            "file": "GameData/MagicSmokeIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 10867590,
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Infernal Robotics - Next [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KerbalJointReinforcementNext"
+        },
+        {
+            "name": "CameraControllerNext"
+        }
+    ],
+    "release_date": "2023-12-26T16:00:22Z",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184787-*",
+        "remote-avc": "https://github.com/meirumeiru/InfernalRobotics/raw/develop/Resources/GameData/MagicSmokeIndustries/InfernalRobotics.version",
+        "repository": "https://github.com/meirumeiru/InfernalRobotics"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "v3.1.15",
+    "x_generated_by": "netkan"
+}

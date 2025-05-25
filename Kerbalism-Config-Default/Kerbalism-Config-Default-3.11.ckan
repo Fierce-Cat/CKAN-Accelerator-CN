@@ -1,0 +1,76 @@
+{
+    "abstract": "Default configuration for Kerbalism [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Kerbalism Contributors",
+    "conflicts": [
+        {
+            "name": "Kerbalism-Config"
+        },
+        {
+            "name": "UKS"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "BackgroundProcessing"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kerbalism/Kerbalism/releases/download/3.11/Kerbalism-Config_v3.11_for_KSP1.5.0-1.10.9.zip?auth_key=1748275916-fb3f685b20dc4acc83ece22c6421b613-0-10d3b62205f6228f8328e6040a7c89f8&size=14944988&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BBFEBC90B78C6FA39D4388A4AE01DA7B6228CF78",
+        "sha256": "13C3E33CC614F4E1BC0ADFD4958600158AC35D0AA5277D8467ED7ED675388DFA"
+    },
+    "download_size": 14944988,
+    "identifier": "Kerbalism-Config-Default",
+    "install": [
+        {
+            "find": "KerbalismConfig",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.9",
+    "ksp_version_min": "1.5.0",
+    "license": "Unlicense",
+    "localizations": [
+        "en-us",
+        "zh-cn",
+        "es-es",
+        "ru",
+        "ko-kr",
+        "de-de",
+        "pt-br"
+    ],
+    "name": "Kerbalism - Default Config [PRO-KCMIRROR]",
+    "provides": [
+        "Kerbalism-Config"
+    ],
+    "release_date": "2020-08-19T09:08:01Z",
+    "resources": {
+        "bugtracker": "https://github.com/Kerbalism/Kerbalism/issues",
+        "repository": "https://github.com/Kerbalism/Kerbalism"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config",
+        "physics",
+        "crewed",
+        "science"
+    ],
+    "version": "3.11",
+    "x_generated_by": "netkan"
+}

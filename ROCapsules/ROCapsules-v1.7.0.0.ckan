@@ -1,0 +1,83 @@
+{
+    "abstract": "ROCapsules is a mod that takes the best versions of capsules available and uses them as the in-game models for Realism Overhaul parts. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "pap1723",
+    "conflicts": [
+        {
+            "name": "TweakableEverythingCont"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ROLib"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "BDAnimationModules"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/ROCapsules/releases/download/v1.7.0.0/ROCapsules-v1.7.0.0.zip?auth_key=1748275916-c9f9b5e547a847009b5dcdba21ce2291-0-89dff3ffe0b41c067a33d1ec5fec8c88&size=199750759&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "61351B1F39D8606542226A731F41B967A26DFC2D",
+        "sha256": "B11C32B43689E815FD41FF23EB69F9384F8BF5E8938E2AF1C7E29A457D8B0616"
+    },
+    "download_size": 199750759,
+    "identifier": "ROCapsules",
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.10.1",
+    "license": "CC-BY-SA",
+    "name": "RO Capsules [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "ROSolar"
+        },
+        {
+            "name": "ROEngines"
+        },
+        {
+            "name": "ROTanks"
+        }
+    ],
+    "release_date": "2022-02-09T14:56:49Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/ROCapsules/issues",
+        "homepage": "https://discordapp.com/invite/ZGbR6nv",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/ROCapsules/master/GameData/ROCapsules/ROCapsules.version",
+        "repository": "https://github.com/KSP-RO/ROCapsules"
+    },
+    "spec_version": "v1.10",
+    "suggests": [
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "RP-0"
+        }
+    ],
+    "tags": [
+        "parts",
+        "config",
+        "graphics",
+        "crewed"
+    ],
+    "version": "v1.7.0.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,44 @@
+{
+    "abstract": "Provides a more precise widget for maneuver node editing",
+    "author": [
+        "blizzy78",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1691/Precise%20Node%20Continued/download/1.2.10.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4617A9F3CE880728907C3A90062BC6B5AAC93A42",
+        "sha256": "15FD0F6E5FD478881ABDBEA849BD3578DA5692A0B982F604F5D84F44997B58E5"
+    },
+    "download_size": 53815,
+    "identifier": "PreciseNode",
+    "install": [
+        {
+            "find": "GameData/PreciseNode",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.1",
+    "ksp_version_min": "1.5.1",
+    "license": "BSD-2-clause",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "ru"
+    ],
+    "name": "Precise Node",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/161855-13-precise-node-continued-precisely-edit-your-maneuver-nodes/",
+        "repository": "https://github.com/linuxgurugamer/ksp-precisenode",
+        "spacedock": "https://spacedock.info/mod/1691/Precise%20Node%20Continued"
+    },
+    "spec_version": "v1.4",
+    "version": "1.2.10.3",
+    "x_generated_by": "netkan"
+}

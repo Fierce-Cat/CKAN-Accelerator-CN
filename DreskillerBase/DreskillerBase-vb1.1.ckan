@@ -1,0 +1,75 @@
+{
+    "abstract": "A KSP planet pack [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RJVB09",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/RJVB09/Dreskiller-Base/releases/download/vb1.1/Dreskiller.Base.vb1.1.zip?auth_key=1748275916-d7fb0778dd044f6aa15290496aad547e-0-23046e50d9d5f002c4c7129f1598ae71&size=330702311&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2A0448E71098646B0556CB8EF2D1D86BF5D87BE4",
+        "sha256": "9ED01480491A3D5E1922A9730BC1C1E69E5AB5C9D5678C341C1F17234A166391"
+    },
+    "download_size": 330702311,
+    "identifier": "DreskillerBase",
+    "install": [
+        {
+            "filter": [
+                "MiniAVC.dll",
+                "MiniAVC.xml"
+            ],
+            "find": "DKB",
+            "install_to": "GameData"
+        }
+    ],
+    "license": "CC-BY-NC-ND-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Dreskiller Base [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "RationalResources"
+        },
+        {
+            "name": "ResearchBodies"
+        }
+    ],
+    "release_date": "2021-01-09T20:00:43Z",
+    "resources": {
+        "bugtracker": "https://github.com/RJVB09/Dreskiller-Base/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199396-*",
+        "repository": "https://github.com/RJVB09/Dreskiller-Base"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "Corelian"
+        }
+    ],
+    "tags": [
+        "planet-pack"
+    ],
+    "version": "vb1.1",
+    "x_generated_by": "netkan"
+}

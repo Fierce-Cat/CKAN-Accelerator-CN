@@ -1,0 +1,54 @@
+{
+    "abstract": "KSP workers suggested names for ships",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/613/Champagne%20Bottle%20Redux/download/0.3.11.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C0FB011A6682A6BBD3A383B3BCB28C690A568EF4",
+        "sha256": "AB3235DFB3E5072DAA920D531E273729FC03EC797A037ECE5F13D19AF6DB128B"
+    },
+    "download_size": 39386,
+    "identifier": "ChampagneBottleRedux",
+    "install": [
+        {
+            "find": "Champagne",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.2",
+    "ksp_version_min": "1.10.0",
+    "license": "CC-BY-NC-SA",
+    "name": "Champagne Bottle Redux",
+    "recommends": [
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "release_date": "2021-06-16T03:04:57.052254+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/ChampagneBottleRedux/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/138349-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/ChampagneBottle",
+        "repository": "https://github.com/linuxgurugamer/ChampagneBottleRedux",
+        "spacedock": "https://spacedock.info/mod/613/Champagne%20Bottle%20Redux",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Champagne_Bottle_Redux/Champagne_Bottle_Redux-1507555067.0730748.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "editor"
+    ],
+    "version": "0.3.11.3",
+    "x_generated_by": "netkan"
+}

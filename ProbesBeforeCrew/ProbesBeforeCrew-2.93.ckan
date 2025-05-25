@@ -1,0 +1,130 @@
+{
+    "abstract": "Tech tree overhaul that places probes before crew.",
+    "author": "_Zee",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "CelestialBodyScienceEditor"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2043/Probes%20Before%20Crew/download/2.93",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CF987A6452E7AAF4FD1CB2352EC02F5FA939C80A",
+        "sha256": "CE4ABA10EFFADCE5D0C0407382C410C1E53E854AE8CA90C6377C4C57350095A1"
+    },
+    "download_size": 91911,
+    "identifier": "ProbesBeforeCrew",
+    "install": [
+        {
+            "find": "ProbesBeforeCrew",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 313503,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Probes Before Crew [PBC]",
+    "release_date": "2021-09-10T16:09:06.433641+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181013-16-probes-before-crew-pbc/",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=605",
+        "spacedock": "https://spacedock.info/mod/2043/Probes%20Before%20Crew",
+        "x_screenshot": "https://spacedock.info/content/Zee_24726/Probes_Before_Crew/Probes_Before_Crew-1546487653.787477.jpg"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "Strategia"
+        }
+    ],
+    "supports": [
+        {
+            "name": "B9"
+        },
+        {
+            "name": "DMagicOrbitalScience"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "MarkIVSpaceplaneSystem"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "MissingHistory"
+        },
+        {
+            "name": "ProbeControlRoom"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "RLAReborn"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "UniversalStorage2"
+        },
+        {
+            "name": "USI-LS"
+        }
+    ],
+    "tags": [
+        "config",
+        "tech-tree"
+    ],
+    "version": "2.93",
+    "x_generated_by": "netkan"
+}

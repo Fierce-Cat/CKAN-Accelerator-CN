@@ -1,0 +1,43 @@
+{
+    "abstract": "If you built rocket from vintage Sci-Fi comics or just a biplane, this things make it better",
+    "author": "nesd",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1126/MK-1%20Stockalike%20open%20cockpit%20(%20inline%20external%20seat%20)/download/1.3.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3448034C527346A0CBC38B000FD0E2231D79F923",
+        "sha256": "A5BBE379FB52087FC6E2CE6D45BB406ECFBFB1399587CD41DC6A8E1158EAA93D"
+    },
+    "download_size": 4626696,
+    "identifier": "MK1StkOpenCockpit",
+    "install": [
+        {
+            "find": "OpenCockpit",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 7623233,
+    "ksp_version": "1.10.1",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "MK-1 Stockalike open cockpit ( inline external seat )",
+    "release_date": "2020-11-07T09:55:50.201543+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154013-12x-stockalike-mk1-open-cockpit/",
+        "spacedock": "https://spacedock.info/mod/1126/MK-1%20Stockalike%20open%20cockpit%20(%20inline%20external%20seat%20)",
+        "x_screenshot": "https://spacedock.info/content/nesd_9608/MK-1_Stockalike_open_cockpit__inline_external_seat/MK-1_Stockalike_open_cockpit__inline_external_seat-1640451165.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1:1.3.0",
+    "x_generated_by": "netkan"
+}

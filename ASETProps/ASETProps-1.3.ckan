@@ -1,0 +1,34 @@
+{
+    "abstract": "This pack is for the modders who create IVA’s for the spacecraft",
+    "author": "alexustas",
+    "depends": [
+        {
+            "min_version": "0.21.2",
+            "name": "RasterPropMonitor-Core"
+        }
+    ],
+    "download": "https://archive.org/download/ASETProps-1.3/FCF9618A-ASETProps-1.3.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FCF9618A1DA9CA5F51AE5EAF1FE67D4C8A1985D4",
+        "sha256": "6211247945A7236B62DF14EF4B5AC8A3C650DD39C571A1CE089A5350D41B8968"
+    },
+    "download_size": 9871158,
+    "identifier": "ASETProps",
+    "install": [
+        {
+            "filter": "Source",
+            "find": "ASET",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "ASET Props",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/116430-*"
+    },
+    "spec_version": "v1.4",
+    "version": "1.3",
+    "x_generated_by": "netkan"
+}

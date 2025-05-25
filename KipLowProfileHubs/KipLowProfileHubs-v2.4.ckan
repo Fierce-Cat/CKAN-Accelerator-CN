@@ -1,0 +1,66 @@
+{
+    "abstract": "A set of hubs for station construction.",
+    "author": [
+        "CaptainKipard",
+        "micha"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KipEng-Agency"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2457/KipLowProfileHubs/download/v2.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E2BC5D98FF1AFB32CE76D121A7F3B623FBBDC53E",
+        "sha256": "7864842562697F08422792389E213A6501D727060A3CB4BC42D773915725A202"
+    },
+    "download_size": 4363803,
+    "identifier": "KipLowProfileHubs",
+    "install": [
+        {
+            "filter": [
+                "Agencies"
+            ],
+            "find": "KipEng",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 23361563,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.0.5",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "KipLowProfileHubs",
+    "release_date": "2020-06-25T15:47:50.042105+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/mwerle/KipLowProfileHubs/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?showtopic=194984",
+        "remote-avc": "https://github.com/mwerle/KipLowProfileHubs/raw/primary/GameData/KipEng/KipLowProfileHubs/KipLowProfileHubs.version",
+        "repository": "https://github.com/mwerle/KipLowProfileHubs",
+        "spacedock": "https://spacedock.info/mod/2457/KipLowProfileHubs"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "IFILS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "TACLS"
+        }
+    ],
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "v2.4",
+    "x_generated_by": "netkan"
+}

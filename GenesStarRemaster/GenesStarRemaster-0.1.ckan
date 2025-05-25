@@ -1,0 +1,71 @@
+{
+    "abstract": "A Kopernicus Planet Pack that adds a Barnard's Star analog",
+    "author": "AR3S",
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "Scatterer-config"
+        }
+    ],
+    "download": [
+        "https://github.com/AR3S-Vega/GenesStar/releases/download/0.1/GenesStar0.1.zip",
+        "https://spacedock.info/mod/2411/Gene's%20Star%20Remaster/download/0.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EE8E3E2F7405B51B49DCB2D5B4AF096C9A4C606E",
+        "sha256": "9CEEC87469BF3D690924E3C738D2D71C151AE3C53DAAC9629D913EEA3E33D97A"
+    },
+    "download_size": 215563748,
+    "identifier": "GenesStarRemaster",
+    "install": [
+        {
+            "find": "GenesStar",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 245297400,
+    "ksp_version": "1.8.1",
+    "license": "CC-BY-NC-3.0",
+    "name": "Gene's Star Remaster",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config",
+        "Scatterer-sunflare"
+    ],
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        }
+    ],
+    "release_date": "2020-04-25T12:03:54.439131+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/AR3S-Vega/GenesStar/issues",
+        "homepage": "https://discord.gg/pWfYbfm",
+        "repository": "https://github.com/AR3S-Vega/GenesStar",
+        "spacedock": "https://spacedock.info/mod/2411/Gene's%20Star%20Remaster",
+        "x_screenshot": "https://spacedock.info/content/AR3S_40365/Genes_Star_Remaster/Genes_Star_Remaster-1587814724.782395.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "0.1",
+    "x_generated_by": "netkan"
+}

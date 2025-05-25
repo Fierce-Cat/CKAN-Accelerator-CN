@@ -1,0 +1,63 @@
+{
+    "abstract": "Additional files for Lazarus beyond GitHub's 2 GiB release asset limit",
+    "author": "hmelioo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "INSTANTIATOR"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "VertexColorMapEmissive"
+        },
+        {
+            "name": "Lazarus"
+        }
+    ],
+    "download": "https://github.com/hmelioo/Lazarus/releases/download/1.2.1/Lazarus-v1.2.1-Content.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9E68308B3D5B113B8AD8ABBD58FE50B847CF8349",
+        "sha256": "22A6C844B8ADBEBB255A2FF2321D54F4D3E93DBE9B79B04BC7B85E0BB8275891"
+    },
+    "download_size": 931253945,
+    "identifier": "Lazarus-Content",
+    "install": [
+        {
+            "find": "KIPcore",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2147509284,
+    "ksp_version": "1.12",
+    "license": "CC-BY-NC-ND",
+    "name": "Lazarus Content",
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        }
+    ],
+    "release_date": "2024-06-22T00:02:11Z",
+    "resources": {
+        "bugtracker": "https://github.com/hmelioo/Lazarus/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/210839-*",
+        "repository": "https://github.com/hmelioo/Lazarus"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.2.1",
+    "x_generated_by": "netkan"
+}

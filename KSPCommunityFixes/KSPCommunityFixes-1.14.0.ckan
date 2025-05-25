@@ -1,0 +1,42 @@
+{
+    "abstract": "Fixes for stock bugs, also provides various QoL/UI improvements [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Gotmachine",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Harmony2"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSPModdingLibs/KSPCommunityFixes/releases/download/1.14.0/KSPCommunityFixes_1.14.0.zip?auth_key=1748275914-0e0ed40cba4a4e749d445c64ce8c2750-0-e6fe7e344a5a616dd9c4545ee1ca3a1b&size=100279&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "26B54BFE4087423DF21B1053DAF73EDF9A83284A",
+        "sha256": "AB61E554DF1844019CD811BAB025340048B46808E5D282AB83D07AD1ADC757D8"
+    },
+    "download_size": 100279,
+    "identifier": "KSPCommunityFixes",
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "fr-fr"
+    ],
+    "name": "KSP Community Fixes [PRO-KCMIRROR]",
+    "release_date": "2022-05-25T08:43:00Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSPModdingLibs/KSPCommunityFixes/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204002-*",
+        "remote-avc": "https://raw.githubusercontent.com/KSPModdingLibs/KSPCommunityFixes/master/GameData/KSPCommunityFixes/KSPCommunityFixes.version",
+        "repository": "https://github.com/KSPModdingLibs/KSPCommunityFixes"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1.14.0",
+    "x_generated_by": "netkan"
+}

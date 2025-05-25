@@ -1,0 +1,94 @@
+{
+    "abstract": "A well optimized and yet breathtakingly beautiful revamp of all celestial bodies in KSP",
+    "author": "Avera9eJoe",
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        },
+        {
+            "name": "GreenSkullRevived"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1505/Spectra/download/1.2.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "272DE5D1CD9C51B46B0B5762A312CEA7E968B57D",
+        "sha256": "5FBB320241457B25FA74CFC3A935528A63A3EBC783E05EABD722EEAFB8F59209"
+    },
+    "download_size": 418539190,
+    "identifier": "Spectra",
+    "install": [
+        {
+            "file": "Step 2 - Spectra/GameData/TextureReplacer",
+            "filter": "logoFullRed_alt.dds",
+            "install_to": "GameData"
+        },
+        {
+            "file": "Step 2 - Spectra/GameData/Spectra",
+            "install_to": "GameData"
+        },
+        {
+            "file": "Step 2 - Spectra/GameData/KSPRC",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.1",
+    "license": "MIT",
+    "name": "Spectra",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config",
+        "Scatterer-sunflare"
+    ],
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "RealPlume-StockConfigs"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "SpaceplaneCorrections"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/159443-*",
+        "repository": "http://N/A",
+        "spacedock": "https://spacedock.info/mod/1505/Spectra",
+        "x_screenshot": "https://spacedock.info/content/Avera9eJoe_1835/Spectra/Spectra-1503830916.373167.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack",
+        "graphics"
+    ],
+    "version": "v1.2.3",
+    "x_generated_by": "netkan"
+}

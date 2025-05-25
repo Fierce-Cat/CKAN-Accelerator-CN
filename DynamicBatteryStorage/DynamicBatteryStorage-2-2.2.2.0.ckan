@@ -1,0 +1,45 @@
+{
+    "abstract": "A mod for Kerbal Space Program, intended to ease vessel construction and solve problems related to power flow. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "post-kerbin-automation",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/DynamicBatteryStorage/releases/download/2.2.2/DynamicBatteryStorage_2_2_2.zip?auth_key=1748275915-deea87026ea54b5eb1620afc5b55c940-0-53f8345db44e9ea8f87646e98ec50c33&size=68781&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B5772DF0C688EDAEE3F105A7F9D0C7FDE592E719",
+        "sha256": "CEC588842AF1F4891019918C721492DF7C1D35BB4BC788F473711AC696DEE45D"
+    },
+    "download_size": 68781,
+    "identifier": "DynamicBatteryStorage",
+    "install": [
+        {
+            "file": "GameData/DynamicBatteryStorage",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "fr-fr",
+        "zh-cn",
+        "ru",
+        "de-de",
+        "es-es"
+    ],
+    "name": "Dynamic Battery Storage [PRO-KCMIRROR]",
+    "release_date": "2021-02-22T05:48:01Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/DynamicBatteryStorage/issues",
+        "homepage": "https://github.com/post-kerbin-mining-corporation/DynamicBatteryStorage/wiki",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/DynamicBatteryStorage/raw/master/CKAN/DynamicBatteryStorage.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/DynamicBatteryStorage/master/GameData/DynamicBatteryStorage/Versioning/DynamicBatteryStorage.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/DynamicBatteryStorage"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "2:2.2.2.0",
+    "x_generated_by": "netkan"
+}

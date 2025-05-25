@@ -1,0 +1,59 @@
+{
+    "abstract": "This mod will allow you to set monitors on any resource in any/all vessels in the game. An alarm will sound if the level is passed, any time warping will be safely stopped and you will be transported to the vessel in question.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/ResourceMonitors/releases/download/0.0.2.2/Margos_Resource_Monitors-0.0.2.2.zip",
+        "https://spacedock.info/mod/2467/Margo's%20Resource%20Monitors/download/0.0.2.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DF153E11DF1DCCAF543F6966027C2D8C8C83E0E9",
+        "sha256": "37FC2A84ABDE15D5A9081B9E6DB49808EF39CD01E919AE7042240F1CCC7F6A6F"
+    },
+    "download_size": 2749546,
+    "identifier": "ResourceMonitors",
+    "install": [
+        {
+            "find": "ResourceMonitors",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 3863991,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "Margo's Resource Monitors",
+    "recommends": [
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "release_date": "2021-10-03T03:15:50.980722+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/ResourceMonitors/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194173-18x-19x-margos-resource-monitors/",
+        "remote-avc": "http://ksp.spacetux.net/avc/ResourceMonitors",
+        "repository": "https://github.com/linuxgurugamer/ResourceMonitors",
+        "spacedock": "https://spacedock.info/mod/2467/Margo's%20Resource%20Monitors"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "information",
+        "resources"
+    ],
+    "version": "0.0.2.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

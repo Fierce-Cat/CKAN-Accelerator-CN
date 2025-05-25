@@ -1,0 +1,51 @@
+{
+    "abstract": "A mod supplying a new experience for atmospheric and exospheric resource harvesting. Includes a new harvesting system, displays, resource distributions and parts. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/SpaceDust/releases/download/0.3.3/SpaceDust_0_3_3.zip?auth_key=1748275917-73ce7b5dc279483ea6a41a915fec6eba-0-60d172cfa2787bbd417c43f180193ee5&size=10651879&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A5ECFF6D3DF1B08A389DABFBB502944D16CAD15C",
+        "sha256": "06D72DF1BF110A001B39C85438DEBDE79EDBA5C42E5C3AD2CE8EAC9086396177"
+    },
+    "download_size": 10651879,
+    "identifier": "SpaceDust",
+    "install": [
+        {
+            "find": "SpaceDust",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "Space Dust [PRO-KCMIRROR]",
+    "release_date": "2021-01-07T09:08:15Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/SpaceDust/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/197723-1",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/SpaceDust/raw/master/CKAN/SpaceDust.netkan",
+        "remote-avc": "https://raw.githubusercontent.com:443/post-kerbin-mining-corporation/SpaceDust/master/GameData/SpaceDust/Versioning/SpaceDust.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/SpaceDust"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "plugin",
+        "resources",
+        "science"
+    ],
+    "version": "0.3.3",
+    "x_generated_by": "netkan"
+}

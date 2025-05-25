@@ -1,0 +1,50 @@
+{
+    "abstract": "Engines that chug on the heat from any nearby compatible reactor and offer amazing thrust [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "SterlingSystemsEngines"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.4.9/SterlingSystems_Engines_0.4.9.zip?auth_key=1748275915-da3fd2e0b2f04a35b23e85a6932458dc-0-d7ef81ce72558e69a74f73d183125a89&size=41981994&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A7CCE5F2C1A240D39094709535ABFC016A78B550",
+        "sha256": "0B06B93C04AE895794E621DFDBF243F595078725B4C39BC762A0361060616221"
+    },
+    "download_size": 41981994,
+    "identifier": "SterlingSystemsEnginesThermalNozzle",
+    "install": [
+        {
+            "find": "EnginesThermalNozzle",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 17787346,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Engines - Thermal Nozzles [PRO-KCMIRROR]",
+    "release_date": "2024-09-22T21:39:38Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.4.9",
+    "x_generated_by": "netkan"
+}

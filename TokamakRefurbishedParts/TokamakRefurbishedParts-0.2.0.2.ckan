@@ -1,0 +1,65 @@
+{
+    "abstract": "Used and Refurbished Parts;  it's not old, it's a classic",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "USITools"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1444/Tokamak%20Refurbished%20Parts/download/0.2.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1E3F3F6BC1A3883478A36F8E5C024688F781C24B",
+        "sha256": "B45B1501ADDB22D71508B06751BC8CAEC1F99243079692C9D4141CC17381C4B8"
+    },
+    "download_size": 46321378,
+    "identifier": "TokamakRefurbishedParts",
+    "install": [
+        {
+            "find": "TokamakIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es"
+    ],
+    "name": "Tokamak Refurbished Parts",
+    "release_date": "2020-03-06T13:47:56.716015+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/163166-13-tokamak-industries-refurbished-parts-featuring-porkjets-hab-pack/",
+        "remote-avc": "http://ksp.spacetux.net/avc/TokamakIndustries",
+        "repository": "https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts",
+        "spacedock": "https://spacedock.info/mod/1444/Tokamak%20Refurbished%20Parts",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Tokamak_Refurbished_Parts/Tokamak_Refurbished_Parts-1499823251.7804608.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "0.2.0.2",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,95 @@
+{
+    "abstract": "A series of interlocking modules for building long-term, self sustaining colonies in orbit and on other planets and moons. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "v7.6.0",
+            "name": "FirespitterCore"
+        },
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        },
+        {
+            "min_version": "0.7.0.0",
+            "name": "CommunityResourcePack"
+        },
+        {
+            "min_version": "2.0.0.0",
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "min_version": "0.4.0.0",
+            "name": "USI-Core"
+        },
+        {
+            "min_version": "0.2.0.0",
+            "name": "Konstruction"
+        }
+    ],
+    "description": "MKS introduces a series of parts specifically designed to provide self-sustaining life support for your Kerbals. While the parts will function without a life support mod, the design is centered around providing an appropriate challenge where players will weigh the costs, risks, and rewards of supplying missions exclusively with carried life support supplies, or in making the investment in a permanent colony. That being said, this is not just a single greenhouse part (although food production is part of the mod). Rather, it brings an entire colonization end-game to KSP in a fun and challenging way.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/UmbraSpaceIndustries/MKS/releases/download/v112.0.1/MKS_112.0.1.zip?auth_key=1748275917-5f1dc4be417c4825bfd4e92966187203-0-28d677f5518b58b412c3947859509b4a&size=98991935&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8EB6EA3901FE80D9A5E72558A3E318981F32B639",
+        "sha256": "AE27A4E88873CC9E8C3B31EB1BED9A4317B669841ACFDFD3F3DB214BACBD00DD"
+    },
+    "download_size": 98991935,
+    "identifier": "UKS",
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/MKS",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        },
+        {
+            "find": "UmbraSpaceIndustries/Karibou",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        },
+        {
+            "find": "UmbraSpaceIndustries/WOLF",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "install_size": 77272206,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "USI Kolonization Systems (MKS/OKS) [PRO-KCMIRROR]",
+    "provides": [
+        "MKS"
+    ],
+    "release_date": "2022-05-29T22:22:33Z",
+    "resources": {
+        "bugtracker": "https://github.com/UmbraSpaceIndustries/MKS/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/154587-*",
+        "manual": "https://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "remote-avc": "https://raw.githubusercontent.com/UmbraSpaceIndustries/MKS/main/FOR_RELEASE/GameData/UmbraSpaceIndustries/MKS/MKS.version",
+        "repository": "https://github.com/UmbraSpaceIndustries/MKS"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "min_version": "0.6.0.0",
+            "name": "USI-LS"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "version": "1:v112.0.1",
+    "x_generated_by": "netkan"
+}

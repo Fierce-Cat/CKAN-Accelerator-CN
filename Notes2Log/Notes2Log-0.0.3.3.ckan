@@ -1,0 +1,50 @@
+{
+    "abstract": "An easy way to add notes to your log file, useful for debugging",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2586/Notes2Log/download/0.0.3.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "71056D7E89CFD75F016496E784F6955402A3386B",
+        "sha256": "D3D286991C2CFE89AB05E369345B3FA62B9AB43CD3D898EAF86341B77857B5F0"
+    },
+    "download_size": 24629,
+    "identifier": "Notes2Log",
+    "install": [
+        {
+            "find": "Notes2Log",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 54699,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "Notes2Log",
+    "release_date": "2025-03-06T12:24:50.717942+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/Notes2Log/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/198742-18x-19x-110x-notes2log/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/Notes2Log/refs/heads/master/Notes2Log.version",
+        "repository": "https://github.com/linuxgurugamer/Notes2Log",
+        "spacedock": "https://spacedock.info/mod/2586/Notes2Log",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Notes2Log/Notes2Log-1608076541.778403.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "0.0.3.3",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

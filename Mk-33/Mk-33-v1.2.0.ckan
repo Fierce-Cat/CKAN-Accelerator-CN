@@ -1,0 +1,87 @@
+{
+    "abstract": "Specialized parts to build a VentureStar-inspired vehicle in KSP. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/Mk-33/releases/download/v1.2.0/Mk33.zip?auth_key=1748275915-fea15a2861c54107988514c2ac22d5c4-0-06eed395be7269aa7ea53d979dee9b30&size=100288275&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4EA1ACB53981CADFD78D8D5D823B727033AEC026",
+        "sha256": "2BA10A527E2ADE581A1E1E0F8A1854BD129EADD7AB464E9A2F788FD8B201FBF0"
+    },
+    "download_size": 100288275,
+    "identifier": "Mk-33",
+    "install": [
+        {
+            "filter_regexp": [
+                ".*\\.pdb$",
+                "SampleCraft"
+            ],
+            "find": "WildBlueIndustries/Mk-33",
+            "install_to": "GameData/WildBlueIndustries"
+        },
+        {
+            "find": "VAB",
+            "install_to": "Ships"
+        },
+        {
+            "find": "SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version_min": "1.11.2",
+    "license": "restricted",
+    "name": "Mk 33 [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "DockRotate"
+        }
+    ],
+    "release_date": "2022-06-20T19:50:15Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/Mk-33/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194713-*",
+        "remote-avc": "https://github.com/Angel-125/Mk-33/raw/master/ReleaseFolder/GameData/WildBlueIndustries/Mk-33/Mk33.version",
+        "repository": "https://github.com/Angel-125/Mk-33"
+    },
+    "spec_version": "v1.10",
+    "suggests": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "CactEyeCommunity"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "WildBlueTools"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin",
+        "crewed"
+    ],
+    "version": "v1.2.0",
+    "x_generated_by": "netkan"
+}

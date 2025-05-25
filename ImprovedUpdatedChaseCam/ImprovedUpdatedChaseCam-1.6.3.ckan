@@ -1,0 +1,35 @@
+{
+    "abstract": "Better chase camera behaviour",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "ImprovedChaseCamera"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2249/Improved%20and%20Updated%20Chase%20Camera/download/1.6.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F50156FFE26B736329D7666534246FA2C0203D31",
+        "sha256": "C6F9B72E6D554372FC2B8C03B68134620BC23F1203E4834240CF95398E3FEC1F"
+    },
+    "download_size": 29874,
+    "identifier": "ImprovedUpdatedChaseCam",
+    "install": [
+        {
+            "find": "ImprovedChaseCamera",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "GPL-3.0",
+    "name": "Improved and Updated Chase Camera",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188979-i173-improved-updated-chase-camera/",
+        "repository": "https://github.com/linuxgurugamer/ImprovedChaseCamera/",
+        "spacedock": "https://spacedock.info/mod/2249/Improved%20and%20Updated%20Chase%20Camera"
+    },
+    "spec_version": "v1.4",
+    "version": "1.6.3",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

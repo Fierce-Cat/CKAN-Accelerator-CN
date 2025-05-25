@@ -1,0 +1,65 @@
+{
+    "abstract": "UmbraSpaceIndustries take on life support [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        },
+        {
+            "name": "TACLS"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        },
+        {
+            "min_version": "0.7.0.0",
+            "name": "CommunityResourcePack"
+        },
+        {
+            "min_version": "2.0.0.0",
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/UmbraSpaceIndustries/USI-LS/releases/download/v112.0.1/USI-LS_112.0.1.zip?auth_key=1748275917-d123ef5c5c884caaaf28d81114222361-0-b0f5011a24f167b9c82cd03e124167b8&size=6807341&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "80E029CD41C9D431290BFAC177BDF007B1208D51",
+        "sha256": "2070BD2ECADE35F11E45104D16DA9AF18175D8C3BD2CD04C099A5D6DFF54DF2B"
+    },
+    "download_size": 6807341,
+    "identifier": "USI-LS",
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/LifeSupport",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "install_size": 9239465,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "USI Life Support [PRO-KCMIRROR]",
+    "release_date": "2022-05-29T22:07:06Z",
+    "resources": {
+        "bugtracker": "https://github.com/UmbraSpaceIndustries/USI-LS/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/105202-*",
+        "manual": "https://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "remote-avc": "https://raw.githubusercontent.com/UmbraSpaceIndustries/USI-LS/main/FOR_RELEASE/GameData/UmbraSpaceIndustries/LifeSupport/USI-LS.version",
+        "repository": "https://github.com/UmbraSpaceIndustries/USI-LS"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "version": "v112.0.1",
+    "x_generated_by": "netkan"
+}

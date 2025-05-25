@@ -1,0 +1,52 @@
+{
+    "abstract": "Asclepius a Kopernicus planet SSTO playground [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "MrChumley",
+    "depends": [
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "2:release-1.3.0-5",
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/MrChumley/Asclepius/releases/download/v5.0/AsclepiusV5-0.zip?auth_key=1748275916-ba4dbe25b5074ba593afe789d1b9018c-0-69b6a179bca314fb2ed14486db1ee413&size=6869755&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CB3CE9BEFB67B6FE6D1F2818C2A916AC31AACB3A",
+        "sha256": "3D4DC1EB5CA0FB46BA7AA55F855B56C7A6746EF7D9DDC60E04B28E0A27072149"
+    },
+    "download_size": 6869755,
+    "identifier": "Asclepius",
+    "install": [
+        {
+            "find": "Asclepius",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Asclepius [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ContractConfigurator-FarOutContracts"
+        }
+    ],
+    "release_date": "2018-11-06T19:25:06Z",
+    "resources": {
+        "bugtracker": "https://github.com/MrChumley/Asclepius/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/113949-*",
+        "repository": "https://github.com/MrChumley/Asclepius"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "2:v5.0",
+    "x_generated_by": "netkan"
+}

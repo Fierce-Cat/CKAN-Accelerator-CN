@@ -1,0 +1,55 @@
+{
+    "abstract": "A slimmer variation of the navball cursor. This is the dot only variant.",
+    "author": "UltraJohn",
+    "conflicts": [
+        {
+            "name": "SlimNavballCursor"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "HUDReplacer"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3381/UJ%20Modlets%20-%20Slim%20Navball%20Cursor%20(Dot%20only)/download/1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "45C72152BBE438E0FBE90D4F257596D50718CDA8",
+        "sha256": "7E4F43BF2B47929AB705DDFF097E8A436769FB890D26107185D490A44948A42C"
+    },
+    "download_size": 2400,
+    "identifier": "SlimNavballCursor-Dotonly",
+    "install": [
+        {
+            "find": "UJModlets",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 3395,
+    "ksp_version": "1.12",
+    "license": "MIT",
+    "name": "UJ Modlets - Slim Navball Cursor (Dot only)",
+    "provides": [
+        "SlimNavballCursor"
+    ],
+    "recommends": [
+        {
+            "name": "SlimNavballMarkers"
+        }
+    ],
+    "release_date": "2023-07-03T11:41:22.307687+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/217071-112x-ultrajohns-modlets-slim-navball-cursors-and-markers/",
+        "spacedock": "https://spacedock.info/mod/3381/UJ%20Modlets%20-%20Slim%20Navball%20Cursor%20(Dot%20only)",
+        "x_screenshot": "https://spacedock.info/content/UltraJohn_111880/UJ_Modlets_-_Slim_Navball_Cursor_Dot_only/UJ_Modlets_-_Slim_Navball_Cursor_Dot_only-1683412276.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "1.0.1",
+    "x_generated_by": "netkan"
+}

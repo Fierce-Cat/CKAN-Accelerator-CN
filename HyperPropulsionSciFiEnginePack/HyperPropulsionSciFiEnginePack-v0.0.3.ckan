@@ -1,0 +1,52 @@
+{
+    "abstract": "Say hello to the lineup of the \"CYREX\" thermonuclear engines! Utilizing super efficient Thermonuclear reactors, these engines are capable of many useful things! Why don't u give them a try yourself?",
+    "author": "KerboNerd",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SmartActuation"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2137/Hyper%20Propulsion%20Sci-Fi%20engine%20pack/download/v0.0.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "519DA1BF361EC2177350F2AB40A6FC4C69FBC46B",
+        "sha256": "5F499BEB688D42576806FB5314FDD2B7B2C2960E8B2E9757FAC173BB12C3ED4A"
+    },
+    "download_size": 89171293,
+    "identifier": "HyperPropulsionSciFiEnginePack",
+    "install": [
+        {
+            "find": "KerboNerdLaboratories",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "Hyper Propulsion Sci-Fi engine pack",
+    "recommends": [
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "release_date": "2019-04-29T20:38:07.483669+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184136-17x-hyper-propulsion-sci-fi-parts-pack/",
+        "spacedock": "https://spacedock.info/mod/2137/Hyper%20Propulsion%20Sci-Fi%20engine%20pack",
+        "x_screenshot": "https://spacedock.info/content/KerboNerd_27406/Hyper_Propulsion_Sci-Fi_engine_pack/Hyper_Propulsion_Sci-Fi_engine_pack-1555581851.7670133.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "v0.0.3",
+    "x_generated_by": "netkan"
+}

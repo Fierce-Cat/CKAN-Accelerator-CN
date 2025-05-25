@@ -1,0 +1,54 @@
+{
+    "abstract": "A standalone warp drive mod inspired by Star Trek and RoverDude's Standalone Alcubierre Warp Drive.  The drive requires at least two parts to operate.  The current WIP release contains two modified stock parts as test articles, and a test craft, the plugin itself, and the source code.",
+    "author": "TheShadow1138",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2626/TrekDrive%20by%20ShadowWorks%20%5BWIP%5D/download/0.9w",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A999321A105C0F55684A9A51532AB9B2B9A39812",
+        "sha256": "0EE9275E3847CD173CFBFB12D66D4128682A8953C1A0B9C57DD187C3912E76CC"
+    },
+    "download_size": 31401889,
+    "identifier": "TrekDrive",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "GameData/TrekDrive",
+            "install_to": "GameData"
+        },
+        {
+            "as": "VAB",
+            "find": "Craft",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version": "1.12.1",
+    "license": "GPL-3.0",
+    "name": "TrekDrive by ShadowWorks [WIP]",
+    "release_date": "2021-07-16T02:05:27.571954+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199749-wip-191-111-trekdrive-by-shadowworks/",
+        "spacedock": "https://spacedock.info/mod/2626/TrekDrive%20by%20ShadowWorks%20[WIP]",
+        "x_screenshot": "https://spacedock.info/content/TheShadow1138_1098/TrekDrive_by_ShadowWorks_WIP/TrekDrive_by_ShadowWorks_WIP-1613422609.6305315.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts",
+        "plugin",
+        "crewed"
+    ],
+    "version": "0.9w",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,46 @@
+{
+    "abstract": "Handy parts to complement Making History.",
+    "author": "Snark",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1743/MissingHistory/download/1.9",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "803B2D1401099A7D486B490348DF2C6B4E0A05D4",
+        "sha256": "EDCE8C2E70F234FC57733CA2EFF1789D5C17D6AC8F814A173C5F56010DDCABB6"
+    },
+    "download_size": 5364722,
+    "identifier": "MissingHistory",
+    "install": [
+        {
+            "filter": [
+                "Size4Cone.cfg",
+                "Size4Tank_04.cfg"
+            ],
+            "find": "MissingHistory",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.10",
+    "license": "CC-BY-NC-SA",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "MissingHistory",
+    "release_date": "2020-12-22T00:10:12.93826+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172232-141-missinghistory-v10-handy-parts-to-complement-making-history/",
+        "repository": "https://github.com/KSPSnark/MissingHistory",
+        "spacedock": "https://spacedock.info/mod/1743/MissingHistory",
+        "x_screenshot": "https://spacedock.info/content/Snark_166/MissingHistory/MissingHistory-1521005056.5945137.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.9",
+    "x_generated_by": "netkan"
+}

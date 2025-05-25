@@ -1,0 +1,64 @@
+{
+    "abstract": "This System Heat config package changes nuclear thermal engines to use the System Heat backend. WARNING: potentially vessel-breaking. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Nertea (Chris Adderley)",
+    "conflicts": [
+        {
+            "name": "KerbalAtomics-NFECompatibility"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SystemHeat"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/SystemHeat/releases/download/0.4.1/SystemHeat_0_4_1.zip?auth_key=1748275914-f3421e4f00ca46f3bc2670ba1f56fb88-0-784bb50a8f86637495eebb36563ca9ec&size=2192829&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "43144A856F0A13FDF327AC10D27579B27F7E0CE5",
+        "sha256": "6015B2DE10BE6DF8E7CB91DC39F9B8E84C9E3F7ED3B167306B443A15E78F95BB"
+    },
+    "download_size": 2192829,
+    "identifier": "SystemHeat-FissionEngines",
+    "install": [
+        {
+            "find": "SystemHeatFissionEngines",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.11.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "System Heat - Nuclear Engine Configuration [PRO-KCMIRROR]",
+    "release_date": "2021-04-14T22:49:55Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/SystemHeat/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193909-1",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/SystemHeat/raw/master/CKAN/SystemHeat-FissionEngines.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/SystemHeat/master/GameData/SystemHeat/Versioning/SystemHeat.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/SystemHeat"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SystemHeatConverters"
+        },
+        {
+            "name": "SystemHeatFissionReactors"
+        },
+        {
+            "name": "SystemHeatHarvesters"
+        },
+        {
+            "name": "KerbalAtomics"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "0.4.1",
+    "x_generated_by": "netkan"
+}

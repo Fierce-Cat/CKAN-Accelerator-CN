@@ -1,0 +1,55 @@
+{
+    "abstract": "A simple mod showing the Funds, Rep and Science available in the game",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/FRS/releases/download/0.0.1.1/FRS-1.12.0-0.0.1.1.zip",
+        "https://spacedock.info/mod/3293/FRS/download/0.0.1.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "33C70B841F63D9BFDC9DC75B66B3CBA83734CEFE",
+        "sha256": "E7330788947F8B7BE22A88EB663F46A7D238465D7A9F5B64837519F44D5A7D51"
+    },
+    "download_size": 38590,
+    "identifier": "FRS",
+    "install": [
+        {
+            "filter_regexp": "\\.mdb$",
+            "find": "FRS",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 58983,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.9.0",
+    "license": "CC-BY-SA",
+    "name": "FRS",
+    "release_date": "2023-03-02T14:12:03.899567+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/FRS/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/214198-112x-frs-funds-rep-science/",
+        "remote-avc": "http://ksp.spacetux.net/avc/FRS",
+        "repository": "https://github.com/linuxgurugamer/FRS",
+        "spacedock": "https://spacedock.info/mod/3293/FRS",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/FRS/FRS-1677766200.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "0.0.1.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

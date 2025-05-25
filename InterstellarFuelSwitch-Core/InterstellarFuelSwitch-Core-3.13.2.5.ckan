@@ -1,0 +1,64 @@
+{
+    "abstract": "Core plugin for Interstellar Fuel Switch",
+    "author": "FreeThinker",
+    "depends": [
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "download": "https://spacedock.info/mod/175/Interstellar%20Fuel%20Switch/download/3.13.2.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5ACB66DF355D34C0827C6AC30C3117588102B838",
+        "sha256": "22C4A41983A355D5EB90DC73EFFE9004106EA45CCA398D0172C5FACD1C93149A"
+    },
+    "download_size": 14655322,
+    "identifier": "InterstellarFuelSwitch-Core",
+    "install": [
+        {
+            "find": "InterstellarFuelSwitch/Plugins",
+            "install_to": "GameData/InterstellarFuelSwitch"
+        },
+        {
+            "find": "InterstellarFuelSwitch/Resources",
+            "install_to": "GameData/InterstellarFuelSwitch"
+        },
+        {
+            "find": "InterstellarFuelSwitch/Localization",
+            "install_to": "GameData/InterstellarFuelSwitch"
+        }
+    ],
+    "ksp_version": "1.8.1",
+    "license": "GPL-2.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Interstellar Fuel Switch Core",
+    "provides": [
+        "DeadskinsTextureSwitch",
+        "DeadskinsMeshSwitch"
+    ],
+    "recommends": [
+        {
+            "min_version": "0.7.1",
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/106243-105interstellar-fuel-switch-118-updated-10-11-2015/",
+        "spacedock": "https://spacedock.info/mod/175/Interstellar%20Fuel%20Switch",
+        "x_screenshot": "https://spacedock.info/content/FreeThinker_517/Interstellar_Fuel_Switch/Interstellar_Fuel_Switch-1481278354.0821617.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "resources",
+        "library"
+    ],
+    "version": "3.13.2.5",
+    "x_generated_by": "netkan"
+}

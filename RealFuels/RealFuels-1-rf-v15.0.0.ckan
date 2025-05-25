@@ -1,0 +1,77 @@
+{
+    "abstract": "Real fuels and tanks for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "ialdabaoth",
+        "NathanKell",
+        "taniwha",
+        "Starwaster",
+        "blowfish"
+    ],
+    "conflicts": [
+        {
+            "name": "ModularFuelSystem"
+        },
+        {
+            "name": "ModularFuelTanks"
+        },
+        {
+            "name": "Fuelswitchtoeverytank"
+        },
+        {
+            "name": "StockFuelSwitch"
+        },
+        {
+            "name": "EngineIgnitor"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealFuels-Engine-Configs"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "min_version": "v3.11.0",
+            "name": "SolverEngines"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/NathanKell/ModularFuelSystem/releases/download/rf-v15.0.0/RealFuels_v15.0.0.zip?auth_key=1748275916-b1154fea809145a098fbad6938510290-0-7d6b9383647ea4043938cfb0f1a1c586&size=288693&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EDEDE6CB14B03E1F53F6AC6D30409C3D60372904",
+        "sha256": "9A156905D0F38290ABEA502FA5E450D1827F068BC7CF19C0B654CA26212C13CA"
+    },
+    "download_size": 288693,
+    "identifier": "RealFuels",
+    "install": [
+        {
+            "filter": ".DS_Store",
+            "find": "RealFuels",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-SA",
+    "name": "Real Fuels [PRO-KCMIRROR]",
+    "release_date": "2022-07-11T06:00:57Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/NathanKell/ModularFuelSystem/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?showtopic=58236",
+        "metanetkan": "https://raw.githubusercontent.com/NathanKell/ModularFuelSystem/master/NetKAN/RealFuels.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/NathanKell/ModularFuelSystem/master/RealFuels/RealFuels.version",
+        "repository": "https://github.com/NathanKell/ModularFuelSystem"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "1:rf-v15.0.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,55 @@
+{
+    "abstract": "New categories of heat radiator for your spacecraft",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/537/Heat%20Control/download/0.5.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A93407724E6F09E217442120BCBDF53B57D34BAB",
+        "sha256": "81947EB16281C2A30AE369E3C24D90300D04B8707836702A8483206A6BE8AE5A"
+    },
+    "download_size": 6054940,
+    "identifier": "HeatControl",
+    "install": [
+        {
+            "find": "HeatControl",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.6.0",
+    "license": "restricted",
+    "localizations": [
+        "ru",
+        "zh-cn",
+        "de-de",
+        "en-us",
+        "es-es",
+        "pt-br"
+    ],
+    "name": "Heat Control",
+    "release_date": "2020-02-21T00:08:38.208682+00:00",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/112027-16x-heat-control-more-radiators-january-21/&page=1",
+        "metanetkan": "https://github.com/ChrisAdderley/HeatControl/raw/master/CKAN/HeatControl.netkan",
+        "repository": "https://github.com/ChrisAdderley/HeatControl",
+        "spacedock": "https://spacedock.info/mod/537/Heat%20Control",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Heat_Control/Heat_Control-1461001260.81544.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "0.5.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,48 @@
+{
+    "abstract": "Restrict recovery of vessels to a range around defined \"beacons\"",
+    "author": [
+        "magico13",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/Magico13_Modlets/releases/download/1.5.4/NIMBY-1.12.0-1.1.3.4.zip",
+        "https://spacedock.info/mod/1286/NIMBY/download/1.1.3.4"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DD2E255C6A3285F4DBB2E6518FE57C8392C7530C",
+        "sha256": "5A111BB9E740CA1741D023B7AC5241B67B0E5D2FFF56CF1E7B0D22D11C879B71"
+    },
+    "download_size": 14353,
+    "identifier": "NIMBY",
+    "install": [
+        {
+            "find": "NIMBY",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 26140,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "NIMBY",
+    "release_date": "2025-03-31T17:15:27.160622+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/Magico13_Modlets/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178484-14x",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/Magico13_Modlets/refs/heads/master/NIMBY.version",
+        "repository": "https://github.com/linuxgurugamer/Magico13_Modlets",
+        "spacedock": "https://spacedock.info/mod/1286/NIMBY"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.1.3.4",
+    "x_generated_by": "netkan"
+}

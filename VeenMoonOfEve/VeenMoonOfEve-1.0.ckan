@@ -1,0 +1,42 @@
+{
+    "abstract": "A small moon insanely close to Eve.",
+    "author": "Scallops",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3173/Veen%20moon%20of%20Eve/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8356B4CB1E78F318C09A1E7B81F4C8A30522B55C",
+        "sha256": "A7DAF7B9B686DA6766FFBE89BD16E9111CAC3D634EF21E089EFD12156BEEBB58"
+    },
+    "download_size": 10050621,
+    "identifier": "VeenMoonOfEve",
+    "install": [
+        {
+            "find": "Veen",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 10077232,
+    "ksp_version": "1.12.4",
+    "license": "MIT",
+    "name": "Veen moon of Eve",
+    "release_date": "2022-12-17T18:55:05.0003+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3173/Veen%20moon%20of%20Eve",
+        "x_screenshot": "https://spacedock.info/content/Scallops_96441/Veen_moon_of_Eve/Veen_moon_of_Eve-1671303474.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

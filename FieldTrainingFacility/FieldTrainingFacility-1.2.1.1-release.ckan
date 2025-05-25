@@ -1,0 +1,60 @@
+{
+    "abstract": "This addon provides training for your kerbalnauts by adding a Field Training Facility (FTF) (school) into all science labs. You can train your kerbalnaut(s) over time with space stations and planetary bases.",
+    "author": [
+        "Efour",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/978/Field%20Training%20Facility%20(FTF)/download/1.2.1.1-release",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "66C68D194F04F1945DDAAE3309334A83E3CF0BDA",
+        "sha256": "6EE9B45DBAC5113F7FB85610FF24DF91594B720AB8E142741554CA3A8069EF91"
+    },
+    "download_size": 66172,
+    "identifier": "FieldTrainingFacility",
+    "install_size": 139295,
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.8.1",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "Field Training Facility (FTF)",
+    "release_date": "2023-01-11T05:50:58.322092+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/FieldTrainingFacility/issues",
+        "discussions": "https://github.com/zer0Kerbal/FieldTrainingFacility/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188841-*/",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/FieldTrainingFacility/master/FieldTrainingFacility.version",
+        "repository": "https://github.com/zer0Kerbal/FieldTrainingFacility",
+        "spacedock": "https://spacedock.info/mod/978/Field%20Training%20Facility%20(FTF)",
+        "x_screenshot": "https://spacedock.info/content/Efour_8237/Field_Training_Facility_FTF/Field_Training_Facility_FTF-1673416274.jpg"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "FieldTrainingLaboratory"
+        },
+        {
+            "name": "BetterScienceLabs"
+        },
+        {
+            "name": "ODFC"
+        },
+        {
+            "name": "KGEx"
+        }
+    ],
+    "tags": [
+        "config",
+        "crewed"
+    ],
+    "version": "1.2.1.1-release",
+    "x_generated_by": "netkan"
+}

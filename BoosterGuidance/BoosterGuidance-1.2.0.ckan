@@ -1,0 +1,63 @@
+{
+    "abstract": "Aims to autonomously guide a Booster to land on a drone ship or the launch site using Boostback, Re-entry Burn, Aerodynamic Descent and Landing Burn SpaceX",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/BoosterGuidance/releases/download/1.2.0/BoosterGuidance-1.12.0-1.2.0.zip",
+        "https://spacedock.info/mod/3018/Booster%20Guidance%20Boosted/download/1.2.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3AB42A93FEBFAC2F54C8B820297EB4C60F990066",
+        "sha256": "EE616222818C6CF1762DDEA560111802652CE49D0E4E6BD2EA139E3062F7E90C"
+    },
+    "download_size": 94051,
+    "identifier": "BoosterGuidance",
+    "install": [
+        {
+            "filter": "Ships",
+            "find": "BoosterGuidance",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Ships/VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 240330,
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Booster Guidance Boosted",
+    "release_date": "2022-04-18T12:35:32.432975+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/BoosterGuidance/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207792-112x-booster-guidance-under-construction/",
+        "remote-avc": "https://github.com/linuxgurugamer/BoosterGuidance",
+        "repository": "https://github.com/linuxgurugamer/BoosterGuidance",
+        "spacedock": "https://spacedock.info/mod/3018/Booster%20Guidance%20Boosted"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "1.2.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,60 @@
+{
+    "abstract": "A carefully curated set of new parts that fill gaping holes in the stock lineup, adding for example missing size classes for important part types [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "ReStock Team",
+    "conflicts": [
+        {
+            "name": "VenStockRevamp"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ReStock"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/PorktoberRevolution/ReStocked/releases/download/1.4.4/ReStockPlus_1_4_4.zip?auth_key=1748275918-4b3a1b08a91144ce87eeb52878a367d5-0-0eea5efb823782f657e5aff5eef47783&size=19100740&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7F4781BF918DF8B074A5742CA76298CEC40833F3",
+        "sha256": "4C3BFB9071A92034839645EA524AE029988C018E758EA8F3ADF00302AC2D52A5"
+    },
+    "download_size": 19100740,
+    "identifier": "ReStockPlus",
+    "install": [
+        {
+            "comment": "Restock+ installation",
+            "find": "ReStockPlus",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 66978859,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.2",
+    "license": "restricted",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "ja",
+        "pt-br",
+        "zh-cn"
+    ],
+    "name": "ReStock+ [PRO-KCMIRROR]",
+    "release_date": "2024-05-18T21:45:13Z",
+    "resources": {
+        "bugtracker": "https://github.com/PorktoberRevolution/ReStocked/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182679-161-restock-revamping-ksps-art/",
+        "metanetkan": "https://github.com/PorktoberRevolution/ReStocked/raw/master/CKAN/ReStockPlus.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/PorktoberRevolution/ReStocked/prod/Distribution/RestockPlus/GameData/ReStockPlus/Versioning/ReStockPlus.version",
+        "repository": "https://github.com/PorktoberRevolution/ReStocked"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.4.4",
+    "x_generated_by": "netkan"
+}

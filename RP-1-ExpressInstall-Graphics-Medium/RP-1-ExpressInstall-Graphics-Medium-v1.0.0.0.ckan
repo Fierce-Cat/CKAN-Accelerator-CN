@@ -1,0 +1,90 @@
+{
+    "abstract": "Express Installation for RP-1 Graphics - Medium Res version [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "KSP-RO Group",
+    "conflicts": [
+        {
+            "name": "RP-1-ExpressInstall-Graphics"
+        },
+        {
+            "name": "Ecumenopolis"
+        },
+        {
+            "name": "DistantObject-RealSolarSystem"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Scatterer-sunflare-default",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer-config",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RSSTextures8192",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RSSVE-LR",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DistantObject",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PlanetShine",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RP-1-ExpressInstall"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RP-1-ExpressInstall-Graphics/releases/download/v1.0.0.0/Medium.zip?auth_key=1748275916-ade0293c0deb421fa2c3aa4507b8dfb5-0-843bc55fcb303a913357fff7c37f392a&size=1250&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "30BD31307DEBCEB25B11198BA5E4FA73E55E5397",
+        "sha256": "93A486A01FD1BD1F71C0F0E2A3C53AB889C72837CA0C14F9FA29E33F41F817D4"
+    },
+    "download_size": 1250,
+    "identifier": "RP-1-ExpressInstall-Graphics-Medium",
+    "install": [
+        {
+            "find": "RP-1-ExpressInstall-Graphics",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 782,
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.10.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Medium Graphics [PRO-KCMIRROR]",
+    "provides": [
+        "RP-1-ExpressInstall-Graphics"
+    ],
+    "release_date": "2021-08-09T22:27:01Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*",
+        "metanetkan": "https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics/raw/main/RP-1-ExpressInstall-Graphics-Medium.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/RP-1-ExpressInstall-Graphics/main/RP-1-ExpressInstall-Graphics.version",
+        "repository": "https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack",
+        "resources",
+        "graphics"
+    ],
+    "version": "v1.0.0.0",
+    "x_generated_by": "netkan"
+}

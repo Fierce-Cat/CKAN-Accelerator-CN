@@ -1,0 +1,47 @@
+{
+    "abstract": "API for third-party plugins to provide toolbar buttons",
+    "author": [
+        "blizzy78",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2090/Toolbar/download/1.8.0.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "783771C1D89E8D17CB49D4F01E0983890903B313",
+        "sha256": "2AB1ACADFB1FECAC7D33B2CE696FEC4901955981DCBD3037DBDD360025A7E0E1"
+    },
+    "download_size": 114673,
+    "identifier": "Toolbar",
+    "install": [
+        {
+            "find": "GameData/000_Toolbar",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.0",
+    "license": "BSD-2-clause",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "jp",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Toolbar",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/161857-13-*",
+        "repository": "https://github.com/linuxgurugamer/ksp_toolbar",
+        "spacedock": "https://spacedock.info/mod/2090/Toolbar"
+    },
+    "spec_version": "v1.4",
+    "version": "1:1.8.0.3",
+    "x_generated_by": "netkan"
+}

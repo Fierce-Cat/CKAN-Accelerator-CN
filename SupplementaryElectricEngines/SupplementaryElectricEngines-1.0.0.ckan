@@ -1,0 +1,43 @@
+{
+    "abstract": "A small mod that adds a couple of new low-cost small electric engines.",
+    "author": "Triplchii",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3417/Supplementary%20Electric%20Engines/download/1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "918817FEC53625F5AD510842039728C217C1030E",
+        "sha256": "6878F6DCC3A6542212C0AA31737366069088894207DE84E8F738819AE2D3DBDF"
+    },
+    "download_size": 161959,
+    "identifier": "SupplementaryElectricEngines",
+    "install": [
+        {
+            "find": "SupplementaryElectricEngines",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 964379,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-SA",
+    "name": "Supplementary Electric Engines",
+    "release_date": "2023-07-13T22:33:53.015239+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/218397-1125-supplementary-electric-engines/",
+        "spacedock": "https://spacedock.info/mod/3417/Supplementary%20Electric%20Engines",
+        "x_screenshot": "https://spacedock.info/content/Triplchii_117384/Supplimentary_Electric_Engines/Supplimentary_Electric_Engines-1689287796.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts",
+        "graphics"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

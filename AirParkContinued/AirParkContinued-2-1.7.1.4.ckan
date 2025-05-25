@@ -1,0 +1,48 @@
+{
+    "abstract": "Continuation of AirPark with a focus on parking large vessels on water to avoid physics issues",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2661/AirPark%20ReContinued/download/1.7.1.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F6A169121FA7EB2DCC0721C848BA1EB093B7D83A",
+        "sha256": "60F320EB88292AC401DF76A49AE87E207D07982EF45DE54C91A6598883A866CE"
+    },
+    "download_size": 72397,
+    "identifier": "AirParkContinued",
+    "install": [
+        {
+            "find": "AirPark",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.1",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-2.0",
+    "name": "AirPark ReContinued",
+    "release_date": "2021-07-19T12:42:05.724703+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199373-18x-19x-110x-airpark-continued/",
+        "remote-avc": "http://ksp.spacetux.net/avc/AirPark",
+        "repository": "https://github.com/linuxgurugamer/AirPark",
+        "spacedock": "https://spacedock.info/mod/2661/AirPark%20ReContinued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/AirPark_ReContinued/AirPark_ReContinued-1616214347.8647223.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "2:1.7.1.4",
+    "x_generated_by": "netkan"
+}

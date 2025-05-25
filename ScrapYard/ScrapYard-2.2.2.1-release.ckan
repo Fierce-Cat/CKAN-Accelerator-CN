@@ -1,0 +1,100 @@
+{
+    "abstract": "A common part inventory add-on for Kerbal Space Program.",
+    "author": [
+        "magico13",
+        "severedsolo",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1746/ScrapYard%20(SYD)/download/2.2.2.1-release",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "02673774210B502AD29D4E6ABFED1C9D736543AE",
+        "sha256": "775F652F4AA68AA20F0A1DCAD314599853E055AFA7C4AA0E20DFD750BC6C21DE"
+    },
+    "download_size": 107378,
+    "identifier": "ScrapYard",
+    "install_size": 223499,
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.7.3",
+    "license": "GPL-2.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "ScrapYard",
+    "recommends": [
+        {
+            "name": "OhScrap"
+        }
+    ],
+    "release_date": "2023-01-08T19:16:14.364468+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/ScrapYard/issues",
+        "discussions": "https://github.com/zer0Kerbal/ScrapYard/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192456-*/",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/ScrapYard/master/GameData/ScrapYard/ScrapYard.version",
+        "repository": "https://github.com/zer0Kerbal/ScrapYard",
+        "spacedock": "https://spacedock.info/mod/1746/ScrapYard%20(SYD)",
+        "x_screenshot": "https://spacedock.info/content/magico13_204/ScrapYard_SYD/ScrapYard_SYD-1673205121.png"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "GPOSpeedPump"
+        },
+        {
+            "name": "Kaboom"
+        },
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "KerbalKrashSystem"
+        },
+        {
+            "name": "Komplexity"
+        },
+        {
+            "name": "KSP-Recall"
+        },
+        {
+            "name": "StageRecovery"
+        },
+        {
+            "name": "Tweakscale"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "FerramAerospaceResearchContinued"
+        },
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "KerbalKrashSystem"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "StageRecovery"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "editor"
+    ],
+    "version": "2.2.2.1-release",
+    "x_generated_by": "netkan"
+}

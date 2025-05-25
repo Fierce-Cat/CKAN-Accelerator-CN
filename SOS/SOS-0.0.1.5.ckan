@@ -1,0 +1,60 @@
+{
+    "abstract": "Save staging, action group and axis group changes on the launch pad",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/SOS/releases/download/0.0.1.5/SOS-1.12.0-0.0.1.5.zip",
+        "https://spacedock.info/mod/2325/SOS%20(Save%20Our%20Settings)/download/0.0.1.5"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C48AFBEA8248B9A97243C1560A26027A2CC2D2C7",
+        "sha256": "4B00A764A2FFA832A3E4A22ADC9999A16E2E349EC55E967CB0216C729E50E896"
+    },
+    "download_size": 65218,
+    "identifier": "SOS",
+    "install": [
+        {
+            "find": "SOS",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 108342,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "it-it",
+        "ru-ru"
+    ],
+    "name": "SOS (Save Our Settings)",
+    "release_date": "2024-03-15T16:51:51.125127+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/SOS/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191312-18x-sos",
+        "remote-avc": "http://ksp.spacetux.net/avc/SOS",
+        "repository": "https://github.com/linuxgurugamer/SOS",
+        "spacedock": "https://spacedock.info/mod/2325/SOS%20(Save%20Our%20Settings)",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/SOS_Save_Our_Settings/SOS_Save_Our_Settings-1581379847.4057326.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "0.0.1.5",
+    "x_generated_by": "netkan"
+}

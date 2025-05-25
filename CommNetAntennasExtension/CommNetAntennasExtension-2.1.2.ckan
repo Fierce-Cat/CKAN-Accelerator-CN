@@ -1,0 +1,68 @@
+{
+    "abstract": "Add 6 new antennas for CommNet, filling a niche in the transmission ranges: direct 5M, relay 32M, relays 7G and 25G, direct and relay 500G. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "flart",
+    "conflicts": [
+        {
+            "name": "RemoteTech"
+        }
+    ],
+    "depends": [
+        {
+            "name": "RemoteTechRedevAntennas"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/yalov/CommNetAntennasExtension/releases/download/2.1.2/CommNetAntennasExtension-v2.1.2.zip?auth_key=1748275914-4ae08cefd3ce4baba40c19e3842b56c3-0-d20fce615f2a80f2752a959b4294801c&size=534465&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "50D49FD1F069AC16EC5DA315444B00F96857B601",
+        "sha256": "E43C04DB45DB02072507BC89A0AFFE003105AD1C24821D51C4819B82D14006FB"
+    },
+    "download_size": 534465,
+    "identifier": "CommNetAntennasExtension",
+    "ksp_version_max": "1.11.9",
+    "ksp_version_min": "1.6.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "CommNet Antennas Extension [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "CommunityPartsTitles"
+        },
+        {
+            "name": "CommNetAntennasInfo"
+        },
+        {
+            "name": "CommNetAntennasConsumptor"
+        }
+    ],
+    "release_date": "2020-07-19T15:55:54Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/yalov/CommNetAntennasExtension/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177292-*",
+        "repository": "https://github.com/yalov/CommNetAntennasExtension"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SpeedUnitAnnex"
+        }
+    ],
+    "supports": [
+        {
+            "name": "NearFutureExploration"
+        }
+    ],
+    "tags": [
+        "parts",
+        "comms"
+    ],
+    "version": "2.1.2",
+    "x_generated_by": "netkan"
+}

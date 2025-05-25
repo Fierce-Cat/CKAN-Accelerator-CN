@@ -1,0 +1,42 @@
+{
+    "abstract": "Adds asteroid 33434 scottmanley to the Stock System",
+    "author": "toshatortoise",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2437/Asteroid%2033434%20scottmanley%20Stock%20System/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A3A23585185C35E9793C16ADF5F75F6F284B69E1",
+        "sha256": "7209EF02D3D36CB317C201B70429A49095CEBD54D83C03B18CA71A946495FE0C"
+    },
+    "download_size": 1110576,
+    "identifier": "Asteroid-33434-scottmanley-Stock",
+    "install": [
+        {
+            "find": "scottmanley_NORSS",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1537026,
+    "ksp_version": "1.8.1",
+    "license": "GPL-3.0",
+    "name": "Asteroid 33434 scottmanley Stock System",
+    "release_date": "2020-05-24T02:01:47.969505+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194090-181-asteroid-33434-scottmanley-extension-for-rssor-stock-solar-system/",
+        "spacedock": "https://spacedock.info/mod/2437/Asteroid%2033434%20scottmanley%20Stock%20System"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

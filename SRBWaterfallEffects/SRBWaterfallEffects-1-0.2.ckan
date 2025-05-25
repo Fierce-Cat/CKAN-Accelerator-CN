@@ -1,0 +1,83 @@
+{
+    "abstract": "A set of waterfall and realplume configs to add waterfall to SRBs",
+    "author": "Adiri",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "RealPlume"
+        },
+        {
+            "name": "RealPlume-StockConfigs"
+        },
+        {
+            "name": "SmokeScreen"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2992/RSMP%20-%20Remastered%20Solid%20Plume%20Effects%20%5BALL%20OLD%20RELEASES%20OUTDATED!!!%5D/download/0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "506CF5A13A643ADBF1E7A1BB38A1C7644255E43B",
+        "sha256": "744CBDD1A06B9A1EEC52406B861FED91ECD2E49D5824C743B2DABBE3FCC1BDD1"
+    },
+    "download_size": 746144,
+    "identifier": "SRBWaterfallEffects",
+    "install": [
+        {
+            "find": "RSMP",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1134792,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA",
+    "name": "RSMP - Remastered Solid Plume Effects [ALL OLD RELEASES OUTDATED!!!]",
+    "recommends": [
+        {
+            "name": "AudioMufflerRedux"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "GemstoneLV"
+        },
+        {
+            "name": "NewTantaresLV"
+        },
+        {
+            "name": "NewTantares"
+        },
+        {
+            "name": "ChrayolDesignOrg"
+        },
+        {
+            "name": "CRE"
+        },
+        {
+            "name": "TUFX"
+        }
+    ],
+    "release_date": "2023-07-02T23:43:31.712651+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/AdiriKSP/RSMP/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/207196-112x-rsmp-formally-swe/",
+        "repository": "https://github.com/AdiriKSP/RSMP",
+        "spacedock": "https://spacedock.info/mod/2992/RSMP%20-%20Remastered%20Solid%20Plume%20Effects%20[ALL%20OLD%20RELEASES%20OUTDATED!!!]",
+        "x_screenshot": "https://spacedock.info/content/Adiri_65268/RSMP_-_Remastered_Solid_Plume_Effects_ALL_OLD_RELEASES_OUTDATED/RSMP_-_Remastered_Solid_Plume_Effects_ALL_OLD_RELEASES_OUTDATED-1687568483.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1:0.2",
+    "x_generated_by": "netkan"
+}

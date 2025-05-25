@@ -1,0 +1,73 @@
+{
+    "abstract": "Unrapid Planned Assembly",
+    "author": [
+        "magico13",
+        "westamastaflash",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "KerbalConstructionTime-173"
+        }
+    ],
+    "depends": [
+        {
+            "name": "MagiCore"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": "https://spacedock.info/mod/222/Kerbal%20Construction%20Time/download/1.4.7.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A0DB2450447AD1C94403D52F0F0C6EF2D2D8E7FE",
+        "sha256": "E445A31DCE882ADC0EA274641644B32AD93E1C1BB4AC41FB27885CCFB4BB0A02"
+    },
+    "download_size": 573242,
+    "identifier": "KerbalConstructionTime",
+    "install": [
+        {
+            "file": "GameData/KerbalConstructionTime",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Kerbal Construction Time",
+    "recommends": [
+        {
+            "name": "ScrapYard"
+        },
+        {
+            "name": "KRASH"
+        },
+        {
+            "name": "StageRecovery"
+        },
+        {
+            "name": "CrewQueueTwo"
+        },
+        {
+            "name": "OhScrap"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182877-151-161-kerbal-construction-time-unrapid-planned-assembly/",
+        "repository": "https://github.com/linuxgurugamer/KCT",
+        "spacedock": "https://spacedock.info/mod/222/Kerbal%20Construction%20Time",
+        "x_screenshot": "https://spacedock.info/content/magico13_204/Kerbal_Construction_Time/Kerbal_Construction_Time-1456094774.2806504.png"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KerbalAlarmClock"
+        }
+    ],
+    "version": "1:1.4.7.3",
+    "x_generated_by": "netkan"
+}

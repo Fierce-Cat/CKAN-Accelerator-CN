@@ -1,0 +1,45 @@
+{
+    "abstract": "Add some drama to your rough landings! Collision FX-ReUpdated adds sparks and dust, with sound and lighting effects when you collide or scrape your craft. Landing gear also has a rubbery screech on contacting the ground! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "pizzaoverhead",
+        "SlimJimDodger",
+        "VoidCosmos"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/VoidCosmo/CollisionFX-ReUpdated/releases/download/2.0/CollisionFX.zip?auth_key=1748275916-78fa9ee2a6614387bba35caff72d310a-0-04ef3f9ab8819e033f03600a0f40ee9f&size=7628181&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "A01181C963001C328C402CC5C81C65349B6ADB50939A62F65D5846EB7D2F20ED"
+    },
+    "download_size": 7628181,
+    "identifier": "CollisionFXReUpdated",
+    "install": [
+        {
+            "find_regexp": "GameData/CollisionFX(ReUpdated)?",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 8916749,
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-2.0",
+    "name": "CollisionFX ReUpdated [PRO-KCMIRROR]",
+    "release_date": "2020-07-08T17:59:13Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/VoidCosmo/CollisionFX-ReUpdated/issues",
+        "remote-avc": "https://github.com/VoidCosmo/CollisionFX-ReUpdated/raw/master/GameData/CollisionFXReUpdated/Versioning/CollisionFX-ReUpdated.version",
+        "repository": "https://github.com/VoidCosmo/CollisionFX-ReUpdated"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "version": "2.0",
+    "x_generated_by": "netkan"
+}

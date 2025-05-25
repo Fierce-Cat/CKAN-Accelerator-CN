@@ -1,0 +1,67 @@
+{
+    "abstract": "KSP Mod to add better antenna / link calculations to CommNet. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "DRVeyl",
+        "al2me6",
+        "blowfishpro",
+        "Capkirk123",
+        "NathanKell",
+        "pjf",
+        "rsparkyc",
+        "SirKeplan",
+        "StollD",
+        "StonesmileGit",
+        "stratochief66",
+        "zorg2044",
+        "siimav"
+    ],
+    "conflicts": [
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "CommNetVisualization"
+        },
+        {
+            "name": "CommNetConstellation"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KSPBurst"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RealAntennas/releases/download/v2.6.0.0/RealAntennas-v2.6.0.0.zip?auth_key=1748275916-9aeaefbd871f4d0cba0f4d8a50183bb2-0-cdcec5a442af828fd721596c5189beaa&size=145807&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D53D61D05AD54552FE1940B8AD1180B3FD9F9FAC",
+        "sha256": "2ABE24BF4D85AE034124AB5409C2C1DC6395198F751B6A769F4C68BBDF34E14C"
+    },
+    "download_size": 145807,
+    "identifier": "RealAntennas",
+    "install_size": 364087,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-SA-4.0",
+    "name": "Real Antennas [PRO-KCMIRROR]",
+    "release_date": "2024-08-20T18:48:47Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/RealAntennas/issues",
+        "homepage": "https://github.com/KSP-RO/RealAntennas/wiki",
+        "remote-avc": "https://raw.githubusercontent.com:443/KSP-RO/RealAntennas/master/GameData/RealAntennas/RealAntennas.version",
+        "repository": "https://github.com/KSP-RO/RealAntennas"
+    },
+    "spec_version": 1,
+    "tags": [
+        "comms",
+        "plugin"
+    ],
+    "version": "v2.6.0.0",
+    "x_generated_by": "netkan"
+}

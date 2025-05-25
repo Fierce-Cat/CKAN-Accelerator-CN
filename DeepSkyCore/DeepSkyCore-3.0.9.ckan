@@ -1,0 +1,40 @@
+{
+    "abstract": "Essential things and shared things between the Deep Sky mods (Airline Kuisine, Thor Tech, The Spice)",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1631/Deep%20Sky%20Core/download/3.0.9",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A736B00BCB02945ED06270BF4CDC5F24BDA229B5",
+        "sha256": "47D2E40D7BCC487FEF0A766CE8A68FF62D326D8464FF3FDA810ECFCE7C8ACCFA"
+    },
+    "download_size": 8264937,
+    "identifier": "DeepSkyCore",
+    "install": [
+        {
+            "find": "DeepSky",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.9.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Deep Sky Core",
+    "release_date": "2020-08-07T17:59:32.992386+00:00",
+    "resources": {
+        "homepage": "https://github.com/JadeOfMaar/DSCore/releases",
+        "repository": "https://github.com/JadeOfMaar/DSCore/",
+        "spacedock": "https://spacedock.info/mod/1631/Deep%20Sky%20Core",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Deep_Sky_Core/Deep_Sky_Core-1523333268.4728763.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "library"
+    ],
+    "version": "3.0.9",
+    "x_generated_by": "netkan"
+}

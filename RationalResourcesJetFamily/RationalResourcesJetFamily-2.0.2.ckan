@@ -1,0 +1,70 @@
+{
+    "abstract": "Enables fuel switching in air-breathing engines. A very welcome companion to cryo rocket systems.",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "ClassicStockResources"
+                },
+                {
+                    "name": "CommunityResourcePack"
+                }
+            ]
+        }
+    ],
+    "download": "https://spacedock.info/mod/2201/Rational%20Resources/download/2.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3D7BDA4823F67EAC94401B3FD51AB2326ECBC367",
+        "sha256": "6D11355A32F5EABA7D274B992053433EE7E1F7B325A5CE13D14663E1F54519E2"
+    },
+    "download_size": 38444529,
+    "identifier": "RationalResourcesJetFamily",
+    "install_size": 34583,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Rational Resources Jet Family",
+    "release_date": "2024-01-12T00:09:18.528288+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/RationalResources/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184875-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalResources/Version/RationalResources.version",
+        "repository": "https://github.com/JadeOfMaar/RationalResources",
+        "spacedock": "https://spacedock.info/mod/2201/Rational%20Resources",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Rational_Resources/Rational_Resources-1633389353.6822987.png"
+    },
+    "spec_version": "v1.26",
+    "suggests": [
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "Mk2Expansion"
+        },
+        {
+            "name": "Mk3Expansion"
+        },
+        {
+            "name": "SXTContinued"
+        },
+        {
+            "name": "WaterDrinker"
+        }
+    ],
+    "tags": [
+        "config",
+        "convenience"
+    ],
+    "version": "2.0.2",
+    "x_generated_by": "netkan"
+}

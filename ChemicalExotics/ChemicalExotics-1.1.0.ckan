@@ -1,0 +1,59 @@
+{
+    "abstract": "An extension pack for Chemical Technologies which adds exotic propellants.",
+    "author": "Charle_Roger",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ChemicalCore"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": [
+        "https://github.com/CharleRoger/ChemicalExotics/releases/download/1.1.0/ChemicalExotics-1.1.0.zip",
+        "https://spacedock.info/mod/3867/Chemical%20Exotics/download/1.1.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F74E7FF26A996B7CEB3A544A1D4719986C2A5380",
+        "sha256": "BC93BC8C65DAAAEA151425DA0AC0940243E3C503A78369D56043EC33278D7183"
+    },
+    "download_size": 21338,
+    "identifier": "ChemicalExotics",
+    "install_size": 15321,
+    "ksp_version": "1.12.5",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Chemical Exotics",
+    "release_date": "2025-05-05T00:52:54.745355+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/CharleRoger/ChemicalExotics/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227705-112x-chemical-technologies-a-chemically-based-resource-overhaul/",
+        "remote-avc": "https://raw.githubusercontent.com/CharleRoger/ChemicalExotics/main/GameData/ChemicalExotics/Versioning/ChemicalExotics.version",
+        "repository": "https://github.com/CharleRoger/ChemicalExotics",
+        "spacedock": "https://spacedock.info/mod/3867/Chemical%20Exotics"
+    },
+    "spec_version": "v1.34",
+    "supports": [
+        {
+            "name": "ChemicalPropulsion"
+        },
+        {
+            "name": "ChemicalCore"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "1.1.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

@@ -1,0 +1,72 @@
+{
+    "abstract": "Kerbal Space Program Endurance Mod [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JPLRepo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JPLRepo/Endurance/releases/download/V1.13/Endurance_V1.13.0.0.zip?auth_key=1748275918-fecfd98610684f94ba7025569a8d052f-0-8a47196b5cb3f645453aaaec894b2e1d&size=14525472&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "61FE9CBC5C60365F338F543DE84A4C3D83CF7B7E",
+        "sha256": "9DA8188786C6A56A68DD078DB21CCC46F7A83A52CD4AD6BA1914BB056BFBFFC9"
+    },
+    "download_size": 14525472,
+    "identifier": "EnduranceSpaceExplorationSystem",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "Endurance",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 51806340,
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.11.0",
+    "license": "CC-BY-NC-4.0",
+    "name": "Endurance [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "JSIAdvancedTransparentPods"
+        },
+        {
+            "name": "ThrottleControlledAvionics"
+        }
+    ],
+    "release_date": "2021-02-20T05:38:10Z",
+    "resources": {
+        "bugtracker": "https://github.com/JPLRepo/Endurance/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133590-*",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=258",
+        "repository": "https://github.com/JPLRepo/Endurance"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "USI-LS"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed",
+        "science"
+    ],
+    "version": "V1.13",
+    "x_generated_by": "netkan"
+}

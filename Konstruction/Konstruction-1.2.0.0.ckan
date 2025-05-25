@@ -1,0 +1,62 @@
+{
+    "abstract": "Weldable docking ports, cranes, magnets, and other construction equipment! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "v7.6.0",
+            "name": "FirespitterCore"
+        },
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        },
+        {
+            "min_version": "0.7.0.0",
+            "name": "CommunityResourcePack"
+        },
+        {
+            "min_version": "2.0.0.0",
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/UmbraSpaceIndustries/Konstruction/releases/download/1.2.0.0/Konstruction_1.2.0.0.zip?auth_key=1748275916-1651b12878f148d99d05ee9f83473621-0-e1e3199c1432571e9fb4ecafdd38e3b8&size=6197796&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2039723E2696281DBA47A8519FDD6ADAFCC3EA3B",
+        "sha256": "3D33276E397E84A1C6EC47B531ED79652CC16F24090E03E5F46A66E7C9DFA15E"
+    },
+    "download_size": 6197796,
+    "identifier": "Konstruction",
+    "install": [
+        {
+            "file": "GameData/UmbraSpaceIndustries/Akita",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        },
+        {
+            "file": "GameData/UmbraSpaceIndustries/Konstruction",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.6.0",
+    "license": "restricted",
+    "name": "Konstruction [PRO-KCMIRROR]",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "repository": "https://github.com/UmbraSpaceIndustries/Konstruction"
+    },
+    "spec_version": "v1.16",
+    "version": "1.2.0.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

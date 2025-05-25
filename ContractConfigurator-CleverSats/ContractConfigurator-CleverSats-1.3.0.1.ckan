@@ -1,0 +1,37 @@
+{
+    "abstract": "Overhaul of the stock Satellite contracts [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "severedsolo",
+    "depends": [
+        {
+            "min_version": "1.9.6",
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/severedsolo/CleverSat/releases/download/1.3.0.1/CleverSat1.3.0.1.zip?auth_key=1748275917-d1a80095797642568f5af26505219c9a-0-c43ab3c16cbfb21c348ab5319a1ebfc8&size=209848&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AE90C7DD4BE80DB4F854D8F823CCF52AA9DDBDCF",
+        "sha256": "E903DBA3A752D3D2E898055515391F2ACB7B8E53FA46DC5C3D3EEC8F55443F9A"
+    },
+    "download_size": 209848,
+    "identifier": "ContractConfigurator-CleverSats",
+    "install": [
+        {
+            "find": "CleverSat",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "ksp_version_min": "1.1.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Contract Pack: Clever Sats [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/132844-105-contract-pack-clever-sats-10-240216",
+        "repository": "https://github.com/severedsolo/CleverSat"
+    },
+    "spec_version": "v1.4",
+    "version": "1.3.0.1",
+    "x_generated_by": "netkan"
+}

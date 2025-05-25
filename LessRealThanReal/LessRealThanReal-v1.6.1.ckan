@@ -1,0 +1,98 @@
+{
+    "abstract": "Real Progression One without RealismOverhaul [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "pehvbot",
+    "conflicts": [
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "RSSDateTimeFormatter"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "DMagicScienceAnimate"
+        },
+        {
+            "name": "KerbalConstructionTime"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/pehvbot/LRTR/releases/download/v1.6.1/LRTR-v1.6.1.zip?auth_key=1748275918-4418a6cd046546b886dcd9bf3497aaf3-0-12ab6bed8fe74951d48fc5ca7b1991a1&size=20659106&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F8D5754CD38DE76B7FA65A61F23A62C9F59B74D3",
+        "sha256": "9E1C21EE87B1C4CC27690F9D24010A704502C762479C995521D4345D4E3D73D9"
+    },
+    "download_size": 20659106,
+    "identifier": "LessRealThanReal",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "GameData/LRTR",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11",
+    "ksp_version_min": "1.8",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Less Real Than Real(ism) [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "LessRealKerbalism"
+        }
+    ],
+    "release_date": "2021-03-08T02:14:24Z",
+    "resources": {
+        "bugtracker": "https://github.com/pehvbot/LRTR/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189978-*",
+        "repository": "https://github.com/pehvbot/LRTR"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "KRASH"
+        },
+        {
+            "name": "ScrapYard"
+        },
+        {
+            "name": "OhScrap"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "config",
+        "parts",
+        "tech-tree",
+        "career",
+        "science"
+    ],
+    "version": "v1.6.1",
+    "x_generated_by": "netkan"
+}

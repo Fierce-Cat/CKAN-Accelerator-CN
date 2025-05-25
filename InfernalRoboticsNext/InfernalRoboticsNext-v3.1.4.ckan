@@ -1,0 +1,66 @@
+{
+    "abstract": "Robotic parts for your constructions [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Rudolf Meier",
+        "ZodiusInfuser",
+        "Ziw",
+        "sirkut"
+    ],
+    "conflicts": [
+        {
+            "name": "InfernalRobotics"
+        },
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TweakScale-Redist"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/meirumeiru/InfernalRobotics/releases/download/v3.1.4/InfernalRobotics_v3.1.4.zip?auth_key=1748275917-5b8de1af1331462ba0456db7a3db1a50-0-6ffc2cd1a14acdccf99879d24bebc289&size=3092702&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A886370BFF74A38D25DA3D6569779F6A8953E56C",
+        "sha256": "0CB9E66916D91D7BCA51FDD9396AD75F2326C018F8D773C1767CA00CAD346B4F"
+    },
+    "download_size": 3092702,
+    "identifier": "InfernalRoboticsNext",
+    "install": [
+        {
+            "file": "GameData/MagicSmokeIndustries",
+            "filter": "Scale_Redist.dll",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 10889315,
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Infernal Robotics - Next [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KerbalJointReinforcementNext"
+        }
+    ],
+    "release_date": "2023-01-18T02:54:13Z",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184787-*",
+        "remote-avc": "https://github.com/meirumeiru/InfernalRobotics/raw/develop/Resources/GameData/MagicSmokeIndustries/InfernalRobotics.version",
+        "repository": "https://github.com/meirumeiru/InfernalRobotics"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "v3.1.4",
+    "x_generated_by": "netkan"
+}

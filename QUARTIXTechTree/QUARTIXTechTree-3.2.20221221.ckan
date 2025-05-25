@@ -1,0 +1,82 @@
+{
+    "abstract": "An enhanced TechTree in the style of Simplex, designed for a minimal number of mods",
+    "author": "theJesuit",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3152/QUARTIX%20TechTree/download/3.2.20221221",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "78DB94F0A191939CAEF29CEAA2BECE3E1DFF63FE",
+        "sha256": "259BD3AE69FA57629500190BA7ED737C9C40C6DB23451E3B9E47424FCEB47FE0"
+    },
+    "download_size": 111321,
+    "identifier": "QUARTIXTechTree",
+    "install": [
+        {
+            "find": "AngleCanMods",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 262060,
+    "ksp_version": "1.12.4",
+    "license": "CC-BY-NC-SA",
+    "name": "QUARTIX TechTree",
+    "recommends": [
+        {
+            "name": "SimplexPropulsion"
+        },
+        {
+            "name": "SIMPLEXResources"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "SIMPLEXKerbalism"
+        },
+        {
+            "name": "MoldaviteMachines"
+        },
+        {
+            "name": "HullcamVDS"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        },
+        {
+            "name": "KeridianDynamicsVesselAssembly"
+        },
+        {
+            "name": "StockalikeMiningExtension"
+        },
+        {
+            "name": "BahaEPLRedrilled"
+        }
+    ],
+    "release_date": "2022-12-21T09:26:58.513246+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174731-1124-techtrees-quartix-30-tetrix-218-simplex-128/",
+        "spacedock": "https://spacedock.info/mod/3152/QUARTIX%20TechTree"
+    },
+    "spec_version": "v1.18",
+    "suggests": [
+        {
+            "name": "ExtraDockingPorts"
+        },
+        {
+            "name": "Grounded"
+        }
+    ],
+    "tags": [
+        "config",
+        "tech-tree"
+    ],
+    "version": "3.2.20221221",
+    "x_generated_by": "netkan"
+}

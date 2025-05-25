@@ -1,0 +1,40 @@
+{
+    "abstract": "Wrapper mod around the Blizzy and stock toolbars",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1931/ToolbarController/download/0.1.9.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C113153A421790241794FF3C5FD7850F9D644D37",
+        "sha256": "ACC79312F27FA9B60961E4854BEA7EBA2BE2A8A0AD886D9DB33DF77B4FCF5836"
+    },
+    "download_size": 107672,
+    "identifier": "ToolbarController",
+    "install": [
+        {
+            "find": "001_ToolbarControl",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Toolbar Controller",
+    "recommends": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169509-141-toolbar-controller-for-modders/",
+        "repository": "https://github.com/linuxgurugamer/ToolbarControl/",
+        "spacedock": "https://spacedock.info/mod/1931/ToolbarController"
+    },
+    "spec_version": "v1.4",
+    "version": "1:0.1.9.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

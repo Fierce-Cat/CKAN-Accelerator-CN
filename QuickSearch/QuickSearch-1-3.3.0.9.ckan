@@ -1,0 +1,50 @@
+{
+    "abstract": "QuickSearch is a small plugin which adds an extension to the part search function on the editor, it also adds a part search on the tech tree.",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/101/QuickSearch/download/3.3.0.9",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FE49B8DF00ECC755B7B470E179CC663EFD3B15EA",
+        "sha256": "854511572CC72EC764E2473DCD31D68D357EC601DBDD6749384D27D12309AEA2"
+    },
+    "download_size": 40713,
+    "identifier": "QuickSearch",
+    "install": [
+        {
+            "file": "GameData/QuickMods/QuickSearch",
+            "install_to": "GameData/QuickMods"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "fr-fr"
+    ],
+    "name": "QuickSearch",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-141-malahs-quick-mods/",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/101/QuickSearch"
+    },
+    "spec_version": "v1.2",
+    "tags": [
+        "plugin",
+        "convenience",
+        "editor"
+    ],
+    "version": "1:3.3.0.9",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,35 @@
+{
+    "abstract": "automatic backup system",
+    "author": "Nereid",
+    "download": "https://spacedock.info/mod/674/S.A.V.E/download/1.8.0-3165",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "65CB633F238C62BF71B991FC5636F48682B77FC1",
+        "sha256": "CAB868CD060313F3CD34EC1715B083B6E0143A743BB53B29AB9AE59FEA889CCA"
+    },
+    "download_size": 97161,
+    "identifier": "SAVE",
+    "install": [
+        {
+            "file": "GameData/Nereid",
+            "filter": "source",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "LGPL-3.0",
+    "name": "S.A.V.E",
+    "release_date": "2019-12-24T14:15:07.315547+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/94997-*",
+        "spacedock": "https://spacedock.info/mod/674/S.A.V.E",
+        "x_screenshot": "https://spacedock.info/content/Nereid_3961/S.A.V.E/S.A.V.E-1462780068.6484098.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.8.0-3165",
+    "x_generated_by": "netkan"
+}

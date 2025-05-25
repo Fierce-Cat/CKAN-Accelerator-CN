@@ -1,0 +1,52 @@
+{
+    "abstract": "Adds more punishing G-forces limits for crewed parts for a more challenging gameplay",
+    "author": "Kurgut",
+    "conflicts": [
+        {
+            "name": "DeadlyReentry"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/kurgut/WYG-WatchYourG-Forces-/releases/download/1.1/WYG.1.1.zip",
+        "https://spacedock.info/mod/3515/WYG!%20-%20Watch%20Your%20G-forces!/download/1.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AFD46907106A7277B1B56FCD22A32F2720F574B2",
+        "sha256": "0F72EF106C21F2968BA9DBCD32E0B21C8891252A0904E884B4A6A0E7665862B1"
+    },
+    "download_size": 4485,
+    "identifier": "WYGWatchYourGforces",
+    "install": [
+        {
+            "find": "WYG",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 3976,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.10.1",
+    "license": "MIT",
+    "name": "WYG! - Watch Your G-forces!",
+    "release_date": "2023-12-01T23:29:40.146811+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/kurgut/WYG-WatchYourG-Forces-/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/221046-wyg-watch-your-g-forces-ksp-112/",
+        "remote-avc": "https://raw.githubusercontent.com/kurgut/WYG-WatchYourG-Forces-/main/WYG.version",
+        "repository": "https://github.com/kurgut/WYG-WatchYourG-Forces-",
+        "spacedock": "https://spacedock.info/mod/3515/WYG!%20-%20Watch%20Your%20G-forces!",
+        "x_screenshot": "https://spacedock.info/content/Kurgut_20777/WYG_-_Watch_Your_G-forces/WYG_-_Watch_Your_G-forces-1701469228.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "crewed"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

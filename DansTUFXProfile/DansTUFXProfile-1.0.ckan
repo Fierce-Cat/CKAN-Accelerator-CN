@@ -1,0 +1,40 @@
+{
+    "abstract": "A pretty nice TUFX profile",
+    "author": "dandoesstuff",
+    "depends": [
+        {
+            "name": "TUFX"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3510/Dan's%20TUFX/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B7BA26370A2CAB96476CA71F47E67E8F88D8B5E1",
+        "sha256": "F75C5A984F53841AED8336CC701C589BDF0317BEE6D170CB8CABF9EFD4960033"
+    },
+    "download_size": 632,
+    "identifier": "DansTUFXProfile",
+    "install": [
+        {
+            "find": "Dan's TUFX",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 660,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Dan's TUFX",
+    "release_date": "2023-11-20T15:12:24.352177+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3510/Dan's%20TUFX",
+        "x_screenshot": "https://spacedock.info/content/dandoesstuff_122920/Dans_TUFX_Profile/Dans_TUFX_Profile-1700493165.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "graphics",
+        "config"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

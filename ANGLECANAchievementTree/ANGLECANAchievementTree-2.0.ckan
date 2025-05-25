@@ -1,0 +1,46 @@
+{
+    "abstract": "A stockish visual representation of your notable achievements alongside the TechTree!",
+    "author": "theJesuit",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3160/ANGLECAN%20Achievement%20Tree/download/2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6F232B29DA82132617B4C37ACDBE2121275F61A8",
+        "sha256": "B62109E1DEFF96585581EF677C40336BA1FDC9872CBDF97E87C73C17B0384ABA"
+    },
+    "download_size": 408349,
+    "identifier": "ANGLECANAchievementTree",
+    "install": [
+        {
+            "find": "AngleCanMods",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1035946,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "ANGLECAN Achievement Tree",
+    "release_date": "2024-09-19T16:45:52.20016+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/211009-1124-anglecan-achievement-tree-11/",
+        "spacedock": "https://spacedock.info/mod/3160/ANGLECAN%20Achievement%20Tree"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "tech-tree",
+        "career"
+    ],
+    "version": "2.0",
+    "x_generated_by": "netkan"
+}

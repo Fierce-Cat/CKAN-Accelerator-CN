@@ -1,0 +1,40 @@
+{
+    "abstract": "Modify KSP configs without conflict [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "ialdabaoth",
+        "Sarbian",
+        "Blowfish"
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/sarbian/jenkins/job/ModuleManager/157/artifact/ModuleManager-4.1.3.zip?auth_key=1748275915-c6fa5212605349958869fcf413c01792-0-37f5e9068202422ecaa352542d21d504&size=62924&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9A33BFFCFB360F1C043198C2206E028BD2D0ED07",
+        "sha256": "BA6315074E75E829F2AB337AABA4223A29BD5EC417079020AB20320B4052A1FD"
+    },
+    "download_size": 62924,
+    "identifier": "ModuleManager",
+    "install": [
+        {
+            "find_matches_files": true,
+            "find_regexp": "ModuleManager.*\\.dll$",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.90",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-SA",
+    "name": "Module Manager [PRO-KCMIRROR]",
+    "release_date": "2019-11-30T14:54:45.995Z",
+    "resources": {
+        "ci": "https://ksp.sarbian.com/jenkins/job/ModuleManager/",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*",
+        "repository": "https://github.com/sarbian/ModuleManager"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "4.1.3",
+    "x_generated_by": "netkan"
+}

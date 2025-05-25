@@ -1,0 +1,48 @@
+{
+    "abstract": "SRBs, Cargo parts, and EVA Suits!",
+    "author": "MoviesColin",
+    "depends": [
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2425/Phoenix%20Industries/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "865D7FE79989E5C2A7B212A3350CFED67BD26A53",
+        "sha256": "1168FA0F4F5E2A8B836711006CA2A267454418873BCFC90FC46DEDF2E83F7292"
+    },
+    "download_size": 93673575,
+    "identifier": "PhoenixIndustries",
+    "install": [
+        {
+            "find": "PhoenixIndustries",
+            "install_to": "GameData"
+        },
+        {
+            "find": "TextureReplacer",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.9.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Phoenix Industries",
+    "recommends": [
+        {
+            "name": "KIS"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193749-19x-phoenix-industries-v10-boosters-cargo-spacecraft-and-eva-suits/",
+        "spacedock": "https://spacedock.info/mod/2425/Phoenix%20Industries",
+        "x_screenshot": "https://spacedock.info/content/MoviesColin_1252/Phoenix_Industries/Phoenix_Industries-1589068666.979481.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "graphics",
+        "crewed"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

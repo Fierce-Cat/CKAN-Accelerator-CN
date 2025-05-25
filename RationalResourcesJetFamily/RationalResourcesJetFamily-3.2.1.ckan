@@ -1,0 +1,69 @@
+{
+    "abstract": "Enables fuel switching in air-breathing engines. A very welcome companion to cryo rocket systems. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "ClassicStockResources"
+                },
+                {
+                    "name": "CommunityResourcePack"
+                }
+            ]
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/RationalResources/releases/download/3.2.1/RationalResources-3.2.1.zip?auth_key=1748275916-b731d9ed1bef4698b17417c01cbda15f-0-1731329806a5c24f8b251e908ed32768&size=38957494&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8CF768138BA8811A02D36289019F13774AFAE586",
+        "sha256": "32572389FEB9FA595C270895384413B7E32E9BA0E766BC0118099488E31F07DF"
+    },
+    "download_size": 38957494,
+    "identifier": "RationalResourcesJetFamily",
+    "install_size": 38776,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Rational Resources Jet Family [PRO-KCMIRROR]",
+    "release_date": "2025-05-02T20:49:04Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/RationalResources/issues",
+        "discussions": "https://github.com/JadeOfMaar/RationalResources/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/184875-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalResources/Version/RationalResources.version",
+        "repository": "https://github.com/JadeOfMaar/RationalResources"
+    },
+    "spec_version": "v1.26",
+    "suggests": [
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "Mk2Expansion"
+        },
+        {
+            "name": "Mk3Expansion"
+        },
+        {
+            "name": "SXTContinued"
+        },
+        {
+            "name": "WaterDrinker"
+        }
+    ],
+    "tags": [
+        "config",
+        "convenience"
+    ],
+    "version": "3.2.1",
+    "x_generated_by": "netkan"
+}

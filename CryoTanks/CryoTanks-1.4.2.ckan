@@ -1,0 +1,67 @@
+{
+    "abstract": "A set of fuel tanks for containing Liquid Hydrogen. Also adds Liquid Hydrogen storage to most stock tanks [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "ChrisAdderley",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ChrisAdderley/CryoTanks/releases/download/1.4.2/CryoTanks_1_4_2.zip?auth_key=1748275917-1ff6799048e146429b83d24c908e4092-0-38af2635bc36c982d0105e8eca6786f2&size=60285131&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ED906E43EFA85A024C5BA2CCA3F2729782EF3996",
+        "sha256": "0276E4DD87E1C6A7A3105A7A0EF5CBB3D8F4AEC735F71B6DE5E10D367DCD82CF"
+    },
+    "download_size": 60285131,
+    "identifier": "CryoTanks",
+    "install": [
+        {
+            "filter": "SimpleBoiloff.dll",
+            "find": "CryoTanks",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "ru",
+        "zh-cn",
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr"
+    ],
+    "name": "Cryo Tanks [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://github.com/ChrisAdderley/CryoTanks/wiki",
+        "metanetkan": "https://github.com/ChrisAdderley/CryoTanks/raw/master/CKAN/CryoTanks.netkan",
+        "repository": "https://github.com/ChrisAdderley/CryoTanks"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "CryoEngines"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1.4.2",
+    "x_generated_by": "netkan"
+}

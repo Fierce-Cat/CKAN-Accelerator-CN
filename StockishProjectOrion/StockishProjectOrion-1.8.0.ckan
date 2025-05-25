@@ -1,0 +1,44 @@
+{
+    "abstract": "Orion drive and Orion drive-adjacent parts for KSP",
+    "author": "SuicidalInsanity",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2384/Stockish%20Project%20Orion/download/1.8.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F2BC5F308EEE09D28AA19CD3592391C251B797C2",
+        "sha256": "D5ED1B05C3B811D1F73A5325C632623550240056C46994C25A828613FB2B03E7"
+    },
+    "download_size": 6437157,
+    "identifier": "StockishProjectOrion",
+    "install": [
+        {
+            "find": "Orion",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Ships/VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version": "1.9.1",
+    "license": "MIT",
+    "name": "Stockish Project Orion",
+    "release_date": "2020-06-18T00:52:51.133538+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192855-19x-stockish-project-orion-v10-release-412020/",
+        "repository": "https://github.com/SuicidalInsanity/ProjectOrion",
+        "spacedock": "https://spacedock.info/mod/2384/Stockish%20Project%20Orion",
+        "x_screenshot": "https://spacedock.info/content/SuicidalInsanity_1925/Stockish_Project_Orion/Stockish_Project_Orion-1585794171.8628008.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "1.8.0",
+    "x_generated_by": "netkan"
+}

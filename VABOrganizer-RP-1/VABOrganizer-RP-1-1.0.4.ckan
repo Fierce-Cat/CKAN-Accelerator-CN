@@ -1,0 +1,61 @@
+{
+    "abstract": "RP-1 Config files for VAB Organizer",
+    "author": "Cruesoe",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RP-1"
+        },
+        {
+            "name": "VABOrganizer"
+        }
+    ],
+    "download": [
+        "https://github.com/Cruesoe/VABOrganizer-RP-1-Configs/releases/download/1.0.4/VABOrganizer-RP-1.Configs.1.0.4.zip",
+        "https://spacedock.info/mod/3801/VAB%20Organizer-RP-1%20Configs/download/1.0.4"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "99A2E51AD3A350010CD182CD8CBE8FAEA4DAB56A",
+        "sha256": "C3C48CD7BCB86E5F5A5A05D7C891E3688742E351C396E6DC00C131E5F869E5BE"
+    },
+    "download_size": 16514,
+    "identifier": "VABOrganizer-RP-1",
+    "install": [
+        {
+            "find": "VABOrganizer-RP-1 Configs",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 45660,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA",
+    "localizations": [
+        "en-us",
+        "RSSROConfig"
+    ],
+    "name": "VAB Organizer-RP-1 Configs",
+    "release_date": "2025-02-02T20:10:24.047459+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Cruesoe/VABOrganizer-RP-1-Configs/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/226604-1125-vab-organizer-rp-1-configs-v10/",
+        "repository": "https://github.com/Cruesoe/VABOrganizer-RP-1-Configs",
+        "spacedock": "https://spacedock.info/mod/3801/VAB%20Organizer-RP-1%20Configs",
+        "x_screenshot": "https://spacedock.info/content/Cruesoe_51729/VABOrganizer-RP-1_Configs/VABOrganizer-RP-1_Configs-1736610160.png"
+    },
+    "spec_version": "v1.34",
+    "supports": [
+        {
+            "name": "RP-1"
+        }
+    ],
+    "tags": [
+        "config",
+        "convenience",
+        "editor"
+    ],
+    "version": "1.0.4",
+    "x_generated_by": "netkan"
+}

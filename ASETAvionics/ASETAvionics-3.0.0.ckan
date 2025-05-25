@@ -1,0 +1,60 @@
+{
+    "abstract": "An Aircraft-style \"props\" pack for use in IVAs.",
+    "author": [
+        "alexustas",
+        "StoneBlue",
+        "JonnyOThan"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ASETAgency"
+        },
+        {
+            "min_version": "2.0.0",
+            "name": "ASETProps"
+        },
+        {
+            "min_version": "1:v0.30.2",
+            "name": "RasterPropMonitor-Core"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3239/ASET%20Consolidated%20Avionics%20Pack/download/3.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "58FB10B6F354F07B2B7305755B36CCA2E85B1D75",
+        "sha256": "FD0A0AAAC78804DD0AF3DCCA550B9B0F962ACD132EB8E120852B4B4FA7C3DF4E"
+    },
+    "download_size": 7192360,
+    "identifier": "ASETAvionics",
+    "install": [
+        {
+            "find": "ASET",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 12439705,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "ASET Consolidated Avionics Pack",
+    "release_date": "2023-02-12T13:59:14.351665+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/StoneBlue/ASET-Consolidated-Avionics/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/211905-wip-1125-181-aset-consolidated-avionics-props-iva-packs",
+        "remote-avc": "https://github.com/StoneBlue/ASET-Consolidated-Props/main/GameData/ASET/ASET_Avionics/ASET_Avionics.version",
+        "repository": "https://github.com/StoneBlue/ASET-Consolidated-Avionics",
+        "spacedock": "https://spacedock.info/mod/3239/ASET%20Consolidated%20Avionics%20Pack",
+        "x_screenshot": "https://spacedock.info/content/StoneBlue_14786/ASET_Consolidated_Avionics_Pack/ASET_Consolidated_Avionics_Pack-1676219079.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "library",
+        "crewed"
+    ],
+    "version": "3.0.0",
+    "x_generated_by": "netkan"
+}

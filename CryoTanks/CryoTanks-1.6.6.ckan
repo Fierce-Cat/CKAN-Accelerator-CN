@@ -1,0 +1,70 @@
+{
+    "abstract": "Liquid Hydrogen fuel tanks and Liquid Hydrogen storage for most stock tanks [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/CryoTanks/releases/download/1.6.6/CryoTanks_1_6_6.zip?auth_key=1748275917-d0a2c5f06df54aa28d16767112cad207-0-5d3fc1ed7bb6e9e836f708873de3d758&size=60344729&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "056B5A2A64BB4C7675D65FB26014FC764390C130",
+        "sha256": "9DC232AFCBA98A72FD67642241B8C7B3296FB764D26023094EB35960D94ACFB6"
+    },
+    "download_size": 60344729,
+    "identifier": "CryoTanks",
+    "install": [
+        {
+            "filter": "SimpleBoiloff.dll",
+            "find": "CryoTanks",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 113661098,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Cryo Tanks [PRO-KCMIRROR]",
+    "release_date": "2024-08-14T04:31:32Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/CryoTanks/issues",
+        "homepage": "https://github.com/post-kerbin-mining-corporation/CryoTanks/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/CryoTanks/master/GameData/CryoTanks/Versioning/CryoTanks.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/CryoTanks"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "CryoEngines"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1.6.6",
+    "x_generated_by": "netkan"
+}

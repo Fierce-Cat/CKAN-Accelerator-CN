@@ -1,0 +1,42 @@
+{
+    "abstract": "Textures for Stock Visual Enhancements [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Galileo88",
+    "comment": "Textures only",
+    "conflicts": [
+        {
+            "name": "SVE-Textures"
+        }
+    ],
+    "depends": [
+        {
+            "name": "StockVisualEnhancements"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Galileo88/StockVisualEnhancements/releases/download/1.0.3/SVE_HighResTextures.zip?auth_key=1748275917-6c3f3a93c00743aaaca6488a1988401b-0-4693b8be899e76e465ef2545c73bd4fa&size=67751045&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9CD56496B74CE4F66650D4943DBAC8261A2F93F8",
+        "sha256": "111DAD43CF37A5E35A3124BF87007C1B67F57D14E11D54BF0635B5853A47A2F6"
+    },
+    "download_size": 67751045,
+    "identifier": "SVE-HighResolution",
+    "install": [
+        {
+            "find": "GameData/StockVisualEnhancements",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.2",
+    "license": "CC-BY-NC-SA",
+    "name": "Stock Visual Enhancements-High Res Textures [PRO-KCMIRROR]",
+    "provides": [
+        "SVE-Textures"
+    ],
+    "release_status": "stable",
+    "resources": {
+        "repository": "https://github.com/Galileo88/StockVisualEnhancements"
+    },
+    "spec_version": "v1.4",
+    "version": "3:1.0.3",
+    "x_generated_by": "netkan"
+}

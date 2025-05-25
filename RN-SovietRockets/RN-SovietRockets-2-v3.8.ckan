@@ -1,0 +1,58 @@
+{
+    "abstract": "This mod contains various Soviet rockets derived from ICBM designs. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Raidernick",
+    "depends": [
+        {
+            "name": "BDAnimationModules"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/SovietRockets/releases/download/v3.8/RN_Soviet_Rockets_v3.8.zip?auth_key=1748275916-9d98cab06d454918ac377dc523442105-0-ec0e2ec872906797423a76d76b0cd4a3&size=137340047&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8AA403642F3218C7E9AD8FF9BBF0F2758268F2DC",
+        "sha256": "C62A439CB8BD27C01033E410FE2FADABA7CD51248D1080F08E52432972F20F8E"
+    },
+    "download_size": 137340047,
+    "identifier": "RN-SovietRockets",
+    "install": [
+        {
+            "find": "RN_Soviet_Rockets",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 316566948,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-ND-3.0",
+    "name": "Soviet Rockets - R7/Proton/Zenit Rockets and more [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RN-SalyutStations"
+        },
+        {
+            "name": "RN-SovietSpacecraft"
+        },
+        {
+            "name": "RN-SovietProbes"
+        }
+    ],
+    "release_date": "2021-07-24T08:06:20Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/SovietRockets/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/79433-*",
+        "remote-avc": "http://raw.githubusercontent.com/KSP-RO/SovietRockets/master/GameData/RN_Soviet_Rockets/SovietRockets.version",
+        "repository": "https://github.com/KSP-RO/SovietRockets"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "2:v3.8",
+    "x_generated_by": "netkan"
+}

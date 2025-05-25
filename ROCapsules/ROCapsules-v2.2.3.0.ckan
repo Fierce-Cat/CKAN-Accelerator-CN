@@ -1,0 +1,113 @@
+{
+    "abstract": "Takes the best versions of capsules available and uses them as the in-game models for Realism Overhaul parts. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "pap1723",
+        "KSP-RO"
+    ],
+    "conflicts": [
+        {
+            "name": "TweakableEverything"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "TexturesUnlimited",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ROLib"
+        },
+        {
+            "name": "B9PartSwitch",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DepthMask",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPWheel",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StagedAnimation",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BDAnimationModules",
+            "suppress_recommendations": true
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/ROCapsules/releases/download/v2.2.3.0/ROCapsules-v2.2.3.0.zip?auth_key=1748275916-dd0e182e8d604e258b59a98130e8d685-0-3b98e1cea44e776415840a9008ddb66b&size=246890163&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "703DF9050FB9B561FBDC11DF3E3006868BCC2ACB",
+        "sha256": "CEB8B957FEBF440DD6FE4DD5467D9423AE59DA00152BB71743FD7300A054D9E6"
+    },
+    "download_size": 246890163,
+    "identifier": "ROCapsules",
+    "install": [
+        {
+            "file": "GameData/ROCapsules",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 652988006,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-SA",
+    "localizations": [
+        "RSSROConfig"
+    ],
+    "name": "RO Capsules [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ROEngines"
+        },
+        {
+            "name": "ROTanks"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "RP-0"
+        }
+    ],
+    "release_date": "2023-10-20T04:47:32Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/ROCapsules/issues",
+        "homepage": "https://discordapp.com/invite/ZGbR6nv",
+        "metanetkan": "https://github.com/KSP-RO/ROCapsules/raw/master/ROCapsules.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/ROCapsules/master/GameData/ROCapsules/ROCapsules.version",
+        "repository": "https://github.com/KSP-RO/ROCapsules"
+    },
+    "spec_version": "v1.26",
+    "tags": [
+        "parts",
+        "config",
+        "graphics",
+        "crewed"
+    ],
+    "version": "v2.2.3.0",
+    "x_generated_by": "netkan"
+}

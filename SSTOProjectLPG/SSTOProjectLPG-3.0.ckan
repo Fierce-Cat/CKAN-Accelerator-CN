@@ -1,0 +1,44 @@
+{
+    "abstract": "Converts parts to support more functionality",
+    "author": "Monniasza",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SSTOProject"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3022/Ultimate%20Part%20Converter%20(formerly%20SSTO%20Project%20LPG)/download/3.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E18645E3443F23CF85BFF25EFD9EEEAA70FC232B",
+        "sha256": "865F2A837321994C77277B622BAEC0A9E6EFFC6DB40B9BBC99099A3D6938B906"
+    },
+    "download_size": 3374,
+    "identifier": "SSTOProjectLPG",
+    "install": [
+        {
+            "find": "SSTOLPG",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 8693,
+    "ksp_version_max": "1.12.999",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Ultimate Part Converter (formerly SSTO Project LPG)",
+    "release_date": "2023-10-04T16:48:46.609046+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Monniasza/SSTO-Project/issues",
+        "homepage": "https://spacedock.info/mod/2417/SSTO%2520Project",
+        "repository": "https://github.com/Monniasza/SSTO-Project",
+        "spacedock": "https://spacedock.info/mod/3022/Ultimate%20Part%20Converter%20(formerly%20SSTO%20Project%20LPG)"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config"
+    ],
+    "version": "3.0",
+    "x_generated_by": "netkan"
+}

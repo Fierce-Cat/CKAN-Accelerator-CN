@@ -1,0 +1,64 @@
+{
+    "abstract": "A config-file based solution for creating new contracts! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "nightingale",
+        "KSP-RO team"
+    ],
+    "conflicts": [
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/ContractConfigurator/releases/download/2.1.2/ContractConfigurator_2.1.2.zip?auth_key=1748275914-f54a25aa88b545e697f16e8b16d55164-0-cfb817fd3b13fb6184dfb5c3243838e7&size=574425&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3E30E33D7E92C0DD6DC6CBCDF56685A1052228F9",
+        "sha256": "A728644FD5E3205C702D0C8EC1649EB9C141FB3BCA37B512CD427C25CFAC5DF3"
+    },
+    "download_size": 574425,
+    "identifier": "ContractConfigurator",
+    "install": [
+        {
+            "file": "GameData/ContractConfigurator",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.1",
+    "ksp_version_strict": true,
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "Contract Configurator [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RP-1-ExpressInstall"
+        }
+    ],
+    "release_date": "2022-07-29T08:16:24Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/ContractConfigurator/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190040--",
+        "license": "https://raw.githubusercontent.com/KSP-RO/ContractConfigurator/master/LICENSE.txt",
+        "manual": "https://github.com/jrossignol/ContractConfigurator/wiki",
+        "metanetkan": "https://raw.githubusercontent.com/KSP-RO/ContractConfigurator/master/ContractConfiguratorRO.netkan",
+        "remote-avc": "https://github.com/KSP-RO/ContractConfigurator/raw/master/GameData/ContractConfigurator/ContractConfigurator.version",
+        "repository": "https://github.com/KSP-RO/ContractConfigurator"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "plugin",
+        "library",
+        "career"
+    ],
+    "version": "2.1.2",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,64 @@
+{
+    "abstract": "Infernal Robotics fork for Realism Overhaul",
+    "author": [
+        "r4m0n",
+        "ziw",
+        "sirkut",
+        "Devo",
+        "ZodiusInfuser",
+        "whale_2"
+    ],
+    "conflicts": [
+        {
+            "name": "InfernalRobotics"
+        },
+        {
+            "name": "InfernalRobotics-LegacyParts"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TweakScale-Redist"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2329/Infernal%20RO-Robotics/download/2.3.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D3B7D1E2E016E74967A90743BC10429ADD7BA19D",
+        "sha256": "DBBF96F3D01B26B7C82ED8D7559F61BECD2176FBC345396981E2E24E23A3BB77"
+    },
+    "download_size": 2937017,
+    "identifier": "InfernalRoboticsRealismOverhaul",
+    "install": [
+        {
+            "filter": "Scale_Redist.dll",
+            "find": "MagicSmokeIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 8513313,
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Infernal RO-Robotics",
+    "provides": [
+        "InfernalRobotics"
+    ],
+    "release_date": "2020-05-24T12:26:36.099776+00:00",
+    "resources": {
+        "homepage": "https://github.com/whale2/InfernalRobotics/tree/master",
+        "remote-avc": "https://raw.githubusercontent.com/whale2/InfernalRobotics/master/GameData/MagicSmokeIndustries/InfernalRobotics.version",
+        "repository": "https://github.com/whale2/InfernalRobotics",
+        "spacedock": "https://spacedock.info/mod/2329/Infernal%20RO-Robotics"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "2.3.1",
+    "x_generated_by": "netkan"
+}

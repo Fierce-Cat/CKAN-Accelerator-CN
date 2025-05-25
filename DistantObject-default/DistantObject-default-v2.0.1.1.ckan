@@ -1,0 +1,53 @@
+{
+    "abstract": "Default planets colors [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "duckytopia",
+        "MOARdV",
+        "TheDarkBadger"
+    ],
+    "conflicts": [
+        {
+            "name": "DistantObject-config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "DistantObject"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/TheDarkBadger/DistantObject/releases/download/v2.0.1.1/DistantObject-v2.0.1.1.zip?auth_key=1748275915-dc4fa09479f848a080fababd8c34cc8d-0-6a301d6c3715fb8a5a3e92c8928f0b75&size=31013&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F01E5ABB1663F65DD6871271D282E0F52056CEC6",
+        "sha256": "A9CA3286BF67003BADA232DD3A8FC15EAFE62651AD4CC3B032F480E96CFF26B7"
+    },
+    "download_size": 31013,
+    "identifier": "DistantObject-default",
+    "install": [
+        {
+            "find": "PlanetColors.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/DistantObject"
+        }
+    ],
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.10.0",
+    "license": "CC-BY-4.0",
+    "name": "Distant Object Enhancement Continued default config [PRO-KCMIRROR]",
+    "provides": [
+        "DistantObject-config"
+    ],
+    "release_date": "2020-11-01T10:43:01Z",
+    "resources": {
+        "bugtracker": "https://github.com/TheDarkBadger/DistantObject/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189759-*",
+        "repository": "https://github.com/TheDarkBadger/DistantObject"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "v2.0.1.1",
+    "x_generated_by": "netkan"
+}

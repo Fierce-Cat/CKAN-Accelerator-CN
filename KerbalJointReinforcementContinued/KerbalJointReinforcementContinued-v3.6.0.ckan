@@ -1,0 +1,47 @@
+{
+    "abstract": "KJR tightens up the joints between parts and adds some physics-adjusting parameters to make vehicles more stable when loading on the launchpad or coming out of timewarp. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "ferram4",
+        "Starwaster"
+    ],
+    "conflicts": [
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/Kerbal-Joint-Reinforcement-Continued/releases/download/v3.6.0/Kerbal-Joint-Reinforcement_v3.6.0.zip?auth_key=1748275914-c5add31bcc58462ebea280b59a87cd8f-0-3958b2cc8412b72956d888449d3d5d2a&size=39725&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "867421EF464C13BAEA73FC6696E5937DB910DE72",
+        "sha256": "E3CA1F5F531E7BDB5FE8CAF7824413A2D3621A96CC8F93B48BB6020559D55E57"
+    },
+    "download_size": 39725,
+    "identifier": "KerbalJointReinforcementContinued",
+    "install": [
+        {
+            "find": "KerbalJointReinforcement",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "Kerbal Joint Reinforcement Continued [PRO-KCMIRROR]",
+    "provides": [
+        "KerbalJointReinforcement"
+    ],
+    "release_date": "2022-01-25T14:07:23Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184019-*",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued/master/GameData/KerbalJointReinforcement/KerbalJointReinforcement.version",
+        "repository": "https://github.com/KSP-RO/Kerbal-Joint-Reinforcement-Continued"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "v3.6.0",
+    "x_generated_by": "netkan"
+}

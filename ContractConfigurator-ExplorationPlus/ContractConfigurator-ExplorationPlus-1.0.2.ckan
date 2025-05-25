@@ -1,0 +1,38 @@
+{
+    "abstract": "Overhaul of the stock Exploration contracts [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "severedsolo",
+    "depends": [
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/severedsolo/ExplorationPlus/releases/download/1.0.2/ExplorationPlus.zip?auth_key=1748275918-d49dd60d274046f8a114741271db7b74-0-667386696fd45ee97d286cba8aa7a451&size=13790&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EC767B136671D9591DFAD181F314169E019F4F3F",
+        "sha256": "0ACDBE328CDFF0571DD25B892D1C66A462868074D6181FF2249037D0FD844908"
+    },
+    "download_size": 13790,
+    "identifier": "ContractConfigurator-ExplorationPlus",
+    "install": [
+        {
+            "find": "ExplorationPlus",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "ksp_version_max": "1.99.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Contract Pack: Exploration Plus [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/156338-*",
+        "repository": "https://github.com/severedsolo/ExplorationPlus"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "career"
+    ],
+    "version": "1.0.2",
+    "x_generated_by": "netkan"
+}

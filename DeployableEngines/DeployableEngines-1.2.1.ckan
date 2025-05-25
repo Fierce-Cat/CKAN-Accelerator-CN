@@ -1,0 +1,44 @@
+{
+    "abstract": "A plugin to manage extending/retracting engine nozzles [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "ChrisAdderley",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ChrisAdderley/DeployableEngines/releases/download/1.2.1/DeployableEngines_1_2_1.zip?auth_key=1748275917-bf80cb2b319a476289bc7759bbc41f7e-0-fcd23bb448ae30203047a7cb2aaf0b8b&size=7799&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2855302A292D448B1EB85F7A9878CF0AB6B7AE38",
+        "sha256": "2448601F613F216DF3035527F046F9AC6A8E1D01BBA48841E5E543F0EDF6BBBE"
+    },
+    "download_size": 7799,
+    "identifier": "DeployableEngines",
+    "install": [
+        {
+            "find": "DeployableEngines",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Deployable Engines Plugin [PRO-KCMIRROR]",
+    "release_date": "2020-02-20T20:00:15Z",
+    "resources": {
+        "bugtracker": "https://github.com/ChrisAdderley/DeployableEngines/issues",
+        "homepage": "https://github.com/ChrisAdderley/DeployableEngines/wiki",
+        "metanetkan": "https://github.com/ChrisAdderley/DeployableEngines/raw/master/CKAN/DeployableEngines.netkan",
+        "repository": "https://github.com/ChrisAdderley/DeployableEngines"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "CryoEngines"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "1.2.1",
+    "x_generated_by": "netkan"
+}

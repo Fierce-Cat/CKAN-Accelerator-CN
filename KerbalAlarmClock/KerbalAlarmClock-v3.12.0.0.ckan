@@ -1,0 +1,42 @@
+{
+    "abstract": "An in-game alarm clock to help you stop missing important moments [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "TriggerAu",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/TriggerAu/KerbalAlarmClock/releases/download/v3.12.0.0/KerbalAlarmClock_3.12.0.0.zip?auth_key=1748275914-d3bca34c05d2493f9a6cf30546766e4e-0-452672cefc559d25807d72e9a732cae4&size=1417306&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2425237FBADCD4DE814ED1D201A3DFE0FED41FF4",
+        "sha256": "FEF722EDF55D1A97986872D3151D6DDB956BF297BC66C866390D8A7FCBB1CE02"
+    },
+    "download_size": 1417306,
+    "identifier": "KerbalAlarmClock",
+    "install": [
+        {
+            "find": "KerbalAlarmClock",
+            "install_to": "GameData/TriggerTech"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Kerbal Alarm Clock [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "TriggerAu-Flags"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "curse": "http://kerbal.curseforge.com/ksp-mods/220289-kerbal-alarm-clock",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/22809-14x-kerbal-alarm-clock-v3900-mar-17/",
+        "license": "https://github.com/TriggerAu/KerbalAlarmClock/blob/master/LICENSE",
+        "manual": "http://triggerau.github.io/KerbalAlarmClock/",
+        "repository": "https://github.com/TriggerAu/KerbalAlarmClock"
+    },
+    "spec_version": "v1.20",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "v3.12.0.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,37 @@
+{
+    "abstract": "Creates a cloned Goliath Jet Engine with it's max thrust set to to 800kN, which is 2.5 times more thrust than stock, but at the cost of increased fuel consumption. Great add-on for heavy transport planes!",
+    "author": "Xyphos",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1573/Goliath%20Patch/download/v0.0.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DAE5AEA75B519D880887BC165059E6CFE1AD0434",
+        "sha256": "B1FBF38C08BDE906F9FD73E25D53853D62EDE3322D8F86B0956B248C0F9C92B3"
+    },
+    "download_size": 1237,
+    "identifier": "GoliathPatch",
+    "install": [
+        {
+            "find": "XyphosAerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 589,
+    "ksp_version": "1.10.1",
+    "license": "public-domain",
+    "name": "Goliath Patch",
+    "release_date": "2018-04-26T08:39:47.867988+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/1573/Goliath%20Patch"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "v0.0.0.2",
+    "x_generated_by": "netkan"
+}

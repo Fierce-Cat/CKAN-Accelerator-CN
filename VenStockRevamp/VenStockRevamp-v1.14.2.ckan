@@ -1,0 +1,58 @@
+{
+    "abstract": "With this part pack, your rockets/planes/racecars will look at least 20% cooler as they tumble into the ground! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "VenVen",
+        "Kerbas-ad-astra"
+    ],
+    "conflicts": [
+        {
+            "name": "ReStock"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "VenStockRevamp-Core"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kerbas-ad-astra/Stock-Revamp/releases/download/v1.14.2/VenStockRevamp-v1.14.2.zip?auth_key=1748275916-5bb430d03d1d49d2a961c80ce061ea32-0-dd608a4682f68f973b36db7d1f697cbd&size=142352558&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A1FF37061F6852FDAC873516A93DB2A283DEED10",
+        "sha256": "7B949033F4DFF437105B904E440EF01860396A5E508F98942951EBBD78BBC998"
+    },
+    "download_size": 142352558,
+    "identifier": "VenStockRevamp",
+    "install": [
+        {
+            "find": "VenStockRevamp/PathPatches",
+            "install_to": "GameData/VenStockRevamp"
+        },
+        {
+            "find": "VenStockRevamp/Squad",
+            "install_to": "GameData/VenStockRevamp"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-4.0",
+    "name": "Ven's Stock Part Revamp [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "VenStockRevamp-NewParts"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189732-*",
+        "repository": "https://github.com/Kerbas-ad-astra/Stock-Revamp"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "graphics"
+    ],
+    "version": "v1.14.2",
+    "x_generated_by": "netkan"
+}

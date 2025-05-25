@@ -1,0 +1,66 @@
+{
+    "abstract": "This is the full KW Rocketry with the tanks rebalanced to better values",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "KWRocketry"
+        },
+        {
+            "name": "KWRocketryRedux"
+        },
+        {
+            "name": "KWRocketry-CommunityFixes"
+        },
+        {
+            "name": "KWRocketry-CommunityFixes-interstage"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1497/KW%20Rocketry%20Rebalanced/download/3.2.7.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B4BB2BE1EEBD0C7C83B9B4C913D01435954AC5DE",
+        "sha256": "40372C53D2C6662B7BD00E822F1A18AE3883D4AE1B62D3CCA72B317E561C38BC"
+    },
+    "download_size": 50435661,
+    "identifier": "KWRocketryRebalanced",
+    "install": [
+        {
+            "find": "GameData/KWRocketry",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-SA-3.0",
+    "name": "KW Rocketry Rebalanced",
+    "recommends": [
+        {
+            "name": "SimpleAdjustableFairings-KWRocketry"
+        },
+        {
+            "name": "Patchmanager"
+        },
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "release_date": "2020-03-01T14:35:58.485467+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164554-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/KWRocketryRebalanced",
+        "repository": "https://github.com/linuxgurugamer/KWRocketryRedux",
+        "spacedock": "https://spacedock.info/mod/1497/KW%20Rocketry%20Rebalanced",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/KW_Rocketry_Rebalanced/KW_Rocketry_Rebalanced-1503056237.241356.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "3.2.7.1",
+    "x_generated_by": "netkan"
+}

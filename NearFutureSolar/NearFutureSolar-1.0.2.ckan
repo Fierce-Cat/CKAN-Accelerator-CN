@@ -1,0 +1,65 @@
+{
+    "abstract": "New solar panels in a variety of sizes and types",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/559/Near%20Future%20Solar/download/1.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5E11DE7C11F1873DA7C31164BFB3A41D1A29E246",
+        "sha256": "7A6FA880B7B3E5BACC975C40D064CC4578864ED0882F70324284C5C74F4FD711"
+    },
+    "download_size": 18554690,
+    "identifier": "NearFutureSolar",
+    "install": [
+        {
+            "filter": "NearFutureSolar.dll",
+            "find": "NearFutureSolar",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.7.0",
+    "license": "restricted",
+    "localizations": [
+        "ru",
+        "zh-cn",
+        "de-de",
+        "en-us",
+        "es-es",
+        "it-it"
+    ],
+    "name": "Near Future Solar",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-16x-near-future-technologies-16x-fixes-jan-21/",
+        "repository": "https://github.com/ChrisAdderley/NearFutureSolar",
+        "spacedock": "https://spacedock.info/mod/559/Near%20Future%20Solar",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Solar/Near_Future_Solar-1461341963.6733372.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        }
+    ],
+    "version": "1.0.2",
+    "x_generated_by": "netkan"
+}

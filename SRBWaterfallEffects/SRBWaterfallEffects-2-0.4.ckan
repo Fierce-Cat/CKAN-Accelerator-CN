@@ -1,0 +1,62 @@
+{
+    "abstract": "A set of waterfall and smokescreen configs to add waterfall to SRBs",
+    "author": "Adiri",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "RealPlume"
+        },
+        {
+            "name": "RealPlume-StockConfigs"
+        },
+        {
+            "name": "SmokeScreen"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2992/RSMP%20-%20Remastered%20Solid%20Plume%20Effects/download/0.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "74C0CC1B022DBF4588280AA70AB65BC4044795D0",
+        "sha256": "CC80D57BB200B2D7B55CF9CD8D7EBCBAD723CB3850C1B5D5503F0E6CAEC0F181"
+    },
+    "download_size": 765923,
+    "identifier": "SRBWaterfallEffects",
+    "install": [
+        {
+            "find": "RSMP",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1060256,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA",
+    "name": "RSMP - Remastered Solid Plume Effects",
+    "release_date": "2023-12-24T22:44:19.656471+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/AdiriKSP/RSMP/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/207196-112x-rsmp-formally-swe/",
+        "repository": "https://github.com/AdiriKSP/RSMP",
+        "spacedock": "https://spacedock.info/mod/2992/RSMP%20-%20Remastered%20Solid%20Plume%20Effects",
+        "x_screenshot": "https://spacedock.info/content/Adiri_65268/RSMP_-_Remastered_Solid_Plume_Effects_ALL_OLD_RELEASES_OUTDATED/RSMP_-_Remastered_Solid_Plume_Effects_ALL_OLD_RELEASES_OUTDATED-1687568483.png"
+    },
+    "spec_version": "v1.18",
+    "suggests": [
+        {
+            "name": "AudioMufflerRedux"
+        },
+        {
+            "name": "TUFX"
+        }
+    ],
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "2:0.4",
+    "x_generated_by": "netkan"
+}

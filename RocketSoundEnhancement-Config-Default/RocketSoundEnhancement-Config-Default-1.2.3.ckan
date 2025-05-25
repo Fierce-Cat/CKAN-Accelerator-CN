@@ -1,0 +1,43 @@
+{
+    "abstract": "RSE sounds for stock engines, wheels, decouplers, and more [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "ensou04",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RocketSoundEnhancement"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ensou04/RocketSoundEnhancementDefault/releases/download/1.2.3/RocketSoundEnhancement-Default-v1.2.3.zip?auth_key=1748275914-3fd0a2a31e7a4522a5602f53fd967cca-0-9ef0aed61eeb3487e4d064bd8009c57c&size=103852766&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "537B259CFC179A5E7922992B8B330F20E6CA0524",
+        "sha256": "652A6AE1F2CDBB8275E7913310ECAB509E5051C0B9CEC2A618A148CE0738F6D1"
+    },
+    "download_size": 103852766,
+    "identifier": "RocketSoundEnhancement-Config-Default",
+    "install": [
+        {
+            "find": "RocketSoundEnhancementDefault",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Rocket Sound Enhancement - Default [PRO-KCMIRROR]",
+    "release_date": "2022-06-22T11:23:44Z",
+    "resources": {
+        "bugtracker": "https://github.com/ensou04/RocketSoundEnhancementDefault/issues",
+        "remote-avc": "https://raw.githubusercontent.com/ensou04/RocketSoundEnhancementDefault/master/GameData/RocketSoundEnhancementDefault/RocketSoundEnhancementDefault.version",
+        "repository": "https://github.com/ensou04/RocketSoundEnhancementDefault"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "sound"
+    ],
+    "version": "1.2.3",
+    "x_generated_by": "netkan"
+}

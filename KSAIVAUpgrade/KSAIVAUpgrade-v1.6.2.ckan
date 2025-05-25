@@ -1,0 +1,76 @@
+{
+    "abstract": "Detailed IVAs for the stock mk1 pods and cockpits. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "RangeMachine",
+        "JonnyOThan"
+    ],
+    "depends": [
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "ASETAvionics"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JonnyOThan/KSA-IVA-Upgrade/releases/download/v1.6.2/KSA-IVA-Upgrade-v1.6.2.zip?auth_key=1748275915-3f268f53368145819ef0462ab03337aa-0-4d785a900ec67af072087da850c1d711&size=46816&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1535C180AFE988FDC67EF6CEF03ACA9E691A3FC5",
+        "sha256": "A0B7CACC0BA79E2FA2C0046F27C15B3E932482CD6783CA80E8ED61CCB4AF1B36"
+    },
+    "download_size": 46816,
+    "identifier": "KSAIVAUpgrade",
+    "install": [
+        {
+            "find": "KSA",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 211174,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-SA-2.0",
+    "name": "KSA IVA Upgrade [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "Reviva"
+        }
+    ],
+    "release_date": "2022-09-14T01:13:30Z",
+    "resources": {
+        "bugtracker": "https://github.com/JonnyOThan/KSA-IVA-Upgrade/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208598-ksa-iva-upgrade-adopted-mk1-stock-parts/",
+        "license": "https://github.com/JonnyOThan/KSA-IVA-Upgrade/blob/main/LICENSE",
+        "remote-avc": "https://raw.githubusercontent.com/JonnyOThan/KSA-IVA-Upgrade/main/GameData/KSA/IVAUpgrade/KSA_IVAUpgrade.version",
+        "repository": "https://github.com/JonnyOThan/KSA-IVA-Upgrade",
+        "x_screenshot": "https://i.imgur.com/MkfyOsO.png"
+    },
+    "spec_version": "v1.16",
+    "suggests": [
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "Astrogator"
+        },
+        {
+            "name": "HullcamVDSContinued"
+        }
+    ],
+    "tags": [
+        "config",
+        "crewed",
+        "graphics"
+    ],
+    "version": "v1.6.2",
+    "x_generated_by": "netkan"
+}

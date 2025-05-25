@@ -1,0 +1,42 @@
+{
+    "abstract": "a mod adding the Sea Dragon SHLV, suited for a 2.5x solar system",
+    "author": "cmdrads",
+    "depends": [
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3183/Stock%20Scale%20Sea%20Dragon/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A98801EF26CB51125FF3FA6DBEF49797D201D00E",
+        "sha256": "E4088729DB606B72D97EBA68BAE238FBA6B13C57F0023A58805F5691591FDC91"
+    },
+    "download_size": 104602512,
+    "identifier": "StockScaleSeaDragon",
+    "install": [
+        {
+            "find": "ImprovedSeaDragon",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 464694524,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Stock Scale Sea Dragon",
+    "release_date": "2023-01-07T01:14:54.100656+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/cmdrads/ImprovedSeaDragon/issues",
+        "repository": "https://github.com/cmdrads/ImprovedSeaDragon",
+        "spacedock": "https://spacedock.info/mod/3183/Stock%20Scale%20Sea%20Dragon",
+        "x_screenshot": "https://spacedock.info/content/cmdrads_83894/Stock_Scale_Sea_Dragon/Stock_Scale_Sea_Dragon-1672006336.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "graphics"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

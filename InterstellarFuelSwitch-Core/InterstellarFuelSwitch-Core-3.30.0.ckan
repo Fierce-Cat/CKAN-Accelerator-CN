@@ -1,0 +1,73 @@
+{
+    "abstract": "Core plugin for Interstellar Fuel Switch",
+    "author": "FreeThinker",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TweakScale-Redist"
+        }
+    ],
+    "download": "https://spacedock.info/mod/175/Interstellar%20Fuel%20Switch/download/3.30.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "575CE726CE2A88F7FE1B8549875621D660752D2B",
+        "sha256": "BA748967AE434415FD3CBAFFD76A2768EE95BBC4E561A3EB3E8DB40584DEB356"
+    },
+    "download_size": 22557518,
+    "identifier": "InterstellarFuelSwitch-Core",
+    "install": [
+        {
+            "find": "InterstellarFuelSwitch/Plugins",
+            "install_to": "GameData/InterstellarFuelSwitch"
+        },
+        {
+            "find": "InterstellarFuelSwitch/Resources",
+            "install_to": "GameData/InterstellarFuelSwitch"
+        },
+        {
+            "find": "InterstellarFuelSwitch/Localization",
+            "install_to": "GameData/InterstellarFuelSwitch"
+        }
+    ],
+    "install_size": 358238,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8.1",
+    "license": "GPL-2.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Interstellar Fuel Switch Core",
+    "provides": [
+        "DeadskinsTextureSwitch",
+        "DeadskinsMeshSwitch"
+    ],
+    "recommends": [
+        {
+            "min_version": "0.7.1",
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "release_date": "2023-01-22T18:54:07.873437+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/sswelm/KSP-Interstellar-Extended/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/106243-interstellar-fuel-switch/",
+        "remote-avc": "https://raw.githubusercontent.com/sswelm/KSP-Interstellar-Extended/master/GameData/InterstellarFuelSwitch/Plugins/InterstellarFuelSwitch.version",
+        "repository": "https://github.com/sswelm/KSP-Interstellar-Extended/tree/master/FuelSwitch",
+        "spacedock": "https://spacedock.info/mod/175/Interstellar%20Fuel%20Switch",
+        "x_screenshot": "https://spacedock.info/content/FreeThinker_517/Interstellar_Fuel_Switch/Interstellar_Fuel_Switch-1481278354.0821617.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "resources",
+        "library"
+    ],
+    "version": "3.30.0",
+    "x_generated_by": "netkan"
+}

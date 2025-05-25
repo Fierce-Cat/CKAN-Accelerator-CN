@@ -1,0 +1,55 @@
+{
+    "abstract": "Default planets colors",
+    "author": [
+        "TheDarkBadger",
+        "Lisias"
+    ],
+    "conflicts": [
+        {
+            "name": "DistantObject-config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "DistantObject"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2274/Distant%20Object%20Enhancement%20Continued/download/v2.1.1.7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "65CDE01DFA66470DBDDE5CB6712DBBBD02BCAE21",
+        "sha256": "3DF69FB574EA1CFA1F3DE6929380A69C4B3981130DC52D07DBB3FBB5CB3C4C2F"
+    },
+    "download_size": 103018,
+    "identifier": "DistantObject-default",
+    "install": [
+        {
+            "find": "PlanetColors.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/DistantObject"
+        }
+    ],
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.3.1",
+    "license": "CC-BY-4.0",
+    "name": "Distant Object Enhancement /L default config",
+    "provides": [
+        "DistantObject-config"
+    ],
+    "release_date": "2022-04-20T22:04:28.107012+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/net-lisias-ksp/DistantObject/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/205063-*",
+        "remote-avc": "https://raw.githubusercontent.com/net-lisias-ksp/DistantObject/master/DistantObject.version",
+        "repository": "https://github.com/net-lisias-ksp/DistantObject",
+        "spacedock": "https://spacedock.info/mod/2274/Distant%20Object%20Enhancement%20Continued",
+        "x_screenshot": "https://spacedock.info/content/TheDarkBadger_31275/Distant_Object_Enhancement_Continued/Distant_Object_Enhancement_Continued-1581673677.461667.png"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "v2.1.1.7",
+    "x_generated_by": "netkan"
+}

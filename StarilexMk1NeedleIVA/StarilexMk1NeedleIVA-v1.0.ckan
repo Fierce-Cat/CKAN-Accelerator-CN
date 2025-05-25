@@ -1,0 +1,53 @@
+{
+    "abstract": "Starilex 'Needle' IVA for the Mk1 pod",
+    "author": "Alex P",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "AvionicsSystems"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "ASETAvionics"
+        }
+    ],
+    "download": "https://gitlab.com/Ailex-/starilex-mk1-iva/-/archive/v1.0/starilex-mk1-iva-v1.0.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "79B9301156E63E47A0A37DEEBE81BC9706909901",
+        "sha256": "9977C0BB3E6B1738C661EA02C9DC159CFC638AC035A7BBA148D5766A5B286F57"
+    },
+    "download_size": 12161795,
+    "identifier": "StarilexMk1NeedleIVA",
+    "install": [
+        {
+            "find": "Starliex",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 28063994,
+    "ksp_version": "1.12.3",
+    "license": "CC-BY-NC-SA",
+    "name": "Starilex MK1 IVA",
+    "release_date": "2022-08-22T13:53:56.162Z",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209466-*",
+        "repository": "https://gitlab.com/Ailex-/starilex-mk1-iva",
+        "spacedock": "https://spacedock.info/mod/3113"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "crewed",
+        "first-person"
+    ],
+    "version": "v1.0",
+    "x_generated_by": "netkan"
+}

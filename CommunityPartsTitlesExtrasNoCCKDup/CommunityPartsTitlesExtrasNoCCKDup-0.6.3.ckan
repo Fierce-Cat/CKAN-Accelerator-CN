@@ -1,0 +1,51 @@
+{
+    "abstract": "If parts are placed in a CCK category, it usually also appeared in the original category. This patch hide all CCK-parts from the original categories. CPT give new titles considering the No Duplicates, so it is recommended. The mod was separated, because it has one disadvantage: parts what was hided from their original categories are not available in the search. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "flart",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/yalov/CommunityPartsTitles/releases/download/0.6.3/CommunityPartsTitles-v0.6.3.zip?auth_key=1748275916-950961c9cf0d4c479549f2f70f4a5ebc-0-a09753f8901bdaa07333dd5018d35da0&size=151964&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6AE45243DA9C26F5B7488A8B7E6E34B8D092590D",
+        "sha256": "64B92C44188FE256B5C24DFF1F2512CC81696AA0C668793963D12D1A00772526"
+    },
+    "download_size": 151964,
+    "identifier": "CommunityPartsTitlesExtrasNoCCKDup",
+    "install": [
+        {
+            "comment": "Install category_hide_cck.cfg into Extras/ folder. So it is kind of Extra for Extra.",
+            "file": "GameData/002_CommunityPartsTitles/Extras/category_hide_cck.cfg",
+            "install_to": "GameData/002_CommunityPartsTitles/Extras"
+        }
+    ],
+    "ksp_version_max": "1.9.9",
+    "ksp_version_min": "1.3.0",
+    "license": "GPL-3.0",
+    "name": "Community Parts Titles Extras: CCK - No Duplicates [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "CommunityPartsTitles"
+        },
+        {
+            "name": "CommunityPartsTitlesExtrasCategory"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "resources": {
+        "bugtracker": "https://github.com/yalov/CommunityPartsTitles/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174189-*",
+        "repository": "https://github.com/yalov/CommunityPartsTitles"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "convenience"
+    ],
+    "version": "0.6.3",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,37 @@
+{
+    "abstract": "This Mod aims to the recreate the Russian Angara Rocket in Kerbal Space Program.",
+    "author": "Nigel_Cardozo",
+    "download": "https://spacedock.info/mod/2564/Angara/download/v2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DD3D9BD4105A5A6C2151FEAEFDB4570DE41FC709",
+        "sha256": "3BCEF094CB8348AB781A21EE074DD838849D334276F98B56B688F3C14EAEBE7B"
+    },
+    "download_size": 8793119,
+    "identifier": "AngaraRocketPack",
+    "install": [
+        {
+            "find": "GameData/ANGARA",
+            "install_to": "GameData"
+        },
+        {
+            "find": "VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 22009040,
+    "ksp_version": "1.10.1",
+    "license": "MIT",
+    "name": "Angara",
+    "release_date": "2020-11-10T13:05:12.297852+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/198026-110x-angara-v20-10112020/",
+        "spacedock": "https://spacedock.info/mod/2564/Angara"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "v2.0",
+    "x_generated_by": "netkan"
+}

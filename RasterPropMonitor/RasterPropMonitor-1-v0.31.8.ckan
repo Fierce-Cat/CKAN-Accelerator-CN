@@ -1,0 +1,115 @@
+{
+    "abstract": "Modifies stock and some modded IVAs with functional props [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Mihara",
+        "MOARdV",
+        "JonnyOThan"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JonnyOThan/RasterPropMonitor/releases/download/v0.31.8/RasterPropMonitor-v0.31.8.zip?auth_key=1748275916-07d2194231da4d54864295f74ad711a0-0-92b53d047d50194c3a5bd3e6207e49a0&size=1313304&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "148800961D11E86B458BD867695468AF72A6DFE8",
+        "sha256": "2997A5DA28389DCE8630C0EB19755D1892372E911D442C34670ABCD6072609BD"
+    },
+    "download_size": 1313304,
+    "identifier": "RasterPropMonitor",
+    "install": [
+        {
+            "filter": [
+                "RasterPropMonitor",
+                "BasicMFD",
+                "README.md",
+                "LICENSE.md",
+                "Agencies"
+            ],
+            "find": "JSI",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 187334,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "RasterPropMonitor [PRO-KCMIRROR]",
+    "release_date": "2022-10-08T15:40:57Z",
+    "resources": {
+        "bugtracker": "https://github.com/JonnyOThan/RasterPropMonitor/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190737-*",
+        "remote-avc": "https://raw.githubusercontent.com/JonnyOThan/RasterPropMonitor/master/GameData/JSI/RasterPropMonitor/RasterPropMonitor.version",
+        "repository": "https://github.com/JonnyOThan/RasterPropMonitor/releases"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "JSIAdvancedTransparentPods"
+        },
+        {
+            "name": "Astrogator"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "NavUtilitiesContinued"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "VesselView"
+        },
+        {
+            "name": "ProbeControlRoomRecontrolled"
+        },
+        {
+            "name": "kOSPropMonitor"
+        },
+        {
+            "name": "Chatterer"
+        },
+        {
+            "name": "FerramAerospaceResearchContinued"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "ASETAvionics"
+        },
+        {
+            "name": "Mk1LanderCanIVAReplbyASET"
+        },
+        {
+            "name": "MK12PodIVAReplacementbyASET"
+        },
+        {
+            "name": "ALCORIVAPatch"
+        },
+        {
+            "name": "ThroughTheEyesOfaKerbal"
+        },
+        {
+            "name": "QuickIVA"
+        }
+    ],
+    "tags": [
+        "config",
+        "crewed"
+    ],
+    "version": "1:v0.31.8",
+    "x_generated_by": "netkan"
+}

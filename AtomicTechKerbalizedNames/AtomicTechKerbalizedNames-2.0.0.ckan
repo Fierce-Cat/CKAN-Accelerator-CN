@@ -1,0 +1,50 @@
+{
+    "abstract": "A MM-powered patch to Kerbal Renamer!",
+    "author": [
+        "AtomicTech",
+        "Caerfinon"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KerbalRenamer"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2887/AT%20Kerbalized%20Names%21%20CKAN%20Edition%21/download/2.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7C7FA787273C68868A651233D65075D90114EA43",
+        "sha256": "4E9FC68EA417E23A8311F8D2EBF4DD7EE2C4788AAF77E73E3BA2820E6D3AB414"
+    },
+    "download_size": 14904,
+    "identifier": "AtomicTechKerbalizedNames",
+    "install": [
+        {
+            "find": "AtomicTechKerbalizedNames.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/AtomicTech"
+        }
+    ],
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.8.1",
+    "license": "MIT",
+    "name": "AT Kerbalized Names! CKAN Edition!",
+    "release_date": "2022-02-08T21:10:18.982844+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JamesErvin-5/AtomicTech-Kerbalized-Names/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/205504-atomictech-kerbalized-names-ksp-112x/",
+        "remote-avc": "https://github.com/JamesErvin-5/AT-Kerbalized-Names-CKAN-Version/raw/main/AtomicTech/KerbalizedNames/AT-Kerbalized-Names-CKAN-Version.version",
+        "repository": "https://github.com/JamesErvin-5/AtomicTech-Kerbalized-Names",
+        "spacedock": "https://spacedock.info/mod/2887/AT%20Kerbalized%20Names!%20CKAN%20Edition!",
+        "x_screenshot": "https://spacedock.info/content/AtomicTech_61568/AT_Kerbalized_Names_CKAN_Edition/AT_Kerbalized_Names_CKAN_Edition-1644371011.png"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "config",
+        "crewed"
+    ],
+    "version": "2.0.0",
+    "x_generated_by": "netkan"
+}

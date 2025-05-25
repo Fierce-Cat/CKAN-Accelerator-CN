@@ -1,0 +1,118 @@
+{
+    "abstract": "A set of effects and basic configs that can be attached to any engine as appropriate.  Requires secondary configs to function correctly. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Zorg",
+        "Nhawks1717",
+        "Felger"
+    ],
+    "depends": [
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RealPlume-StockConfigs/releases/download/v1.4.0/RealPlume-Stock_v1.4.0.zip?auth_key=1748275917-79aca87b17ea4d148ebb9663ec8d6322-0-c2725e94a5b1b256e6d7daf0b7727019&size=27166226&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1114B87F204D3CD8DC4E114C9186A27A9E4D6E05",
+        "sha256": "BF7B470222E91A25E3A98301B8EA800D68EC0BD8E4A3A3E170C2A4E45257AC10"
+    },
+    "download_size": 27166226,
+    "identifier": "RealPlume-StockConfigs",
+    "install": [
+        {
+            "find": "RealPlume-Stock",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.4",
+    "license": "CC-BY-NC-SA",
+    "name": "Real Plume - Stock Configs [PRO-KCMIRROR]",
+    "provides": [
+        "RealPlumeConfigs"
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188033-173-realplume-stock-v140-06sep19/",
+        "repository": "https://github.com/KSP-RO/RealPlume-StockConfigs"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ABLaunchers"
+        },
+        {
+            "name": "AIESAerospace-Unofficial"
+        },
+        {
+            "name": "AtomicAge"
+        },
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "CustomClusters"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "FASA"
+        },
+        {
+            "name": "KSPX"
+        },
+        {
+            "name": "KSO"
+        },
+        {
+            "name": "KWRocketry"
+        },
+        {
+            "name": "ModularRocketSystem"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "PhoenixIndustriesBoosters"
+        },
+        {
+            "name": "RealScaleBoosters"
+        },
+        {
+            "name": "RLA-Stockalike"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "SpaceY-Expanded"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "SXT"
+        },
+        {
+            "name": "Taerobee"
+        },
+        {
+            "name": "Tantares"
+        },
+        {
+            "name": "TantaresLV"
+        },
+        {
+            "name": "TundraExploration"
+        },
+        {
+            "name": "VenStockRevamp"
+        }
+    ],
+    "version": "v1.4.0",
+    "x_generated_by": "netkan"
+}

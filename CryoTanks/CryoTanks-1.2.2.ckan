@@ -1,0 +1,62 @@
+{
+    "abstract": "A set of fuel tanks for containing Liquid Hydrogen. Also adds Liquid Hydrogen storage to most stock tanks [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "ChrisAdderley",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ChrisAdderley/CryoTanks/releases/download/1.2.2/CryoTanks_1_2_2.zip?auth_key=1748275917-ff0c781765de45efbf3d9b76d2100251-0-01d720cee34bff46871cab8edc220cb1&size=60260830&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D8E15D310C18ED84ABB6288311D3F34D2C76331C",
+        "sha256": "E039C9516FAEF8552243F1D03278466BEDA8F04E4F16A78BC40E1E302A5977B1"
+    },
+    "download_size": 60260830,
+    "identifier": "CryoTanks",
+    "install": [
+        {
+            "filter": "SimpleBoiloff.dll",
+            "find": "CryoTanks",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.7.3",
+    "license": "restricted",
+    "localizations": [
+        "ru",
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr"
+    ],
+    "name": "Cryo Tanks [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://github.com/ChrisAdderley/CryoTanks/wiki",
+        "repository": "https://github.com/ChrisAdderley/CryoTanks"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "CryoEngines"
+        }
+    ],
+    "version": "1.2.2",
+    "x_generated_by": "netkan"
+}

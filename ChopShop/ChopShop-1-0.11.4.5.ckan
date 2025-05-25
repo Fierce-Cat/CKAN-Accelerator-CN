@@ -1,0 +1,82 @@
+{
+    "abstract": "Properly oriented rover bodies, deployable skycranes, dual-axis solar panels, SpacePlane+ (Mk2) parts, blisters, structural hubs and other useful parts.",
+    "author": "Dr_Jet",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/530/Dr.%20Jet%27s%20Chop%20Shop/download/0.11.4.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B103EA4520E9DE0D7ACCD7496A993DD138D749B7",
+        "sha256": "32E837B5FBA4BFB55BE156EBF9005E9D3196E7D09B528CC0597731197734FF46"
+    },
+    "download_size": 3934064,
+    "identifier": "ChopShop",
+    "install": [
+        {
+            "find": "ChopShop",
+            "install_to": "GameData"
+        },
+        {
+            "find": "SPH",
+            "install_to": "Ships"
+        },
+        {
+            "find": "VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version": "1.9.1",
+    "license": "GPL-3.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "ru"
+    ],
+    "name": "Dr. Jet's Chop Shop",
+    "recommends": [
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "RemoteTech"
+        }
+    ],
+    "release_date": "2019-03-24T06:30:21.425112+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/76248-105",
+        "spacedock": "https://spacedock.info/mod/530/Dr.%20Jet's%20Chop%20Shop",
+        "x_screenshot": "https://spacedock.info/content/Dr_Jet_1604/Dr._Jets_Chop_Shop/Dr._Jets_Chop_Shop-1460886808.2428079.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ModuleSolarTracking"
+        },
+        {
+            "name": "SETI-BalanceMod"
+        },
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "supports": [
+        {
+            "name": "FerramAerospaceResearch"
+        },
+        {
+            "name": "ModularFuelTanks"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1:0.11.4.5",
+    "x_generated_by": "netkan"
+}

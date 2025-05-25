@@ -1,0 +1,62 @@
+{
+    "abstract": "Adds the possibility to brake your vessel at launch.",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/QuickMods/releases/download/1.4.0.15/QuickBrake-1.4.0.9.zip",
+        "https://spacedock.info/mod/103/QuickBrake/download/1.4.0.9"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "295365F313B1673DED82B5639D376D0C2490B3D2",
+        "sha256": "56C6B40CE0BB25CCDE3CB252DC855840DEEEE99619AF4D00F8A8D3DD032FA269"
+    },
+    "download_size": 29072,
+    "identifier": "QuickBrake",
+    "install": [
+        {
+            "file": "GameData/QuickMods/QuickBrake",
+            "install_to": "GameData/QuickMods"
+        }
+    ],
+    "install_size": 67653,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "fr-fr",
+        "zh-cn"
+    ],
+    "name": "QuickBrake",
+    "release_date": "2024-03-15T18:53:36.401853+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/QuickMods/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
+        "remote-avc": "http://ksp.spacetux.net/avc/QuickBrake",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/103/QuickBrake"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:1.4.0.9",
+    "x_generated_by": "netkan"
+}

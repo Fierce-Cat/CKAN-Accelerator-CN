@@ -1,0 +1,43 @@
+{
+    "abstract": "Adds a smooth, icy planet with nitrogen oceans. Not recommended with OPM",
+    "author": "RevanX",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3454/Mote%20-%20Atmopheric%20Pluto%20with%20Oceans%20and%20Rings!/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "00D2F261C5C723736977996B04C39CFD3568F526",
+        "sha256": "AD84B3732F4C1DECA9B14085E8B2EE1839597B0431CB9F561598D03DB5131B9A"
+    },
+    "download_size": 9070290,
+    "identifier": "Mote",
+    "install": [
+        {
+            "find": "AtmosphericPluto",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 25793983,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Mote - Atmopheric Pluto with Oceans and Rings!",
+    "release_date": "2023-09-01T02:12:16.654766+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/218745-could-somebody-make-a-kopernicus-planet-for-me/#comment-4318151",
+        "spacedock": "https://spacedock.info/mod/3454/Mote%20-%20Atmopheric%20Pluto%20with%20Oceans%20and%20Rings!",
+        "x_screenshot": "https://spacedock.info/content/RevanX_117585/Mote_-_Atmopheric_Pluto_with_Oceans/Mote_-_Atmopheric_Pluto_with_Oceans-1693534429.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "planet-pack",
+        "config"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

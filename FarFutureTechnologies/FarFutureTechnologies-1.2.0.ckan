@@ -1,0 +1,100 @@
+{
+    "abstract": "Adds far future but still more or less possible engine, power generation and resource parts. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "SpaceDust"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/FarFutureTechnologies/releases/download/1.2.0/FarFutureTechnologies_1_2_0.zip?auth_key=1748275914-f5a8be40c3aa45128a683ee1475080ab-0-7b7e0c89bb7c5b1757054fdb423c6d41&size=234761731&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8A544F0939C962E4D57955BA8B47418BF079E35A",
+        "sha256": "64D37D8B873033D1A28F27B3435044A7D39B38F75DB57CD9BA4A6152D8D66CC3"
+    },
+    "download_size": 234761731,
+    "identifier": "FarFutureTechnologies",
+    "install": [
+        {
+            "find": "FarFutureTechnologies",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 425816751,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.1",
+    "license": "restricted",
+    "localizations": [
+        "en-us",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Far Future Technologies [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "HeatControl"
+        },
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "release_date": "2021-08-23T17:35:08Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/FarFutureTechnologies/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199070-1",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/FarFutureTechnologies/raw/master/CKAN/FarFutureTechnologies.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/FarFutureTechnologies/master/GameData/FarFutureTechnologies/Versioning/FarFutureTechnologies.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/FarFutureTechnologies"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "SystemHeat-FissionReactors"
+        },
+        {
+            "name": "SystemHeat-Converters"
+        },
+        {
+            "name": "SystemHeat-Harvesters"
+        },
+        {
+            "name": "SystemHeat-FissionEngines"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "1.2.0",
+    "x_generated_by": "netkan"
+}

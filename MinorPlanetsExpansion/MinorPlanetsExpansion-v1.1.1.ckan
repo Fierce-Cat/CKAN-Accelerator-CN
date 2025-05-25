@@ -1,0 +1,70 @@
+{
+    "abstract": "Official GitHub of Exo's Minor Planets Expansion, where indev features and full builds can be found [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "ExosLab",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ExosLab/Minor-Planets-Expansion/releases/download/v1.1.1/Minor-Planets-Expansion.zip?auth_key=1748275918-7ee11fa752024973a86bae338249d44f-0-bd1f060f1d412415b5788a622c86b4b7&size=326590155&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0F8A488C013DA32E092DF7C421643D3FD54E9E35",
+        "sha256": "BFE744FC4CDB97EBDFA029298E9FDD21B20184046E6BF4DA5E61584C9CA71207"
+    },
+    "download_size": 326590155,
+    "identifier": "MinorPlanetsExpansion",
+    "install": [
+        {
+            "find": "MPE",
+            "install_to": "GameData"
+        },
+        {
+            "as": "MPE",
+            "find": "Localizations",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Nereid",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 310167200,
+    "license": "MIT",
+    "localizations": [
+        "ru"
+    ],
+    "name": "Minor Planets Expansion [PRO-KCMIRROR]",
+    "release_date": "2025-01-22T23:32:16Z",
+    "resources": {
+        "bugtracker": "https://github.com/ExosLab/Minor-Planets-Expansion/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/192848-*",
+        "repository": "https://github.com/ExosLab/Minor-Planets-Expansion"
+    },
+    "spec_version": "v1.18",
+    "suggests": [
+        {
+            "name": "FinalFrontier"
+        }
+    ],
+    "supports": [
+        {
+            "name": "FinalFrontier"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "v1.1.1",
+    "x_generated_by": "netkan"
+}

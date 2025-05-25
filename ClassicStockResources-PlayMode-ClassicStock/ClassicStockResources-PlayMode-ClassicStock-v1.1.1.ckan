@@ -1,0 +1,63 @@
+{
+    "abstract": "An alternative resource set for Kerbal Space Program [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "conflicts": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ClassicStockResources-PlayMode"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClassicStockResources"
+        },
+        {
+            "name": "WildBlue-PlayMode-ClassicStock"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/ClassicStockResources/releases/download/v1.1.1/ClassicStockResources_1_1_1.zip?auth_key=1748275918-5420c6606b0d44978dc44b8988a9827a-0-d01c7107fbfb5c93a8f0c0402d111ced&size=36636&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "24F1A8611D316A2BA3BE0EDAF9AD9D272BCA29F4",
+        "sha256": "4FCF584CA34AFDE9C154B6919D082AE15B73FC668EDF622CCF72AC3A03C0FBB8"
+    },
+    "download_size": 36636,
+    "identifier": "ClassicStockResources-PlayMode-ClassicStock",
+    "install": [
+        {
+            "find": "ClassicStockResources/Templates",
+            "include_only": [
+                "Storage",
+                "Utility",
+                "Production"
+            ],
+            "install_to": "GameData/WildBlueIndustries/ClassicStockResources"
+        }
+    ],
+    "install_size": 63366,
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Classic Stock Resources Classic Stock Play Mode [PRO-KCMIRROR]",
+    "provides": [
+        "ClassicStockResources-PlayMode"
+    ],
+    "release_date": "2020-06-19T19:25:05Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/ClassicStockResources/issues",
+        "homepage": "https://github.com/Angel-125/ClassicStockResources",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/MOLE/master/GameData/WildBlueIndustries/ClassicStockResources/ClassicStockResources.version",
+        "repository": "https://github.com/Angel-125/ClassicStockResources"
+    },
+    "spec_version": "v1.24",
+    "tags": [
+        "library",
+        "resources"
+    ],
+    "version": "v1.1.1",
+    "x_generated_by": "netkan"
+}

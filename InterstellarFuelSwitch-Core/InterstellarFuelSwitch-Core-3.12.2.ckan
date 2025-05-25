@@ -1,0 +1,59 @@
+{
+    "abstract": "Core plugin for Interstellar Fuel Switch",
+    "author": "FreeThinker",
+    "depends": [
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "download": "https://spacedock.info/mod/175/Interstellar%20Fuel%20Switch/download/3.12.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1EC28BA1E4FC27757166F07CC1B110A76673A350",
+        "sha256": "340EBC633D640A80EB5005891AC7DAF51CBA2616B5984306EF08594F0C811BD3"
+    },
+    "download_size": 14044841,
+    "identifier": "InterstellarFuelSwitch-Core",
+    "install": [
+        {
+            "find": "InterstellarFuelSwitch/Plugins",
+            "install_to": "GameData/InterstellarFuelSwitch"
+        },
+        {
+            "find": "InterstellarFuelSwitch/Resources",
+            "install_to": "GameData/InterstellarFuelSwitch"
+        },
+        {
+            "find": "InterstellarFuelSwitch/Localization",
+            "install_to": "GameData/InterstellarFuelSwitch"
+        }
+    ],
+    "ksp_version": "1.8.1",
+    "license": "GPL-2.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Interstellar Fuel Switch Core",
+    "provides": [
+        "DeadskinsTextureSwitch",
+        "DeadskinsMeshSwitch"
+    ],
+    "recommends": [
+        {
+            "min_version": "0.7.1",
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/106243-105interstellar-fuel-switch-118-updated-10-11-2015/",
+        "spacedock": "https://spacedock.info/mod/175/Interstellar%20Fuel%20Switch",
+        "x_screenshot": "https://spacedock.info/content/FreeThinker_517/Interstellar_Fuel_Switch/Interstellar_Fuel_Switch-1481278354.0821617.jpg"
+    },
+    "spec_version": "v1.4",
+    "version": "3.12.2",
+    "x_generated_by": "netkan"
+}

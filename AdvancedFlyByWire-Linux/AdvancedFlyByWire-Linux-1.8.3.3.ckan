@@ -1,0 +1,62 @@
+{
+    "abstract": "AFBW is an input overhaul mod. It dramatically enhances the stock input system with a bunch of fixes and many new features. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "AdvancedFlyByWireRevived"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/ksp-advanced-flybywire/releases/download/1.8.3.3/ksp-advanced-flybywire-1.8.0-1.8.3.3-linux.zip?auth_key=1748275915-34ba84c0591f44a28fd20086bfbad9d9-0-ca89632315dd52b1e1a929d9b57d4565&size=95379&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A6004642EDF0BD800DF3E6CD2B24AF0AA9D90A1D",
+        "sha256": "D7733A81C5C7DCBC24123D0BA3A675C3851ADCB8E52910DD9406ACB7B652636E"
+    },
+    "download_size": 95379,
+    "identifier": "AdvancedFlyByWire-Linux",
+    "install": [
+        {
+            "file": "GameData/ksp-advanced-flybywire",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Advanced Fly-By-Wire (Linux) [PRO-KCMIRROR]",
+    "provides": [
+        "AdvancedFlyByWireRevived"
+    ],
+    "recommends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "release_date": "2020-11-26T17:12:22Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/ksp-advanced-flybywire/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175359-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/ksp-advanced-flybywire",
+        "repository": "https://github.com/linuxgurugamer/ksp-advanced-flybywire",
+        "spacedock": "https://spacedock.info/mod/1870/AFBW%20Revived%20(Linux%20version)",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/AFBW_Revived_Linux_version/AFBW_Revived_Linux_version-1527384062.2632098.png"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "1.8.3.3",
+    "x_generated_by": "netkan"
+}

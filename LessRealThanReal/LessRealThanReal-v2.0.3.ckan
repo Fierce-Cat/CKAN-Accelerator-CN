@@ -1,0 +1,83 @@
+{
+    "abstract": "Real Progression One without RealismOverhaul [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "pehvbot",
+    "conflicts": [
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "DMagicScienceAnimate"
+        },
+        {
+            "name": "MagiCore"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/pehvbot/LRTR/releases/download/v2.0.3/LRTR-v2.0.3.zip?auth_key=1748275918-f0706628bdc74098a84b355cf082edba-0-f540f561c7c505bc48cc83c150fe06b0&size=21441493&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ECB0ECAD6D7F3C1859C852DF429AD0D47A0B0E12",
+        "sha256": "49DC8A32D3D1CF47CBA76B1CF16E490BCD48A44FD4054DF4B5A2D23947A6F48E"
+    },
+    "download_size": 21441493,
+    "identifier": "LessRealThanReal",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "GameData/LRTR",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.12",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Less Real Than Real(ism) [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "LessRealKerbalism"
+        }
+    ],
+    "release_date": "2022-02-08T22:55:25Z",
+    "resources": {
+        "bugtracker": "https://github.com/pehvbot/LRTR/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189978-*",
+        "repository": "https://github.com/pehvbot/LRTR"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "config",
+        "parts",
+        "tech-tree",
+        "career",
+        "science"
+    ],
+    "version": "v2.0.3",
+    "x_generated_by": "netkan"
+}

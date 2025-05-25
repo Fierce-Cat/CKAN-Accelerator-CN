@@ -1,0 +1,69 @@
+{
+    "abstract": "System replacer and interstellar additions mod",
+    "author": "hmelioo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "INSTANTIATOR"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "VertexColorMapEmissive"
+        },
+        {
+            "name": "Lazarus-Content"
+        }
+    ],
+    "download": "https://github.com/hmelioo/Lazarus/releases/download/1.2.1/Lazaurs-v1.2.1-Core.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "651DE5DC7A4EC613EBBC5ACA677E118576B54CBE",
+        "sha256": "96E959E3D6D86868C6F324B34E9C985DF666B81D42A03E8EFFE0E1F90F3F67B3"
+    },
+    "download_size": 1583444239,
+    "identifier": "Lazarus",
+    "install": [
+        {
+            "find": "KIPcore",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 3017265744,
+    "ksp_version": "1.12",
+    "license": "CC-BY-NC-ND",
+    "name": "Lazarus Core",
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "Parallax-StockTextures"
+        }
+    ],
+    "release_date": "2024-06-22T00:10:04Z",
+    "resources": {
+        "bugtracker": "https://github.com/hmelioo/Lazarus/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/210839-*",
+        "repository": "https://github.com/hmelioo/Lazarus"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.2.1",
+    "x_generated_by": "netkan"
+}

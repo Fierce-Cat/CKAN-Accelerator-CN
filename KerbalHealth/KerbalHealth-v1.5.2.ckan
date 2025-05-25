@@ -1,0 +1,53 @@
+{
+    "abstract": "Adds health, stress and general well-being management. Encourages smart vessel design and mission planning, especially for long flights. Easily configurable. Beta version. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Garwel",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/GarwelGarwel/KerbalHealth/releases/download/v1.5.2/KerbalHealth_1.5.2.zip?auth_key=1748275916-42e2af958e23450aa7f500bae1701c39-0-0551311f4922457fb911b40bd8bc13ab&size=120044&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BF22E6273A4C497E64690557D67FA1251D791844",
+        "sha256": "FD108EDC17AE7FFFA348ADD6E79E2AD9891F212BFDE062EF9B7EF52D6EB4D4E5"
+    },
+    "download_size": 120044,
+    "identifier": "KerbalHealth",
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "Kerbal Health [PRO-KCMIRROR]",
+    "release_date": "2021-04-05T07:19:28Z",
+    "resources": {
+        "bugtracker": "https://github.com/GarwelGarwel/KerbalHealth/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155313-*",
+        "remote-avc": "https://raw.githubusercontent.com:443/GarwelGarwel/KerbalHealth/master/GameData/KerbalHealth/KerbalHealth.version",
+        "repository": "https://github.com/GarwelGarwel/KerbalHealth"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KSP-AVC"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "UKS"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "v1.5.2",
+    "x_generated_by": "netkan"
+}

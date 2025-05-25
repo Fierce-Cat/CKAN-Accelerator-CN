@@ -1,0 +1,57 @@
+{
+    "abstract": "kOS is a scriptable autopilot mod that allows you write small programs to automate specific tasks. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "many KSP-KOS contributers, currently dunbaratu and hvacengi",
+    "conflicts": [
+        {
+            "name": "kOS-Classic"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-KOS/KOS/releases/download/1.5.0.0/KOS-1.5.0.0.zip?auth_key=1748275915-863bc8afaa4a457c8e18d26ed273c34a-0-9215b4bbf903ba498335e0aba3a80046&size=3390144&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "A11FE06F01FC667823F9BA919F41F1258522A0F11FB24C6D9E1A96354E0C0D63"
+    },
+    "download_size": 3390144,
+    "identifier": "kOS",
+    "install": [
+        {
+            "file": "GameData/kOS",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 9795896,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.3",
+    "license": "GPL-3.0",
+    "name": "kOS: Scriptable Autopilot System [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "comment": "Earlier versions of MM have forward compatibility problems, according to the MM release notes.",
+            "min_version": "2.5.6",
+            "name": "ModuleManager"
+        }
+    ],
+    "release_date": "2024-08-05T01:04:43Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-KOS/KOS/issues",
+        "homepage": "https://ksp-kos.github.io/KOS_DOC/",
+        "manual": "https://ksp-kos.github.io/KOS_DOC/",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-KOS/KOS/master/Resources/GameData/kOS/kOS.version",
+        "repository": "https://github.com/KSP-KOS/KOS"
+    },
+    "spec_version": "v1.36",
+    "suggests": [
+        {
+            "comment": "RT gives incentive to having local control of craft, even unmanned ones",
+            "min_version": "1.5.1",
+            "name": "RemoteTech"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "1:1.5.0.0",
+    "x_generated_by": "netkan"
+}

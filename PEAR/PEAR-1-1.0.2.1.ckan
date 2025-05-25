@@ -1,0 +1,49 @@
+{
+    "abstract": "Lets solar panels, radiators and antennae all work together",
+    "author": [
+        "FruitGoose",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/FruitKocktail/releases/download/0.0.0.3/PEAR-1.0.2.1.zip",
+        "https://spacedock.info/mod/2786/PEAR/download/1.0.2.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D43A633673EE2468EAFB89B2993F1DF95D690914",
+        "sha256": "4F175E8B49F3BB42793D6C6B0FCD8FA4A0D34AAF13E0FF1C86F2FDF291488D88"
+    },
+    "download_size": 10968,
+    "identifier": "PEAR",
+    "install": [
+        {
+            "find": "FruitKocktail",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 17762,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.11.2",
+    "license": "MIT",
+    "name": "Programatic Extension And Retraction",
+    "release_date": "2024-07-24T15:15:08.37537+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/FruitKocktail/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/202889-1112-fruitkocktail-a-collection-of-mini-life-improvement-mods-with-fruit-based-acronyms-as-names-full-release/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/FruitKocktail/main/PEAR/PEAR.version",
+        "repository": "https://github.com/linuxgurugamer/FruitKocktail",
+        "spacedock": "https://spacedock.info/mod/2786/PEAR"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:1.0.2.1",
+    "x_generated_by": "netkan"
+}

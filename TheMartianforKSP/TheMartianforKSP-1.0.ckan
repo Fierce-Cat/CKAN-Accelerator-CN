@@ -1,0 +1,42 @@
+{
+    "abstract": "Parts pack from The Martian",
+    "author": [
+        "MoviesColin",
+        "bcink"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2370/The%20Martian%20for%20KSP/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C4226F36BD677E2302B7281A08F903A952EA904A",
+        "sha256": "995B1C3C703248A01F5D471605BC9513796E2E865E29B44AF77726329BE93EE1"
+    },
+    "download_size": 2638149,
+    "identifier": "TheMartianforKSP",
+    "install": [
+        {
+            "find": "TM4KSP",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.9.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "The Martian for KSP",
+    "release_date": "2020-03-22T05:56:48.278641+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192563-19x-the-martian-for-ksp/",
+        "spacedock": "https://spacedock.info/mod/2370/The%20Martian%20for%20KSP",
+        "x_screenshot": "https://spacedock.info/content/bcink_16644/The_Martian_for_KSP/The_Martian_for_KSP-1584856641.9718666.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

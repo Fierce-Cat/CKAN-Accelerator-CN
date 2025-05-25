@@ -1,0 +1,63 @@
+{
+    "abstract": "More color choices for fuel lines, instead of the same old yellow. Includes: White, Black, Red, Green, Blue, Orange.",
+    "author": "NecroBones",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        }
+    ],
+    "download": "https://spacedock.info/mod/94/Colorful%20Fuel%20Lines/download/0.3.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "99A8A2CDEBAF9717B29808CE8D2AFD4F6977DD0F",
+        "sha256": "F5F178E4DB1E39C03471166484CC498BE794F6DCDA2F257D740601DC72C579F4"
+    },
+    "download_size": 283887,
+    "identifier": "ColorfulFuelLines",
+    "install": [
+        {
+            "file": "ColorfulFuelLines",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.0.1",
+    "license": "CC-BY-NC-SA",
+    "name": "Colorful Fuel Lines",
+    "release_date": "2018-03-12T15:12:40.670228+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/115315-*",
+        "spacedock": "https://spacedock.info/mod/94/Colorful%20Fuel%20Lines",
+        "x_screenshot": "https://spacedock.info/content/NecroBones_209/Colorful_Fuel_Lines/Colorful_Fuel_Lines-1455805726.732243.png"
+    },
+    "spec_version": 1,
+    "supports": [
+        {
+            "name": "ModularRocketSystem"
+        },
+        {
+            "name": "ModularRocketSystemsLITE"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "ColorCodedCans"
+        },
+        {
+            "name": "FuelTanksPlus"
+        },
+        {
+            "name": "LithobrakeExplorationTechnologies"
+        }
+    ],
+    "tags": [
+        "config",
+        "parts"
+    ],
+    "version": "0.3.3",
+    "x_generated_by": "netkan"
+}

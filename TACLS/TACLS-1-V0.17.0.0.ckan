@@ -1,0 +1,69 @@
+{
+    "abstract": "Life Support from Thunder Aerospace Corporation [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "KSP-RO Group/JPLRepo",
+        "Taranis Elsu"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "BackgroundResources"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/TacLifeSupport/releases/download/V0.17.0.0/TacLifeSupport_V0.17.0.zip?auth_key=1748275916-c6e6d785d307481cafad1af0966a0d93-0-ef3955b3f241f843f0b771e6a3f35bab&size=5270207&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FC84743C7F5BCF5348671CD67DD944660397EFA9",
+        "sha256": "69ACAC8D19904E834A71DD5B4A5C63E5ABA55DB8977C110588F1723070B54A52"
+    },
+    "download_size": 5270207,
+    "identifier": "TACLS",
+    "install": [
+        {
+            "find": "GameData/ThunderAerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.11.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "es-mx",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "TAC Life Support (TACLS) [PRO-KCMIRROR]",
+    "release_date": "2020-12-29T02:29:12Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/TacLifeSupport/issues",
+        "homepage": "https://github.com/KSP-RO/TacLifeSupport/wiki",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=9",
+        "repository": "https://github.com/KSP-RO/TacLifeSupport"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "supports": [
+        {
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "crewed",
+        "parts"
+    ],
+    "version": "1:V0.17.0.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,53 @@
+{
+    "abstract": "VTOL Autopilot",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/DavonTCsystemsMod/releases/download/0.1.0.5/DavonTCsystemsMod-1.12.0-0.1.0.5.zip",
+        "https://spacedock.info/mod/2516/Davon%20Throttle%20Control%20Systems/download/0.1.0.5"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ABA88D7F6642AA6CBF46BC0E9BBC5F74C16C90F9",
+        "sha256": "E32C9359ECC0CB68017B09CDE69808FC22A1C89441A41F1814B5DCCDC0D3DACA"
+    },
+    "download_size": 35788,
+    "identifier": "DavonTCsystemsMod",
+    "install": [
+        {
+            "find": "DavonTCsystemsMod",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 74261,
+    "ksp_version_max": "1.12.4",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-2.0",
+    "name": "Davon Throttle Control Systems",
+    "release_date": "2022-12-02T02:20:09.271364+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/DavonTCsystemsMod/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196642-18-19-110-davon-throttle-control-systems-mod-renewed/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/DavonTCsystemsMod/master/DavonTCsystemsMod.version",
+        "repository": "https://github.com/linuxgurugamer/DavonTCsystemsMod",
+        "spacedock": "https://spacedock.info/mod/2516/Davon%20Throttle%20Control%20Systems",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Davon_Throttle_Control_Systems/Davon_Throttle_Control_Systems-1598965786.9999108.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "1:0.1.0.5",
+    "x_generated_by": "netkan"
+}

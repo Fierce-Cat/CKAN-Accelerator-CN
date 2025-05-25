@@ -1,0 +1,44 @@
+{
+    "abstract": "A small mod to automate some of the more monotonous tasks",
+    "author": [
+        "FruitGoose",
+        "linuxgurugamer"
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/FruitKocktail/releases/download/0.0.0.3/APPLE-1.1.9.1.zip",
+        "https://spacedock.info/mod/2792/APPLE/download/1.1.9.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FD18B6CA14D56C0FBD5055F7D26E0926661DC5A4",
+        "sha256": "46AAD3DB408BCB14B4897F092CDF7FA5C8D1610F6F703414D6197B52B0257CF9"
+    },
+    "download_size": 11402,
+    "identifier": "APPLE",
+    "install": [
+        {
+            "find": "FruitKocktail",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 21915,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.11.2",
+    "license": "MIT",
+    "name": "Approved Popular Pre-Launch Experiment",
+    "release_date": "2024-07-24T15:11:05.647924+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/FruitKocktail/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/202889-1112-fruitkocktail-a-collection-of-mini-life-improvement-mods-with-fruit-based-acronyms-as-names-full-release/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/FruitKocktail/main/APPLE/APPLE.version",
+        "repository": "https://github.com/linuxgurugamer/FruitKocktail",
+        "spacedock": "https://spacedock.info/mod/2792/APPLE"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:1.1.9.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,58 @@
+{
+    "abstract": "Kronkus is a Kopernicus planet pack [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "MrChumley",
+    "depends": [
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "2:release-1.3.0-5",
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/MrChumley/Kronkus/releases/download/v1.5/KronkusV1-5.zip?auth_key=1748275917-ff6e326ebffc454fbffb35e3b27ba354-0-36ca6046ce2586528f1ba4b0b0107703&size=36314823&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A78253D34CEF0042F5A067801E4AB058E34CCE19",
+        "sha256": "CEB484B7B155E381BB0F55F3695EC838A888732F4CDBD384470CF6CE9474B36E"
+    },
+    "download_size": 36314823,
+    "identifier": "Kronkus",
+    "install": [
+        {
+            "find": "Kronkus",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Kronkus [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ContractConfigurator-FarOutContracts"
+        }
+    ],
+    "release_date": "2018-11-06T19:33:20Z",
+    "resources": {
+        "bugtracker": "https://github.com/MrChumley/Kronkus/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/119202-*",
+        "repository": "https://github.com/MrChumley/Kronkus"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "2:v1.5",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,63 @@
+{
+    "abstract": "A planet mod that takes place after the Kerbol system has died. Kerbals have escaped to another star system. Beyond Home adds a unique suite of over 28 planets each with their own high quality visuals. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Gameslinx",
+    "conflicts": [
+        {
+            "name": "GPP"
+        },
+        {
+            "name": "StockVisualEnhancements"
+        }
+    ],
+    "depends": [
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "Scatterer-sunflare-default"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Gameslinx/BeyondHomePlanetMod/releases/download/1.2.0/Beyond.Home.1.2.zip?auth_key=1748275918-49650e60d4a4442aa1223241116584f2-0-44de7ac4efd4e65d4fb3bd5749d9c6fb&size=454205019&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F6D1F6898FDB11598EC513DDA0FC664E6B25E18C",
+        "sha256": "F21BCBE8619912CFAEE38798F2F4FE0D765813B173AB2B3FFF2163E8B2BF163D"
+    },
+    "download_size": 454205019,
+    "identifier": "BeyondHome",
+    "install": [
+        {
+            "find": "BeyondHome",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "restricted",
+    "name": "Beyond Home [PRO-KCMIRROR]",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config"
+    ],
+    "recommends": [
+        {
+            "name": "SigmaReplacements-SkyBox"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182708-*",
+        "repository": "https://github.com/Gameslinx/BeyondHomePlanetMod"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack",
+        "graphics"
+    ],
+    "version": "1.2.0",
+    "x_generated_by": "netkan"
+}

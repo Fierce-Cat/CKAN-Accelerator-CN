@@ -1,0 +1,46 @@
+{
+    "abstract": "The texture pack of RSS-Origin RSSTexture&TopoRevamp. This is the 4k version. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "CharonSSS",
+    "conflicts": [
+        {
+            "name": "RSSOrigin-TopoRevampTextures"
+        }
+    ],
+    "depends": [
+        {
+            "name": "RSSOrigin-TopoRevampConfigs"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/CharonSSS/RSS-Origin/releases/download/v1.1.4/RSS-Origin.RSSTexture.TopoRevamp.Textures4k.zip?auth_key=1748275914-276ddaf6aade428a9375e7231585c432-0-013fbef11f9fa2181ed6be5b0a27b9ad&size=302053016&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "10DDD68F606088441DCFC681D2D5E1C1D1D23400",
+        "sha256": "3CF8F04BA9EF0C886B1E4BC6045FDDE11E4B1FBAD4EED10479FD344EF9AAA3BC"
+    },
+    "download_size": 302053016,
+    "identifier": "RSSOrigin-TopoRevampTextures4k",
+    "install": [
+        {
+            "find": "RSSOrigin",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 534771496,
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "RSS-Origin RSS Texture & Topo Revamp Textures 4k [PRO-KCMIRROR]",
+    "provides": [
+        "RSSOrigin-TopoRevampTextures"
+    ],
+    "release_date": "2024-12-14T14:28:02Z",
+    "resources": {
+        "bugtracker": "https://github.com/CharonSSS/RSS-Origin/issues",
+        "repository": "https://github.com/CharonSSS/RSS-Origin"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "v1.1.4",
+    "x_generated_by": "netkan"
+}

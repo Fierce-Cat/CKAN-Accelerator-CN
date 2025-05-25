@@ -1,0 +1,50 @@
+{
+    "abstract": "A fork of TriggerAu's Transfer Window Planner mod. Instead of assuming an equatorial orbit with a plane change in the ejection burn, this version shows the required parking orbit plane such that the ejection burn is purely prograde. This can save a lot of Δv when the planes of the departure and destination body are not exactly the same as that of the departure body's equator. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "TriggerAu",
+        "Nazfib"
+    ],
+    "conflicts": [
+        {
+            "name": "TransferWindowPlanner"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Nazfib/TransferWindowPlanner/releases/download/v1.9.0.1/TransferWindowPlanner_v1.9.0.1.zip?auth_key=1748275914-c99cb1e1efd3489491e09417cb03f536-0-bbc26d199f7a7997c2e829c1ceeaa6d6&size=97979&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8AA0124606CE22F978AE92ABCB971F9823F71465",
+        "sha256": "535588AB812FABCD6CAE7BF7769A954D7CDC48D79F98AB2B26234C6A351B718F"
+    },
+    "download_size": 97979,
+    "identifier": "TransferWindowPlannerFork",
+    "install": [
+        {
+            "find": "TransferWindowPlanner",
+            "install_to": "GameData/TriggerTech"
+        }
+    ],
+    "install_size": 171221,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.10.0",
+    "license": "MIT",
+    "name": "Transfer Window Planner - Fork [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "TriggerAu-Flags"
+        }
+    ],
+    "release_date": "2022-03-25T13:57:57Z",
+    "resources": {
+        "bugtracker": "https://github.com/Nazfib/TransferWindowPlanner/issues",
+        "homepage": "https://discordapp.com/invite/ZGbR6nv",
+        "remote-avc": "https://raw.githubusercontent.com/Nazfib/TransferWindowPlanner/master/TransferWindowPlanner/TransferWindowPlanner.version",
+        "repository": "https://github.com/Nazfib/TransferWindowPlanner"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "v1.9.0.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,40 @@
+{
+    "abstract": "A continuation of the venerable NovaPunch launcher pack.  This is mostly Engines and Tanks, with a few Command Modules, and a small lander setup.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NovaPunchRebalanced"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2003/NovaPunch%20Rebalanced/download/0.1.6.8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DAEC9142934BB0DA6BD3E11A75348A2E1E6FD157",
+        "sha256": "DF4E367B9ACA908042848A6FA18AC97D64551934B8B355B8B1733A9680918D04"
+    },
+    "download_size": 63206880,
+    "identifier": "NovaPunchRebalanced-Thor",
+    "install": [
+        {
+            "find": "NovaPunch/Thor",
+            "install_to": "GameData/NovaPunch"
+        }
+    ],
+    "ksp_version_max": "1.7.3",
+    "ksp_version_min": "1.4.1",
+    "license": "CC-BY-SA-4.0",
+    "name": "NovaPunchRebalanced Thor",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178797-14x-novapunch-rebalanced-out-of-beta/",
+        "repository": "https://github.com/linuxgurugamer/NovaPunch/",
+        "spacedock": "https://spacedock.info/mod/2003/NovaPunch%20Rebalanced",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/NovaPunch_Rebalanced/NovaPunch_Rebalanced-1541957481.4639502.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.1.6.8",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

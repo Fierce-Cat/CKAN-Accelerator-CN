@@ -1,0 +1,44 @@
+{
+    "abstract": "Add biomes (and Great Green Spot) to Jool.",
+    "author": "Snark",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/26/JoolBiomes/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "78C17EA7A2A04413CE8CEEE04DD4966D036606A3",
+        "sha256": "790E411133F208127EF7AEA2D5E67E224F1DC1DAAEFA22E0C5A0F62B3A579CEE"
+    },
+    "download_size": 399595,
+    "identifier": "JoolBiomes",
+    "install": [
+        {
+            "find": "GameData/JoolBiomes",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.1",
+    "license": "MIT",
+    "name": "JoolBiomes",
+    "release_date": "2016-12-04T02:06:18.61332+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/131274-121-joolbiomes-v11-add-biomes-and-great-green-spot-to-jool/",
+        "repository": "https://github.com/KSPSnark/JoolBiomes",
+        "spacedock": "https://spacedock.info/mod/26/JoolBiomes",
+        "x_screenshot": "https://spacedock.info/content/Snark_166/JoolBiomes/JoolBiomes-1455808028.1512532.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack",
+        "science"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

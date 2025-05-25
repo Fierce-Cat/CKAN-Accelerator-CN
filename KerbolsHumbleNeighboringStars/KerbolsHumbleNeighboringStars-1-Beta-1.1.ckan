@@ -1,0 +1,66 @@
+{
+    "abstract": "Kerbol's Humble Neighboring Stars  [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "An Amongus Sussy Player",
+    "conflicts": [
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        }
+    ],
+    "depends": [
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/parkerman-com/KHNS/releases/download/Beta-1.1/KHNS_Beta_1.1.zip?auth_key=1748275916-99dba13a25a04419a91e30f1d41d46ac-0-10103422ed2885db45ab8658f7c124ba&size=496984740&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9B89C2EDEFA1471C0996A26AFBD6D924C7BFCD3F",
+        "sha256": "9B23D31887A50758801003BC3D7C3678860C7250A51C0EA2A65E1C39F4A6A6BA"
+    },
+    "download_size": 496984740,
+    "identifier": "KerbolsHumbleNeighboringStars",
+    "install": [
+        {
+            "find": "KHNS",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.10",
+    "license": "restricted",
+    "name": "KHNS [PRO-KCMIRROR]",
+    "provides": [
+        "Scatterer-config",
+        "Scatterer-sunflare"
+    ],
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        }
+    ],
+    "release_date": "2022-05-16T06:47:34Z",
+    "resources": {
+        "bugtracker": "https://github.com/parkerman-com/KHNS/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207835-*/",
+        "repository": "https://github.com/parkerman-com/KHNS"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "plugin",
+        "config",
+        "planet-pack"
+    ],
+    "version": "1:Beta-1.1",
+    "x_generated_by": "netkan"
+}

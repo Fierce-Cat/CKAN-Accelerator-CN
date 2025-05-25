@@ -1,0 +1,50 @@
+{
+    "abstract": "Plugin and props for use in IVAs [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Mihara",
+        "MOARdV",
+        "JonnyOThan"
+    ],
+    "comment": "This package contains the plugin, and the standard parts library.",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JonnyOThan/RasterPropMonitor/releases/download/v0.31.3/RasterPropMonitor-v0.31.3.zip?auth_key=1748275915-5aff6b2f2a8041b88565bd7a74330c78-0-913e9624ec6623852756e7c9dfe6fc6c&size=1529454&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8D45566FF821EDC5A92AA3B854233DE7CCAE5B0F",
+        "sha256": "BE2D5012B311A6B48EACEBAB5A3416C0FC39C2200BCB2309E10B3813EE922C17"
+    },
+    "download_size": 1529454,
+    "identifier": "RasterPropMonitor-Core",
+    "install": [
+        {
+            "find": "JSI/RasterPropMonitor",
+            "install_to": "GameData/JSI"
+        },
+        {
+            "comment": "This folder contains the multi-function display props, which belong in this module along with the other props",
+            "find": "JSI/RPMPodPatches/BasicMFD",
+            "install_to": "GameData/JSI/RPMPodPatches"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "RasterPropMonitor Core [PRO-KCMIRROR]",
+    "release_date": "2020-02-23T23:31:55Z",
+    "resources": {
+        "bugtracker": "https://github.com/JonnyOThan/RasterPropMonitor/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190737-*",
+        "repository": "https://github.com/JonnyOThan/RasterPropMonitor/releases"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "1:v0.31.3",
+    "x_generated_by": "netkan"
+}

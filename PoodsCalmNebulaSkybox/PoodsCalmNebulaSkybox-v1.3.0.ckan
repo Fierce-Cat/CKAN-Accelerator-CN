@@ -1,0 +1,63 @@
+{
+    "abstract": "Skybox that presents the Kerbal Solar System within a sparse Nebula. Features a subtle Galaxy star-line and patches of Pink/Blue Nebula proto-Star fields. To the polar South a very energetic solar nursery can be seen.",
+    "author": "Poodmund",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "TextureReplacer"
+                },
+                {
+                    "name": "TextureReplacerReplaced"
+                },
+                {
+                    "name": "SigmaReplacements-Skybox"
+                },
+                {
+                    "name": "DiRT"
+                }
+            ]
+        }
+    ],
+    "download": "https://spacedock.info/mod/924/Pood%27s%20Calm%20Nebula%20Skybox/download/v1.3.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7D3B00FF1E08D1BC91CF7E7533A6DA4AD095B353",
+        "sha256": "AA8E7C8A8A600ADFC29B2D0BD954169D060BFD75E08FB0DE4227BA7950E19FBB"
+    },
+    "download_size": 19291972,
+    "identifier": "PoodsCalmNebulaSkybox",
+    "install": [
+        {
+            "file": "GameData/PoodsSkyboxes",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "Pood's Calm Nebula Skybox",
+    "provides": [
+        "Skybox"
+    ],
+    "release_date": "2019-01-17T21:28:08.497372+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169919-131-poods-skyboxes-v120-21st-jan-2018/",
+        "spacedock": "https://spacedock.info/mod/924/Pood's%20Calm%20Nebula%20Skybox",
+        "x_screenshot": "https://spacedock.info/content/Poodmund_441/Poods_Calm_Nebula_Skybox/Poods_Calm_Nebula_Skybox-1472418335.77525.jpg"
+    },
+    "spec_version": "v1.26",
+    "suggests": [
+        {
+            "name": "DistantObject"
+        }
+    ],
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "v1.3.0",
+    "x_generated_by": "netkan"
+}

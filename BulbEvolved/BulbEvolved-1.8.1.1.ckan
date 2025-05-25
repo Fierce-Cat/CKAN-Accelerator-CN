@@ -1,0 +1,45 @@
+{
+    "abstract": "The Bulb Mod, with few bug fixes",
+    "author": [
+        "AlShain",
+        "jiraiyah"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2316/Bulb%20Evolved/download/1.8.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C6B3E10F3B07A260A487FCB24845FE7ED715CC10",
+        "sha256": "AFF1AF2015683406E83FB9B12F324D626F794C5B646173264EA5ABA28DB99BD7"
+    },
+    "download_size": 16227,
+    "identifier": "BulbEvolved",
+    "install": [
+        {
+            "find": "Module Light Bulb",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 43187,
+    "ksp_version": "1.8.1",
+    "license": "GPL-3.0",
+    "name": "Bulb Evolved",
+    "release_date": "2020-01-31T03:58:19.896564+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Jiraiyah/Module-Light-Bulb/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191270-bulb-evolved/",
+        "repository": "https://github.com/Jiraiyah/Module-Light-Bulb",
+        "spacedock": "https://spacedock.info/mod/2316/Bulb%20Evolved",
+        "x_screenshot": "https://spacedock.info/content/jiraiyah_7998/Bulb_Evolved/Bulb_Evolved-1580328187.9965496.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "version": "1.8.1.1",
+    "x_generated_by": "netkan"
+}

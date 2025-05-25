@@ -1,0 +1,77 @@
+{
+    "abstract": "A full-featured set of different devices & decoration elements for creation of interactive interior spaces for parts & crafts.",
+    "author": [
+        "alexustas",
+        "Stone Blue",
+        "JonnyOThan"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ASETAgency"
+        },
+        {
+            "min_version": "1:v0.30.2",
+            "name": "RasterPropMonitor-Core"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3240/ASET%20Consolidated%20Props%20Pack/download/v2.0.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "066FC6BDF62EE9FD1295933DFCE8BCDECA01E555",
+        "sha256": "970622453766A1849786242DC0ABC153A4EDEBAA14DA9CEA90DFFC7D855A96EA"
+    },
+    "download_size": 19766207,
+    "identifier": "ASETProps",
+    "install": [
+        {
+            "find": "ASET/ASET_Props",
+            "install_to": "GameData/ASET"
+        }
+    ],
+    "install_size": 41033758,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "ASET Consolidated Props Pack",
+    "release_date": "2023-04-17T01:44:09.85689+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/StoneBlue/ASET-Consolidated-Props/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/211905-wip-1125-181-aset-consolidated-avionics-props-iva-packs/",
+        "remote-avc": "https://raw.githubusercontent.com/StoneBlue/ASET-Consolidated-Props/main/GameData/ASET/ASET_Props/ASET_Props.version",
+        "repository": "https://github.com/StoneBlue/ASET-Consolidated-Props",
+        "spacedock": "https://spacedock.info/mod/3240/ASET%20Consolidated%20Props%20Pack",
+        "x_screenshot": "https://spacedock.info/content/StoneBlue_14786/ASET_Consolidated_Props_Pack/ASET_Consolidated_Props_Pack-1676222753.png"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "VesselView"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "TACLS"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "library",
+        "crewed",
+        "control"
+    ],
+    "version": "v2.0.4",
+    "x_generated_by": "netkan"
+}

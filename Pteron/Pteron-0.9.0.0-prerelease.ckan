@@ -1,0 +1,65 @@
+{
+    "abstract": "Three kerbal Micro Shuttle and Rescue Vehicle (MSRV) for Kerbal Space Program. This is not a SSTO. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "zer0Kerbal",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/zer0Kerbal/Pteron/releases/download/0.9.0.0-prerelease/Pteron-0.9.0.0-prerelease.zip?auth_key=1748275917-ebca403c15fa40be856dc76e7b6977cd-0-ffccbc4f1fb6a9f708ec4608cc41a932&size=1937692&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "E21B59D53836D59891D8C1BF729723F8603168B8625C4FBBFE87AB2FFDF38984"
+    },
+    "download_size": 1937692,
+    "identifier": "Pteron",
+    "install": [
+        {
+            "find": "FruitBatIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 12286112,
+    "ksp_version_max": "1.11.9999",
+    "ksp_version_min": "1.7.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Pteron [PRO-KCMIRROR]",
+    "release_date": "2021-07-01T07:54:35Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/Pteron/issues",
+        "discussions": "https://github.com/zer0Kerbal/Pteron/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/Pteron.version",
+        "repository": "https://github.com/zer0Kerbal/Pteron"
+    },
+    "spec_version": "v1.36",
+    "suggests": [
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "ScrapYard"
+        },
+        {
+            "name": "OhScrap"
+        },
+        {
+            "name": "StageRecovery"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "0.9.0.0-prerelease",
+    "x_generated_by": "netkan"
+}

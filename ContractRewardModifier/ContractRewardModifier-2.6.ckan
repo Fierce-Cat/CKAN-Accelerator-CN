@@ -1,0 +1,38 @@
+{
+    "abstract": "An in-game utility for customizing all contract and parameter rewards and penalties, among other options.",
+    "author": "DMagic",
+    "download": "https://spacedock.info/mod/132/Contract%20Reward%20Modifier/download/2.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4D3A02C1DBB6C384C5AAE2B04F6116AFED2FE489",
+        "sha256": "64E0288EFC839833041D64D247EFB46A71B99C43DDD382765805800B040057EB"
+    },
+    "download_size": 43592,
+    "identifier": "ContractRewardModifier",
+    "install": [
+        {
+            "file": "GameData/ContractRewardModifier",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "MIT",
+    "name": "Contract Reward Modifier",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/102079-1",
+        "repository": "https://github.com/DMagic1/Contract-Modifier",
+        "spacedock": "https://spacedock.info/mod/132/Contract%20Reward%20Modifier",
+        "x_screenshot": "https://spacedock.info/content/DMagic_247/Contract_Reward_Modifier/Contract_Reward_Modifier-1455816064.2331464.jpg"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "CapCom"
+        },
+        {
+            "name": "ContractsWindowPlus"
+        }
+    ],
+    "version": "2.6",
+    "x_generated_by": "netkan"
+}

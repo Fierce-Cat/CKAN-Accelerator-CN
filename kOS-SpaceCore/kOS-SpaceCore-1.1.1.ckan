@@ -1,0 +1,44 @@
+{
+    "abstract": "SpaceCore is a pack of scripts for kOS mod to launch and operate your rockets. It is universal and can be used for most launch vehicles and spacecraft.",
+    "author": "bodryxon",
+    "depends": [
+        {
+            "name": "kOS"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2447/SpaceCore%20kOS%20Script%20Pack/download/1.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "010F84C69AD36E35207D2F1E78D886D0DC7F3FDF",
+        "sha256": "3700A5FF3D1326432B895C26FEEE7EDF4E7062AC9AA85B1E99769BDBD37A8D73"
+    },
+    "download_size": 12916,
+    "identifier": "kOS-SpaceCore",
+    "install": [
+        {
+            "find": "Script",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 29538,
+    "ksp_version": "1.10.0",
+    "license": "MIT",
+    "name": "SpaceCore kOS Script Pack",
+    "release_date": "2020-06-19T20:54:13.819764+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194603-spacecore-kos-script-pack/",
+        "repository": "https://github.com/bodryxon/SpaceCore",
+        "spacedock": "https://spacedock.info/mod/2447/SpaceCore%20kOS%20Script%20Pack"
+    },
+    "spec_version": "v1.29",
+    "supports": [
+        {
+            "name": "kOS"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "1.1.1",
+    "x_generated_by": "netkan"
+}

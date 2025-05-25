@@ -1,0 +1,61 @@
+{
+    "abstract": "Old mods recycled",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "RecycledPartsSpareParts"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1507/Recycled%20Parts/download/0.2.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "68B5A8D5853DBB2837032C44E62B6CD77E0CCB25",
+        "sha256": "2D11D31425669BBF3B7C90013124547532586B4ED59664211A4831F19171CC52"
+    },
+    "download_size": 36316339,
+    "identifier": "RecycledPartsSpareParts",
+    "install": [
+        {
+            "find": "Clockwork_Industries",
+            "install_to": "GameData/SpaceTuxIndustries/RecycledParts"
+        }
+    ],
+    "install_size": 2182222,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "restricted",
+    "localizations": [
+        "de-de",
+        "en-us"
+    ],
+    "name": "Recycled Parts Spare Parts",
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "release_date": "2021-12-15T17:41:40.116591+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/RecycledParts/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164829-13-spacetux-industries-recycled-parts/",
+        "remote-avc": "http://ksp.spacetux.net/avc/RecycledParts",
+        "repository": "https://github.com/linuxgurugamer/RecycledParts",
+        "spacedock": "https://spacedock.info/mod/1507/Recycled%20Parts"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "0.2.3",
+    "x_generated_by": "netkan"
+}

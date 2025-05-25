@@ -1,0 +1,40 @@
+{
+    "abstract": "Control SAS functions with Action Groups",
+    "author": "Xyphos",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1380/SASAG/download/1.0.3.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C9206C6FA5CA57D1AC5914D09A6099D89A435AE5",
+        "sha256": "CA9DCDB3A017F1C9BA750C9D8E48220A6F9644FFF29634CD631C2D40BD73642A"
+    },
+    "download_size": 4440,
+    "identifier": "SASAG",
+    "install": [
+        {
+            "find": "XyphosAerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.10.1",
+    "license": "public-domain",
+    "name": "SASAG",
+    "release_date": "2019-11-25T14:56:33.114576+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Xyphos/KSP_SASAG/issues",
+        "homepage": "https://github.com/Xyphos/KSP_SASAG/wiki",
+        "repository": "https://github.com/Xyphos/KSP_SASAG",
+        "spacedock": "https://spacedock.info/mod/1380/SASAG"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:1.0.3.0",
+    "x_generated_by": "netkan"
+}

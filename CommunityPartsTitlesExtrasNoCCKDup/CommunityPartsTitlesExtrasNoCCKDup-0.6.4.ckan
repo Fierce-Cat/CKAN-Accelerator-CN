@@ -1,0 +1,52 @@
+{
+    "abstract": "If parts are placed in a CCK category, it usually also appeared in the original category. This patch hide all CCK-parts from the original categories. CPT give new titles considering the No Duplicates, so it is recommended. The mod was separated, because it has one disadvantage: parts what was hided from their original categories are not available in the search. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "flart",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/yalov/CommunityPartsTitles/releases/download/0.6.4/CommunityPartsTitles-v0.6.4.zip?auth_key=1748275916-4ad20def2d33412b9c7b28e5093f7a82-0-420f8b93e8d726e9e2c4b881a09fa323&size=152164&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "87A3F25BF713B45A4D19419A4543F02C014E2DD8",
+        "sha256": "86931FFA634B4BB5EC04A7B5EED09EF2681AB421BEF1DFAFFD142BE8D393E5C7"
+    },
+    "download_size": 152164,
+    "identifier": "CommunityPartsTitlesExtrasNoCCKDup",
+    "install": [
+        {
+            "comment": "Install category_hide_cck.cfg into Extras/ folder. So it is kind of Extra for Extra.",
+            "file": "GameData/002_CommunityPartsTitles/Extras/category_hide_cck.cfg",
+            "install_to": "GameData/002_CommunityPartsTitles/Extras"
+        }
+    ],
+    "ksp_version_max": "1.10.9",
+    "ksp_version_min": "1.3.0",
+    "license": "GPL-3.0",
+    "name": "Community Parts Titles Extras: CCK - No Duplicates [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "CommunityPartsTitles"
+        },
+        {
+            "name": "CommunityPartsTitlesExtrasCategory"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "release_date": "2020-07-11T13:55:19Z",
+    "resources": {
+        "bugtracker": "https://github.com/yalov/CommunityPartsTitles/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174189-*",
+        "repository": "https://github.com/yalov/CommunityPartsTitles"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "convenience"
+    ],
+    "version": "0.6.4",
+    "x_generated_by": "netkan"
+}

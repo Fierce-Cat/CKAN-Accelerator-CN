@@ -1,0 +1,118 @@
+{
+    "abstract": "Keeps OPT Spaceplane Parts useful and relevant in today's KSP.",
+    "author": "JadeOfMaar",
+    "conflicts": [
+        {
+            "name": "OPTWBIintegrationpatch"
+        },
+        {
+            "name": "OPTUSILifeSupportPatch"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1808/OPT%20Reconfig/download/2.1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "14C30303D1892DF6E94E3B86DB59176278EEB04E",
+        "sha256": "25EA4D43A788361A0B372D7CC159C2A85E0E6C54EA83019EDB621310B4BEA150"
+    },
+    "download_size": 2973972,
+    "identifier": "OPTReconfig",
+    "install": [
+        {
+            "find": "OPT_Reconfig",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.1",
+    "ksp_version_min": "1.9.1",
+    "license": "MIT",
+    "name": "OPT Reconfig",
+    "recommends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "OPTSpacePlaneMain"
+        }
+    ],
+    "release_date": "2020-08-07T18:01:46.833461+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173833-*",
+        "spacedock": "https://spacedock.info/mod/1808/OPT%20Reconfig",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/OPT_Reconfig/OPT_Reconfig-1523578946.859941.png"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "ClassicStockResources"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "ConfigurableContainers"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "ModularFuelTanks"
+        },
+        {
+            "name": "Pathfinder"
+        },
+        {
+            "name": "RationalResources"
+        },
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "TacLifeSupport"
+        },
+        {
+            "name": "TETRIXTechTree"
+        },
+        {
+            "name": "UnKerballedStart"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "WildBlueTools"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "2.1.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

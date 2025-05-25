@@ -1,0 +1,43 @@
+{
+    "abstract": "The age-old Star-Trek-like spacedock reactivated.",
+    "author": [
+        "Denko666",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1585/Spacedocks%20Redeployed/download/0.3.0.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5385F9618DB23D8D596C728531F4B395A5176018",
+        "sha256": "70F9C31287745D734E27C55FCFCEFEE3A4463BE82098690FF0B729B8F2663ACE"
+    },
+    "download_size": 2357638,
+    "identifier": "SpacedocksRedeployed",
+    "install": [
+        {
+            "find": "SpaceDockReBoxed",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Spacedocks Redeployed",
+    "release_date": "2020-05-22T14:05:46.615108+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/150589-12-spacedock/",
+        "remote-avc": "http://ksp.spacetux.net/avc/SpaceDockReBoxed",
+        "repository": "https://github.com/bartblommaerts/SpaceDock",
+        "spacedock": "https://spacedock.info/mod/1585/Spacedocks%20Redeployed"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.3.0.3",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,83 @@
+{
+    "abstract": "Rescale parts in the vessel editor.  Faster, more features, fewer bugs.",
+    "author": [
+        "Biotronic",
+        "pellinor",
+        "JonnyOThan"
+    ],
+    "conflicts": [
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "TweakScaleCompanion"
+        },
+        {
+            "name": "TweakScaleCompanion-ReStockPlus"
+        },
+        {
+            "name": "KSP-Recall"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "2.2",
+            "name": "Harmony2"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TweakScaleRescaled-Redist"
+        }
+    ],
+    "download": [
+        "https://github.com/JonnyOThan/TweakScale/releases/download/3.2.4/TweakScaleRescaled-3.2.4.zip",
+        "https://spacedock.info/mod/3514/TweakScale%20Rescaled/download/3.2.4"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DFDB641A66650105CDA1E5894E4562A898D5B0FA",
+        "sha256": "B4ED2CDE0ECC433583F0E298552D9B7B7B0A4A99314B6CE7DA443E5ED74C25D0"
+    },
+    "download_size": 162419,
+    "identifier": "TweakScaleRescaled",
+    "install": [
+        {
+            "file": "GameData/TweakScale",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 401934,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.3",
+    "license": "CC-BY-NC-SA",
+    "name": "TweakScale Rescaled",
+    "provides": [
+        "TweakScale"
+    ],
+    "recommends": [
+        {
+            "name": "TweakScaleRescaled-SafetyNet"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        }
+    ],
+    "release_date": "2025-02-08T03:32:35.112266+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JonnyOThan/TweakScale/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/223692-1125-tweakscalerescaled-scale-your-parts-in-the-editor/",
+        "remote-avc": "https://github.com/JonnyOThan/TweakScale/releases/latest/download/TweakScale.version",
+        "repository": "https://github.com/JonnyOThan/TweakScale",
+        "spacedock": "https://spacedock.info/mod/3514/TweakScale%20Rescaled",
+        "x_screenshot": "https://spacedock.info/content/JonnyOThan_33590/TweakScale_Rescaled/TweakScale_Rescaled-1707076072.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "3.2.4",
+    "x_generated_by": "netkan"
+}

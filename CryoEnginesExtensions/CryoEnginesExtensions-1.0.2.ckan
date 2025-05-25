@@ -1,0 +1,61 @@
+{
+    "abstract": "An expansion pack of new engines for Nertea's popular CryoEngines mod.",
+    "author": "Kavaeric",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CryoEngines"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3452/CryoEngines%20Extensions/download/1.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0D53B9335D289B89BD39E61FF419D7E87DD341A8",
+        "sha256": "589FAE2F0254FBE90891FE44E24633EF33CAA09A5D6123D86F59E450ACB4864C"
+    },
+    "download_size": 61823824,
+    "identifier": "CryoEnginesExtensions",
+    "install_size": 272788641,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "CryoEngines Extensions",
+    "recommends": [
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "release_date": "2023-10-09T04:58:18.220835+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219145-112x-cryoengines-extensions/",
+        "manual": "https://imgur.com/a/vOaGRWF",
+        "spacedock": "https://spacedock.info/mod/3452/CryoEngines%20Extensions",
+        "x_screenshot": "https://spacedock.info/content/Kavaeric_121913/CryoEngines_Extensions/CryoEngines_Extensions-1693449458.jpg"
+    },
+    "spec_version": "v1.18",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "RocketSoundEnhancement"
+        },
+        {
+            "name": "RocketSoundEnhancement-Config-Default"
+        }
+    ],
+    "tags": [
+        "parts",
+        "graphics"
+    ],
+    "version": "1.0.2",
+    "x_generated_by": "netkan"
+}

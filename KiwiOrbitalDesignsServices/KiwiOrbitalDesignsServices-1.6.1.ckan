@@ -1,0 +1,60 @@
+{
+    "abstract": "Stockalike Electron, Vulcan and Terran-1 ",
+    "author": "NoLifeJordan",
+    "conflicts": [
+        {
+            "name": "BrunosRocketEmporiumAndDesigns"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "SimpleAdjustableFairings"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3602/KODS%20-%20Kiwi%20Orbital%20Designs%20Services/download/1.6.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "377DCB290E775392972886551A4B87061D7B831C",
+        "sha256": "41175B60063DE01CC9496A75F33CBA3CA84B0F489821984CBDDB039AAA33AAC3"
+    },
+    "download_size": 106747483,
+    "identifier": "KiwiOrbitalDesignsServices",
+    "install": [
+        {
+            "find": "KODS",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 421727359,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "KODS - Kiwi Orbital Designs Services",
+    "release_date": "2024-08-27T17:51:15.611243+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/nolifejordan/Kiwi-Orbital-Designs-Systems/issues",
+        "repository": "https://github.com/nolifejordan/Kiwi-Orbital-Designs-Systems",
+        "spacedock": "https://spacedock.info/mod/3602/KODS%20-%20Kiwi%20Orbital%20Designs%20Services",
+        "x_screenshot": "https://spacedock.info/content/NoLifeJordan_85082/KODS_-_Kiwi_Orbital_Designs_Services/KODS_-_Kiwi_Orbital_Designs_Services-1717470979.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.6.1",
+    "x_generated_by": "netkan"
+}

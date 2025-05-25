@@ -1,0 +1,67 @@
+{
+    "abstract": "FAR replaces KSP's stock part-centered aerodynamics model with one based on real-life physics. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "ferram4",
+        "dkavolis"
+    ],
+    "conflicts": [
+        {
+            "name": "AerodynamicModel"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/dkavolis/Ferram-Aerospace-Research/releases/download/v0.16.0.0_Mader/FAR_0_16_0_0_Mader.zip?auth_key=1748275918-8adf9219911b427db70ec71e35a9f737-0-5fdd024e7476bcf32e37d6ecf90fb895&size=883901&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1B01822FDE5D189FDFB15C81BAD12AED7146D8BE",
+        "sha256": "99D3DF1173B66177363F69DA842AF8B8E4D56385BD8DB81275687253E4F987CE"
+    },
+    "download_size": 883901,
+    "identifier": "FerramAerospaceResearchContinued",
+    "install": [
+        {
+            "file": "GameData/FerramAerospaceResearch",
+            "filter": "config.xml",
+            "install_to": "GameData"
+        },
+        {
+            "comment": "FAR example craft",
+            "file": "Ships",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "de-de",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Ferram Aerospace Research Continued [PRO-KCMIRROR]",
+    "provides": [
+        "AerodynamicModel",
+        "FAR"
+    ],
+    "release_date": "2020-08-30T15:46:30Z",
+    "resources": {
+        "bugtracker": "https://github.com/dkavolis/Ferram-Aerospace-Research/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*",
+        "repository": "https://github.com/dkavolis/Ferram-Aerospace-Research"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "3:0.16.0.0",
+    "x_generated_by": "netkan"
+}

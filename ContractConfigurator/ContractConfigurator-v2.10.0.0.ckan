@@ -1,0 +1,68 @@
+{
+    "abstract": "A config-file based solution for creating new contracts! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "nightingale",
+        "KSP-RO team"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Harmony2"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/ContractConfigurator/releases/download/v2.10.0.0/ContractConfigurator_v2.10.0.0.zip?auth_key=1748275914-5086266627d144078e71bd4b00ce9975-0-473d04cb606efdcd980a262dde9db10a&size=590884&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "09C98978EC991D48AB15C163908BC486E552DCB2",
+        "sha256": "88DF96E1BC943CFB04E6FEFE364E8AF7B4D68CD2BAE206CC40906C79D9CE56A6"
+    },
+    "download_size": 590884,
+    "identifier": "ContractConfigurator",
+    "install": [
+        {
+            "file": "GameData/ContractConfigurator",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1603656,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.3",
+    "ksp_version_strict": true,
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "Contract Configurator [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "WaypointManager"
+        }
+    ],
+    "release_date": "2024-07-03T10:01:40Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/ContractConfigurator/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190040--",
+        "license": "https://raw.githubusercontent.com/KSP-RO/ContractConfigurator/master/LICENSE.txt",
+        "manual": "https://github.com/jrossignol/ContractConfigurator/wiki",
+        "metanetkan": "https://raw.githubusercontent.com/KSP-RO/ContractConfigurator/master/ContractConfiguratorRO.netkan",
+        "remote-avc": "https://github.com/KSP-RO/ContractConfigurator/raw/master/GameData/ContractConfigurator/ContractConfigurator.version",
+        "repository": "https://github.com/KSP-RO/ContractConfigurator"
+    },
+    "spec_version": "v1.16",
+    "suggests": [
+        {
+            "name": "ContractsWindowPlus"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "library",
+        "career"
+    ],
+    "version": "v2.10.0.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,142 @@
+{
+    "abstract": "Galileo's Planet Pack is an all new solar system. With high quality planets to explore, and more challeging gameplay than the stock game, GPP will give even the most accomplished KSPer hours of fun. GPP removes the stock planetary system and will corrupt stock system game saves. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Galileo88",
+    "conflicts": [
+        {
+            "name": "StockVisualEnhancements"
+        },
+        {
+            "min_version": "3:v0.0825b",
+            "name": "Scatterer"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "GPPTextures"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Galileo88/Galileos-Planet-Pack/releases/download/1.6.4.2/Galileos-Planet-Pack-1.6.4.2.zip?auth_key=1748275918-3f3838de21784a67964e20bc2702fd96-0-3adfd650002aaf7bfde6172300a4fb79&size=393796885&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CA543996A662AC3B55C09AB4428DE26FC7D3A9F7",
+        "sha256": "4A065E7375ECE7A0899538A5FFAA25E03A7E7FFEC781E60119BA81D2951CAFAE"
+    },
+    "download_size": 393796885,
+    "identifier": "GPP",
+    "install": [
+        {
+            "comment": "This is the main install for GPP",
+            "find": "GPP",
+            "install_to": "GameData"
+        },
+        {
+            "comment": "This correctly installs Final Frontier for GPP",
+            "filter": [
+                "Grannus"
+            ],
+            "find": "Optional Mods/GPP_FinalFrontier/GameData/Nereid",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-ND",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "es-mx",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Galileo's Planet Pack [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "Strategia"
+        },
+        {
+            "name": "FinalFrontier"
+        },
+        {
+            "name": "OPM-Galileo"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "SigmaReplacements-Descriptions"
+        },
+        {
+            "name": "SigmaReplacements-Heads"
+        },
+        {
+            "name": "SigmaReplacements-Suits"
+        },
+        {
+            "name": "SigmaReplacements-SkyBox"
+        },
+        {
+            "name": "SigmaReplacements-Navigation"
+        },
+        {
+            "name": "SigmaReplacements-MenuScenes"
+        },
+        {
+            "name": "Grannus-RibbonPack"
+        }
+    ],
+    "release_date": "2020-07-26T07:17:39Z",
+    "resources": {
+        "bugtracker": "https://github.com/Galileo88/Galileos-Planet-Pack/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/152136-ksp-13-galileos-planet-pack-v151-8-sept-2017/",
+        "metanetkan": "https://raw.githubusercontent.com/Galileo88/Galileos-Planet-Pack/master/CKAN/GPP.netkan",
+        "repository": "https://github.com/Galileo88/Galileos-Planet-Pack"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SigmaBinary-core"
+        },
+        {
+            "name": "GPPCloudsHighRes"
+        },
+        {
+            "name": "GPPCloudsLowRes"
+        },
+        {
+            "name": "Rescale-25"
+        },
+        {
+            "name": "Rescale-32"
+        },
+        {
+            "name": "Rescale-64"
+        },
+        {
+            "name": "Rescale-10"
+        },
+        {
+            "name": "Rescale-10625"
+        },
+        {
+            "name": "BetterLookingOceans-HighRes"
+        },
+        {
+            "name": "BetterLookingOceans-MedRes"
+        },
+        {
+            "name": "BetterLookingOceans-LowRes"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1:1.6.4.2",
+    "x_generated_by": "netkan"
+}

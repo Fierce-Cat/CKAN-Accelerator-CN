@@ -1,0 +1,47 @@
+{
+    "abstract": "Do more science!  Receive contracts for performing a variety of experiments under different situations.  Use it to drive the science in your space program, or use it to collect every last bit of science. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "nightingale",
+    "depends": [
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/jrossignol/ContractPack-FieldResearch/releases/download/1.1.2/ContractPack-FieldResearch_1.1.2.zip?auth_key=1748275917-a24697ab87f34dd49ff1825f2b3cb407-0-ce4515c486c6381424a265d45b7c7f46&size=38341&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8AB5A85744A57E7E6802984A2E0610BD55ED33CD",
+        "sha256": "FAE45ECB1EC9D31E210C10969059CE62F5D9779B9CCF5A9DB7E2876C03638716"
+    },
+    "download_size": 38341,
+    "identifier": "ContractConfigurator-FieldResearch",
+    "install": [
+        {
+            "find": "FieldResearch",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "ksp_version_min": "1.0.2",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Contract Pack: Field Research [PRO-KCMIRROR]",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/jrossignol/ContractPack-FieldResearch/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/111573-*",
+        "license": "https://raw.githubusercontent.com/jrossignol/ContractPack-FieldResearch/master/GameData/ContractPacks/FieldResearch/LICENSE.txt",
+        "repository": "https://github.com/jrossignol/ContractPack-FieldResearch"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CrowdSourcedScience"
+        },
+        {
+            "name": "ScienceAlert"
+        }
+    ],
+    "version": "1.1.2",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,62 @@
+{
+    "abstract": "This is a salyut mod for the DOS & OPS style stations. It contains fully functional replicas of Salyut 1, 4, 6 and 7. It also now contains Almaz 2, 3 and 5. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Raidernick",
+    "comment": "Ships readded",
+    "conflicts": [
+        {
+            "name": "RN-SalyutStations-SoyuzFerries"
+        }
+    ],
+    "depends": [
+        {
+            "name": "BDAnimationModules"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/SalyutStations/releases/download/v3.2/RN_SalyutStations_v3.2.zip?auth_key=1748275917-5ba2c51fa9ba478f876e1455a76f90de-0-d46562c505a4306b86a074e96d6e832e&size=33954390&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "05B767B61BD070758DE459C9908E498F192E714E",
+        "sha256": "A7CC0D2A27B26A6FF62AB60DC71B9F563B3EA5DD9ADD61F519AFAEB5D31B2AB4"
+    },
+    "download_size": 33954390,
+    "identifier": "RN-SalyutStations",
+    "install": [
+        {
+            "find": "RN_Salyut",
+            "install_to": "GameData"
+        },
+        {
+            "file": "Ships/VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-ND-3.0",
+    "name": "Salyut Stations [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RN-SovietSpacecraft"
+        },
+        {
+            "name": "RN-SovietRockets"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/79732-*",
+        "repository": "https://github.com/KSP-RO/SalyutStations"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1:v3.2",
+    "x_generated_by": "netkan"
+}

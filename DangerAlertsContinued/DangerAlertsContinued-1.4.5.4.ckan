@@ -1,0 +1,47 @@
+{
+    "abstract": "Adds configurable auditory/visual alerts.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1260/Danger%20Alerts%20Continued/download/1.4.5.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "94FF6F70121BF8A5139D2F21FD309CACF3A98F97",
+        "sha256": "A17211EF7BC1630B507333CCC97CBEF1D1FFECE2232193073F3DDDA3493390B9"
+    },
+    "download_size": 1798716,
+    "identifier": "DangerAlertsContinued",
+    "install": [
+        {
+            "find": "DangerAlerts",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2640391,
+    "ksp_version_max": "1.12.1",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Danger Alerts Continued",
+    "release_date": "2021-07-23T13:41:19.336504+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/DangerAlerts/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/157835-danger-alerts-continued/",
+        "remote-avc": "http://ksp.spacetux.net/avc/DangerAlerts",
+        "repository": "https://github.com/linuxgurugamer/DangerAlerts",
+        "spacedock": "https://spacedock.info/mod/1260/Danger%20Alerts%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Danger_Alerts_Continued/Danger_Alerts_Continued-1489584639.613014.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "1.4.5.4",
+    "x_generated_by": "netkan"
+}

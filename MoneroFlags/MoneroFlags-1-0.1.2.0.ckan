@@ -1,0 +1,45 @@
+{
+    "abstract": "Monero agent and flags for use in Kerbal Space Program. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "QuickBASIC",
+        "zer0Kerbal"
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/zer0Kerbal/MoneroFlags/releases/download/0.1.2.0/MoneroFlags-0.1.2.0.zip?auth_key=1748275916-b336afd4ce9a486fa80d78c5709cdf9b-0-033c26592c356fbd38a047710c483a61&size=40132&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A8040D4D420619E4E41FB3240A0E153C5CA1FD42",
+        "sha256": "89AEA8530755789F0012FB70B92447720F08FC7CCFB0F3ECE3670E8FF09E32C0"
+    },
+    "download_size": 40132,
+    "identifier": "MoneroFlags",
+    "install": [
+        {
+            "find": "MoneroFlags",
+            "install_to": "GameData/QuickBASIC"
+        }
+    ],
+    "install_size": 62167,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.0.0",
+    "license": "CC-BY-SA",
+    "name": "Monero Flags [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "release_date": "2021-09-09T13:39:40Z",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/MoneroFlags/issues",
+        "discussions": "https://github.com/zer0Kerbal/MoneroFlags/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204753-*",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/MoneroFlags/master/MoneroFlags.version",
+        "repository": "https://github.com/zer0Kerbal/MoneroFlags"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "flags"
+    ],
+    "version": "1:0.1.2.0",
+    "x_generated_by": "netkan"
+}

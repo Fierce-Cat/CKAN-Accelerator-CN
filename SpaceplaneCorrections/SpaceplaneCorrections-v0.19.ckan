@@ -1,0 +1,41 @@
+{
+    "abstract": "SPC replaces the stock plane parts with revamped textures, and integrates with FStextureSwitch to let the player customize which textures and colors to use.",
+    "author": "Avera9eJoe",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1194/SpacePlane%20Corrections/download/v0.19",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "641339FC8B6415C3399B322773235F19FA8AA269",
+        "sha256": "015C8E8EB17BF8C00375A00937627F635AAC2165A70A3966F16D1C9BE5F4F0C7"
+    },
+    "download_size": 6933062,
+    "identifier": "SpaceplaneCorrections",
+    "install": [
+        {
+            "file": "GameData/SPC",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.1",
+    "license": "MIT",
+    "name": "Spaceplane Corrections",
+    "release_date": "2017-09-09T00:20:09.921004+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/106489-12-spc-v014-spaceplane-corrections-fstextureswitch-integration-19-october-16/",
+        "spacedock": "https://spacedock.info/mod/1194/SpacePlane%20Corrections",
+        "x_screenshot": "https://spacedock.info/content/Avera9eJoe_1835/SpacePlane_Corrections/SpacePlane_Corrections-1486134673.581347.png"
+    },
+    "spec_version": 1,
+    "tags": [
+        "config"
+    ],
+    "version": "v0.19",
+    "x_generated_by": "netkan"
+}

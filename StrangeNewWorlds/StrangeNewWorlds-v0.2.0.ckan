@@ -1,0 +1,96 @@
+{
+    "abstract": "Adds a high-quality extrasolar system, featuring several planets and their many moons",
+    "author": "Zaffre",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": [
+        "https://github.com/Zaffreaqua/StrangeNewWorlds/releases/download/0.2.0/StrangeNewWorlds-v0.2.0.zip",
+        "https://spacedock.info/mod/2777/Strange%20New%20Worlds/download/v0.2.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "816FAC9897F067035628A07B5219638664DE96D6",
+        "sha256": "220869C658DE2279134EA695FBB2C18452D5091FFD005F73180470651C22DCB4"
+    },
+    "download_size": 601398094,
+    "identifier": "StrangeNewWorlds",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "GameData/StrangeNewWorlds",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1082272107,
+    "ksp_version": "1.12.3",
+    "license": "CC-BY-NC-ND",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "Strange New Worlds",
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements-Config-stock"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "TiltUnlocker"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "KopernicusExpansionContinued-Wormholes"
+                },
+                {
+                    "name": "Blueshift"
+                },
+                {
+                    "name": "KSPInterstellarExtended"
+                },
+                {
+                    "name": "FarFutureTechnologies"
+                }
+            ]
+        },
+        {
+            "name": "BetterTimeWarpCont"
+        }
+    ],
+    "release_date": "2022-06-22T02:57:35.0505+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Zaffreaqua/StrangeNewWorlds/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/202909-18-111-strange-new-worlds-a-new-high-quality-star-system-to-explore/",
+        "repository": "https://github.com/Zaffreaqua/StrangeNewWorlds",
+        "spacedock": "https://spacedock.info/mod/2777/Strange%20New%20Worlds",
+        "x_screenshot": "https://spacedock.info/content/Zaffre_61899/Strange_New_Worlds/Strange_New_Worlds-1623517754.7133539.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "BeyondHome"
+        },
+        {
+            "name": "ExtrasolarPlanetsBeyondKerbol-stock"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "v0.2.0",
+    "x_generated_by": "netkan"
+}

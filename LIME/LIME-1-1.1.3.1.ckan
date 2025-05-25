@@ -1,0 +1,51 @@
+{
+    "abstract": "This changes the time that Sunrise is defined (an hour later than stock)",
+    "author": [
+        "FruitGoose",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/FruitKocktail/releases/download/0.0.0.3/LIME-1.1.3.1.zip",
+        "https://spacedock.info/mod/2789/LIME/download/1.1.3.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "91E7F8FF4E3CAB354DCBFD3C47CC9E670328F604",
+        "sha256": "219BCFA3FBE801311C9BD98AF94BF69CA1B4BD7FD4CACB201F9D96BD330E889A"
+    },
+    "download_size": 24993,
+    "identifier": "LIME",
+    "install": [
+        {
+            "find": "FruitKocktail",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 30847,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.11.2",
+    "license": "MIT",
+    "name": "Lie In Must Ensue",
+    "release_date": "2024-07-24T15:14:43.809518+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/FruitKocktail/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/202889-1112-fruitkocktail-a-collection-of-mini-life-improvement-mods-with-fruit-based-acronyms-as-names-full-release/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/FruitKocktail/main/LIME/LIME.version",
+        "repository": "https://github.com/linuxgurugamer/FruitKocktail",
+        "spacedock": "https://spacedock.info/mod/2789/LIME"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1:1.1.3.1",
+    "x_generated_by": "netkan"
+}

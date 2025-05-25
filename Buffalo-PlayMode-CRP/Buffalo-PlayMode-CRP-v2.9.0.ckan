@@ -1,0 +1,52 @@
+{
+    "abstract": "NASA Inspired MSEV - Explore In Style [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "WildBlue-PlayMode-CRP"
+        },
+        {
+            "name": "Buffalo"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/Buffalo/releases/download/v2.9.0/Buffalo.zip?auth_key=1748275917-4ff3481c3e584b46886768aaf4489e11-0-cdcf5a01146adc98d7b12faad19b6349&size=36180817&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4F6050C01195FD2E6ABC90929FA3A3EB2F810937",
+        "sha256": "8F572AB0231414147E93CF503E7C15BA313C9E101F449BE10AAD7C18BD916273"
+    },
+    "download_size": 36180817,
+    "identifier": "Buffalo-PlayMode-CRP",
+    "install": [
+        {
+            "find": "Buffalo/Templates/CRP.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/Buffalo/Templates"
+        },
+        {
+            "as": "BuffaloISRU.cfg",
+            "find": "Buffalo/Templates/CRP/BuffaloISRU.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/Buffalo/Templates/CRP"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Buffalo CRP Play Mode [PRO-KCMIRROR]",
+    "provides": [
+        "Buffalo-PlayMode"
+    ],
+    "release_date": "2020-10-28T21:54:01Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/Buffalo/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/122617-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/Buffalo/master/GameData/WildBlueIndustries/Buffalo/Buffalo.version",
+        "repository": "https://github.com/Angel-125/Buffalo"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config"
+    ],
+    "version": "v2.9.0",
+    "x_generated_by": "netkan"
+}

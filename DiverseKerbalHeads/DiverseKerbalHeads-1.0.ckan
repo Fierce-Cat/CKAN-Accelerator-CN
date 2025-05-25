@@ -1,0 +1,36 @@
+{
+    "abstract": "Texture pack to provide racial and gender diversity to kerbonauts. Requires TextureReplacer.",
+    "author": [
+        "Sylith",
+        "shaw",
+        "IOI655362"
+    ],
+    "depends": [
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "download": "https://kerbal.curseforge.com/projects/diverse-kerbal-heads-1-0/files/latest",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1FB0B0929FA601B1B879BF438B5B17063F7ABE4D",
+        "sha256": "F3730A23BDD3587B4D150396D07613ADBD2C4F903B960E41D1008FCEA61CF7CA"
+    },
+    "download_size": 46726992,
+    "identifier": "DiverseKerbalHeads",
+    "install": [
+        {
+            "file": "GameData/TextureReplacer",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-4.0",
+    "name": "Diverse Kerbal Heads",
+    "resources": {
+        "homepage": "https://kerbal.curseforge.com/projects/diverse-kerbal-heads-1-0"
+    },
+    "spec_version": 1,
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

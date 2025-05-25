@@ -1,0 +1,41 @@
+{
+    "abstract": "BURAN ENERGIA - NOW FULLY USABLE",
+    "author": "papasid26",
+    "download": "https://spacedock.info/mod/2966/%5B1.8-1.12.x%5D%20Buran%20Energia%20Mod%20-%202.1%20%5BRSS/RO%20Compatible%5D/download/2.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FBDFB35D3BBAE2544BE946A8FE663C79F5BB0254",
+        "sha256": "843A98AE4EFD88A12A352BE3AB7AA95972BB2FE03D675A7B6334F03133AB1023"
+    },
+    "download_size": 62452866,
+    "identifier": "BuranEnergia",
+    "install": [
+        {
+            "find": "DECQ_ENERGIA",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Alcentar_Add-ons",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 116536042,
+    "ksp_version": "1.12.3",
+    "license": "GPL-3.0",
+    "name": "[1.8-1.12.x] Buran Energia Mod - 2.1 [RSS/RO Compatible]",
+    "release_date": "2022-03-08T03:43:34.447434+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/MyNameIsBorat/KspBuran/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199703-18-110-buran-energia-mod-rebalanced-and-fixed/",
+        "repository": "https://github.com/MyNameIsBorat/KspBuran",
+        "spacedock": "https://spacedock.info/mod/2966/[1.8-1.12.x]%20Buran%20Energia%20Mod%20-%202.1%20[RSS/RO%20Compatible]",
+        "x_screenshot": "https://spacedock.info/content/papasid26_53134/1.8-1.12.x_Buran_Energia_Mod_-_2.0_RSS_RO_Compatible/1.8-1.12.x_Buran_Energia_Mod_-_2.0_RSS_RO_Compatible-1643761094.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "2.1",
+    "x_generated_by": "netkan"
+}

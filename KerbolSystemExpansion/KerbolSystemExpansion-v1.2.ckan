@@ -1,0 +1,61 @@
+{
+    "abstract": "A mod for Kerbal Space Program that seeks to add new planets, similar to the moderately dated Outer Planets Mod.",
+    "author": "pastelmari",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "KopernicusExpansion"
+        },
+        {
+            "name": "Parallax"
+        }
+    ],
+    "download": "https://github.com/pastelmari/KerbolSystemExpansion/releases/download/v1.2/GameData.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F896F926C782C349D2B0689586B10E92454036F0",
+        "sha256": "536FE01FBD445B073E4E2C8BDA54E8AA7D88432666256FB2F2E4634BF554780B"
+    },
+    "download_size": 1304698953,
+    "identifier": "KerbolSystemExpansion",
+    "install": [
+        {
+            "find": "KerbolExpansion",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1764063964,
+    "license": "CC-BY-ND",
+    "name": "Kerbol System Expansion",
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "DistantObject"
+        }
+    ],
+    "release_date": "2024-10-02T14:30:53Z",
+    "resources": {
+        "bugtracker": "https://github.com/pastelmari/KerbolSystemExpansion/issues",
+        "repository": "https://github.com/pastelmari/KerbolSystemExpansion"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "v1.2",
+    "x_generated_by": "netkan"
+}

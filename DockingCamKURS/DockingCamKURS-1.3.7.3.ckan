@@ -1,0 +1,53 @@
+{
+    "abstract": "KURS style docking camera [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "DennyTX",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "DockingcameraKURSstyle"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/DockingCam/releases/download/1.3.7.3/DockingCamera-1.8.0-1.3.7.3.zip?auth_key=1748275918-8d5bc34014814d9f83687cb8f99a3907-0-0a01c8a68ddaac7ca76bf1ee95e14143&size=3131844&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1015729EEDC070461888EC2AF3630FA04C0FD537",
+        "sha256": "F3CE8798C814FA8B7E9A533DE7563E3EF40BEC970187CD368636D61B21F447ED"
+    },
+    "download_size": 3131844,
+    "identifier": "DockingCamKURS",
+    "install": [
+        {
+            "find": "DockingCamKURS",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.9.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Docking Cam [PRO-KCMIRROR]",
+    "release_date": "2020-08-03T04:57:28Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/DockingCam/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184038-*",
+        "repository": "https://github.com/linuxgurugamer/DockingCam"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "1.3.7.3",
+    "x_generated_by": "netkan"
+}

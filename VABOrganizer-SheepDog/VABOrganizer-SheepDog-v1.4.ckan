@@ -1,0 +1,99 @@
+{
+    "abstract": "Config files for part mods to support VABOrganizer [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Sheepdog2142",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "VABOrganizer"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Sheepdog2142/VABOrganizer-Sheepdog/releases/download/v1.4/VABOrganizer-Sheepdog-1.4.zip?auth_key=1748275915-7609366871984f33814f01e3e50ca20c-0-6ba1a1cc12f3d4a6025b97f17a0a561b&size=92838&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3A42BA9E67F13CA50B210CB4503E875AB2DE3D91",
+        "sha256": "0B9536CEBF8E9A5D18BD05BA9C9DC3A1B2B4FBF1C61E38430C6C1D5C4E2AF432"
+    },
+    "download_size": 92838,
+    "identifier": "VABOrganizer-SheepDog",
+    "install": [
+        {
+            "find": "GameData/VABOrganizer-Sheepdog",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 262385,
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "VAB Organizer - SheepDog Institute's Configs [PRO-KCMIRROR]",
+    "release_date": "2025-05-03T19:22:24Z",
+    "resources": {
+        "bugtracker": "https://github.com/Sheepdog2142/VABOrganizer-Sheepdog/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/225797-*",
+        "repository": "https://github.com/Sheepdog2142/VABOrganizer-Sheepdog"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "UniversalStorage2"
+        },
+        {
+            "name": "OPTSpacePlaneParts"
+        },
+        {
+            "name": "Mk-33"
+        },
+        {
+            "name": "TundraExploration"
+        },
+        {
+            "name": "TundraTechnologies"
+        },
+        {
+            "name": "ArtemisConstructionKit"
+        },
+        {
+            "name": "StarshipExpansionProject"
+        },
+        {
+            "name": "ShuttleOrbiterConstructionKit"
+        },
+        {
+            "name": "Buffalo2"
+        },
+        {
+            "name": "PlanetsideExplorationTechnologies"
+        },
+        {
+            "name": "NewTantares"
+        },
+        {
+            "name": "NewTantaresLV"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "JX2Antenna"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "ModularComputerPackageRevived"
+        },
+        {
+            "name": "Taerobee"
+        }
+    ],
+    "tags": [
+        "config",
+        "convenience",
+        "editor"
+    ],
+    "version": "v1.4",
+    "x_generated_by": "netkan"
+}

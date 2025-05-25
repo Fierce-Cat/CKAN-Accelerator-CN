@@ -1,0 +1,35 @@
+{
+    "abstract": "Telemetry addon for Kerbal Space Program.",
+    "author": "yagiziskirik",
+    "download": "https://spacedock.info/mod/2643/Kerbal%20Telemetry/download/v2.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "83D86BF44A50A97E0F168FAB1E52FACD2407B75E",
+        "sha256": "51C4BD4F34D310883C3F3AC5C71A8987A324C5B5F3E7CE81156690D8A67E1484"
+    },
+    "download_size": 8155423,
+    "identifier": "KerbalTelemetry",
+    "install": [
+        {
+            "file": "GameData",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.11.1",
+    "license": "MIT",
+    "name": "Kerbal Telemetry",
+    "release_date": "2021-02-21T10:51:40.716416+00:00",
+    "resources": {
+        "repository": "https://github.com/yagiziskirik/Kerbal-Telemetry",
+        "spacedock": "https://spacedock.info/mod/2643/Kerbal%20Telemetry",
+        "x_screenshot": "https://spacedock.info/content/yagiziskirik_56187/Kerbal_Telemetry/Kerbal_Telemetry-1613904743.7807353.png"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "app",
+        "information"
+    ],
+    "version": "v2.0.0",
+    "x_generated_by": "netkan"
+}

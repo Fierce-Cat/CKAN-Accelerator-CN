@@ -1,0 +1,53 @@
+{
+    "abstract": "KPBS adds multiple parts for bases on other planets including Habitats, Greenhouses, Laboratories and much more. It also supports the major life support mods.",
+    "author": "Nils277",
+    "depends": [
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/173/Kerbal%20Planetary%20Base%20Systems/download/1.6.10",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "62EE847EC99BF13CA40FD8F8E676485F64C81CCB",
+        "sha256": "8CEA208B502FECAA096BC73A35064A99C69FA06097B04363CF134EA5FB5FBD73"
+    },
+    "download_size": 37728088,
+    "identifier": "KerbalPlanetaryBaseSystems",
+    "install": [
+        {
+            "filter": "_src.zip",
+            "find": "PlanetaryBaseInc",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-4.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "it-it",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Kerbal Planetary Base Systems",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133606-1",
+        "spacedock": "https://spacedock.info/mod/173/Kerbal%20Planetary%20Base%20Systems",
+        "x_screenshot": "https://spacedock.info/content/Nils277_836/Kerbal_Planetary_Base_Systems/Kerbal_Planetary_Base_Systems-1456074829.3966272.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "v1.6.10",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,56 @@
+{
+    "abstract": "Craft import and uploads",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/CraftImport/releases/download/0.9.0.2/craftimport-1.12.0-0.9.0.2.zip",
+        "https://spacedock.info/mod/47/Craft%20Import%20&%20Upload/download/0.9.0.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BFED6ECDF27F2F1EBA8FE7BB035E103DC90A1772",
+        "sha256": "9FD7E81B0F04B5EE12434BD594C75B2FFC9A08CBE66A09F214CE62EBD58AF39B"
+    },
+    "download_size": 58614,
+    "identifier": "CraftImport",
+    "install": [
+        {
+            "find": "CraftImport",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 127023,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "Craft Import & Upload",
+    "recommends": [
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "release_date": "2025-01-01T17:54:38.598938+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/CraftImport/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/119584-craft-import-081-released-now-with-kerbalxcom-upload-integration/&do=findComment&comment=2149021",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/CraftImport/refs/heads/master/craftimport.version",
+        "repository": "https://github.com/linuxgurugamer/CraftImport",
+        "spacedock": "https://spacedock.info/mod/47/Craft%20Import%20&%20Upload",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Craft_Import__Upload/Craft_Import__Upload-1456622079.5029812.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "editor",
+        "convenience"
+    ],
+    "version": "1:0.9.0.2",
+    "x_generated_by": "netkan"
+}

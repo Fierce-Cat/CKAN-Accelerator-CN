@@ -1,0 +1,45 @@
+{
+    "abstract": "Fully featured Space Shuttle including boosters, external tank, MMU, and assorted payload mounting options as well as new texture options for the stock Mk3 cockpit, payload bays, and landing gears.",
+    "author": "Pak",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/417/Shuttle%20Lifting%20Body/download/1.5.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "78617BF36AE15B3EA3194BED4C46917CE8E63488",
+        "sha256": "EE4CAFAB7A33756A1FF0CB706394C12755D4E3E3103BDCAD12319516924742E4"
+    },
+    "download_size": 16120253,
+    "identifier": "ShuttleLiftingBodyCormorantAeronology",
+    "install": [
+        {
+            "find": "Cormorant Aeronology",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 52008012,
+    "ksp_version": "1.7.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Shuttle Lifting Body",
+    "release_date": "2018-10-22T23:30:13.724883+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/119951-cormorant-aeronology-dev-thread/&page=1",
+        "spacedock": "https://spacedock.info/mod/417/Shuttle%20Lifting%20Body",
+        "x_screenshot": "https://spacedock.info/content/Pak_2412/Shuttle_Lifting_Body/Shuttle_Lifting_Body-1476320781.9995837.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.5.1",
+    "x_generated_by": "netkan"
+}

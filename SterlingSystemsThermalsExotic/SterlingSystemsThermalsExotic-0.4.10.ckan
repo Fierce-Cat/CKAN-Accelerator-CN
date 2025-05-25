@@ -1,0 +1,55 @@
+{
+    "abstract": "Radiators that stop caring about keeping their coolant inside them [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "SterlingSystemsThermals"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.4.10/SterlingSystems_Thermals_0.4.10.zip?auth_key=1748275916-7a67b4fcc7aa45098ef902c8eda7610c-0-569a7156ea2ae7843313f155cad9fbe5&size=39432026&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "15D0EFBA3C7FB3A27C4FE91920C41C13EC09BFEF",
+        "sha256": "0ABA587FC3BC9C66737702F13F26DADA0E6FE2905D517404DCE5930AD081F1DC"
+    },
+    "download_size": 39432026,
+    "identifier": "SterlingSystemsThermalsExotic",
+    "install": [
+        {
+            "find": "ThermalsExotic",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 34946898,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Thermals - Exotic [PRO-KCMIRROR]",
+    "release_date": "2025-02-03T00:43:35Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "FarFutureTechnologies"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "0.4.10",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,92 @@
+{
+    "abstract": "Real Progression One without RealismOverhaul [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "pehvbot",
+    "conflicts": [
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "RSSDateTimeFormatter"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "DMagicScienceAnimate"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/pehvbot/LRTR/releases/download/v1.01/LRTR-v1.01.zip?auth_key=1748275918-c784eb7e782541d088f2c04770023b26-0-5fef204186032e49e1578f9f5fb19ae9&size=20295598&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9F3C0B81C17E8EC4F3CA3BE76128FB57FAE05FEC",
+        "sha256": "3FC5D921881EB51D6EBACCCAC3E953C91EE84DD845D6FBC94FF41CAAA8E8404D"
+    },
+    "download_size": 20295598,
+    "identifier": "LessRealThanReal",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "GameData/LRTR",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Less Real Than Real(ism) [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189978-*",
+        "repository": "https://github.com/pehvbot/LRTR"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "KRASH"
+        },
+        {
+            "name": "ScrapYard"
+        },
+        {
+            "name": "OhScrap"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "config",
+        "parts",
+        "tech-tree",
+        "career",
+        "science"
+    ],
+    "version": "v1.01",
+    "x_generated_by": "netkan"
+}

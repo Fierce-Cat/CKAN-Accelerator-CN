@@ -1,0 +1,63 @@
+{
+    "abstract": "ROHeatshields adds resizable heatshields at varying tech levels for Realism Overhaul. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "KSP-RO"
+    ],
+    "conflicts": [
+        {
+            "name": "TweakableEverything"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "TexturesUnlimited",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ROLib"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/ROHeatshields/releases/download/v1.3.0.0/ROHeatshields-v1.3.0.0.zip?auth_key=1748275917-268d548db9cc4fa986b89b351b5a804a-0-8076aff7ee3d55d7c49ee62762285426&size=4525926&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A6E2C70739B971C417BD3A37F68A95F5A490559C",
+        "sha256": "5F985B486AEEC144954FB73AFA3A9C5C409448617DD3097E5EE8D424D19CA841"
+    },
+    "download_size": 4525926,
+    "identifier": "ROHeatshields",
+    "install": [
+        {
+            "file": "GameData/ROHeatshields",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 10181584,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.3",
+    "license": "MIT",
+    "name": "RO Heatshields [PRO-KCMIRROR]",
+    "release_date": "2025-02-15T23:06:04Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/ROHeatshields/issues",
+        "homepage": "https://discordapp.com/invite/ZGbR6nv",
+        "metanetkan": "https://github.com/KSP-RO/ROHeatshields/raw/master/ROHeatshields.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/ROHeatshields/master/GameData/ROHeatshields/ROHeatshields.version",
+        "repository": "https://github.com/KSP-RO/ROHeatshields"
+    },
+    "spec_version": 1,
+    "tags": [
+        "parts",
+        "config",
+        "graphics",
+        "plugin"
+    ],
+    "version": "v1.3.0.0",
+    "x_generated_by": "netkan"
+}

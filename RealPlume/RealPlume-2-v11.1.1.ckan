@@ -1,0 +1,51 @@
+{
+    "abstract": "A set of effects and basic configs that can be attached to any engine as appropriate.  Requires secondary configs to function correctly. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "raidernick",
+    "conflicts": [
+        {
+            "name": "HotRockets"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "RealPlumeConfigs"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RealPlume/releases/download/v11.1.1/RealPlume_v11.1.1.zip?auth_key=1748275914-e29bfcdf0ef7478fa4357435817cb78b-0-234c86f84b32164be6b589ec332ce053&size=25146642&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8701D0C9935F0860D7A31D3F8FF2419D90514B75",
+        "sha256": "F97B73B127179AA833DD21CA0CEAE87CD54A571DE19D3A4D2CD7736BA748B6FF"
+    },
+    "download_size": 25146642,
+    "identifier": "RealPlume",
+    "install": [
+        {
+            "find": "RealPlume",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.1",
+    "license": "CC-BY-NC-SA",
+    "name": "Real Plume [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "EngineLighting"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://github.com/KSP-RO/RealPlume/wiki",
+        "repository": "https://github.com/KSP-RO/RealPlume"
+    },
+    "spec_version": "v1.4",
+    "version": "2:v11.1.1",
+    "x_generated_by": "netkan"
+}

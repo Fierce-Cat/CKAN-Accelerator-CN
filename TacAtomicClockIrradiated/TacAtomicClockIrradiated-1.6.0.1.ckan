@@ -1,0 +1,49 @@
+{
+    "abstract": "Know what time it is on Kerbin and some distant planet called Earth. Time guaranteed to be accurate to the microsecond (warranty void if exposed to moderate G-forces or vibration).",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/TacAtomicClock/releases/download/1.6.0.1/TAC_Atomic_Clock_Irradiated-1.6.0.1.zip",
+        "https://spacedock.info/mod/1483/TAC%20Atomic%20Clock%20Irradiated/download/1.6.0.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "36CD6F3079B3BBBF1C34EBE434200B4B957F8024",
+        "sha256": "AC96CA4764BD1AE4DE4A70B5DB2AA6051D2E1039178EA73C46F47E7C011BBDFF"
+    },
+    "download_size": 47543,
+    "identifier": "TacAtomicClockIrradiated",
+    "install": [
+        {
+            "find": "TacAtomicClock",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 95921,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA",
+    "name": "TAC Atomic Clock Irradiated",
+    "release_date": "2021-07-27T23:35:06.830818+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/164266-13-tac-atomic-clock-irradiated/",
+        "remote-avc": "http://ksp.spacetux.net/avc/TacAtomicClock",
+        "repository": "https://github.com/linuxgurugamer/TacAtomicClock",
+        "spacedock": "https://spacedock.info/mod/1483/TAC%20Atomic%20Clock%20Irradiated",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/TAC_Atomic_Clock_Irradiated/TAC_Atomic_Clock_Irradiated-1502368176.0434024.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "1.6.0.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,57 @@
+{
+    "abstract": "This System Heat config package changes stock and mod Resource Harvesters to use the SystemHeat backend. WARNING: potentially vessel-breaking. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SystemHeat"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/SystemHeat/releases/download/0.7.0/SystemHeat_0_7_0.zip?auth_key=1748275914-f40639b857c74469a582deb621309f80-0-2fa7d06d0e775b2a89ece3dab0e5c6d2&size=1324504&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "21F38E374A347C4A4B977DA44609B932D729FE8A",
+        "sha256": "ADE0CCC7B291EAC10B7379635311A04713E5AA21817070C81C04187115B8EDE3"
+    },
+    "download_size": 1324504,
+    "identifier": "SystemHeat-Harvesters",
+    "install": [
+        {
+            "find": "SystemHeatHarvesters",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 6609,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.11.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "System Heat - Resource Harvester Configuration [PRO-KCMIRROR]",
+    "release_date": "2024-08-14T02:31:13Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/SystemHeat/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193909-1",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/SystemHeat/raw/master/CKAN/SystemHeat-Harvesters.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/SystemHeat/master/GameData/SystemHeat/Versioning/SystemHeat.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/SystemHeat"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SystemHeatConverters"
+        },
+        {
+            "name": "SystemHeatFissionReactors"
+        },
+        {
+            "name": "SystemHeatFissionEngines"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "0.7.0",
+    "x_generated_by": "netkan"
+}

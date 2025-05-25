@@ -1,0 +1,111 @@
+{
+    "abstract": "Adds Stack Inline Lights to parts all with full color and brightness setup and in many sizes!",
+    "author": "zer0Kerbal",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "StackInlineLights"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2400/Stack%20Inline%20Light%20Patches%20(SILP)/download/1.0.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0C92BD0112F61BF5277E54D9E1FBD1916CAC3576",
+        "sha256": "91C1F01C7BAE99BEE63FFCD0289729EFC37E2029183F4878B215346EEE996BF5"
+    },
+    "download_size": 14900,
+    "identifier": "StackInlineLightPatches",
+    "install": [
+        {
+            "find": "ASET",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 46586,
+    "ksp_version_max": "1.7.9999",
+    "ksp_version_min": "1.7.1",
+    "license": "GPL-2.0",
+    "name": "Stack Inline Light Patches (SILP)",
+    "recommends": [
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "DockingPortDescriptions"
+        }
+    ],
+    "release_date": "2020-04-11T19:50:11.858706+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/SILPatches/issues",
+        "discussions": "https://github.com/zer0Kerbal/SILPatches/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193051-*",
+        "remote-avc": "https://github.com/zer0Kerbal/SILPatches/raw/master/SILPatches.version",
+        "repository": "https://github.com/zer0Kerbal/SILPatches",
+        "spacedock": "https://spacedock.info/mod/2400/Stack%20Inline%20Light%20Patches%20(SILP)",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Stack_Inline_Light_Patches/Stack_Inline_Light_Patches-1677815398.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "PicoPortShielded"
+        },
+        {
+            "name": "ODFC"
+        },
+        {
+            "name": "FieldTrainingFacility"
+        },
+        {
+            "name": "FieldTrainingLaboratory"
+        },
+        {
+            "name": "TransparentPods"
+        },
+        {
+            "name": "StorkDeliverySystem"
+        },
+        {
+            "name": "B9StockPatches"
+        },
+        {
+            "name": "OhScrap"
+        },
+        {
+            "name": "ScrapYard"
+        },
+        {
+            "name": "DMTanks-AeroRTG"
+        },
+        {
+            "name": "DMTanks-CargoBays"
+        },
+        {
+            "name": "DMTanks-Fuselage"
+        },
+        {
+            "name": "DMTanks-SphericalTanks"
+        },
+        {
+            "name": "SimpleConstruction"
+        },
+        {
+            "name": "NotSoSimpleConstruction"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "BulbEvolved"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "1.0.0.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,37 @@
+{
+    "abstract": "Creates a cloned \"Mastodon\" engine from the \"Making History\" DLC Expansion Pack and bumps it's Max Thrust up from 1350kN to 3150kN, making it the most powerful rocket engine ever built!",
+    "author": "Xyphos",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1820/MastodonPatch/download/v0.0.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7304AFEF7FC073C01A8B32190839269B43F54B15",
+        "sha256": "7FF38A92EA055CD5FA6553C13BA1994DE61F9997159E13ED3FDFC05CAA0C12EC"
+    },
+    "download_size": 1159,
+    "identifier": "MastodonPatch",
+    "install": [
+        {
+            "find": "XyphosAerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 444,
+    "ksp_version": "1.10.1",
+    "license": "public-domain",
+    "name": "MastodonPatch",
+    "release_date": "2018-04-26T08:54:49.002924+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/1820/MastodonPatch"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "v0.0.0.1",
+    "x_generated_by": "netkan"
+}

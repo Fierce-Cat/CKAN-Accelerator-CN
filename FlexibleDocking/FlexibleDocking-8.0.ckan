@@ -1,0 +1,44 @@
+{
+    "abstract": "A complete set of flexible docking ports that allows for a limited amount of movement and rotation of the port, facilitating surface docking.",
+    "author": "DMagic",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/838/Flexible%20Docking/download/8.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B84A2D5119DE54D26A040BC8A6BADBFCD533EFF2",
+        "sha256": "BD962AAA91552200B9EE5CB719063F780CD6DE39A7E28AD0ADB2C3B5AD61A4D1"
+    },
+    "download_size": 1058981,
+    "identifier": "FlexibleDocking",
+    "install": [
+        {
+            "find": "FlexoDocking",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.8",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Flexible Docking",
+    "release_date": "2019-10-30T04:20:56.246916+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/DMagic1/KSP_Flexible_Docking/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/108704-11x-dmagics-modlets-latest-modlet-flexible-docking-wip-release-v04-7-8-2016/",
+        "remote-avc": "https://raw.githubusercontent.com/DMagic1/KSP_Flexible_Docking/master/GameData/FlexoDocking/FlexoDocking.version",
+        "repository": "https://github.com/DMagic1/KSP_Flexible_Docking",
+        "spacedock": "https://spacedock.info/mod/838/Flexible%20Docking",
+        "x_screenshot": "https://spacedock.info/content/DMagic_247/Flexible_Docking/Flexible_Docking-1468258290.1311083.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "version": "8.0",
+    "x_generated_by": "netkan"
+}

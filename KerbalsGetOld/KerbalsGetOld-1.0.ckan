@@ -1,0 +1,42 @@
+{
+    "abstract": "Adds an aging mechanic to Kerbals. They will now grow old and die.",
+    "author": "iLikeGothMommys",
+    "download": [
+        "https://github.com/iLikeGothMommys/KerbalsGetOld/releases/download/Release1.0/KerbalsGetOld.zip",
+        "https://spacedock.info/mod/3807/Kerbals%20Get%20Old!/download/1.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "93C09C801F3F68396C09443DCFBD22191622EE9E",
+        "sha256": "0D6A2EBE2B5A3D2C613B33EEE424C60BBF96AB6D5D8CE8A2CD187582CC5124C8"
+    },
+    "download_size": 19797,
+    "identifier": "KerbalsGetOld",
+    "install": [
+        {
+            "find": "KerbalAgingMod",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 46208,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA",
+    "name": "Kerbals Get Old!",
+    "release_date": "2025-01-22T20:10:04.884188+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/iLikeGothMommys/KerbalsGetOld/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/226671-1125-kerbals-get-old-adds-an-aging-mechanic-to-ksp-release-10-1212025/",
+        "remote-avc": "https://raw.githubusercontent.com/iLikeGothMommys/KerbalsGetOld/refs/heads/main/KerbalAgingMod/KerbalsGetOld.version",
+        "repository": "https://github.com/iLikeGothMommys/KerbalsGetOld",
+        "spacedock": "https://spacedock.info/mod/3807/Kerbals%20Get%20Old!",
+        "x_screenshot": "https://spacedock.info/content/iLikeGothMommys_144772/Kerbals_Get_Old/Kerbals_Get_Old-1737485806.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

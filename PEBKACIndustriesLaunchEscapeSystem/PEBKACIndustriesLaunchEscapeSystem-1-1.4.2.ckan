@@ -1,0 +1,50 @@
+{
+    "abstract": "The PEBKAC Industries LES (PKI-LES) is designed to more or less simulate the Apollo and Mercury LES's used in real life",
+    "author": [
+        "Kurld",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/816/PEBKAC%20Industries:%20Launch%20Escape%20System/download/1.4.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F3D839045D933B9A98AB5E88A52E8A316C8B06BF",
+        "sha256": "734D1CBCC4A0AF3088E1E93D00D7F6A6996E0F5ED69ACEF1BDFC40DA7D332C01"
+    },
+    "download_size": 5251907,
+    "identifier": "PEBKACIndustriesLaunchEscapeSystem",
+    "install": [
+        {
+            "find": "GameData/Pebkac",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "Launch Escape System",
+    "recommends": [
+        {
+            "name": "BobsPanicBox"
+        }
+    ],
+    "release_date": "2019-11-01T16:37:43.781812+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/176158-14x-pebkac-industries-launch-escape-system/",
+        "remote-avc": "http://ksp.spacetux.net/avc/PEBKACLaunchEscape",
+        "repository": "https://github.com/linuxgurugamer/PebkacLaunchEscape2",
+        "spacedock": "https://spacedock.info/mod/816/PEBKAC%20Industries:%20Launch%20Escape%20System",
+        "x_screenshot": "https://spacedock.info/content/Kurld_6199/PEBKAC_Industries_Launch_Escape_System/PEBKAC_Industries_Launch_Escape_System-1467720772.7277086.jpg"
+    },
+    "spec_version": "v1.12",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1:1.4.2",
+    "x_generated_by": "netkan"
+}

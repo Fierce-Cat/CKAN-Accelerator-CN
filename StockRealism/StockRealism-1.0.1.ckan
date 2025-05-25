@@ -1,0 +1,50 @@
+{
+    "abstract": "Make the stock solar system reflect the real solar system.",
+    "author": "Zombie_Striker",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "AstronomersVisualPack"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        }
+    ],
+    "download": [
+        "https://github.com/ZombieStriker/StockRealism/releases/download/1.0.1/StockRealism.zip",
+        "https://spacedock.info/mod/3125/StockRealism/download/1.0.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7469A75F0AA1F9A0B2E3E64B38D1B4129492BD0C",
+        "sha256": "25BDA422E5D9A14C9BBBA55B40EE29E9C92C61D78FE099025D40C1D55DCDCFB9"
+    },
+    "download_size": 29718193,
+    "identifier": "StockRealism",
+    "install_size": 42664902,
+    "ksp_version_max": "1.12.9",
+    "ksp_version_min": "1.12.0",
+    "license": "AGPL-3.0",
+    "name": "StockRealism",
+    "release_date": "2022-09-24T07:25:51.627328+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/ZombieStriker/StockRealism/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209861-wip-112x-stockrealism-making-the-stock-solar-system-more-realistic/",
+        "remote-avc": "https://raw.githubusercontent.com/ZombieStriker/StockRealism/main/GameData/StockRealism/StockRealism.version",
+        "repository": "https://github.com/ZombieStriker/StockRealism",
+        "spacedock": "https://spacedock.info/mod/3125/StockRealism",
+        "x_screenshot": "https://spacedock.info/content/Zombie_Striker_88657/StockRealism/StockRealism-1663914316.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.0.1",
+    "x_generated_by": "netkan"
+}

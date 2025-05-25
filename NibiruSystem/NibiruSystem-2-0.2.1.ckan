@@ -1,0 +1,46 @@
+{
+    "abstract": "A planet system based off of a fictional story.",
+    "author": [
+        "Hyper_Fun",
+        "Baactiba"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2287/Nibiru%20System/download/0.2.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C4F08A8EDBDF4069A806C2B445D38769E26CECED",
+        "sha256": "33A8A265AC9B4E547DD774C31D861968E99E75B835540D0D740BE8410BBFFAE5"
+    },
+    "download_size": 45362606,
+    "identifier": "NibiruSystem",
+    "install": [
+        {
+            "find": "Nibiru",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 90974354,
+    "ksp_version": "1.8.1",
+    "license": "WTFPL",
+    "name": "Nibiru System",
+    "release_date": "2019-12-23T03:44:56.383922+00:00",
+    "resources": {
+        "homepage": "https://discord.gg/fJf7SSv",
+        "spacedock": "https://spacedock.info/mod/2287/Nibiru%20System",
+        "x_screenshot": "https://spacedock.info/content/Hyper_Fun_30907/Nibiru_System/Nibiru_System-1596932231.5627072.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "2:0.2.1",
+    "x_generated_by": "netkan"
+}

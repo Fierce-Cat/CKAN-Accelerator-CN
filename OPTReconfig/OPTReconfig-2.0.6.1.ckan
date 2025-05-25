@@ -1,0 +1,58 @@
+{
+    "abstract": "Keeps OPT Spaceplane Parts useful and relevant in today's KSP.",
+    "author": "JadeOfMaar",
+    "conflicts": [
+        {
+            "name": "OPTWBIintegrationpatch"
+        },
+        {
+            "name": "OPTUSILifeSupportPatch"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "OPTSpacePlaneParts"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1808/OPT%20Reconfig/download/2.0.6.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "44CF0FA39817C48C126654BFB70E07C6609ACD27",
+        "sha256": "7CEE67135F950E230C2466BB0C8BA5AFDE2DA9A3D010BF347F22904BEC41963D"
+    },
+    "download_size": 2799707,
+    "identifier": "OPTReconfig",
+    "install": [
+        {
+            "find": "OPT_Reconfig",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.9.1",
+    "license": "MIT",
+    "name": "OPT Reconfig",
+    "recommends": [
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "release_date": "2020-07-23T00:16:56.55644+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173833-*",
+        "spacedock": "https://spacedock.info/mod/1808/OPT%20Reconfig",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/OPT_Reconfig/OPT_Reconfig-1523578946.859941.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "2.0.6.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

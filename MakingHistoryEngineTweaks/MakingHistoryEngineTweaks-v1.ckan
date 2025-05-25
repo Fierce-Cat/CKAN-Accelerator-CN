@@ -1,0 +1,35 @@
+{
+    "abstract": "This mod adjusts the specs on Making History engines and 2 stock engines with the goal of ensuring every engine has a unique niche. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "TykoTek",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "MakingHistory-DLC"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/TykoTek/EngineTweaks_for_MakingHistory/releases/download/v1/EngineTweaks_MH.zip?auth_key=1748275917-7f85b2e535804c53901752db5c776859-0-9c8432939211155cec1715df775bbe84&size=2950&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3B82FC0603F842C13BF3F8C64B8145B365097A70",
+        "sha256": "FBC34C10C989AB99BFE7A62C61ECAEEC1234B9FF0F52AB71EEEDB08AED6080B2"
+    },
+    "download_size": 2950,
+    "identifier": "MakingHistoryEngineTweaks",
+    "install": [
+        {
+            "find": "GameData/EngineTweaks_MH",
+            "install_to": "GameData"
+        }
+    ],
+    "license": "MIT",
+    "name": "EngineTweaks for MakingHistory [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174303-*",
+        "repository": "https://github.com/TykoTek/EngineTweaks_for_MakingHistory"
+    },
+    "spec_version": "v1.4",
+    "version": "v1",
+    "x_generated_by": "netkan"
+}

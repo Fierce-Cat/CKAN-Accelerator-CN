@@ -1,0 +1,43 @@
+{
+    "abstract": "Mission Controller 2 Adds New Economy Adjustments and Contracts to Kerbal Space Program. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Malkuth74",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/malkuth1974/MissionController2/releases/download/3.1.2.0/MissionController2.zip?auth_key=1748275915-74822cfa01164c248c2db8c9873b66c9-0-f1b2d0f1131ef0acee1d628d48ca70f4&size=17996403&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "471CBBCC51A4BA43F7FCF80046FA4A9CCA22BBAC",
+        "sha256": "0B0393C61A67FF378B00B21C468B658A132B956C35B7A531479EE9933DF4CBFC"
+    },
+    "download_size": 17996403,
+    "identifier": "MissionController2",
+    "install": [
+        {
+            "find": "MissionController",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.0",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Mission Controller 2 [PRO-KCMIRROR]",
+    "release_date": "2020-07-11T16:51:32Z",
+    "resources": {
+        "bugtracker": "https://github.com/malkuth1974/MissionController2/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/40183-*",
+        "repository": "https://github.com/malkuth1974/MissionController2"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "career"
+    ],
+    "version": "2:3.1.2.0",
+    "x_generated_by": "netkan"
+}

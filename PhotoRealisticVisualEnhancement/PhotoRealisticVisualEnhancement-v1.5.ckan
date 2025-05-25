@@ -1,0 +1,71 @@
+{
+    "abstract": "Visual Enhancements for Real Solar System [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "SpaceODY",
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Scatterer-config",
+            "version": "3:v0.0772"
+        },
+        {
+            "name": "Scatterer",
+            "version": "3:v0.0772"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "RealSolarSystem"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/SpaceODY/PRVE/releases/download/v1.5/PRVEv1.5.zip?auth_key=1748275916-33dfd20b80af489594baa1126d699bc2-0-df58c305771483d43f9ea0c42bed2411&size=329351742&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2AE2CBE8422BFD641E1A08275D115922B6E62BAF",
+        "sha256": "4067434C3665C0B48A97CF413BBC9C01EE909149EA89F528CEC6BD19213813E0"
+    },
+    "download_size": 329351742,
+    "identifier": "PhotoRealisticVisualEnhancement",
+    "install": [
+        {
+            "find": "PRVE",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.10.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "PRVE [PRO-KCMIRROR]",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config"
+    ],
+    "release_date": "2022-02-26T03:37:13Z",
+    "resources": {
+        "bugtracker": "https://github.com/SpaceODY/PRVE/issues",
+        "repository": "https://github.com/SpaceODY/PRVE"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KS3P"
+        },
+        {
+            "name": "TUFX"
+        }
+    ],
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "v1.5",
+    "x_generated_by": "netkan"
+}

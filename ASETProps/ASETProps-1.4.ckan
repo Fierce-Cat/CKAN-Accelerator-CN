@@ -1,0 +1,59 @@
+{
+    "abstract": "ASET Props pack",
+    "author": "alexustas",
+    "depends": [
+        {
+            "name": "ASETAgency"
+        },
+        {
+            "min_version": "0.28.0",
+            "name": "RasterPropMonitor-Core"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1204/ASET%20Props/download/1.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A093FF72D132B07794B07FC5C05F24999E435FD5",
+        "sha256": "0A9A1490F7F44ABA352E5FBB31E3A5BD6343C78D3A4CC7DC2147550786E830B9"
+    },
+    "download_size": 17744647,
+    "identifier": "ASETProps",
+    "install": [
+        {
+            "find": "ASET/ASET_Props",
+            "install_to": "GameData/ASET"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "ASET Props",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/116430-ivaprops-aset-props-pack-v13-for-the-modders-who-create-iva/",
+        "spacedock": "https://spacedock.info/mod/1204/ASET%20Props",
+        "x_screenshot": "https://spacedock.info/content/alexustas_3789/ASET_Props/ASET_Props-1486510832.1924078.png"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "VesselView"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "TACLS"
+        }
+    ],
+    "version": "1.4",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

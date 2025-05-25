@@ -1,0 +1,69 @@
+{
+    "abstract": "Wide-body, massive spaceplane fuselage including advanced engines",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "NearFutureProps"
+        }
+    ],
+    "download": "https://spacedock.info/mod/809/Mark%20IV%20Spaceplane%20System/download/3.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D5B4063362BC40C95004AA0456764396D98E7818",
+        "sha256": "76ADB17D907B286AF372CA3048857724B4A5056DCFCF5C2B88FDC1A817BADF94"
+    },
+    "download_size": 51068441,
+    "identifier": "MarkIVSpaceplaneSystem",
+    "install": [
+        {
+            "find": "MarkIVSystem",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Mark IV Spaceplane System",
+    "release_date": "2020-02-21T00:09:06.758433+00:00",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/91713-113-mark-iv-spaceplane-system-the-go-higher-update-113-june-30/",
+        "repository": "https://github.com/ChrisAdderley/MkIVSystem",
+        "spacedock": "https://spacedock.info/mod/809/Mark%20IV%20Spaceplane%20System",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Mark_IV_Spaceplane_System/Mark_IV_Spaceplane_System-1467302860.809514.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "RasterPropMonitor"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "FerramAerospaceResearch"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "3.1.1",
+    "x_generated_by": "netkan"
+}

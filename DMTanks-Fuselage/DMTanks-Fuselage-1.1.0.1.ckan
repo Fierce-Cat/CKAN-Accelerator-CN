@@ -1,0 +1,77 @@
+{
+    "abstract": "An aero parts mod adding adding seven (7) stock-alike flat fuselage parts.",
+    "author": [
+        "Bezzier",
+        "DaMichel",
+        "zer0Kerbal"
+    ],
+    "download": "https://spacedock.info/mod/2340/DaMichel%27s%20Fuselage%20%28DMF%29/download/1.1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F06BC11E1D30B352AD55C53397ADDA9104DECBA7",
+        "sha256": "466D4BBC3791E5911ACC30374878721488798E4EACD97259A2C7E1902A2B335F"
+    },
+    "download_size": 626429,
+    "identifier": "DMTanks-Fuselage",
+    "install": [
+        {
+            "find": "DaMichel",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.9999",
+    "ksp_version_min": "1.7.1",
+    "license": "CC-BY-NC-SA-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "DaMichel's Fuselage (DMF)",
+    "recommends": [
+        {
+            "name": "DMTanks-SphericalTanks"
+        },
+        {
+            "name": "DMTanks-CargoBays"
+        },
+        {
+            "name": "DMTanks-AeroRTG"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191719-*",
+        "repository": "https://github.com/zer0Kerbal/DaMichel/tree/master/GameData/DaMichel/Fuselage",
+        "spacedock": "https://spacedock.info/mod/2340/DaMichel's%20Fuselage%20(DMF)",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/DaMichels_Fuselage_DMF/DaMichels_Fuselage_DMF-1581968765.6439016.jpg"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SimpleConstruction"
+        },
+        {
+            "name": "NotSoSimpleConstruction"
+        },
+        {
+            "name": "SimpleLogistics"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "supports": [
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "RealFuels"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1.1.0.1",
+    "x_generated_by": "netkan"
+}

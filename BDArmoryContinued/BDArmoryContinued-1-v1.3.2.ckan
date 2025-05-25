@@ -1,0 +1,66 @@
+{
+    "abstract": "The original Weapons mod by BahamutoD, continued! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "BahamutoD",
+        "Papa_Joe",
+        "jrodrigv",
+        "ouloul"
+    ],
+    "conflicts": [
+        {
+            "name": "BDArmory"
+        }
+    ],
+    "depends": [
+        {
+            "name": "PhysicsRangeExtender"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/PapaJoesSoup/BDArmory/releases/download/v1.3.2/BDArmory.1.3.2.0_11172019.zip?auth_key=1748275917-cf9d4803fa874e6f9253cec2f5314e3e-0-042de6da840c4f4d238f4b607c20fc5c&size=53025988&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "58059D0A23138FFA07B42E02C29A193273FF916C",
+        "sha256": "7C1D07B1A30D802AC4BA0373C950E754645243889CA25D9FB7F6E685D39D2088"
+    },
+    "download_size": 53025988,
+    "identifier": "BDArmoryContinued",
+    "install": [
+        {
+            "find": "BDArmory",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.999",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-SA-2.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "BD Armory Continued [PRO-KCMIRROR]",
+    "provides": [
+        "BDArmory"
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184167-*",
+        "repository": "https://github.com/PapaJoesSoup/BDArmory",
+        "x_screenshot": "https://spacedock.info/content/Papa_Joe_926/BDArmoryContinued/BDArmoryContinued-1470103192.4904277.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "BDModularMissileParts"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts",
+        "sound",
+        "combat"
+    ],
+    "version": "1:v1.3.2",
+    "x_generated_by": "netkan"
+}

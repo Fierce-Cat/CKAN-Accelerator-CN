@@ -1,0 +1,103 @@
+{
+    "abstract": "Makes resource placement no longer random but fit to composition templates. Promotes cryofuel mods and planet pack to life support compatibility.",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2201/Rational%20Resources/download/1.40",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6AEF0BA7CAD1AF6E35AA3AC834F41B6CBDA657DD",
+        "sha256": "829211CDB31188C846E16AB5B77E7718581B29659A93888E20189738CCB9693B"
+    },
+    "download_size": 4448239,
+    "identifier": "RationalResources",
+    "install_size": 5207193,
+    "ksp_version": "1.12.3",
+    "license": "MIT",
+    "name": "Rational Resources",
+    "recommends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ClassicStockResources"
+        },
+        {
+            "name": "RationalResourcesCompanion"
+        },
+        {
+            "name": "SCANsat"
+        }
+    ],
+    "release_date": "2022-04-29T03:07:32.530684+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/RationalResources/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184875-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalResources/Version/RationalResources.version",
+        "repository": "https://github.com/JadeOfMaar/RationalResources",
+        "spacedock": "https://spacedock.info/mod/2201/Rational%20Resources",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Rational_Resources/Rational_Resources-1633389353.6822987.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "JNSQ"
+        },
+        {
+            "name": "RationalResourcesParts"
+        },
+        {
+            "name": "StockalikeMiningExtension"
+        }
+    ],
+    "supports": [
+        {
+            "name": "BeyondHome"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "ClassicStockResources"
+        },
+        {
+            "name": "DSEV"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        },
+        {
+            "name": "JNSQ"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "Pathfinder"
+        },
+        {
+            "name": "StockalikeMiningExtension"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "tags": [
+        "config",
+        "resources"
+    ],
+    "version": "1.40",
+    "x_generated_by": "netkan"
+}

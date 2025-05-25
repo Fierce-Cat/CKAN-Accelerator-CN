@@ -1,0 +1,43 @@
+{
+    "abstract": "Fixes the problem of unstable joints [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "ferram4",
+        "Rudolf Meier"
+    ],
+    "conflicts": [
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/meirumeiru/Kerbal-Joint-Reinforcement/releases/download/v4.1.15/KerbalJointReinforcement_v4.1.15.zip?auth_key=1748275914-6801e9c6d37545f7b546023d2b8b1d0c-0-c3bc5e4c92702e7d6717053cec774cff&size=31486&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E0EA13FFB5FCB643F633FA275AA7FD5652D9BAB4",
+        "sha256": "C9D00057EB12602B6DB40C0AC1845B41AD3D800DFA875CA2FCE2D54115E6AC07"
+    },
+    "download_size": 31486,
+    "identifier": "KerbalJointReinforcementNext",
+    "install": [
+        {
+            "file": "GameData/KerbalJointReinforcement",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.7.3",
+    "license": "GPL-3.0",
+    "name": "Kerbal Joint Reinforcement - Next [PRO-KCMIRROR]",
+    "release_date": "2019-08-24T22:44:26Z",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*",
+        "remote-avc": "https://github.com/meirumeiru/Kerbal-Joint-Reinforcement/raw/master/Resources/GameData/KerbalJointReinforcement/KerbalJointReinforcement.version",
+        "repository": "https://github.com/meirumeiru/Kerbal-Joint-Reinforcement"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "v4.1.15",
+    "x_generated_by": "netkan"
+}

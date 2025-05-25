@@ -1,0 +1,61 @@
+{
+    "abstract": "Exquisite Chinese Spacecraft",
+    "author": [
+        "IcecoveryStudio",
+        "Armo"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "RealChute"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1522/Icecovery%27s%20Chinese%20Spacecraft%20Pack/download/V1.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F1664C78BEA1DD50D735A8F1EF01B38C0A1DC85D",
+        "sha256": "151750C142997D52123C71CE5A59F7FF212A42D431AA9B351EEEBCC4A20FBD79"
+    },
+    "download_size": 56872466,
+    "identifier": "ChineseSpacecraftPack",
+    "install": [
+        {
+            "find": "ICSP",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-SA-4.0",
+    "name": "Icecovery's Chinese Spacecraft Pack",
+    "recommends": [
+        {
+            "name": "ComfortableLanding"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "release_date": "2022-06-03T18:34:37.367607+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Armo00/ICSP/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/165463-icecoverys-chinese-spacecraft-pack/",
+        "repository": "https://github.com/Armo00/ICSP",
+        "spacedock": "https://spacedock.info/mod/1522/Icecovery's%20Chinese%20Spacecraft%20Pack",
+        "x_screenshot": "https://spacedock.info/content/IcecoveryStudio_9112/Icecoverys_Chinese_Spacecraft_Pack/Icecoverys_Chinese_Spacecraft_Pack-1505298504.6998188.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "V1.3",
+    "x_generated_by": "netkan"
+}

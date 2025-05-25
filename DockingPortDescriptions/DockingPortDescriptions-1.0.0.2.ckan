@@ -1,0 +1,50 @@
+{
+    "abstract": "Patch adds docking port size/gender(if gendered)/and if shielded to description in editor for all docking ports.",
+    "author": "zer0Kerbal",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2246/Docking%20Port%20Descriptions/download/1.0.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5C2185B15FE29128FCAB35F837F4C661CAA73D6A",
+        "sha256": "78E39AB2C0A38AC31E7B3628629E496D67A98F97C45267BF50F3D277A777041C"
+    },
+    "download_size": 13250,
+    "identifier": "DockingPortDescriptions",
+    "install": [
+        {
+            "find": "KGEx",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Docking Port Descriptions",
+    "resources": {
+        "homepage": "https://github.com/zer0Kerbal/KGEx/tree/master/GameData/KGEx//DockingPortDescriptions",
+        "repository": "https://github.com/zer0Kerbal/KGEx/tree/master/GameData/KGEx//DockingPortDescriptions",
+        "spacedock": "https://spacedock.info/mod/2246/Docking%20Port%20Descriptions",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Docking_Port_Descriptions/Docking_Port_Descriptions-1570270466.298945.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ODFC-Refueled"
+        },
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "PicoPortShielded"
+        }
+    ],
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.0.0.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

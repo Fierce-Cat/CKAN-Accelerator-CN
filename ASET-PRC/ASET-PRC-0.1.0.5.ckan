@@ -1,0 +1,41 @@
+{
+    "abstract": "Portable Rover Components [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/ASET_PRC_Rover/releases/download/0.1.0.5/ASET_PRC-1.12.0-0.1.0.5.zip?auth_key=1748275914-5a5fffb76cd544c0a218f04e8c1c669f-0-251550730d765c5e5de61af7b3f8265b&size=2309904&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4EB72D497DCB015F6AF2CE165E4FC4BBAD1B0B3B",
+        "sha256": "513C811CD431C1422989BE9DE06A324004C492F6183B504A5C1FE883C3284CE7"
+    },
+    "download_size": 2309904,
+    "identifier": "ASET-PRC",
+    "install": [
+        {
+            "find": "ASET",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 4244851,
+    "ksp_version_min": "1.10.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "ASET PRC (Portable Rover Components) [PRO-KCMIRROR]",
+    "release_date": "2022-02-19T17:26:04Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/ASET_PRC_Rover/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189044-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/ASET_PRC",
+        "repository": "https://github.com/linuxgurugamer/ASET_PRC_Rover",
+        "spacedock": "https://spacedock.info/mod/2252/ASET%20PRC%20(Portable%20Rover%20Components)"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.1.0.5",
+    "x_generated_by": "netkan"
+}

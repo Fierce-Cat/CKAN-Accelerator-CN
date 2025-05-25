@@ -1,0 +1,47 @@
+{
+    "abstract": "8k textures for Kcalbeloh System",
+    "author": "jcyuan06",
+    "conflicts": [
+        {
+            "name": "KcalbelohSystem-Textures"
+        }
+    ],
+    "depends": [
+        {
+            "name": "KcalbelohSystem"
+        }
+    ],
+    "download": "https://github.com/jcyuan06/Kcalbeloh-System/releases/download/v1.1.7/Kcalbeloh.Textures-8k.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4A6EB5BD6B2E641D91659216384D37394ADDE751",
+        "sha256": "770AF1E734C5778AB13B66937D8360B4879E2B324D6A06861615C401FCC925CB"
+    },
+    "download_size": 1611447795,
+    "identifier": "KcalbelohSystem-Textures-8k",
+    "install": [
+        {
+            "find": "KcalbelohTextures",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2668739659,
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "Kcalbeloh System 8k Textures",
+    "provides": [
+        "KcalbelohSystem-Textures"
+    ],
+    "release_date": "2024-04-10T03:14:21Z",
+    "resources": {
+        "bugtracker": "https://github.com/jcyuan06/Kcalbeloh-System/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/203753-*",
+        "repository": "https://github.com/jcyuan06/Kcalbeloh-System"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "planet-pack",
+        "graphics"
+    ],
+    "version": "v1.1.7",
+    "x_generated_by": "netkan"
+}

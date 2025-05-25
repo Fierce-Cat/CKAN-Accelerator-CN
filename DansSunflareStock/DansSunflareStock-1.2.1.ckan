@@ -1,0 +1,60 @@
+{
+    "abstract": "Stock Sunflare",
+    "author": "dandoesstuff",
+    "conflicts": [
+        {
+            "name": "Scatterer-sunflare"
+        }
+    ],
+    "depends": [
+        {
+            "name": "Scatterer"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3464/Dan's%20Sunflare%20(Stock)/download/1.2.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6342518A52BEAE08F772508519F1B1178BC9B43A",
+        "sha256": "27E3F2CB3C9FF79E7690D384C0FED423B7447FCEB64359740BED04401CB8D64A"
+    },
+    "download_size": 2385936,
+    "identifier": "DansSunflareStock",
+    "install": [
+        {
+            "find": "Dan's Sunflares",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2486579,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Dan's Sunflare (Stock)",
+    "provides": [
+        "Scatterer-sunflare"
+    ],
+    "recommends": [
+        {
+            "name": "BetterKerbol"
+        },
+        {
+            "name": "BetterKerbolRescale"
+        }
+    ],
+    "release_date": "2023-12-29T17:04:43.667602+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3464/Dan's%20Sunflare%20(Stock)",
+        "x_screenshot": "https://spacedock.info/content/dandoesstuff_122920/Dans_Sunflare_Stock/Dans_Sunflare_Stock-1727075375.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        }
+    ],
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1.2.1",
+    "x_generated_by": "netkan"
+}

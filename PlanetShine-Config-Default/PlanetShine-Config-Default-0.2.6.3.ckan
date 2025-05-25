@@ -1,0 +1,52 @@
+{
+    "abstract": "Planets and moons reflects their light to your vessel + other ambient light improvements [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "valerian",
+        "PapaJoesSoup",
+        "prestja"
+    ],
+    "conflicts": [
+        {
+            "name": "PlanetShine-Config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "PlanetShine"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/prestja/ksp-planetshine/releases/download/0.2.6.3/PlanetShine.zip?auth_key=1748275918-0d058a88735c4a17ab876c9a50321473-0-32134a4d6d6d31a27f56ec7c43c319bc&size=30693&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "54788D4D929CE602482A31906D0985CA028B1C30",
+        "sha256": "4E78854204ACCBC7800DA2CB8BA8F908C6CEA4A784BF64930862DDC8A1CAE008"
+    },
+    "download_size": 30693,
+    "identifier": "PlanetShine-Config-Default",
+    "install": [
+        {
+            "find": "GameData/PlanetShine/Config",
+            "install_to": "GameData/PlanetShine"
+        }
+    ],
+    "ksp_version_max": "1.10",
+    "ksp_version_min": "1.8",
+    "license": "Apache-2.0",
+    "name": "PlanetShine - Default configuration [PRO-KCMIRROR]",
+    "provides": [
+        "PlanetShine-Config"
+    ],
+    "release_date": "2019-11-24T01:05:02Z",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189071-*",
+        "remote-avc": "https://github.com/prestja/ksp-planetshine/raw/master/PlanetShine/Distribution/GameData/PlanetShine/Plugins/PlanetShine.version",
+        "repository": "https://github.com/prestja/ksp-planetshine"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "0.2.6.3",
+    "x_generated_by": "netkan"
+}

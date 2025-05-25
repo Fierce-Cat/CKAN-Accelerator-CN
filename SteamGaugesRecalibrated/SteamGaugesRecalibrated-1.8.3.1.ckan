@@ -1,0 +1,49 @@
+{
+    "abstract": "Analog Gauges for KSP",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2550/Steam%20Gauges%20Recalibrated/download/1.8.3.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "32722F267C2C996143768F7B9F474D495274F6E3",
+        "sha256": "826E9390CDE9F371548120531153C73A7ED813B02C364E309FD2D05E95421816"
+    },
+    "download_size": 5073830,
+    "identifier": "SteamGaugesRecalibrated",
+    "install": [
+        {
+            "find": "SteamGauges",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.1",
+    "ksp_version_min": "1.8.0",
+    "license": "unknown",
+    "name": "Steam Gauges Recalibrated",
+    "release_date": "2020-10-27T23:52:04.011376+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/197605-18x-19x-110x-steam-gauges-recalibrated/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/SteamGaugesRecalibrated/master/SteamGaugesRecalibrated.version",
+        "repository": "https://github.com/linuxgurugamer/SteamGaugesRecalibrated",
+        "spacedock": "https://spacedock.info/mod/2550/Steam%20Gauges%20Recalibrated",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Steam_Gauges_Recalibrated/Steam_Gauges_Recalibrated-1603398001.1224365.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "1.8.3.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

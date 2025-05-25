@@ -1,0 +1,75 @@
+{
+    "abstract": "This mod adds Transparency capabilities allowing IVAs to be visible from external view both in the Editors and in Flight. Yes - Stock KSP 1.1 has a similar capability but this mod has more. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JPLRepo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JPLRepo/JSIAdvTransparentPods/releases/download/V0.1.23.0/JSIAdvTransparentPods_V0.1.23.0.zip?auth_key=1748275917-667c3cee99bd44a1ba6a8a72694a726a-0-810743dfcff0a99d4d88860215e626b3&size=21694&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CFBAE54DA5F8D643676BB9A358F89E37C6CA3776",
+        "sha256": "9B0B56A07B43D83CFA91700A4C1999E64CAB9F865924037535C288F15FD24D32"
+    },
+    "download_size": 21694,
+    "identifier": "JSIAdvancedTransparentPods",
+    "install": [
+        {
+            "find": "JSIAdvTransparentPods",
+            "install_to": "GameData/JSI"
+        }
+    ],
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.10.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "es-mx",
+        "ja",
+        "ru",
+        "zh-cn",
+        "de-de",
+        "pt-br",
+        "it-it",
+        "fr-fr"
+    ],
+    "name": "JSI Advanced Transparent Pods [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "DeepFreeze"
+        },
+        {
+            "name": "OrbitalTug"
+        }
+    ],
+    "release_date": "2020-10-16T22:29:45Z",
+    "resources": {
+        "bugtracker": "https://github.com/JPLRepo/JSIAdvTransparentPods/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/138433-*",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=287",
+        "repository": "https://github.com/JPLRepo/JSIAdvTransparentPods"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "VesselView"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "SCANsat"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "V0.1.23.0",
+    "x_generated_by": "netkan"
+}

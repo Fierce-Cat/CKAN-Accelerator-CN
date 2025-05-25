@@ -1,0 +1,47 @@
+{
+    "abstract": "Do more science!  Receive contracts for performing a variety of experiments under different situations.  Use it to drive the science in your space program, or use it to collect every last bit of science. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "nightingale",
+    "depends": [
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/jrossignol/ContractPack-FieldResearch/releases/download/1.1.1/FieldResearch_1.1.1.zip?auth_key=1748275917-7c6b9523308240e3a4de1c22da4d3705-0-ae95a92677fcec882d2c9cdc29685ab9&size=37792&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1CC4000FD5F648E823E2C5A2F761960BC2C4B07E",
+        "sha256": "0DB7AAB9D85446A3A668BBA5DFFBE680FBD8247650BA74657E402FF43A2D8039"
+    },
+    "download_size": 37792,
+    "identifier": "ContractConfigurator-FieldResearch",
+    "install": [
+        {
+            "find": "FieldResearch",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "ksp_version_min": "1.0.2",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Contract Pack: Field Research [PRO-KCMIRROR]",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/jrossignol/ContractPack-FieldResearch/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/111573-*",
+        "license": "https://raw.githubusercontent.com/jrossignol/ContractPack-FieldResearch/master/GameData/ContractPacks/FieldResearch/LICENSE.txt",
+        "repository": "https://github.com/jrossignol/ContractPack-FieldResearch"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CrowdSourcedScience"
+        },
+        {
+            "name": "ScienceAlert"
+        }
+    ],
+    "version": "1.1.1",
+    "x_generated_by": "netkan"
+}

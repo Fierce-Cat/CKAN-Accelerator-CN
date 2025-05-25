@@ -1,0 +1,39 @@
+{
+    "abstract": "Automatically assigns the Future Suit's light colors based on occupation [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Starwaster",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Starwaster/Kerbal-Occupation-Colors/releases/download/v1.2.0/KerbalOccupationColors_v1.2.0.zip?auth_key=1748275917-3aece48ea98f4e6280a0af2c2e4b330a-0-468ba7feb3689d8b443b7acde5d6b408&size=6380&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CFE9B18CFB735CA733A30D34D376034026307D11",
+        "sha256": "D841DD752237109A06BC2C012C4B484C9EF35CFFE027BBE9E1759BE4A92CAEE1"
+    },
+    "download_size": 6380,
+    "identifier": "KerbalOccupationColors",
+    "install": [
+        {
+            "find": "KerbalOccupationColors",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.7.3",
+    "license": "Unlicense",
+    "name": "Kerbal Occupation Colors [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/185931-17-kerbal-occupation-colors-version-10/",
+        "repository": "https://github.com/Starwaster/Kerbal-Occupation-Colors"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "plugin",
+        "crewed",
+        "information"
+    ],
+    "version": "v1.2.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

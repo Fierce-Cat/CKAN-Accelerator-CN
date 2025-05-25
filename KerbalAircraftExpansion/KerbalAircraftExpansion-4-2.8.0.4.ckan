@@ -1,0 +1,59 @@
+{
+    "abstract": "A pack of select vanilla-inspired parts for your aircrafting needs.",
+    "author": [
+        "keptin",
+        "SpannerMonkey",
+        "LisiasT"
+    ],
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "FirespitterResourcesConfig"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2150/KAX/download/2.8.0.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B6E4738167FB21DBC6AA1D355C6ADF6C9EA07730",
+        "sha256": "50D3275907A263E92BC622F15A9E44B1FDDCBDF7722EFAB6136FDA8ABD41042F"
+    },
+    "download_size": 22380618,
+    "identifier": "KerbalAircraftExpansion",
+    "install": [
+        {
+            "file": "GameData/KAX",
+            "install_to": "GameData"
+        },
+        {
+            "file": "Ships/SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version_max": "1.7.3",
+    "ksp_version_min": "1.3.1",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Kerbal Aircraft Expansion",
+    "release_date": "2020-02-27T14:03:10.097002+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/net-lisias-ksp/KAX/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/180268-*",
+        "remote-avc": "https://raw.githubusercontent.com/net-lisias-ksp/KAX/master/KAX.version",
+        "repository": "https://github.com/net-lisias-ksp/KAX",
+        "spacedock": "https://spacedock.info/mod/2150/KAX",
+        "x_screenshot": "https://spacedock.info/content/Lisias_20517/KAX/KAX-1557861049.2208164.jpg"
+    },
+    "spec_version": "v1.2",
+    "tags": [
+        "parts"
+    ],
+    "version": "4:2.8.0.4",
+    "x_generated_by": "netkan"
+}

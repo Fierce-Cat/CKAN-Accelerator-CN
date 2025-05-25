@@ -1,0 +1,61 @@
+{
+    "abstract": "This is a mod that adds satellite parts like New Horizons, Iridium and station parts like Haven-1!",
+    "author": "damon",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/TundraMods/TundraExploration/releases/download/7.1.1/TundraExploration-7.1.1.zip",
+        "https://spacedock.info/mod/223/Tundra%20Exploration%20-%20Stockalike%20Dragon%20V2%20and%20Falcon%209/download/7.1.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "07BE684232268FC9E3D8592B029147C537654144",
+        "sha256": "F2DAFE27ADCFB4BB738B189F8A815C41897F0588E8B87C8605A9DF980F27F0FA"
+    },
+    "download_size": 98279889,
+    "identifier": "TundraTechnologies",
+    "install": [
+        {
+            "filter": "Thumbs.db",
+            "find": "TundraTechnologies",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 23480402,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.5",
+    "license": "restricted",
+    "name": "Tundra Techonologies",
+    "recommends": [
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "FreeIva"
+        },
+        {
+            "name": "TundraExploration"
+        }
+    ],
+    "release_date": "2024-12-26T20:31:28.301692+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/TundraMods/TundraExploration/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/166915-131-tundra-exploration-v093-stockalike-falcon-9-and-dragon-v2/",
+        "remote-avc": "https://raw.githubusercontent.com/TundraMods/TundraExploration/master/GameData/TundraTechnologies/Versioning/TundraTechnologies.version",
+        "repository": "https://github.com/TundraMods/TundraExploration",
+        "spacedock": "https://spacedock.info/mod/223/Tundra%20Exploration%20-%20Stockalike%20Dragon%20V2%20and%20Falcon%209",
+        "x_screenshot": "https://spacedock.info/content/damon_4180/Tundra_Exploration_-_Stockalike_Dragon_V2_and_Falcon_9/Tundra_Exploration_-_Stockalike_Dragon_V2_and_Falcon_9-1699221901.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "parts"
+    ],
+    "version": "7.1.1",
+    "x_generated_by": "netkan"
+}

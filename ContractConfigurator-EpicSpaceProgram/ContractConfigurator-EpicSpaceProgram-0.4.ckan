@@ -1,0 +1,40 @@
+{
+    "abstract": "A contract pack that adds 181 new missions to the career mod .",
+    "author": "GeneralApocalypse",
+    "depends": [
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "SCANsat"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2318/Epic%20Space%20Program/download/0.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9E63467D9A35ACAB09AAEAB0B595B9F9B25BC720",
+        "sha256": "2757711D03E5C1742CE985BE56A351C935C7595880084C95E160B2D8D71CA379"
+    },
+    "download_size": 387901,
+    "identifier": "ContractConfigurator-EpicSpaceProgram",
+    "install": [
+        {
+            "find": "EpicSpaceProgram",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.1",
+    "license": "BSD-4-clause",
+    "name": "Epic Space Program",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191377-wip181-epic-space-program-alpha-01/",
+        "spacedock": "https://spacedock.info/mod/2318/Epic%20Space%20Program"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "career"
+    ],
+    "version": "0.4",
+    "x_generated_by": "netkan"
+}

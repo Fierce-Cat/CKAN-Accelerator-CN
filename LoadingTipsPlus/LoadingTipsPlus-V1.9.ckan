@@ -1,0 +1,46 @@
+{
+    "abstract": "Modify the KSP Loading Screen ToolTips.",
+    "author": "Jplrepo",
+    "download": "https://spacedock.info/mod/807/LoadingTipsPlus/download/V1.9",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "07C55786359EC2492DC493D4AF5570AF2F4A6C12",
+        "sha256": "FF75E76AA5B6D674EC7CEFB7678BD491A6CD5F75984EE0C4FF974FE3A8152712"
+    },
+    "download_size": 6171,
+    "identifier": "LoadingTipsPlus",
+    "install": [
+        {
+            "find": "LoadingTipsPlus",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 8769,
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.10.0",
+    "license": "restricted",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "es-mx",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "LoadingTipsPlus",
+    "release_date": "2020-10-16T22:37:31.730817+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JPLRepo/LoadingTipsPlus/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/142840-113-loadingtipsplus-v10-30th-june-2016/",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=311",
+        "repository": "https://github.com/JPLRepo/LoadingTipsPlus",
+        "spacedock": "https://spacedock.info/mod/807/LoadingTipsPlus",
+        "x_screenshot": "https://spacedock.info/content/Jplrepo_405/LoadingTipsPlus/LoadingTipsPlus-1467281969.568979.png"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "plugin"
+    ],
+    "version": "V1.9",
+    "x_generated_by": "netkan"
+}

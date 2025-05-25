@@ -1,0 +1,49 @@
+{
+    "abstract": "rebalance the transmission of science data",
+    "author": [
+        "FruitGoose",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/FruitKocktail/releases/download/0.0.0.3/MANGO-1.1.1.1.zip",
+        "https://spacedock.info/mod/2788/MANGO/download/1.1.1.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DB1530801F6A5FF62A56F94C9B1D2B2657F4A320",
+        "sha256": "B7387EB3EB15C3C2D959CB59BCBA53FBA51FA7A7FD7CD8407B9524DC4D6E9F76"
+    },
+    "download_size": 9838,
+    "identifier": "MANGO",
+    "install": [
+        {
+            "find": "FruitKocktail",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 16481,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.11.2",
+    "license": "MIT",
+    "name": "My Antennae Never Go Offline",
+    "release_date": "2024-07-24T15:10:49.587128+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/FruitKocktail/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/202889-1112-fruitkocktail-a-collection-of-mini-life-improvement-mods-with-fruit-based-acronyms-as-names-full-release/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/FruitKocktail/main/MANGO/MANGO.version",
+        "repository": "https://github.com/linuxgurugamer/FruitKocktail",
+        "spacedock": "https://spacedock.info/mod/2788/MANGO"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "comms"
+    ],
+    "version": "1:1.1.1.1",
+    "x_generated_by": "netkan"
+}

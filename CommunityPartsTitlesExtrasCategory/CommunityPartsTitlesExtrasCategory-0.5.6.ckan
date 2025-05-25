@@ -1,0 +1,51 @@
+{
+    "abstract": "Highly recommended Extras for the Community Parts Titles. Create new categories or place parts to a more appropriate category. Though these techniques aren't overused [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "flart",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/yalov/CommunityPartsTitles/releases/download/0.5.6/CommunityPartsTitles-v0.5.6.zip?auth_key=1748275915-6bfb54b46b224229a583be4bf91af173-0-160335d9a7a7400b892010a5f2bc602f&size=147312&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "099E0F827A87FE45A93AA6781538DC40E307F134",
+        "sha256": "B8A9345F7DC47AF031EA092272106F04A5EFCF52B4740FB63C0E2AD36D0E1094"
+    },
+    "download_size": 147312,
+    "identifier": "CommunityPartsTitlesExtrasCategory",
+    "install": [
+        {
+            "comment": "Extras folder without the category_hide_cck.cfg. There is CommunityPartsTitlesExtrasNoDup for it",
+            "file": "GameData/002_CommunityPartsTitles/Extras",
+            "filter": "category_hide_cck.cfg",
+            "install_to": "GameData/002_CommunityPartsTitles"
+        }
+    ],
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.3.0",
+    "license": "GPL-3.0",
+    "name": "Community Parts Titles Extras: Categories [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "CommunityPartsTitles"
+        },
+        {
+            "name": "CommunityPartsTitlesExtrasNoCCKDup"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174189-*",
+        "repository": "https://github.com/yalov/CommunityPartsTitles"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "convenience"
+    ],
+    "version": "0.5.6",
+    "x_generated_by": "netkan"
+}

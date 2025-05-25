@@ -1,0 +1,49 @@
+{
+    "abstract": "An alternative resource set for Kerbal Space Program [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClassicStockResources-PlayMode"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/ClassicStockResources/releases/download/v1.2.1/ClassicStockResources.zip?auth_key=1748275918-d9e4b93eaf3e4dfb9a0e44e9bf5ee802-0-834e5b8b6b31d2195908076853b9babd&size=38229&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "45A99712C048A651C8328D1D099F57F1AF719835",
+        "sha256": "99A5397345AA64605E43882DD14B9019566095BF8CE8612AF8665FD9FB21AAD3"
+    },
+    "download_size": 38229,
+    "identifier": "ClassicStockResources",
+    "install": [
+        {
+            "filter": "Templates",
+            "find": "ClassicStockResources",
+            "install_to": "GameData/WildBlueIndustries"
+        },
+        {
+            "find": "ClassicStockResources/Templates/Common",
+            "install_to": "GameData/WildBlueIndustries/ClassicStockResources/Templates"
+        }
+    ],
+    "install_size": 36558,
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Classic Stock Resources [PRO-KCMIRROR]",
+    "release_date": "2021-03-25T22:09:52Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/ClassicStockResources/issues",
+        "homepage": "https://github.com/Angel-125/ClassicStockResources",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/MOLE/master/GameData/WildBlueIndustries/ClassicStockResources/ClassicStockResources.version",
+        "repository": "https://github.com/Angel-125/ClassicStockResources"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "library",
+        "resources"
+    ],
+    "version": "v1.2.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,42 @@
+{
+    "abstract": "This mod will read the DeltaV of your craft, and inform you whether or not you can reach any body in the solar system. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "severedsolo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/severedsolo/WhereCanIGo/releases/download/2.1/WhereCanIGo.zip?auth_key=1748275916-c640f3657e2d4c26a0e6286feeb51114-0-61ef98b389a521d810969e15c542a9cb&size=18716&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "97805AE095395EBA22509F3AFE59891BCDFD7A04",
+        "sha256": "E8378B421D75E483A149A4AA28A46777A1CA6BFB80A96FE01BCF5EBC7F460AE6"
+    },
+    "download_size": 18716,
+    "identifier": "WhereCanIGo",
+    "install": [
+        {
+            "find": "WhereCanIGo",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 49112,
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Where Can I Go [PRO-KCMIRROR]",
+    "release_date": "2020-01-30T22:02:23Z",
+    "resources": {
+        "bugtracker": "https://github.com/severedsolo/WhereCanIGo/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/187712-*",
+        "remote-avc": "https://raw.githubusercontent.com:443/severedsolo/WhereCanIGo/master/GameData/WhereCanIGo/WhereCanIGo.version",
+        "repository": "https://github.com/severedsolo/WhereCanIGo"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "2.1",
+    "x_generated_by": "netkan"
+}

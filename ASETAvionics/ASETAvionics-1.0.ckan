@@ -1,0 +1,36 @@
+{
+    "abstract": "This pack is for the modders who create IVA’s for the aircrafts.",
+    "author": "alexustas",
+    "depends": [
+        {
+            "name": "ASETProps"
+        },
+        {
+            "min_version": "0.21.2",
+            "name": "RasterPropMonitor-Core"
+        }
+    ],
+    "download": "https://archive.org/download/ASETAvionics-1.0/7B7284A1-ASETAvionics-1.0.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7B7284A19C064BCCC4A793E82A55AD68A35197DF",
+        "sha256": "0B3C613805CDA138CB1370746343F882110E9C2CE11DFDA1986206BDB5AF2FFC"
+    },
+    "download_size": 2641182,
+    "identifier": "ASETAvionics",
+    "install": [
+        {
+            "find": "ASET",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "ASET Avionics",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/116479-*"
+    },
+    "spec_version": "v1.4",
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

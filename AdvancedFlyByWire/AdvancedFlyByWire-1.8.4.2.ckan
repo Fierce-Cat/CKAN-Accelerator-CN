@@ -1,0 +1,79 @@
+{
+    "abstract": "AFBW is an input overhaul mod. It dramatically enhances the stock input system with a bunch of fixes and many new features",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "AdvancedFlyByWireRevived"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/ksp-advanced-flybywire/releases/download/1.8.4.2/ksp-advanced-flybywire-1.12.0-1.8.4.2-win.zip",
+        "https://spacedock.info/mod/1869/AFBW%20Revived%20(Windows%20version)/download/1.8.4.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C84CD479F74F6D2D624A1FC2352D91F704EA570B",
+        "sha256": "EA0414953B6A05E6DD3019A438FBE81B53AC396D87BB3A764EF540CE484861FA"
+    },
+    "download_size": 804823,
+    "identifier": "AdvancedFlyByWire",
+    "install": [
+        {
+            "file": "SDL2.dll",
+            "install_to": "GameRoot"
+        },
+        {
+            "file": "SDL_LICENSE",
+            "install_to": "GameRoot"
+        },
+        {
+            "file": "XINPUTDOTNET_LICENSE",
+            "install_to": "GameRoot"
+        },
+        {
+            "file": "XInputInterface.dll",
+            "install_to": "GameRoot"
+        },
+        {
+            "file": "GameData/ksp-advanced-flybywire",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2160458,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "Advanced Fly-By-Wire (Windows)",
+    "provides": [
+        "AdvancedFlyByWireRevived"
+    ],
+    "recommends": [
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "release_date": "2024-08-22T12:33:41.640631+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/ksp-advanced-flybywire/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175359-14-afbw-joystick-controller-mod/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/ksp-advanced-flybywire/master/ksp-advanced-flybywire.version",
+        "repository": "https://github.com/linuxgurugamer/ksp-advanced-flybywire",
+        "spacedock": "https://spacedock.info/mod/1869/AFBW%20Revived%20(Windows%20version)",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/ABFW_Revived_Windows_version/ABFW_Revived_Windows_version-1527383965.049963.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "1.8.4.2",
+    "x_generated_by": "netkan"
+}

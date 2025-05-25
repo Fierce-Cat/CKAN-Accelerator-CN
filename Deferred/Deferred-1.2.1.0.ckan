@@ -1,0 +1,64 @@
+{
+    "abstract": "Add deferred rendering to KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Blackrack",
+    "conflicts": [
+        {
+            "max_version": "2.0.6",
+            "name": "Parallax"
+        },
+        {
+            "max_version": "1.5.10.25",
+            "name": "TexturesUnlimited"
+        },
+        {
+            "max_version": "v1.8.6.1",
+            "name": "KerbalKonstructs"
+        },
+        {
+            "max_version": "1:v0.31.13.4",
+            "name": "RasterPropMonitor"
+        },
+        {
+            "max_version": "3:0.45.1",
+            "name": "B9-PWings-Fork"
+        }
+    ],
+    "depends": [
+        {
+            "name": "Shabby"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/LGhassen/Deferred/releases/download/1.2.1.0/Deferred_1.2.1.0.zip?auth_key=1748275917-0b13e1580c9a40e58c61ce1f7911a22a-0-fe0f2835bdb57fff2d840467374b538a&size=2222184&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "954553BF18DF18FFE4C4FC843EFC022EBE1255A1",
+        "sha256": "9C1579909FDABAF28EA3EEE8146791FC0869CBD30E61EB72FF09D03245CA3045"
+    },
+    "download_size": 2222184,
+    "identifier": "Deferred",
+    "install": [
+        {
+            "find": "zzz_Deferred",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2221686,
+    "ksp_version": "1.12",
+    "license": "GPL-3.0",
+    "name": "Deferred [PRO-KCMIRROR]",
+    "release_date": "2024-08-05T07:10:53Z",
+    "resources": {
+        "bugtracker": "https://github.com/LGhassen/Deferred/issues",
+        "homepage": "https://www.patreon.com/posts/deferred-106557481",
+        "manual": "https://github.com/LGhassen/Deferred/blob/master/Readme.md",
+        "repository": "https://github.com/LGhassen/Deferred",
+        "x_screenshot": "https://i.imgur.com/kraUQIz.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "version": "1.2.1.0",
+    "x_generated_by": "netkan"
+}

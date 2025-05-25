@@ -1,0 +1,36 @@
+{
+    "abstract": "Shared agency for KipEng mods",
+    "author": "micha",
+    "comment": "agencymod",
+    "download": "https://spacedock.info/mod/2454/KipDockingPorts/download/v0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2DDC486128133FCB3E262255D07675596EB56703",
+        "sha256": "2CE386D03EF5504146AE80E18730580CD86023AF3320EDE75DF4353051D12C18"
+    },
+    "download_size": 4173162,
+    "identifier": "KipEng-Agency",
+    "install": [
+        {
+            "find": "Agencies",
+            "install_to": "GameData/KipEng"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "KipEng Agency",
+    "release_date": "2020-06-25T15:47:15.363837+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/mwerle/KipDockingPorts/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?showtopic=194930",
+        "repository": "https://github.com/mwerle/KipDockingPorts",
+        "spacedock": "https://spacedock.info/mod/2454/KipDockingPorts",
+        "x_screenshot": "https://spacedock.info/content/micha_8295/KipDockingPorts/KipDockingPorts-1593005870.1450794.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "agency"
+    ],
+    "version": "v0.2",
+    "x_generated_by": "netkan"
+}

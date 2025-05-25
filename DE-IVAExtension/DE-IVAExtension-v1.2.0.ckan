@@ -1,0 +1,63 @@
+{
+    "abstract": "Advanced IVAs for all stock pods!",
+    "author": [
+        "DemonEin",
+        "HonkHogan",
+        "JonnyOThan"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "ASETProps"
+        }
+    ],
+    "download": [
+        "https://github.com/FirstPersonKSP/DE_IVAExtension/releases/download/v1.2.0/DE_IVAExtension-v1.2.0.zip",
+        "https://spacedock.info/mod/2193/DE_IVAExtension/download/v1.2.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "02DBD781D6E29A2F706ECC7E3985C56FE176B344",
+        "sha256": "59AE2744E995C8C2C0B687B38AAF16BF1071C66C752CF2B6DC1AEA22FD4F18FF"
+    },
+    "download_size": 177870,
+    "identifier": "DE-IVAExtension",
+    "install": [
+        {
+            "find": "DE_IVAExtension",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 885844,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "DE_IVAExtension",
+    "release_date": "2023-05-12T21:17:24.713934+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/FirstPersonKSP/DE_IVAExtension/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/211932-112x-de_ivaextension-adopted-aset-ivas-for-all-stock-pods/",
+        "remote-avc": "https://raw.githubusercontent.com/JonnyOThan/DE_IVAExtension/master/GameData/DE_IVAExtension/DE_IVAExtension.version",
+        "repository": "https://github.com/FirstPersonKSP/DE_IVAExtension",
+        "spacedock": "https://spacedock.info/mod/2193/DE_IVAExtension",
+        "x_screenshot": "https://spacedock.info/content/DemonEin_29987/DE_IVAExtension/DE_IVAExtension-1564109486.1629772.jpg"
+    },
+    "spec_version": "v1.34",
+    "supports": [
+        {
+            "name": "ProbeControlRoom"
+        }
+    ],
+    "tags": [
+        "config",
+        "crewed",
+        "first-person"
+    ],
+    "version": "v1.2.0",
+    "x_generated_by": "netkan"
+}

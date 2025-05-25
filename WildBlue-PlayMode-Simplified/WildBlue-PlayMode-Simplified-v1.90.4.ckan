@@ -1,0 +1,77 @@
+{
+    "abstract": "Lite Blue reduces the number available templates and resources used. This is great for players new to Pathfinder and other WildBlue mods or for those that don't want a lot of complexity. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "conflicts": [
+        {
+            "name": "WildBlue-PlayMode"
+        },
+        {
+            "name": "Buffalo-PlayMode"
+        },
+        {
+            "name": "DSEV-PlayMode"
+        },
+        {
+            "name": "MOLE-PlayMode"
+        },
+        {
+            "name": "KerbalKomets-PlayMode"
+        },
+        {
+            "name": "ClassicStockResources-PlayMode"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "depends": [
+        {
+            "name": "WildBlueTools"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/WildBlueTools/releases/download/v1.90.4/WildBlueTools.zip?auth_key=1748275916-e13df7ce34954fb78936c6305e401bb8-0-1f6f894a80adb95de00bb4480600e1e6&size=22914405&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DEDB114BAE7CFADD27667B84A239C97D1296D174",
+        "sha256": "5FB9B324CFF02D5D9F804E2E7B98CBA821F3F7915A5A67064DCE00F04E23885B"
+    },
+    "download_size": 22914405,
+    "identifier": "WildBlue-PlayMode-Simplified",
+    "install": [
+        {
+            "as": "OmniStorage.cfg",
+            "find": "000WildBlueTools/Templates/Simplified/Storage/OmniStorage.txt",
+            "find_matches_file": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/Simplified/Storage"
+        },
+        {
+            "find": "000WildBlueTools/Templates/Simplified.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates"
+        }
+    ],
+    "install_size": 2478,
+    "ksp_version_min": "1.12.2",
+    "license": "GPL-3.0",
+    "name": "WildBlueIndustries Simplified Play Mode [PRO-KCMIRROR]",
+    "provides": [
+        "WildBlue-PlayMode",
+        "Buffalo-PlayMode",
+        "DSEV-PlayMode",
+        "MOLE-PlayMode",
+        "KerbalKomets-PlayMode",
+        "ClassicStockResources-PlayMode"
+    ],
+    "release_date": "2024-10-14T19:50:32Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/WildBlueTools/issues",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/WildBlueTools/master/GameData/WildBlueIndustries/000WildBlueTools/WildBlueTools.version",
+        "repository": "https://github.com/Angel-125/WildBlueTools"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config"
+    ],
+    "version": "v1.90.4",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,59 @@
+{
+    "abstract": "stock aerodynamics design aid",
+    "author": [
+        "BorisBarboris",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "FerramAerospaceResearch"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/CorrectCoL/releases/download/1.6.5.5/CorrectCoL-1.12.0-1.6.5.5.zip",
+        "https://spacedock.info/mod/789/CorrectCoL/download/1.6.5.5"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "56CBBB2F94CC436EDC3C389E33FD60E4480EC8DA",
+        "sha256": "5B86DCA43E1C342801C17F4D9729CFAFCE862745E51F638BBDE8577B28D53059"
+    },
+    "download_size": 27097,
+    "identifier": "CorrectCoL",
+    "install": [
+        {
+            "find": "CorrectCoL",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 50405,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "CorrectCoL",
+    "release_date": "2025-01-01T17:41:36.293379+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/CorrectCoL/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160231-122-correctcol-stock-aerodynamics-design-aid-continued/&do=findComment&comment=3045954",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/CorrectCoL/refs/heads/master/CorrectCoL.version",
+        "repository": "https://github.com/linuxgurugamer/CorrectCoL",
+        "spacedock": "https://spacedock.info/mod/789/CorrectCoL",
+        "x_screenshot": "https://spacedock.info/content/BorisBarboris_4693/CorrectCoL/CorrectCoL-1466893163.4436524.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "information",
+        "editor"
+    ],
+    "version": "1.6.5.5",
+    "x_generated_by": "netkan"
+}

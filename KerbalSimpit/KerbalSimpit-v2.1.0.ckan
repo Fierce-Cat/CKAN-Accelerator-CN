@@ -1,0 +1,60 @@
+{
+    "abstract": "Communicate with external instrumentation through serial connection [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "stibbons",
+        "LRTNZ",
+        "rogor"
+    ],
+    "conflicts": [
+        {
+            "max_version": "1:2.4.1",
+            "name": "AGExt"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Simpit-team/KerbalSimpitRevamped/releases/download/v2.1.0/KerbalSimpitRevamped-v2.1.0.zip?auth_key=1748275917-0d76e80aebe34d14b268bb8079c1f6eb-0-0b76e1ba3b31e1e22f4d99b44b1eb590&size=115478&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5C51BEDCBD98A7783065B19E0284012581789399",
+        "sha256": "08C0B0A43D9A3C780972CFC0420C76CC61F6F4EAAE347FE10E0F48B4073A7913"
+    },
+    "download_size": 115478,
+    "identifier": "KerbalSimpit",
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.2",
+    "license": "BSD-2-clause",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "fr-fr"
+    ],
+    "name": "Kerbal Simpit [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "AlternateResourcePanel"
+        }
+    ],
+    "release_date": "2021-12-12T21:04:31Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/Simpit-team/KerbalSimpitRevamped/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204852-112x-simpit-revamped-simpit-20/",
+        "manual": "https://kerbalsimpitrevamped-arduino.readthedocs.io",
+        "repository": "https://github.com/Simpit-team/KerbalSimpitRevamped"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "AGExt"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "app",
+        "control"
+    ],
+    "version": "v2.1.0",
+    "x_generated_by": "netkan"
+}

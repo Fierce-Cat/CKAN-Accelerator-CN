@@ -1,0 +1,45 @@
+{
+    "abstract": "kRPC service for MechJeb2 (Kerbal Space Program) [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Genhis",
+    "depends": [
+        {
+            "name": "kRPC"
+        },
+        {
+            "name": "MechJeb2"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Genhis/KRPC.MechJeb/releases/download/v0.7.0/krpc-mechjeb-0.7.0.zip?auth_key=1748275915-2bf7f942959241228e9502e9dc87f184-0-ce72b9eb6588371527b7c1a7b8cfa8ea&size=141322&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DB13A93817FCA3540F78A5ECCE5AF9238DC02B4E",
+        "sha256": "CE1689E6023312D7FF50C6101D75FE13FD6DF1787F683DB1D5E6DD544448C043"
+    },
+    "download_size": 141322,
+    "identifier": "kRPC-MechJeb",
+    "install": [
+        {
+            "file": "KRPC.MechJeb.dll",
+            "install_to": "GameData/kRPC"
+        }
+    ],
+    "install_size": 74752,
+    "ksp_version": "1.12",
+    "license": "GPL-3.0",
+    "name": "KRPC MechJeb [PRO-KCMIRROR]",
+    "release_date": "2023-03-30T22:06:50Z",
+    "resources": {
+        "bugtracker": "https://github.com/Genhis/KRPC.MechJeb/issues",
+        "discussions": "https://github.com/Genhis/KRPC.MechJeb/discussions",
+        "homepage": "https://genhis.github.io/KRPC.MechJeb/",
+        "repository": "https://github.com/Genhis/KRPC.MechJeb"
+    },
+    "spec_version": "v1.2",
+    "tags": [
+        "plugin",
+        "app",
+        "control"
+    ],
+    "version": "v0.7.0",
+    "x_generated_by": "netkan"
+}

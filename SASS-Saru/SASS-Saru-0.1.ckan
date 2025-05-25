@@ -1,0 +1,41 @@
+{
+    "abstract": "Saru for SASS. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "tygoo7",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "StockalikeSolarSystem"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Sigma88/GN-PlanetPacks/releases/download/Saru/Saru_Planet_Pack-0.1.zip?auth_key=1748275917-eee8beda767f48b69456643fc5e8ed39-0-ceb1e69ed850dfae9a8c55a76e32cfc7&size=42584348&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7E07BB34390065C5F43E79BE362A71F22BE6DA40",
+        "sha256": "4FD48F26B0CEFCF2A53106E602C018839F54167DB443871F1DC64187576DFBA3"
+    },
+    "download_size": 42584348,
+    "identifier": "SASS-Saru",
+    "install": [
+        {
+            "filter": "Thumbs.db",
+            "find": "SaruPack",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "SASS-Saru [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/119263-Saru/",
+        "metanetkan": "https://raw.githubusercontent.com/Sigma88/CKAN/master/Stockalike/SASS-Saru.netkan"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "0.1",
+    "x_generated_by": "netkan"
+}

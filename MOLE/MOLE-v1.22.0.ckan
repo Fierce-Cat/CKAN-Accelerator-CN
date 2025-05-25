@@ -1,0 +1,109 @@
+{
+    "abstract": "Mark One Laboratory Extensions- early space stations for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "MOLE-PlayMode"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "WildBlueTools"
+        },
+        {
+            "name": "ClassicStockResources"
+        },
+        {
+            "name": "KerbalActuators"
+        },
+        {
+            "name": "BarisBridge"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/MOLE/releases/download/v1.22.0/MOLE_1_22_0.zip?auth_key=1748275914-8eb57bfbaead45bbbc20d3a140976a6d-0-25434668aba372118df2eb2e654699d4&size=53070892&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F4191771DA0F3235990ACFABA25AD70B0B276ABA",
+        "sha256": "C05C6152B75DB8FE77678BDB2024B50331F588E8E2F39FCBD29520943AA0070A"
+    },
+    "download_size": 53070892,
+    "identifier": "MOLE",
+    "install": [
+        {
+            "filter_regexp": [
+                ".*\\.pdb$",
+                "SampleCraft",
+                "Templates"
+            ],
+            "find": "WildBlueIndustries/MOLE",
+            "install_to": "GameData/WildBlueIndustries"
+        },
+        {
+            "find": "MOLE/Templates/Common",
+            "install_to": "GameData/WildBlueIndustries/MOLE/Templates"
+        },
+        {
+            "find": "VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "MOLE [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        }
+    ],
+    "release_date": "2020-04-29T17:27:55Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/MOLE/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/154893-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/MOLE/master/GameData/WildBlueIndustries/MOLE/MOLE.version",
+        "repository": "https://github.com/Angel-125/MOLE"
+    },
+    "spec_version": "v1.10",
+    "suggests": [
+        {
+            "name": "Pathfinder"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "CactEyeCommunity"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin",
+        "crewed"
+    ],
+    "version": "v1.22.0",
+    "x_generated_by": "netkan"
+}

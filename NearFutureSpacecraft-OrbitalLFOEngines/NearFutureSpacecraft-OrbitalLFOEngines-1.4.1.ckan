@@ -1,0 +1,44 @@
+{
+    "abstract": "Convertes the monopropellant-based orbital engines in NF Spacecraft to use Liquid Fuel/Oxidizer",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "NearFutureSpacecraft"
+        }
+    ],
+    "download": "https://spacedock.info/mod/708/Near%20Future%20Spacecraft/download/1.4.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "48B98B27B48F9E3685E6B340A61077D22032F54E",
+        "sha256": "BD38E60132D72B3E6E8766EB583681B118F0C3946517711271A39502177FD739"
+    },
+    "download_size": 91193997,
+    "identifier": "NearFutureSpacecraft-OrbitalLFOEngines",
+    "install": [
+        {
+            "find": "OrbitalLFOEngines",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Near Future Spacecraft - LFO Engines",
+    "release_date": "2020-12-27T06:03:27.402215+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/NearFutureSpacecraft/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-16x-near-future-technologies-16x-fixes-jan-21/",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/NearFutureSpacecraft/raw/master/CKAN/NearFutureSpacecraft-OrbitalLFOEngines.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/ChrisAdderley/NearFutureSpacecraft/master/GameData/NearFutureSpacecraft/Versioning/NearFutureSpacecraft.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/NearFutureSpacecraft",
+        "spacedock": "https://spacedock.info/mod/708/Near%20Future%20Spacecraft",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Spacecraft/Near_Future_Spacecraft-1463532778.5485678.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "crewed"
+    ],
+    "version": "1.4.1",
+    "x_generated_by": "netkan"
+}

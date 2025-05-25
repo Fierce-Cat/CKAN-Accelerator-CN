@@ -1,0 +1,35 @@
+{
+    "abstract": "An R2D2 like Droid, like in Star Wars. Now with a BB8 and a Gonk Droid",
+    "author": "ColdJ",
+    "download": "https://spacedock.info/mod/3005/R.N.D/download/1.2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BFE9B900B3CC524DEAB78EC35BA90182EE568DFF",
+        "sha256": "68522D06A02DA19D7251446F2B87049ADF55ED4C058018370D85353843F29871"
+    },
+    "download_size": 14513781,
+    "identifier": "RND",
+    "install": [
+        {
+            "filter_regexp": "\\.craft$",
+            "find": "RND",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 92766981,
+    "ksp_version": "1.12.3",
+    "license": "CC-BY-SA",
+    "name": "R.N.D",
+    "release_date": "2022-06-14T19:42:44.263303+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207485-rnd/",
+        "spacedock": "https://spacedock.info/mod/3005/R.N.D",
+        "x_screenshot": "https://spacedock.info/content/ColdJ_60612/R.N.D/R.N.D-1655235804.jpg"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.2.0",
+    "x_generated_by": "netkan"
+}

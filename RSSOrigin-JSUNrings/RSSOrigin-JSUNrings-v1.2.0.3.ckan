@@ -1,0 +1,53 @@
+{
+    "abstract": "A part of RSS-Origin, which adds accurate and realistic rings to the 4 gas giants in our solar system. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "CharonSSS",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/CharonSSS/RSS-Origin/releases/download/v1.2.0.3/RSS-Origin.JSUNrings.zip?auth_key=1748275916-504ef47479a34df79b8c698fb233727e-0-17901755f227d7273d745f5f2072c95d&size=535844&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E602747BBA0F73ACCEC934D257185F39EB42A7F0",
+        "sha256": "887CB7ECF38F20DD63F0D86D11B92747F2F0BE6DA7B48763A8EE8A7CD5AB26C6"
+    },
+    "download_size": 535844,
+    "identifier": "RSSOrigin-JSUNrings",
+    "install": [
+        {
+            "find": "RSSOrigin",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 874849,
+    "ksp_version": "1.12",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "RSS-Origin JSUNrings [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "RSSOrigin"
+        }
+    ],
+    "release_date": "2025-02-04T07:55:28Z",
+    "resources": {
+        "bugtracker": "https://github.com/CharonSSS/RSS-Origin/issues",
+        "repository": "https://github.com/CharonSSS/RSS-Origin"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "planet-pack",
+        "graphics"
+    ],
+    "version": "v1.2.0.3",
+    "x_generated_by": "netkan"
+}

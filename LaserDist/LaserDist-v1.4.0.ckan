@@ -1,0 +1,39 @@
+{
+    "abstract": "Gives exact laser distances for use with kOS and other scripted autopilot systems. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Steven Mading",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Dunbaratu/LaserDist/releases/download/v1.4.0/LaserDist_v1.4.zip?auth_key=1748275916-64e0918a49e946e1bb1b174f652bf013-0-cacc665d0335ec9d5f3b9efc63147fe0&size=103759&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F3810A189719A1FDCAA3AE79FA53BB16DD7D7C54",
+        "sha256": "45228B19A5C9E2544C7AA0748BB07503394EF3ABDD1EF045072866126A50A048"
+    },
+    "download_size": 103759,
+    "identifier": "LaserDist",
+    "install_size": 381347,
+    "ksp_version_max": "1.11.9",
+    "ksp_version_min": "1.10.0",
+    "license": "GPL-3.0",
+    "name": "LaserDist [PRO-KCMIRROR]",
+    "release_date": "2021-02-17T10:47:51Z",
+    "resources": {
+        "bugtracker": "https://github.com/Dunbaratu/LaserDist/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/141697-*",
+        "remote-avc": "https://raw.githubusercontent.com/Dunbaratu/LaserDist/master/LaserDist.version",
+        "repository": "https://github.com/Dunbaratu/LaserDist"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "comment": "LaserDist was intended to give distance data to kOS scripts.",
+            "min_version": "0.20",
+            "name": "kOS"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "information",
+        "library"
+    ],
+    "version": "v1.4.0",
+    "x_generated_by": "netkan"
+}

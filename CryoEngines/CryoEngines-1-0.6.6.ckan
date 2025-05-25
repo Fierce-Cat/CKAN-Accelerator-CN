@@ -1,0 +1,72 @@
+{
+    "abstract": "Provides new, very high efficiency engines in 1.25m, 2.5m and 3.75m size classes that burn liquid hydrogen.",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/709/Cryogenic%20Engines/download/0.6.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BFD7A7D87A4573660353FF21950155FF2316EAEB",
+        "sha256": "AE38DAA3B6642F804D509EB3C33FFB29F6B9528036C8AE8301A50B313591C98C"
+    },
+    "download_size": 56127290,
+    "identifier": "CryoEngines",
+    "install": [
+        {
+            "find": "CryoEngines",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.6.0",
+    "license": "restricted",
+    "localizations": [
+        "ru",
+        "ja",
+        "fr",
+        "zh-cn",
+        "en-us",
+        "es-es",
+        "de-de"
+    ],
+    "name": "Cryogenic Engines",
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/106089-16x-cryogenic-engines-high-isp-chemical-rockets-january-21/",
+        "repository": "https://github.com/ChrisAdderley/CryoEngines",
+        "spacedock": "https://spacedock.info/mod/709/Cryogenic%20Engines",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Cryogenic_Engines/Cryogenic_Engines-1463537159.2542982.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KerbalAtomics"
+        }
+    ],
+    "supports": [
+        {
+            "name": "CryoEngines-LFO"
+        }
+    ],
+    "version": "1:0.6.6",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,37 @@
+{
+    "abstract": "Small cfg tweak to allow the stock inflatable heat shield to be deflated and reused.",
+    "author": "Xyphos",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/918/Deflatable%20Heat%20Shield/download/0.0.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9ABAC717548E30218409066C9E95F41A57CCC0F3",
+        "sha256": "DAB6A7C8B72CDDB7AAD8DAF3275CC3BDB4AA286B334778845DA06A5DD2B74D70"
+    },
+    "download_size": 1271,
+    "identifier": "DeflatableHeatShield",
+    "install": [
+        {
+            "find": "XyphosAerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.0",
+    "license": "public-domain",
+    "name": "Deflatable Heat Shield",
+    "release_date": "2017-03-19T09:47:16.712535+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/146626-2-releases-tough-love-deflatable-heat-shield/",
+        "spacedock": "https://spacedock.info/mod/918/Deflatable%20Heat%20Shield"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "0.0.3",
+    "x_generated_by": "netkan"
+}

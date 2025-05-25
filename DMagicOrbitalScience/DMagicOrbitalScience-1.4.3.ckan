@@ -1,0 +1,81 @@
+{
+    "abstract": "New science parts and experiments",
+    "author": "DMagic",
+    "conflicts": [
+        {
+            "name": "ForScience"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/128/DMagic%20Orbital%20Science/download/1.4.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "192B6BA41D3F08297315215680D5DD0C5623D028",
+        "sha256": "A648DEEE718E84CAB673F8B9B8DB0A65F90AECEEAA9954F40DE0DA0EEBBADBE9"
+    },
+    "download_size": 15976171,
+    "identifier": "DMagicOrbitalScience",
+    "install": [
+        {
+            "file": "GameData/DMagicOrbitalScience",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 28783877,
+    "ksp_version_max": "1.8.8",
+    "ksp_version_min": "1.8.1",
+    "license": "BSD-3-clause",
+    "name": "DMagic Orbital Science",
+    "recommends": [
+        {
+            "name": "ContractsWindowPlus"
+        }
+    ],
+    "release_date": "2019-11-03T00:28:28.151974+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/DMagic1/Orbital-Science/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/59009-1",
+        "remote-avc": "https://raw.githubusercontent.com/DMagic1/Orbital-Science/master/GameData/DMagicOrbitalScience/DMagicOrbitalScience.version",
+        "repository": "https://github.com/DMagic1/Orbital-Science",
+        "spacedock": "https://spacedock.info/mod/128/DMagic%20Orbital%20Science",
+        "x_screenshot": "https://spacedock.info/content/DMagic_247/DMagic_Orbital_Science/DMagic_Orbital_Science-1455815748.2881525.jpg"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "CapCom"
+        },
+        {
+            "name": "ContractRewardModifier"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "UniversalStorage2"
+        },
+        {
+            "name": "ScienceAlert"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts",
+        "science",
+        "resources",
+        "career",
+        "uncrewed"
+    ],
+    "version": "1.4.3",
+    "x_generated_by": "netkan"
+}

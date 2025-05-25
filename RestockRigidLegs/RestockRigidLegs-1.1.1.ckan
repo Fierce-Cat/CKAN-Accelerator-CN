@@ -1,0 +1,46 @@
+{
+    "abstract": "A copy of the redone Restock legs with no suspension included [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "ReStock Team",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ReStock"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/PorktoberRevolution/ReStocked/releases/download/1.1.1/ReStock_1_1_1.zip?auth_key=1748275918-d33625caedf14abfa168523c954e12b0-0-ceb8fcdd29240ff51852d81225e57199&size=201975884&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "53B6C462684BD59CF0A9E970E0CC052D123E3058",
+        "sha256": "4C2BFC1579779D68F67A3ACA082885FA4B3C6A20918F45BC21B5CF3BCE5AAE89"
+    },
+    "download_size": 201975884,
+    "identifier": "RestockRigidLegs",
+    "install": [
+        {
+            "find": "RestockRigidLegs",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "zh-cn",
+        "en-us"
+    ],
+    "name": "ReStock Extra - Rigid Legs [PRO-KCMIRROR]",
+    "resources": {
+        "bugtracker": "https://github.com/PorktoberRevolution/ReStocked/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182679-161-restock-revamping-ksps-art/",
+        "metanetkan": "https://github.com/PorktoberRevolution/ReStocked/raw/master/CKAN/ReStockRigidLegs.netkan",
+        "repository": "https://github.com/PorktoberRevolution/ReStocked"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.1.1",
+    "x_generated_by": "netkan"
+}

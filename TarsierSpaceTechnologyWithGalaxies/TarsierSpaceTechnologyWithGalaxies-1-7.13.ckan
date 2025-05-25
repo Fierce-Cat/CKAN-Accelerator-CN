@@ -1,0 +1,68 @@
+{
+    "abstract": "Tarsier Space Technology - Space Telescopes, Galaxies, ChemCam surface analyser, Science Storage Drives and Contracts",
+    "author": "Jplrepo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/143/Tarsier%20Space%20Technology%20with%20Galaxies%20Continued.../download/v7.13",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "993835FC63660F168F0ACE54680B5FB1EB9AFB62",
+        "sha256": "139041F09A62BB343D9507A61D45871DEF384958F45A78B81B0CD5E61E69890F"
+    },
+    "download_size": 6193462,
+    "identifier": "TarsierSpaceTechnologyWithGalaxies",
+    "install": [
+        {
+            "find": "TarsierSpaceTech",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 10086243,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "es-mx",
+        "fr-fr",
+        "it-it",
+        "ja",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Tarsier Space Technology with Galaxies Continued...",
+    "recommends": [
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "release_date": "2021-09-11T23:14:38.024693+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JPLRepo/TarsierSpaceTechnology/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154853-121",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=148",
+        "repository": "https://github.com/JPLRepo/TarsierSpaceTechnology",
+        "spacedock": "https://spacedock.info/mod/143/Tarsier%20Space%20Technology%20with%20Galaxies%20Continued...",
+        "x_screenshot": "https://spacedock.info/content/Jplrepo_405/Tarsier_Space_Technology_with_Galaxies_Continued/Tarsier_Space_Technology_with_Galaxies_Continued-1455817104.0385642.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts",
+        "science"
+    ],
+    "version": "1:7.13",
+    "x_generated_by": "netkan"
+}

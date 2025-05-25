@@ -1,0 +1,70 @@
+{
+    "abstract": "Large launch vehicle parts in the 5 and 7.5m size categories",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "DeployableEngines"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1434/Near%20Future%20Launch%20Vehicles/download/2.1.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2A505F288FB30381E3586594E0C6FBC052B10463",
+        "sha256": "0D3BB081290248A9D76666D428D4EDC59ED8E07912BC5B57F3305AE1DDD6E937"
+    },
+    "download_size": 169103338,
+    "identifier": "NearFutureLaunchVehicles",
+    "install": [
+        {
+            "find": "NearFutureLaunchVehicles",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.10.1",
+    "license": "restricted",
+    "localizations": [
+        "ru",
+        "de-de",
+        "en-us",
+        "es-es"
+    ],
+    "name": "Near Future Launch Vehicles",
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "release_date": "2020-12-27T06:20:22.359922+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-16x-near-future-technologies-16x-fixes-jan-21/",
+        "metanetkan": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles/master/CKAN/NearFutureLaunchVehicles.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles/master/GameData/NearFutureLaunchVehicles/Versioning/NearFutureLaunchVehicles.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles",
+        "spacedock": "https://spacedock.info/mod/1434/Near%20Future%20Launch%20Vehicles",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Launch_Vehicles/Near_Future_Launch_Vehicles-1499401603.647544.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "KerbalAtomics"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "2.1.2",
+    "x_generated_by": "netkan"
+}

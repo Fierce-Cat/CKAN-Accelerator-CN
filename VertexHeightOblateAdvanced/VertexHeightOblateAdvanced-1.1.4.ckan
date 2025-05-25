@@ -1,0 +1,43 @@
+{
+    "abstract": "A custom PQS Mod intended for use by planet modders to enable easy creation of oblate bodies via a simple PQS Mod, rather than via a heightmap [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "jamespglaze",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/jamespglaze/VertexHeightOblateAdvanced/releases/download/1.1.4/VertexHeightOblateAdvanced.1.1.4.zip?auth_key=1748275917-24c93812ad68492cafec2e817f9f420d-0-3e2359dc288e1749f662eb2245fa77ac&size=20288&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "915262CE32EE6AB9CD78B70186C4AA8A2A8DA5D4",
+        "sha256": "D16A22A0FC0A0B59D07BED921E42E3324658DB582B757FC9E53726B43B5CDCE3"
+    },
+    "download_size": 20288,
+    "identifier": "VertexHeightOblateAdvanced",
+    "install": [
+        {
+            "find_regexp": ".*DuckweedUtils",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 41597,
+    "ksp_version": "1.12",
+    "license": "MIT",
+    "name": "Vertex Height Oblate Advanced [PRO-KCMIRROR]",
+    "release_date": "2024-07-02T00:51:23Z",
+    "resources": {
+        "bugtracker": "https://github.com/jamespglaze/VertexHeightOblateAdvanced/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/222923-1125-kopernicus-vertexheightoblateadvanced-112-easy-oblate-bodies/",
+        "repository": "https://github.com/jamespglaze/VertexHeightOblateAdvanced"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "1.1.4",
+    "x_generated_by": "netkan"
+}

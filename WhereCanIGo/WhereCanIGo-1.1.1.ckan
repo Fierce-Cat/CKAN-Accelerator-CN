@@ -1,0 +1,35 @@
+{
+    "abstract": "This mod will read the DeltaV of your craft, and inform you whether or not you can reach any body in the solar system. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "severedsolo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/severedsolo/WhereCanIGo/releases/download/1.1.1/WhereCanIGo.zip?auth_key=1748275916-6434b9c50cb24af99736bec4c4f919cb-0-218e39ea70e4aefae32572aedc739d43&size=17742&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "23E0257BDE8AF60742900E60BCBAE7F8EA72A230",
+        "sha256": "0F02BB9C16031057E39B588AD0A5086D6136B3B7859DECAA34415B3C2B7FAA0E"
+    },
+    "download_size": 17742,
+    "identifier": "WhereCanIGo",
+    "install": [
+        {
+            "find": "WhereCanIGo",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.7.0",
+    "license": "MIT",
+    "name": "Where Can I Go [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/187712-17x-where-can-i-go-the-opposite-of-a-problem-111-30082019/",
+        "repository": "https://github.com/severedsolo/WhereCanIGo"
+    },
+    "spec_version": "v1.4",
+    "version": "1.1.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

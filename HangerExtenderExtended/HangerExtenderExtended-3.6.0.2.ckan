@@ -1,0 +1,50 @@
+{
+    "abstract": "Extend your VAB/SPH so you can build really massive rockets",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/FShangarExtender/releases/download/3.6.0.2/FShangarExtender-1.12.0-3.6.0.2.zip",
+        "https://spacedock.info/mod/1428/HangarExtender/download/3.6.0.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "092A1EB99C4FC8D1C622B50BDA7068C3418A36B3",
+        "sha256": "EC8224EA04877E477648F8F5075519A1302D686E52743DE6EBB21CD296CA87D9"
+    },
+    "download_size": 27506,
+    "identifier": "HangerExtenderExtended",
+    "install": [
+        {
+            "find": "FShangarExtender",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 46932,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-SA-4.0",
+    "name": "Hangar Extender",
+    "provides": [
+        "HangarExtender"
+    ],
+    "release_date": "2021-11-11T22:46:00.247822+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/FShangarExtender/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/162790-13-hanger-extender-release-imminent/",
+        "remote-avc": "http://ksp.spacetux.net/avc/FShangarExtender",
+        "repository": "https://github.com/linuxgurugamer/FShangarExtender",
+        "spacedock": "https://spacedock.info/mod/1428/HangarExtender",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/HangerExtender/HangerExtender-1498944923.9047995.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "3.6.0.2",
+    "x_generated_by": "netkan"
+}

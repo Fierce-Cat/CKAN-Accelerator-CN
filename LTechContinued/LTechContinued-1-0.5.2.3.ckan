@@ -1,0 +1,61 @@
+{
+    "abstract": "A continuation of L-Tech Sciencific Industries.",
+    "author": [
+        "Olympic1",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/L-Tech/releases/download/0.5.2.3/L-Tech_Scientific_Industries_Continued-0.5.2.3.1.zip",
+        "https://spacedock.info/mod/227/L-Tech%20Scientific%20Industries%20Continued/download/0.5.2.3"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AF2F893F15AAB5BAA99C371E387D9D0D10015BFC",
+        "sha256": "76BD7AD9C55ED7F0B7BD27C5F568B9202BBE0922FFE698FFACCC2CE4EB108BE8"
+    },
+    "download_size": 5078052,
+    "identifier": "LTechContinued",
+    "install": [
+        {
+            "find": "LTech",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 11838319,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "L-Tech Scientific Industries Continued",
+    "release_date": "2022-01-31T03:40:41.881931+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/195666-18x19x-110x-l-tech-beta/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/L-Tech/master/LTech.version",
+        "repository": "https://github.com/linuxgurugamer/L-Tech",
+        "spacedock": "https://spacedock.info/mod/227/L-Tech%20Scientific%20Industries%20Continued"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "parts",
+        "science"
+    ],
+    "version": "1:0.5.2.3",
+    "x_generated_by": "netkan"
+}

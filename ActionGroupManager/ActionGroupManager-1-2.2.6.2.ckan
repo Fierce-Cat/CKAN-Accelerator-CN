@@ -1,0 +1,51 @@
+{
+    "abstract": "Manage your action groups in flight [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/ActionGroupManager/releases/download/2.2.6.2/ActionGroupManager-1.8.0-2.2.6.2.zip?auth_key=1748275916-981c72916f974c4f901cfac9e67618d1-0-50375ca0c278a7b2c73c4475e8c39ffd&size=91394&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C4C3CE842DB28F5254C4DEDAB771DDEB7CF8CE98",
+        "sha256": "ADCC9C8F73576F0A401115B7A322011CC0D3769BC33A305E085001D0CACEB000"
+    },
+    "download_size": 91394,
+    "identifier": "ActionGroupManager",
+    "install": [
+        {
+            "find": "AquilaEnterprises",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "ru"
+    ],
+    "name": "Action Group Manager Renewed [PRO-KCMIRROR]",
+    "release_date": "2020-12-09T02:05:09Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/ActionGroupManager/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178733-14x-action-group-manager-renewed/",
+        "remote-avc": "http://ksp.spacetux.net/avc/ActionGroupManager",
+        "repository": "https://github.com/linuxgurugamer/ActionGroupManager/",
+        "spacedock": "https://spacedock.info/mod/1976/Action%20Group%20Manager%20Renewed",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Action_Group_Manager_Renewed/Action_Group_Manager_Renewed-1562530514.3111498.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:2.2.6.2",
+    "x_generated_by": "netkan"
+}

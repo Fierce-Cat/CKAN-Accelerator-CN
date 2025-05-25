@@ -1,0 +1,44 @@
+{
+    "abstract": "Add parts with in-flight mass changing. Designed for submarines, act good as payload weight [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Jenyaza01",
+    "depends": [
+        {
+            "min_version": "2.6",
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/jenyaza01/BallastWaterTanks/releases/download/v1.6/BallastWaterTanks.v1.6.zip?auth_key=1748275915-b0200ad3025b486d986e8dfc2d460801-0-f1410ed95d70afed48012b319240d54a&size=20103&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0E9763A9AC3529610DB34F0746F96204C7723286",
+        "sha256": "C157803ADDAC0EBF104E867BF997D90E3990196F580C19FB06883ACB90B3D0CB"
+    },
+    "download_size": 20103,
+    "identifier": "WaterTanks",
+    "install": [
+        {
+            "find": "Jenyaza",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.9",
+    "ksp_version_min": "1.0.2",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "Ballast Water Tanks [PRO-KCMIRROR]",
+    "release_date": "2019-01-04T08:26:03Z",
+    "resources": {
+        "bugtracker": "https://github.com/jenyaza01/BallastWaterTanks/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/152741-*",
+        "repository": "https://github.com/jenyaza01/BallastWaterTanks"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "v1.6",
+    "x_generated_by": "netkan"
+}

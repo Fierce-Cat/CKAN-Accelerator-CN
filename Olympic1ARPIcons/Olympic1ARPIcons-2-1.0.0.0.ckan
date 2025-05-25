@@ -1,0 +1,79 @@
+{
+    "abstract": "Add icons to popular mods!",
+    "author": [
+        "Olympic1",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "AlternateResourcePanel"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/15/Olympic1%27s%20ARP%20Icons/download/1.0.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ADA0FE0313E39BE6047BA03A7125FF4070C666BC",
+        "sha256": "0FFCE36B818B6F18FDD36BEEBC00F4383C5153732B629CBD9BA1A5685A3AD3FC"
+    },
+    "download_size": 164455,
+    "identifier": "Olympic1ARPIcons",
+    "install": [
+        {
+            "filter": "thumbs.db",
+            "find": "ARPIcons",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.0.0",
+    "license": "CC-BY-SA-4.0",
+    "name": "Olympic1's ARP Icons",
+    "release_date": "2020-04-12T06:32:14.355027+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/ARPIcons/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193078-*",
+        "metanetkan": "https://raw.githubusercontent.com/Olympic1/Icon_Packs_KSP/master/Olympic1ARPIcons.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/ARPIcons/master/ARPIcons.version",
+        "repository": "https://github.com/zer0Kerbal/ARPIcons",
+        "spacedock": "https://spacedock.info/mod/15/Olympic1's%20ARP%20Icons",
+        "x_screenshot": "https://spacedock.info/content/Olympic1_154/Olympic1s_ARP_Icons/Olympic1s_ARP_Icons-1455807438.953648.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "AlcubierreStandalone"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DeadlyReentry"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        },
+        {
+            "name": "Firespitter"
+        },
+        {
+            "name": "KSPInterstellarExtended"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "USI-NuclearRockets"
+        }
+    ],
+    "tags": [
+        "plugin"
+    ],
+    "version": "2:1.0.0.0",
+    "x_generated_by": "netkan"
+}

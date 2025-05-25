@@ -1,0 +1,49 @@
+{
+    "abstract": "An alternate view of vessel resources plugin for Kerbal Space Program [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "TriggerAu",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/TriggerAu/AlternateResourcePanel/releases/download/v2.10.0.0/KSPAlternateResourcePanel_2.10.0.0.zip?auth_key=1748275914-d3aaca59a6f04dad8308b0dd32cdd749-0-7eadf4206defd9dfc8e395509e082757&size=304367&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "41425CBB6416EAF9A1413DEC3033A982EE385C13",
+        "sha256": "5B2594BFD62B9B2C9A0AC83B60395264E46B399B671862BD5E8811E702951D78"
+    },
+    "download_size": 304367,
+    "identifier": "AlternateResourcePanel",
+    "install": [
+        {
+            "find": "KSPAlternateResourcePanel",
+            "install_to": "GameData/TriggerTech"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.9.0",
+    "license": "MIT",
+    "name": "Alternate Resource Panel [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "TriggerAu-Flags"
+        }
+    ],
+    "release_date": "2020-04-26T08:07:31Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/TriggerAu/AlternateResourcePanel/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/54876-*",
+        "license": "https://github.com/TriggerAu/AlternateResourcePanel/blob/master/LICENSE",
+        "manual": "https://sites.google.com/site/kspalternateresourcepanel/",
+        "remote-avc": "https://raw.githubusercontent.com/TriggerAu/AlternateResourcePanel/master/AlternateResourcePanel/KSPAlternateResourcePanel.version",
+        "repository": "https://github.com/TriggerAu/AlternateResourcePanel"
+    },
+    "spec_version": "v1.20",
+    "suggests": [
+        {
+            "name": "Olympic1ARPIcons"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "1:v2.10.0.0",
+    "x_generated_by": "netkan"
+}

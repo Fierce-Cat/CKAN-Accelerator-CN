@@ -1,0 +1,45 @@
+{
+    "abstract": "Sets the sort order to your preferred setting",
+    "author": [
+        "FruitGoose",
+        "linuxgurugamer"
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/FruitKocktail/releases/download/0.0.0.3/PRUNES-1.0.1.1.zip",
+        "https://spacedock.info/mod/2785/PRUNES/download/1.0.1.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D0AF059160D23585D8E4A672FA168A764B1DEC75",
+        "sha256": "EE00C0BD0EA8D1E2F7C7CF0C8FE5439E4265380F36EA1A8EC8B0130B192C5BE5"
+    },
+    "download_size": 7633,
+    "identifier": "PRUNES",
+    "install": [
+        {
+            "find": "FruitKocktail",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 13693,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.11.2",
+    "license": "MIT",
+    "name": "Potentially Really Useful New Editor Sorter",
+    "release_date": "2024-07-24T15:15:24.661001+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/FruitKocktail/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/202889-1112-fruitkocktail-a-collection-of-mini-life-improvement-mods-with-fruit-based-acronyms-as-names-full-release/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/FruitKocktail/main/PRUNES/PRUNES.version",
+        "repository": "https://github.com/linuxgurugamer/FruitKocktail",
+        "spacedock": "https://spacedock.info/mod/2785/PRUNES"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "editor",
+        "convenience"
+    ],
+    "version": "1:1.0.1.1",
+    "x_generated_by": "netkan"
+}

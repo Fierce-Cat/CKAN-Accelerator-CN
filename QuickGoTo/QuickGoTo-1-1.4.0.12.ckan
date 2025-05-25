@@ -1,0 +1,59 @@
+{
+    "abstract": "Adds the possibility to go to an other scene from anywhere (VAB, SPH, Tracking Station ...).",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/QuickMods/releases/download/1.4.0.15/QuickGoTo-1.4.0.12.zip",
+        "https://spacedock.info/mod/102/QuickGoTo/download/1.4.0.12"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A0C0595919A418E086833783348A85A1310AF79B",
+        "sha256": "B5B76713BE71181FF48B179E7C9B9DEC6794E6ED188B944941695A67B1376270"
+    },
+    "download_size": 77768,
+    "identifier": "QuickGoTo",
+    "install": [
+        {
+            "file": "GameData/QuickMods/QuickGoTo",
+            "install_to": "GameData/QuickMods"
+        }
+    ],
+    "install_size": 166383,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "fr-fr",
+        "zh-cn"
+    ],
+    "name": "QuickGoTo",
+    "release_date": "2025-03-19T01:44:25.351915+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/QuickMods/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/QuickMods/refs/heads/master/QuickGoTo/QuickGoTo.version",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/102/QuickGoTo"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:1.4.0.12",
+    "x_generated_by": "netkan"
+}

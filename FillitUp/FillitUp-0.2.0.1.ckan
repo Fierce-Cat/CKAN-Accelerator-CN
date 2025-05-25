@@ -1,0 +1,50 @@
+{
+    "abstract": "Adjust fuel levels in the Editor",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ButtonManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2051/Fill%20It%20Up/download/0.2.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0A351CE97FD9B722F64D2E1759953CB4CB3C8F16",
+        "sha256": "11AEBC39FCA7C4865DBF3FAB722F56DE5E819A5511ECA9684934D079849B6997"
+    },
+    "download_size": 25935,
+    "identifier": "FillitUp",
+    "install": [
+        {
+            "find": "FillItUp",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.0",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Fill It Up",
+    "release_date": "2020-07-03T20:41:09.663697+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/FillItUp/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181207-151-16-fill-it-up-adjust-fuel-levels-in-vabsph/",
+        "remote-avc": "http://ksp.spacetux.net/avc/FillItUp",
+        "repository": "https://github.com/linuxgurugamer/FillItUp",
+        "spacedock": "https://spacedock.info/mod/2051/Fill%20It%20Up",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Fill_It_Up/Fill_It_Up-1546868286.1431.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "editor",
+        "convenience"
+    ],
+    "version": "0.2.0.1",
+    "x_generated_by": "netkan"
+}

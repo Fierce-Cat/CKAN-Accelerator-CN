@@ -1,0 +1,57 @@
+{
+    "abstract": "adds a shielded PicoPort",
+    "author": "zer0Kerbal",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "PicoPort"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2245/PicoPort%20Shielded/download/1.0.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "728DE9758B48BC651A483BDFC0682F6D2CF816FF",
+        "sha256": "C92BD71CD628FE5856494EAE8535FD168708D49582C3B1EB96A39FE552F724BC"
+    },
+    "download_size": 14520,
+    "identifier": "PicoPortShielded",
+    "install": [
+        {
+            "find": "KGEx",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "PicoPort Shielded",
+    "resources": {
+        "homepage": "https://github.com/zer0Kerbal/KGEx/tree/master/GameData/KGEx/MM-Patches/ShieldedPicoPort",
+        "repository": "https://github.com/zer0Kerbal/KGEx/tree/master/GameData/KGEx/MM-Patches/ShieldedPicoPort",
+        "spacedock": "https://spacedock.info/mod/2245/PicoPort%20Shielded"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ODFC-Refueled"
+        },
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "PicoPort4AllSizes"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "version": "1.0.0.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

@@ -1,0 +1,46 @@
+{
+    "abstract": "Take the adventure, Underwater!",
+    "author": "Jatwaa",
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "SinkEmAll"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1717/MOIST!%20Underwater%20Technologies/download/1.12.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2A860983303EA73AB03983B9FCEB66CFBE3CA3C1",
+        "sha256": "311AD26DB18AE417C45F3F3779CE2F6E4DAC18551905ABB04CF7C60B4C0043C3"
+    },
+    "download_size": 2350237,
+    "identifier": "MOISTUnderwaterTechnologies",
+    "install": [
+        {
+            "filter": [
+                "CommunityResourcePack",
+                "SinkEmAll"
+            ],
+            "find": "JDSA",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 6782872,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "MOIST! Underwater Technologies",
+    "release_date": "2022-09-25T15:24:55.153953+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/171383-moist-underwater-technologies/",
+        "spacedock": "https://spacedock.info/mod/1717/MOIST!%20Underwater%20Technologies",
+        "x_screenshot": "https://spacedock.info/content/Jatwaa_1926/MOIST_Underwater_Technologies/MOIST_Underwater_Technologies-1575656535.0643475.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.12.1",
+    "x_generated_by": "netkan"
+}

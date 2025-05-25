@@ -1,0 +1,30 @@
+{
+    "abstract": "Helps eliminate the clickthrough problem with mods",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/1689/Click%20Through%20Blocker/download/0.1.9.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CA9F329AEC65CC0F29B8E21144918D4EC087663B",
+        "sha256": "4F6C5AC30C1A5ABAED999626B295735E906EB2A9771BF87F8B200D26F58CA37A"
+    },
+    "download_size": 31395,
+    "identifier": "ClickThroughBlocker",
+    "install": [
+        {
+            "find": "000_ClickThroughBlocker",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "ClickThrough Blocker",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170747-131-click-through-blocker/",
+        "repository": "https://github.com/linuxgurugamer/ClickThroughBlocker",
+        "spacedock": "https://spacedock.info/mod/1689/Click%20Through%20Blocker"
+    },
+    "spec_version": "v1.4",
+    "version": "0.1.9.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

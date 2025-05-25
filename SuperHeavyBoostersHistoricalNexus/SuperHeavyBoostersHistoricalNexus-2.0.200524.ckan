@@ -1,0 +1,57 @@
+{
+    "abstract": "The Nexus was one of the post-Saturn designs for boosting very large payloads into orbit and beyond.  Was never built.  This is a half sized Nexus for the half sized Kerbals",
+    "author": "TiktaalikDreaming",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/147/Super%20Heavy%20Boosters%20Historical%20-%20Nexus/download/2.0.200524",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "806780894422F744FEFA7E96809D896213DF5DE7",
+        "sha256": "C9FF284D0D332CB705A729012B4F50E34806E7F4288FC8EA3D2EDD0F95517FFE"
+    },
+    "download_size": 85380447,
+    "identifier": "SuperHeavyBoostersHistoricalNexus",
+    "install": [
+        {
+            "find": "Nexus",
+            "install_to": "GameData"
+        },
+        {
+            "as": "VAB",
+            "find": "Ships",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 438553743,
+    "ksp_version": "1.9.1",
+    "license": "CC-BY-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Super Heavy Boosters Historical - Nexus",
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "release_date": "2020-05-24T02:19:07.805213+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/TiktaalikDreaming/Nexus/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/118828-convair-nexus-super-heavy-historical-launch-vehicle/",
+        "repository": "https://github.com/TiktaalikDreaming/Nexus",
+        "spacedock": "https://spacedock.info/mod/147/Super%20Heavy%20Boosters%20Historical%20-%20Nexus",
+        "x_screenshot": "https://spacedock.info/content/TiktaalikDreaming_235/Super_Heavy_Boosters_Historical_-_Nexus/Super_Heavy_Boosters_Historical_-_Nexus-1590286220.9856377.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts"
+    ],
+    "version": "2.0.200524",
+    "x_generated_by": "netkan"
+}

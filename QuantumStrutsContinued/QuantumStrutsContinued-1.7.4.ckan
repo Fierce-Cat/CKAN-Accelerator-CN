@@ -1,0 +1,41 @@
+{
+    "abstract": "Magical Struts for Rigidifying Outside the VAB!",
+    "author": [
+        "toadicus",
+        "linuxgurugamer"
+    ],
+    "download": "https://spacedock.info/mod/301/QuantumStrutsContinued/download/1.7.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9DBF8A884DA7A32851B798A60DF98FEAF5F3BF82",
+        "sha256": "8FCAF04E87DA23916965901772F3A48A0687D7099D49C658FCD3792974E56C4D"
+    },
+    "download_size": 49266,
+    "identifier": "QuantumStrutsContinued",
+    "install": [
+        {
+            "file": "GameData/QuantumStrutsContinued",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.0",
+    "license": "BSD-3-clause",
+    "name": "QuantumStrutsContinued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/152797-121-quantumstrutscontinued-magical-struts-for-rigidifying-outside-the-vab/",
+        "repository": "https://github.com/linuxgurugamer/QuantumStrutsContinued",
+        "spacedock": "https://spacedock.info/mod/301/QuantumStrutsContinued",
+        "x_screenshot": "https://spacedock.info/content/toadicus_556/QuantumStrutsContinued/QuantumStrutsContinued-1456774217.917839.png"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KAS"
+        }
+    ],
+    "version": "1.7.4",
+    "x_generated_by": "netkan"
+}

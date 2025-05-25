@@ -1,0 +1,47 @@
+{
+    "abstract": "4k textures for Kcalbeloh System [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "jcyuan06",
+    "conflicts": [
+        {
+            "name": "KcalbelohSystem-Textures"
+        }
+    ],
+    "depends": [
+        {
+            "name": "KcalbelohSystem"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/jcyuan06/Kcalbeloh-System/releases/download/v1.1.6/Kcalbeloh.Textures-4k.zip?auth_key=1748275917-424d67152be54fc2ba2632d8580d0df4-0-e16c8160a8bf50fdcbc3d3d880bdd94c&size=691794409&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "54FB6A116F887E64FAC9032CE3AD2903591E3522",
+        "sha256": "6E005CEEE2447184E76EAF0572A01D4B39DF6322B805407AB613C8055508E569"
+    },
+    "download_size": 691794409,
+    "identifier": "KcalbelohSystem-Textures-4k",
+    "install": [
+        {
+            "find": "KcalbelohTextures",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1223692315,
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "Kcalbeloh System 4k Textures [PRO-KCMIRROR]",
+    "provides": [
+        "KcalbelohSystem-Textures"
+    ],
+    "release_date": "2024-04-04T21:36:31Z",
+    "resources": {
+        "bugtracker": "https://github.com/jcyuan06/Kcalbeloh-System/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/203753-*",
+        "repository": "https://github.com/jcyuan06/Kcalbeloh-System"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "planet-pack",
+        "graphics"
+    ],
+    "version": "v1.1.6",
+    "x_generated_by": "netkan"
+}

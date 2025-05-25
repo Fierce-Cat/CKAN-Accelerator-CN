@@ -1,0 +1,66 @@
+{
+    "abstract": "Tarsier Space Technology - Space Telescopes, Galaxies, ChemCam surface analyser, Science Storage Drives and Contracts",
+    "author": "Jplrepo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/143/Tarsier%20Space%20Technology%20with%20Galaxies%20Continued.../download/v7.11",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BE755170AD4886378BA4DCFC54684C8D9529679C",
+        "sha256": "91117C485626F04E146DF0F68B5AC748C35931CDCD6044937D41572F0807034A"
+    },
+    "download_size": 6192833,
+    "identifier": "TarsierSpaceTechnologyWithGalaxies",
+    "install": [
+        {
+            "find": "TarsierSpaceTech",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.10.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "de-de",
+        "pt-br",
+        "it-it",
+        "ja",
+        "ru",
+        "zh-cn",
+        "es-mx"
+    ],
+    "name": "Tarsier Space Technology with Galaxies Continued...",
+    "recommends": [
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "release_date": "2020-10-16T23:43:12.320221+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154853-121",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=148",
+        "repository": "https://github.com/JPLRepo/TarsierSpaceTechnology",
+        "spacedock": "https://spacedock.info/mod/143/Tarsier%20Space%20Technology%20with%20Galaxies%20Continued...",
+        "x_screenshot": "https://spacedock.info/content/Jplrepo_405/Tarsier_Space_Technology_with_Galaxies_Continued/Tarsier_Space_Technology_with_Galaxies_Continued-1455817104.0385642.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts",
+        "science"
+    ],
+    "version": "1:7.11",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,40 @@
+{
+    "abstract": "A easy rescale Mod",
+    "author": "SpaceNerd032",
+    "download": [
+        "https://github.com/SpaceNerd24/Celestial-Rescale/releases/download/v0.4.0/CelestialRescale-v0.4.0.zip",
+        "https://spacedock.info/mod/3559/Celestial%20Rescale/download/v0.4.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9F2619A96A2CC367924A162FAFA7D28DA5049C5F",
+        "sha256": "5101C3206A85AAE80B673B64BFCB558F698BBDB7AFB0AC4865CEDAD0699E5F69"
+    },
+    "download_size": 12272,
+    "identifier": "CelestialRescale",
+    "install": [
+        {
+            "filter_regexp": "\\.pdb$",
+            "find": "CelestialRescale",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 24707,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Celestial Rescale",
+    "release_date": "2024-11-23T21:26:30.839701+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/SpaceNerd24/Celestial-Rescale/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/223641-ksp-1125-celestial-rescale-v013-rescale-the-stock-system/",
+        "repository": "https://github.com/SpaceNerd24/Celestial-Rescale",
+        "spacedock": "https://spacedock.info/mod/3559/Celestial%20Rescale",
+        "x_screenshot": "https://spacedock.info/content/SpaceNerd032_119195/Celestial_Rescale/Celestial_Rescale-1707771971.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin"
+    ],
+    "version": "v0.4.0",
+    "x_generated_by": "netkan"
+}

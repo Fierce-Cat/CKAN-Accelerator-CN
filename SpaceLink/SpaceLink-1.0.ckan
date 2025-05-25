@@ -1,0 +1,35 @@
+{
+    "abstract": "Mainmenu mod link points to SpaceDock.",
+    "author": "VITAS",
+    "download": "https://spacedock.info/mod/1342/SpaceLink/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "570D0D7D52E2F317FEA802244149046388281DB7",
+        "sha256": "7CA0752290F052F39A768D17759190C1A72E08F74E5F7C27592FEB20B65AC521"
+    },
+    "download_size": 3189,
+    "identifier": "SpaceLink",
+    "install": [
+        {
+            "file": "SpaceLink.dll",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 5120,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.2.2",
+    "license": "WTFPL",
+    "name": "SpaceLink",
+    "release_date": "2017-04-30T21:34:59.423628+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/1342/SpaceLink",
+        "x_screenshot": "https://spacedock.info/content/VITAS_150/SpaceLink/SpaceLink-1493582790.2893922.png"
+    },
+    "spec_version": "v1.2",
+    "tags": [
+        "plugin",
+        "app"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

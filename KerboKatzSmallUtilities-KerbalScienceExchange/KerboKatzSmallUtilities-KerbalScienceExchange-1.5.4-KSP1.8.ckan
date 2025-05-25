@@ -1,0 +1,49 @@
+{
+    "abstract": "This little tool allows you exchange funds for science and vice versa. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "SpaceTiger",
+        "SpaceKitty"
+    ],
+    "conflicts": [
+        {
+            "name": "KerboKatzSmallUtilities"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "1.5.2",
+            "name": "KerboKatzUtilities"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KerboKatz/SmallUtilities/releases/download/1.5.4-KSP1.8/SmallUtilities.KerbalScienceExchange.zip?auth_key=1748275914-67087867e6374cb2891287030e5ed3d1-0-d403be268e33a089d3be7e46fc2b1c37&size=70869&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C9B3D853F7061D192B5DCB03E463E24752746C79",
+        "sha256": "F7DDF1F76C672A25A13C74625F6700B13F778BBC46898DAB43EBEE44DE17F553"
+    },
+    "download_size": 70869,
+    "identifier": "KerboKatzSmallUtilities-KerbalScienceExchange",
+    "install": [
+        {
+            "find": "KerbalScienceExchange",
+            "install_to": "GameData/KerboKatz/SmallUtilities"
+        }
+    ],
+    "ksp_version": "1.8",
+    "license": "restricted",
+    "name": "KerboKatz - SmallUtilities - KerbalScienceExchange [PRO-KCMIRROR]",
+    "release_date": "2019-10-18T19:35:39Z",
+    "resources": {
+        "bugtracker": "https://github.com/KerboKatz/SmallUtilities/issues",
+        "homepage": "http://kerbokatz.github.io/",
+        "repository": "https://github.com/KerboKatz/SmallUtilities"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "career",
+        "science"
+    ],
+    "version": "1.5.4-KSP1.8",
+    "x_generated_by": "netkan"
+}

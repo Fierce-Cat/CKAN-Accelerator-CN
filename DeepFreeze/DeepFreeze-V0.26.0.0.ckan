@@ -1,0 +1,87 @@
+{
+    "abstract": "This mod provides the ability to freeze and thaw kerbals for those long space journeys.",
+    "author": "Jplrepo",
+    "depends": [
+        {
+            "min_version": "2.3.5",
+            "name": "ModuleManager"
+        },
+        {
+            "name": "REPOSoftTech-Agencies"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "BackgroundResources"
+        }
+    ],
+    "download": "https://spacedock.info/mod/142/DeepFreeze%20Continued.../download/V0.26.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8F50E1EAB147083D15085B19D0BA2C395613C003",
+        "sha256": "AE6DBA1B1D2D36783497461A940023E438D1053B525D852D255463B82EE592E2"
+    },
+    "download_size": 22921455,
+    "identifier": "DeepFreeze",
+    "install": [
+        {
+            "find": "REPOSoftTech/DeepFreeze",
+            "install_to": "GameData/REPOSoftTech"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.7.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "es-mx",
+        "ja",
+        "ru",
+        "zh-cn",
+        "de-de"
+    ],
+    "name": "DeepFreeze Continued...",
+    "recommends": [
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "BackgroundProcessing"
+        },
+        {
+            "name": "ShipManifest"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "AmpYearPowerManager"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/112328-11-deepfreeze-continued",
+        "repository": "https://github.com/JPLRepo/DeepFreeze",
+        "spacedock": "https://spacedock.info/mod/142/DeepFreeze%20Continued...",
+        "x_screenshot": "https://spacedock.info/content/Jplrepo_405/DeepFreeze_Continued/DeepFreeze_Continued-1455815976.3129282.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Snacks"
+        }
+    ],
+    "version": "V0.26.0.0",
+    "x_generated_by": "netkan",
+    "x_via": "Author JPLRepo"
+}

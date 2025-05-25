@@ -1,0 +1,42 @@
+{
+    "abstract": "Parse the progress tree for completion rewards [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "DMagic1",
+    "description": "This addon is a dependency of Contracts Window Plus and is used to parse the progress tree and to cache reward and completion data",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/DMagic1/KSP_Progress_Parser/releases/download/11.0/ProgressParser-11.0.zip?auth_key=1748275915-edbb655289ae4aba8a35619c65ea8be9-0-262874573375ed5990d847a013b2b4c7&size=17118&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C01B292076824A9765FA8633A299DA077E1233D3",
+        "sha256": "24F4FA215E01E9276B3C5D464C4463996E33DCB9E49E304D5DC29A11387AB4EF"
+    },
+    "download_size": 17118,
+    "identifier": "ProgressParser",
+    "install": [
+        {
+            "file": "GameData/DMagicUtilities/ProgressParser",
+            "install_to": "GameData/DMagicUtilities"
+        }
+    ],
+    "install_size": 40484,
+    "ksp_version_max": "1.8.8",
+    "ksp_version_min": "1.8.1",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "pl",
+        "ru"
+    ],
+    "name": "Progress Parser [PRO-KCMIRROR]",
+    "release_date": "2019-11-02T03:22:58Z",
+    "resources": {
+        "bugtracker": "https://github.com/DMagic1/KSP_Progress_Parser/issues",
+        "remote-avc": "https://raw.githubusercontent.com/DMagic1/KSP_Progress_Parser/master/GameData/DMagicUtilities/ProgressParser/ProgressParser.version",
+        "repository": "https://github.com/DMagic1/KSP_Progress_Parser"
+    },
+    "spec_version": "v1.2",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "11.0",
+    "x_generated_by": "netkan"
+}

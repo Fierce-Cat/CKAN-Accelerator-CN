@@ -1,0 +1,97 @@
+{
+    "abstract": "Part Failures: Parachutes, Engines, Gimbals, Resources, Batteries, Reaction Wheels, Control Surfaces and more! Using ScrapYard for Kerbal Space Program.",
+    "author": "zer0Kerbal",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ScrapYard"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2364/OhScrap!%20(OHS)%20by%20severedsolo/download/2.2.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2048631153FE3301AE4665D74B01CF7DEEF817FE",
+        "sha256": "D3339BC13805A6A7C0DC0A43364513E4F7479E248ED1B41C0D3BFF78E2A26764"
+    },
+    "download_size": 64559,
+    "identifier": "OhScrap",
+    "install_size": 129415,
+    "ksp_version_max": "1.12.9999",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "OhScrap",
+    "recommends": [
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "StageRecovery"
+        },
+        {
+            "name": "KerbalKrashSystem"
+        },
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "release_date": "2021-09-22T05:08:59.741679+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/OhScrap/issues",
+        "discussions": "https://github.com/zer0Kerbal/OhScrap/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192360-*/",
+        "remote-avc": "https://github.com/zer0Kerbal/OhScrap/raw/master/OhScrap.version",
+        "repository": "https://github.com/zer0Kerbal/OhScrap",
+        "spacedock": "https://spacedock.info/mod/2364/OhScrap!%20(OHS)%20by%20severedsolo",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/OhScrap_OHS_by_severedsolo/OhScrap_OHS_by_severedsolo-1672293811.png"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "Kaboom"
+        },
+        {
+            "name": "Komplexity"
+        },
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "KSP-Recall"
+        }
+    ],
+    "supports": [
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "FerramAerospaceResearchContinued"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "UKS"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "editor",
+        "config",
+        "career",
+        "uncrewed",
+        "crewed"
+    ],
+    "version": "2.2.0.0",
+    "x_generated_by": "netkan"
+}

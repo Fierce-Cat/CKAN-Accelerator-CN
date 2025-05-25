@@ -1,0 +1,59 @@
+{
+    "abstract": "Deep Space Exploration Vessels for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "conflicts": [
+        {
+            "name": "DSEV-PlayMode"
+        }
+    ],
+    "depends": [
+        {
+            "name": "WildBlue-PlayMode-ClassicStock"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "DSEV"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/DSEV/releases/download/v3.30.0/DSEV.zip?auth_key=1748275914-071c5d87c2204b3da395499f11c2c130-0-700c23e665282be497a002fd8c1a6d7a&size=150947685&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5D64723921A62302CD0D9A86AB17C0726105C238",
+        "sha256": "24A625EAF2F3FE1110A729E28E9452FFEA8F8C79D0FA1F0F1715BBBFE93BED8F"
+    },
+    "download_size": 150947685,
+    "identifier": "DSEV-PlayMode-ClassicStock",
+    "install": [
+        {
+            "find": "WildBlueIndustries/DSEV/Templates/ClassicStock",
+            "install_to": "GameData/WildBlueIndustries/DSEV/Templates"
+        },
+        {
+            "find": "WildBlueIndustries/DSEV/Templates/ClassicStock.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/DSEV/Templates"
+        }
+    ],
+    "install_size": 36832,
+    "ksp_version_min": "1.12.2",
+    "license": "restricted",
+    "name": "DSEV Classic Stock Play Mode [PRO-KCMIRROR]",
+    "provides": [
+        "DSEV-PlayMode"
+    ],
+    "release_date": "2024-01-15T19:54:19Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/DSEV/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/122162-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/DSEV/master/GameData/WildBlueIndustries/DSEV/DSEV.version",
+        "repository": "https://github.com/Angel-125/DSEV"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "config"
+    ],
+    "version": "v3.30.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,88 @@
+{
+    "abstract": "GPP secondary puts Galileo's Planet Pack around the stock solar system. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Galileo88",
+        "OhioBob"
+    ],
+    "conflicts": [
+        {
+            "name": "GPP"
+        },
+        {
+            "name": "StockVisualEnhancements"
+        },
+        {
+            "min_version": "3:v0.0825b",
+            "name": "Scatterer"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "GPPTextures"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Galileo88/Galileos-Planet-Pack/releases/download/1.6.5.0/Galileos-Planet-Pack-1.6.5.0.zip?auth_key=1748275915-9695afffb3cb43c5929ef4a33906a866-0-c300f402ade87270d8a3cdc98f8503c8&size=363085389&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "54B62137805C046A6A850FD8991F143DC90B83FD",
+        "sha256": "DB390B095FED91908CF60D649FE7B43A1B2DA14F45DC65F9724EC47646824EA2"
+    },
+    "download_size": 363085389,
+    "identifier": "GPPSecondary",
+    "install": [
+        {
+            "comment": "This is the main install for GPP",
+            "find": "GPP",
+            "install_to": "GameData"
+        },
+        {
+            "comment": "This correctly installs Final Frontier for GPP",
+            "filter": [
+                "Grannus"
+            ],
+            "find": "Optional Mods/GPP_FinalFrontier/GameData/Nereid",
+            "install_to": "GameData"
+        },
+        {
+            "comment": "This installs the GPP_Secondary configs for GPP",
+            "find": "Optional Mods/GPP_Secondary/GameData/GPP_Secondary",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-ND",
+    "name": "GPP Secondary [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "FinalFrontier"
+        }
+    ],
+    "release_date": "2020-07-29T23:14:29Z",
+    "resources": {
+        "bugtracker": "https://github.com/Galileo88/Galileos-Planet-Pack/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/152136-galileos-planet-pack/",
+        "remote-avc": "https://raw.githubusercontent.com/Galileo88/Galileos-Planet-Pack/master/GameData/GPP/Version/GalileosPlanetPack.version",
+        "repository": "https://github.com/Galileo88/Galileos-Planet-Pack"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "JNSQ"
+        },
+        {
+            "name": "GrannusExpansionPack-Primary"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.6.5.0",
+    "x_generated_by": "netkan"
+}

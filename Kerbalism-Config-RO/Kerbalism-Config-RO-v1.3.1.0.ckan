@@ -1,0 +1,90 @@
+{
+    "abstract": "Kerbalism configuration for Realism Overhaul and RP-1 [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "al2me6",
+        "blowfishpro",
+        "Capkirk123",
+        "NathanKell",
+        "pjf",
+        "rsparkyc",
+        "SirKeplan",
+        "StollD",
+        "StonesmileGit",
+        "stratochief66",
+        "zorg2044"
+    ],
+    "conflicts": [
+        {
+            "name": "Kerbalism-Config"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "USI-LS"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kerbalism",
+            "suppress_recommendations": true
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/ROKerbalism/releases/download/v1.3.1.0/ROKerbalism-v1.3.1.0.zip?auth_key=1748275916-f56e2f75204341ada54457a17189b9c9-0-2a79e26c0ee8f0c8f4e359f634f3d59e&size=2276588&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2D78487EC548A68D67D8085F2B2E4AA8270A6B32",
+        "sha256": "0539435D95FA44C4FB848AFED3B132D2DD9FBCF7DC36CAFA2B074B996FCD930C"
+    },
+    "download_size": 2276588,
+    "identifier": "Kerbalism-Config-RO",
+    "install": [
+        {
+            "find": "KerbalismConfig",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 6340165,
+    "license": "Unlicense",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Kerbalism - RealismOverhaul Config [PRO-KCMIRROR]",
+    "provides": [
+        "Kerbalism-Config"
+    ],
+    "recommends": [
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "release_date": "2025-02-15T23:06:42Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/ROKerbalism/issues",
+        "repository": "https://github.com/KSP-RO/ROKerbalism"
+    },
+    "spec_version": "v1.18",
+    "suggests": [
+        {
+            "name": "RP-0"
+        }
+    ],
+    "tags": [
+        "config",
+        "career",
+        "science",
+        "crewed"
+    ],
+    "version": "v1.3.1.0",
+    "x_generated_by": "netkan"
+}

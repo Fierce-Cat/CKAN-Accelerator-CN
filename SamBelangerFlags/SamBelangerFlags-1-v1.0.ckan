@@ -1,0 +1,33 @@
+{
+    "abstract": "Flags used in SamBelanger's mods",
+    "author": "SamBelanger",
+    "comment": "flagmod",
+    "download": "https://archive.org/download/SamBelangerFlags-1-v1.0/1BF2F9DF-SamBelangerFlags-1-v1.0.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1BF2F9DFB26FF96887DAB3CA4F6672CEEE68A513",
+        "sha256": "4F507968CEE002B588C556F65D6D2C627B5DC683FB6BC67659FCD539B5FB344A"
+    },
+    "download_size": 10137,
+    "identifier": "SamBelangerFlags",
+    "install": [
+        {
+            "find": "Flags",
+            "install_to": "GameData/SamBelanger"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "MIT",
+    "name": "SamBelanger Flags",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://sambelanger.wixsite.com/sambelanger",
+        "repository": "https://github.com/SamBelanger/SamBelangerFlags"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "flags"
+    ],
+    "version": "1:v1.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,46 @@
+{
+    "abstract": "Inverse kinematics controller for KSP Breaking Ground robotic parts: automatically reach targets with your custom manipulators! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Gotmachine",
+    "depends": [
+        {
+            "name": "BreakingGround-DLC"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSPModStewards/EasyRobotics/releases/download/1.0.0/EasyRobotics_1.0.0.zip?auth_key=1748275917-4ad45094599b4c24a5de83782933428d-0-073e193b6f2a802854ea0b67fb6c9a81&size=91560&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6030F957B8D948AFB77B9A747C1EEF031C962E8E",
+        "sha256": "BD14BD24E801FD9DA0F2DB59E98E0A0789DCB0B5B3A2742EAE0C2EBF27259072"
+    },
+    "download_size": 91560,
+    "identifier": "EasyRobotics",
+    "install_size": 265669,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.3",
+    "license": "MIT",
+    "name": "Easy Robotics [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "HabTechRobotics"
+        },
+        {
+            "name": "MissingRobotics"
+        }
+    ],
+    "release_date": "2024-05-15T17:59:01Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSPModStewards/EasyRobotics/issues",
+        "remote-avc": "https://raw.githubusercontent.com/gotmachine/EasyRobotics/master/GameData/EasyRobotics/EasyRobotics.version",
+        "repository": "https://github.com/KSPModStewards/EasyRobotics"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

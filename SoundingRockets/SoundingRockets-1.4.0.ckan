@@ -1,0 +1,49 @@
+{
+    "abstract": "Adds a series of low tech sounding rockets to the 'start' node. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/UmbraSpaceIndustries/SoundingRockets/releases/download/1.4.0/SoundingRockets_1.4.0.0.zip?auth_key=1748275915-3a0aaeb85d9c44e2972a78a0cf9c76f2-0-0c48302ca9680aded7ad4b29d0297a65&size=1935171&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DDDCE9561144234F61814C90D0EE1F0BA237A8D5",
+        "sha256": "0E484AB4DC4E41FF184487A1BD5FBD61AF12C70CB0691CE82E3759724EAD4502"
+    },
+    "download_size": 1935171,
+    "identifier": "SoundingRockets",
+    "install": [
+        {
+            "file": "GameData/UmbraSpaceIndustries/SoundingRockets",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "Sounding Rockets! [PRO-KCMIRROR]",
+    "release_date": "2020-12-21T21:24:47Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/UmbraSpaceIndustries/SoundingRockets/issues",
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "metanetkan": "https://raw.githubusercontent.com/UmbraSpaceIndustries/CKAN/master/SoundingRockets.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/BobPalmer/SoundingRockets/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/SoundingRockets/SoundingRockets.version",
+        "repository": "https://github.com/UmbraSpaceIndustries/SoundingRockets"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.4.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

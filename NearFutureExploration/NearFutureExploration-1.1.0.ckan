@@ -1,0 +1,77 @@
+{
+    "abstract": "Expands probe selection with new cores, new probe bus parts, mini satellite parts and a large quantity of antennas. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/NearFutureExploration/releases/download/1.1.0/NearFutureExploration_1_1_0.zip?auth_key=1748275917-c300f71de6164b48b974108ebc71b21b-0-7ed37980ad3a3cabc906533e528a7bec&size=42379883&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9200C52C5225ADA01F59D12C6BF134F5F78C2C8E",
+        "sha256": "44A47FD5E821AB0EE86BD5A8292FEDF015199E169141E4033A535EF5A3C176B8"
+    },
+    "download_size": 42379883,
+    "identifier": "NearFutureExploration",
+    "install": [
+        {
+            "find": "NearFutureExploration",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "Near Future Exploration [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        }
+    ],
+    "release_date": "2020-12-23T15:31:40Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/NearFutureExploration/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-18x-near-future-technologies-18-updates-november-6th/",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/NearFutureExploration/raw/master/CKAN/NearFutureExploration.netkan",
+        "repository": "https://github.com/post-kerbin-mining-corporation/NearFutureExploration"
+    },
+    "spec_version": "v1.26",
+    "suggests": [
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        }
+    ],
+    "tags": [
+        "parts",
+        "uncrewed",
+        "comms"
+    ],
+    "version": "1.1.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,43 @@
+{
+    "abstract": "Helps eliminate the clickthrough problem with mods",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1689/Click%20Through%20Blocker/download/2.1.10.19",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3B4601658173A22EE913A2A030DFEF7E56B9D351",
+        "sha256": "FF1278E8DD64DC9B15D3E40B992A4786A3464A2A27D880D33213664A3E472027"
+    },
+    "download_size": 112257,
+    "identifier": "ClickThroughBlocker",
+    "install": [
+        {
+            "find": "000_ClickThroughBlocker",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 142501,
+    "ksp_version_max": "1.12.4",
+    "ksp_version_min": "1.11.0",
+    "license": "GPL-3.0",
+    "name": "ClickThrough Blocker",
+    "release_date": "2022-12-25T23:42:08.391966+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/ClickThroughBlocker/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170747-131-click-through-blocker/",
+        "remote-avc": "http://ksp.spacetux.net/avc/ClickThroughBlocker",
+        "repository": "https://github.com/linuxgurugamer/ClickThroughBlocker",
+        "spacedock": "https://spacedock.info/mod/1689/Click%20Through%20Blocker"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "1:2.1.10.19",
+    "x_generated_by": "netkan"
+}

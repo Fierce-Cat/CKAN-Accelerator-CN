@@ -1,0 +1,59 @@
+{
+    "abstract": "This mod adds some late-game engines and tanks to the game. These parts are fusion-based or use advanced technologies.",
+    "author": [
+        "jandcando",
+        "Lisias"
+    ],
+    "depends": [
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/340/Impossible%20Innovations/download/0.8.8.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0970B7BF1462DDAC6D946F398D046C84AEE7679E",
+        "sha256": "8B93F90421C6E739DACA1984A5E6DC1CDE9EBFB78DE244146598FAD7737B28C6"
+    },
+    "download_size": 14030861,
+    "identifier": "ImpossibleInnovations",
+    "install": [
+        {
+            "file": "GameData/ImpossibleInnovations",
+            "filter": [
+                "Ships"
+            ],
+            "install_to": "GameData"
+        },
+        {
+            "find": "Ships/VAB",
+            "install_to": "Ships"
+        },
+        {
+            "find": "Ships/SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.4.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Impossible Innovations",
+    "release_date": "2019-07-29T01:06:59.658087+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/net-lisias-ksp/ImpossibleInnovations/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175694-141-impossible-innovations-under-new-management/",
+        "remote-avc": "https://raw.githubusercontent.com/net-lisias-ksp/ImpossibleInnovations/master/ImpossibleInnovations.version",
+        "repository": "https://github.com/net-lisias-ksp/ImpossibleInnovations",
+        "spacedock": "https://spacedock.info/mod/340/Impossible%20Innovations",
+        "x_screenshot": "https://spacedock.info/content/jandcando_1755/Impossible_Innovations/Impossible_Innovations-1457039419.5458508.png"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.8.8.6",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,55 @@
+{
+    "abstract": "This mod aims to provide a small patch to enable the ground scatter collider meshes for the stock ground scatter instances on the stock bodies for Kerbal Space Program. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Poodmund"
+    ],
+    "conflicts": [
+        {
+            "name": "Spectra"
+        },
+        {
+            "name": "SVE-Terrain"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Poodmund/Stock-Scatter-Collider-Enabler-Patch/releases/download/v1.0.0/Stock-Scatter-Collider-Enabler-Patch_v1.0.0.zip?auth_key=1748275917-cf036d62e37b466bbb0d79422c173079-0-64072a6a44080e5f4fcd271120067b85&size=1278&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D47198ACD41A63B8BDA3A66ED62327B62F50461C",
+        "sha256": "2334653040039688A56AD3D0FCA8E1E7789AD8E9556177E3CCCC6F576E7E1FFF"
+    },
+    "download_size": 1278,
+    "identifier": "StockScatterColliderEnablerPatch",
+    "install": [
+        {
+            "comment": "This is the main install for SSCEP",
+            "find": "SSCEP",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Stock Scatter Collider Enabler Patch [PRO-KCMIRROR]",
+    "release_date": "2020-06-28T19:10:06Z",
+    "resources": {
+        "bugtracker": "https://github.com/Poodmund/Stock-Scatter-Collider-Enabler-Patch/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/195127-*",
+        "metanetkan": "https://raw.githubusercontent.com/Poodmund/Stock-Scatter-Collider-Enabler-Patch/master/CKAN/SSCEP.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/Poodmund/Stock-Scatter-Collider-Enabler-Patch/master/GameData/SSCEP/SSCEP.version",
+        "repository": "https://github.com/Poodmund/Stock-Scatter-Collider-Enabler-Patch"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "v1.0.0",
+    "x_generated_by": "netkan"
+}

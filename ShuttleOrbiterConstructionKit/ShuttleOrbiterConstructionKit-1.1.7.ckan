@@ -1,0 +1,77 @@
+{
+    "abstract": "Stockalike parts for NASA's Space Shuttle Orbiter. ",
+    "author": "Benjee10",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "Benjee10-SharedAssets"
+        },
+        {
+            "name": "HabTechProps"
+        },
+        {
+            "name": "HabTechRobotics"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2176/Shuttle%20Orbiter%20Construction%20Kit/download/1.1.7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8A41E3B5151E33CC168F571C71B210A528F5225E",
+        "sha256": "85AA9A635DF64161EFCD424BE69A7368FC10DA8B0488CA0DE1A0F9FFE4436210"
+    },
+    "download_size": 147277128,
+    "identifier": "ShuttleOrbiterConstructionKit",
+    "install": [
+        {
+            "find": "Benjee10_shuttleOrbiter",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Manual",
+            "install_to": "GameData/Benjee10_shuttleOrbiter"
+        },
+        {
+            "find": "Extras/ColumbiaWings",
+            "install_to": "GameData/Benjee10_shuttleOrbiter"
+        },
+        {
+            "find": "Extras/Custom Shuttle Names",
+            "install_to": "GameData/Benjee10_shuttleOrbiter"
+        },
+        {
+            "find": "Craft Files/SPH",
+            "install_to": "Ships"
+        },
+        {
+            "find": "Craft Files/VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 248925101,
+    "ksp_version_min": "1.11",
+    "license": "restricted",
+    "name": "Shuttle Orbiter Construction Kit",
+    "release_date": "2021-03-18T16:56:24.850803+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/benjee10/Shuttle-Orbiter-Construction-Kit/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/186023-17x-shuttle-orbiter-construction-kit-stocalike-space-shuttle-orbiter-initial-release-v100/",
+        "repository": "https://github.com/benjee10/Shuttle-Orbiter-Construction-Kit",
+        "spacedock": "https://spacedock.info/mod/2176/Shuttle%20Orbiter%20Construction%20Kit",
+        "x_screenshot": "https://spacedock.info/content/Benjee10_2390/Shuttle_Orbiter_Construction_Kit/Shuttle_Orbiter_Construction_Kit-1562143273.9393232.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1.1.7",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,41 @@
+{
+    "abstract": "A small range of stockish based truss parts for station building",
+    "author": "theJesuit",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ReStockPlus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3406/SIMPLEX%20Station%20Parts/download/1.3.20230829",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F9272850214233B05C14DC71EEDFE302AA0ABDB5",
+        "sha256": "79323DAB8DBEB6D1A719135FFA60DA34910CC838E83AB11247434B421EF16A90"
+    },
+    "download_size": 931586,
+    "identifier": "SIMPLEXStationParts",
+    "install": [
+        {
+            "find": "AngleCanMods",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 994029,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA",
+    "name": "SIMPLEX Station Parts",
+    "release_date": "2023-08-28T23:43:23.943371+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/217662-1125-simplex-station-parts/",
+        "spacedock": "https://spacedock.info/mod/3406/SIMPLEX%20Station%20Parts"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.3",
+    "x_generated_by": "netkan"
+}

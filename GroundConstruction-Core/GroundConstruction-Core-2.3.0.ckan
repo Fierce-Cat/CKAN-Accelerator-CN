@@ -1,0 +1,61 @@
+{
+    "abstract": "This is the core component of the Global Construction mod. It should only be installed as a dependency by other mods.",
+    "author": [
+        "allista"
+    ],
+    "depends": [
+        {
+            "name": "AT-Utils"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1123/Ground%20Construction/download/2.3.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "853689FB3EDAAF33B760A0C9959CD67EFB6DB9B0",
+        "sha256": "1AB945F4747DCCA8DD4E69296D6DBB370DCAAE2E7898EC195CFDAEBB33BD6692"
+    },
+    "download_size": 15474298,
+    "identifier": "GroundConstruction-Core",
+    "install": [
+        {
+            "file": "GameData/GroundConstruction/Icons",
+            "install_to": "GameData/GroundConstruction"
+        },
+        {
+            "file": "GameData/GroundConstruction/Plugins",
+            "install_to": "GameData/GroundConstruction"
+        },
+        {
+            "file": "GameData/GroundConstruction/GroundConstruction.version",
+            "install_to": "GameData/GroundConstruction"
+        },
+        {
+            "file": "GameData/GroundConstruction/KitResources.cfg",
+            "install_to": "GameData/GroundConstruction"
+        },
+        {
+            "file": "GameData/GroundConstruction/Engineer.cfg",
+            "install_to": "GameData/GroundConstruction"
+        },
+        {
+            "file": "GameData/GroundConstruction/Parts/DIYKit",
+            "install_to": "GameData/GroundConstruction/Parts"
+        }
+    ],
+    "ksp_version": "1.7.0",
+    "license": "MIT",
+    "name": "Global Construction Core",
+    "resources": {
+        "bugtracker": "https://github.com/allista/GroundConstruction/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154167-122-ground-construction",
+        "repository": "https://github.com/allista/GroundConstruction",
+        "spacedock": "https://spacedock.info/mod/1123/Ground%20Construction",
+        "x_screenshot": "https://spacedock.info/content/allista_931/Ground_Construction/Ground_Construction-1536838498.3931928.png"
+    },
+    "spec_version": "v1.16",
+    "version": "2.3.0",
+    "x_generated_by": "netkan"
+}

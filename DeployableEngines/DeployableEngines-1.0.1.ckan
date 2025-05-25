@@ -1,0 +1,37 @@
+{
+    "abstract": "A plugin to manage extending/retracting engine nozzles [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "ChrisAdderley",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ChrisAdderley/DeployableEngines/releases/download/1.0.1/DeployableEngines_1_0_1.zip?auth_key=1748275917-0cab61f99f5745b49b065dca7407cfc0-0-b5f09491cbf561825ef4a7a3d50e2b81&size=6105&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CC5499FCE3E8A2DFD42956683EC26ED0561E2D16",
+        "sha256": "BEAC181ED9624AF3E999531E3BB0A20FD870062E32BEABE0CA2D322D9225E6F9"
+    },
+    "download_size": 6105,
+    "identifier": "DeployableEngines",
+    "install": [
+        {
+            "find": "DeployableEngines",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.7.0",
+    "license": "MIT",
+    "name": "Deployable Engines Plugin [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://github.com/ChrisAdderley/DeployableEngines/wiki",
+        "repository": "https://github.com/ChrisAdderley/DeployableEngines"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "CryoEngines"
+        }
+    ],
+    "version": "1.0.1",
+    "x_generated_by": "netkan"
+}

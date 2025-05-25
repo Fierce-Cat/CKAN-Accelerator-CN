@@ -1,0 +1,45 @@
+{
+    "abstract": "Adds RR Ore tank options to SSPXR's payload tanks",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RationalResources"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        }
+    ],
+    "download": [
+        "https://github.com/JadeOfMaar/RationalResources/releases/download/3.0.0/RationalResources-3.0.0.zip",
+        "https://spacedock.info/mod/2201/Rational%20Resources/download/3.0.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AEC86396D048BBD73EBEC53CE0A08765D7A54AE2",
+        "sha256": "D7C47FB4C1E3FB917AF6611D386EC7A8ECAAA3E74CACA72892D7BA4607CC6086"
+    },
+    "download_size": 37841839,
+    "identifier": "RationalResourcesSSPXRTanks",
+    "install_size": 6702,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Rational Resources SSPXR Tanks",
+    "release_date": "2024-09-22T19:22:20.155491+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/RationalResources/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184875-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalResources/Version/RationalResources.version",
+        "repository": "https://github.com/JadeOfMaar/RationalResources",
+        "spacedock": "https://spacedock.info/mod/2201/Rational%20Resources",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Rational_Resources/Rational_Resources-1633389353.6822987.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config"
+    ],
+    "version": "3.0.0",
+    "x_generated_by": "netkan"
+}

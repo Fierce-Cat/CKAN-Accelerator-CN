@@ -1,0 +1,54 @@
+{
+    "abstract": "Station Science mod adds several large parts designed to be integrated into a permanent space station. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "tomf",
+    "conflicts": [
+        {
+            "name": "StationScience"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "description": "This mod adds several large parts designed to be integrated into a permanent space station: the Science Lab, the Zoology Bay, the Cyclotron, and the Spectrometron. These heavy parts provide facilities for performing experiments. Experiments are held in small, light pods that you can dock with your space station, execute, and bring back to the surface for Science points. The Spectrometron uses the Cyclotron to analyze Surface Samples that you've brought into orbit, and allows you to transmit the data home for full value. In addition, there are tanks for storing Kibbal for the Zoology Bay.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/tomforwood/StationScience/releases/download/v2.6.0/StationScience.zip?auth_key=1748275916-230b7e207fea48d29589e102649b6246-0-e5aa89aabb38112fc9d9f4b82ea31cd8&size=7071734&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "50F90EC2CE8E7001D5CBCEF5D5F5464D81675D23",
+        "sha256": "7929A13955F73476A5F7ECB52C4B43356CA931B4A27BE90CDFD2002E3CEC9896"
+    },
+    "download_size": 7071734,
+    "identifier": "StationScienceContinued",
+    "install": [
+        {
+            "find": "StationScience",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 25999275,
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "en-us",
+        "es-es"
+    ],
+    "name": "Station Science Continued [PRO-KCMIRROR]",
+    "release_date": "2020-01-15T08:20:29Z",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154629-*",
+        "remote-avc": "https://raw.githubusercontent.com:443/tomforwood/StationScience/master/Kerbal%20Space%20Program/GameData/StationScience/StationScience.version",
+        "repository": "https://github.com/tomforwood/StationScience",
+        "x_screenshot": "http://i.imgur.com/63DTlDLl.png"
+    },
+    "spec_version": "v1.20",
+    "tags": [
+        "parts",
+        "crewed",
+        "science"
+    ],
+    "version": "v2.6.0",
+    "x_generated_by": "netkan"
+}

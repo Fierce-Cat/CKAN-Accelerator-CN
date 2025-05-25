@@ -1,0 +1,52 @@
+{
+    "abstract": "Plugin and props for use in IVAs [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Mihara",
+        "MOARdV",
+        "JonnyOThan"
+    ],
+    "comment": "This package contains the plugin, and the standard parts library.",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JonnyOThan/RasterPropMonitor/releases/download/v0.31.9/RasterPropMonitoc-v0.31.9.zip?auth_key=1748275915-f3a9452c1ead4faa84e13cd5b1f10ffb-0-0157afbf2aeccea69735f15844c372c5&size=1313208&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BDAAEEC73A4A2DBDC3013485EBBBC39E446BC13D",
+        "sha256": "04D623A4573C79FD4A6C0C010F26EA05EAD411139B01699123823D856129E526"
+    },
+    "download_size": 1313208,
+    "identifier": "RasterPropMonitor-Core",
+    "install": [
+        {
+            "find": "JSI/RasterPropMonitor",
+            "install_to": "GameData/JSI"
+        },
+        {
+            "comment": "This folder contains the multi-function display props, which belong in this module along with the other props",
+            "find": "JSI/RPMPodPatches/BasicMFD",
+            "install_to": "GameData/JSI/RPMPodPatches"
+        }
+    ],
+    "install_size": 6499122,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "RasterPropMonitor Core [PRO-KCMIRROR]",
+    "release_date": "2022-10-17T16:30:26Z",
+    "resources": {
+        "bugtracker": "https://github.com/JonnyOThan/RasterPropMonitor/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190737-*",
+        "remote-avc": "https://raw.githubusercontent.com/JonnyOThan/RasterPropMonitor/master/GameData/JSI/RasterPropMonitor/RasterPropMonitor.version",
+        "repository": "https://github.com/JonnyOThan/RasterPropMonitor/releases"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "1:v0.31.9",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,40 @@
+{
+    "abstract": "PartInfo is a simple mod to expose the internal part name and path to the part file.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2091/PartInfo/download/0.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "45A86E29FBB02302E6122B16B03D3B49E5EE656E",
+        "sha256": "A02778E190BA46156689E26639EE1AB627A74D627771D2C05AE1708EAFAEB58A"
+    },
+    "download_size": 30590,
+    "identifier": "PartInfo",
+    "install": [
+        {
+            "find": "PartInfo",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "PartInfo",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182040-145-151-161-partinfo/",
+        "repository": "https://github.com/linuxgurugamer/PartInfo",
+        "spacedock": "https://spacedock.info/mod/2091/PartInfo"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "editor",
+        "information"
+    ],
+    "version": "0.0.2",
+    "x_generated_by": "netkan"
+}

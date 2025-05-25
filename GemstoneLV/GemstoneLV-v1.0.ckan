@@ -1,0 +1,55 @@
+{
+    "abstract": "KSP Mod for Stockalike JAXA and NASDA rockets. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Beale",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "SimpleAdjustableFairings"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Tantares/GemstoneLV/releases/download/v1.0/GemstoneLV.zip?auth_key=1748275917-cee855032fab4f1c83930e17332c0525-0-39a4943481c24eeaa7b61d28bfd5d935&size=12030847&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "16DD791E81763CFE5B6E045B8363156DDC5197E5",
+        "sha256": "E3B6DE9D3562F11FE9B5632DAE5906404586154D91DAE99FA7FC57E20897E6A1"
+    },
+    "download_size": 12030847,
+    "identifier": "GemstoneLV",
+    "install": [
+        {
+            "find": "GemstoneLV",
+            "install_to": "GameData"
+        },
+        {
+            "as": "VAB",
+            "find": "Crafts",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 29318528,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.1",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Gemstone LV [PRO-KCMIRROR]",
+    "release_date": "2021-08-10T20:44:24Z",
+    "resources": {
+        "bugtracker": "https://github.com/Tantares/GemstoneLV/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204309-*",
+        "remote-avc": "https://raw.githubusercontent.com/Tantares/GemstoneLV/main/gemstonelv.version",
+        "repository": "https://github.com/Tantares/GemstoneLV"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts"
+    ],
+    "version": "v1.0",
+    "x_generated_by": "netkan"
+}

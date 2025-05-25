@@ -1,0 +1,71 @@
+{
+    "abstract": "A brand new star system set in the far future where Kerbals have migrated towards a luxurious binary habitable worlds",
+    "author": "ProximaCentauri-star",
+    "conflicts": [
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "JNSQ"
+        },
+        {
+            "name": "BeyondHome"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "VertexHeightOblateAdvanced"
+        },
+        {
+            "name": "VertexColorMapEmissive"
+        }
+    ],
+    "download": "https://github.com/ProximaCentauri-star/Celestial-Harmony/releases/download/0.9.3.1.1/CH-0.9.3.1.1.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "098A495C827D807B0294E96BF054B17936C6BEBC",
+        "sha256": "2AB6FA2F8909BB051522DFBB10DA671A6DD6756C1758E1321659AC2F6DC1189C"
+    },
+    "download_size": 1073934204,
+    "identifier": "CelestialHarmony",
+    "install_size": 2472439002,
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Celestial Harmony",
+    "provides": [
+        "Scatterer-sunflare"
+    ],
+    "release_date": "2025-04-01T17:12:40Z",
+    "resources": {
+        "bugtracker": "https://github.com/ProximaCentauri-star/Celestial-Harmony/issues",
+        "repository": "https://github.com/ProximaCentauri-star/Celestial-Harmony"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Parallax"
+        }
+    ],
+    "tags": [
+        "planet-pack"
+    ],
+    "version": "1:0.9.3.1.1",
+    "x_generated_by": "netkan"
+}

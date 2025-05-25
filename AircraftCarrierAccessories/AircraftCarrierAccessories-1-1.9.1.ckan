@@ -1,0 +1,66 @@
+{
+    "abstract": "ACA",
+    "author": "flywlyx",
+    "download": "https://spacedock.info/mod/1068/Aircraft%20Carrier%20Accessories/download/1.9.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "19826E027DAD6209559DFAD15BC175C92F2637D1",
+        "sha256": "6EBDF6DA38C23DC150FE4002F434EF6D282F6D64DF9C335917EAA36C040CA1A3"
+    },
+    "download_size": 25212387,
+    "identifier": "AircraftCarrierAccessories",
+    "install": [
+        {
+            "filter": [
+                "Ships",
+                "Resource"
+            ],
+            "find": "KFC",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Ships/SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 141482073,
+    "ksp_version": "1.10.0",
+    "license": "MIT",
+    "name": "Aircraft Carrier Accessories",
+    "recommends": [
+        {
+            "name": "BDArmoryContinued"
+        },
+        {
+            "name": "Hangar"
+        },
+        {
+            "name": "LargeBoatPartsPack"
+        },
+        {
+            "name": "HangarExtender"
+        },
+        {
+            "name": "HyperEdit"
+        },
+        {
+            "name": "VesselMover"
+        },
+        {
+            "name": "KerbalKonstructs"
+        }
+    ],
+    "release_date": "2020-05-31T04:17:57.72385+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/152916-121aircraft-carrier-accessories/",
+        "spacedock": "https://spacedock.info/mod/1068/Aircraft%20Carrier%20Accessories",
+        "x_screenshot": "https://spacedock.info/content/flywlyx_4121/Aircraft_Carrier_Accessories/Aircraft_Carrier_Accessories-1479182522.4990559.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "combat"
+    ],
+    "version": "1:1.9.1",
+    "x_generated_by": "netkan"
+}

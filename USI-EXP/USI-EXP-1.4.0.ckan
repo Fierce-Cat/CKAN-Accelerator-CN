@@ -1,0 +1,72 @@
+{
+    "abstract": "PackRat Rover and parts geared towards planetary exploration [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "v7.6.0",
+            "name": "FirespitterCore"
+        },
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        },
+        {
+            "min_version": "0.7.0.0",
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/UmbraSpaceIndustries/ExplorationPack/releases/download/1.4.0/ExpPack_1.4.0.0.zip?auth_key=1748275915-629d34cbae8d4a1b8ed444b08780d926-0-c0e42bae18bf61a76b5cc5198a7426a5&size=12339228&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "39BC00217A91F02534A6AF243AB60842FD1451EE",
+        "sha256": "444ECEAD92D5E1D77F1B25301FEA53B00631EE9F293618E6F189C4FE2105C453"
+    },
+    "download_size": 12339228,
+    "identifier": "USI-EXP",
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/ExpPack",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        },
+        {
+            "find": "UmbraSpaceIndustries/SrvPack",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        },
+        {
+            "find": "UmbraSpaceIndustries/SubPack/Otter",
+            "install_to": "GameData/UmbraSpaceIndustries/SubPack"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "USI Exploration Pack [PRO-KCMIRROR]",
+    "release_date": "2020-12-21T21:22:48Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/UmbraSpaceIndustries/ExplorationPack/issues",
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "metanetkan": "https://raw.githubusercontent.com/UmbraSpaceIndustries/CKAN/master/USI-EXP.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/BobPalmer/ExplorationPack/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/ExpPack/ExpPack.version",
+        "repository": "https://github.com/UmbraSpaceIndustries/ExplorationPack"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.4.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

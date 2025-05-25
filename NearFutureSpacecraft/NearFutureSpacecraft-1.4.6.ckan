@@ -1,0 +1,94 @@
+{
+    "abstract": "New command pods, control systems and engines for crewed spacecraft",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/708/Near%20Future%20Spacecraft/download/1.4.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "08458B15112F41C7324E1D62E822A54D8632E758",
+        "sha256": "D187B4CCA119D7E6A1E8AFA37E1644C4EA529D51C3672241E5B697A487AFAA5C"
+    },
+    "download_size": 94037073,
+    "identifier": "NearFutureSpacecraft",
+    "install": [
+        {
+            "find": "NearFutureSpacecraft",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 221452612,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Near Future Spacecraft",
+    "recommends": [
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "release_date": "2025-02-02T04:15:37.796009+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/NearFutureSpacecraft/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-16x-near-future-technologies-16x-fixes-jan-21/",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/NearFutureSpacecraft/raw/master/CKAN/NearFutureSpacecraft.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureSpacecraft/master/GameData/NearFutureSpacecraft/Versioning/NearFutureSpacecraft.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/NearFutureSpacecraft",
+        "spacedock": "https://spacedock.info/mod/708/Near%20Future%20Spacecraft",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Spacecraft/Near_Future_Spacecraft-1463532778.5485678.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        }
+    ],
+    "supports": [
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        }
+    ],
+    "tags": [
+        "parts",
+        "graphics",
+        "crewed"
+    ],
+    "version": "1.4.6",
+    "x_generated_by": "netkan"
+}

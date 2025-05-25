@@ -1,0 +1,43 @@
+{
+    "abstract": "State funding",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1231/State%20Funding%20Continued/download/0.6.17.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B56BEA7775A20E51AD42432CF6533F432A1D2A05",
+        "sha256": "E6564A1B8E3CD3CB0308068768C85C8D4E7DBB41A62CB6FDE59FED34F1387809"
+    },
+    "download_size": 274750,
+    "identifier": "StateFundingContinued",
+    "install": [
+        {
+            "find": "StateFunding",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.3",
+    "ksp_version_min": "1.7.1",
+    "license": "MIT",
+    "name": "State Funding Continued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/156984-12-state-funding-continued/",
+        "repository": "https://github.com/linuxgurugamer/StateFundingContinued",
+        "spacedock": "https://spacedock.info/mod/1231/State%20Funding%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/State_Funding_Continued/State_Funding_Continued-1488081735.569234.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.6.17.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

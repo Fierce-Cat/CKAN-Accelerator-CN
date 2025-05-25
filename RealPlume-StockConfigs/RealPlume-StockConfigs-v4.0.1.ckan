@@ -1,0 +1,127 @@
+{
+    "abstract": "A set of configs for RealPlume to support stock and many mods with expanding Smokescreen plumes. Requires RealPlume and Smokescreen to function [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Zorg",
+        "Nhawks1717",
+        "Felger"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RealPlume-StockConfigs/releases/download/v4.0.1/RealPlume-Stock_v4.0.1.zip?auth_key=1748275917-d1ee3dca625b4c4b82efe276badededf-0-cecea7f2dc0afa4d5f554083e9a002d9&size=20622582&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7BC4C5B2EA9FF2E82C4E23F129924C4C629FEB2C",
+        "sha256": "70D3A57F2AE8C33865F585C88DE69868DA77F14BB32AE372367DBAF6BBE4B997"
+    },
+    "download_size": 20622582,
+    "identifier": "RealPlume-StockConfigs",
+    "install": [
+        {
+            "find": "RealPlume-Stock",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-SA",
+    "name": "Real Plume - Stock Configs [PRO-KCMIRROR]",
+    "provides": [
+        "RealPlumeConfigs"
+    ],
+    "release_date": "2020-05-10T07:55:22Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/RealPlume-StockConfigs/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188033-173-realplume-stock-v140-06sep19/",
+        "metanetkan": "https://raw.githubusercontent.com/KSP-RO/RealPlume-StockConfigs/master/RealPlume-StockConfigs.netkan",
+        "repository": "https://github.com/KSP-RO/RealPlume-StockConfigs"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ABLaunchers"
+        },
+        {
+            "name": "AIESAerospace-Unofficial"
+        },
+        {
+            "name": "AtomicAge"
+        },
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "CustomClusters"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "FASA"
+        },
+        {
+            "name": "KSPX"
+        },
+        {
+            "name": "KSO"
+        },
+        {
+            "name": "KWRocketry"
+        },
+        {
+            "name": "ModularRocketSystem"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "PhoenixIndustriesBoosters"
+        },
+        {
+            "name": "RealScaleBoosters"
+        },
+        {
+            "name": "RLA-Stockalike"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "SpaceY-Expanded"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "SXT"
+        },
+        {
+            "name": "Taerobee"
+        },
+        {
+            "name": "Tantares"
+        },
+        {
+            "name": "TantaresLV"
+        },
+        {
+            "name": "TundraExploration"
+        },
+        {
+            "name": "VenStockRevamp"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "v4.0.1",
+    "x_generated_by": "netkan"
+}

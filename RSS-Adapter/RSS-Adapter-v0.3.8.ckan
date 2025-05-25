@@ -1,0 +1,96 @@
+{
+    "abstract": "Adapts your stock KSP for the Real Solar System [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Globul-Art",
+    "conflicts": [
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "RealFuels"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "CryoTanks"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Globul-Art/RSS_Adapter/releases/download/v0.3.8/RSS_Adapter.0.3.8.zip?auth_key=1748275917-2a0a0007c6744143be69133475e55795-0-c9dd7df2d1cb6a292274a7cf9b6248e9&size=8509137&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BFCD96EEC0A13FE0D4762D45AD85F93B7672B004",
+        "sha256": "2551D77BE634775EC7271D4C6B3A7B39385D4DC83324B27D1979DEA8D6E8D4F5"
+    },
+    "download_size": 8509137,
+    "identifier": "RSS-Adapter",
+    "install": [
+        {
+            "filter": [
+                ".git",
+                ".gitattributes"
+            ],
+            "find": "zzz_RSS_Adapter",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 168127,
+    "license": "MIT",
+    "name": "RSS Adapter [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RealEngines"
+        }
+    ],
+    "release_date": "2024-06-23T04:35:48Z",
+    "resources": {
+        "bugtracker": "https://github.com/Globul-Art/RSS_Adapter/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/224480-181-1122-rss-adapter/",
+        "repository": "https://github.com/Globul-Art/RSS_Adapter"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        }
+    ],
+    "supports": [
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "NewTantares"
+        },
+        {
+            "name": "TantaresSP"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "MandatoryRCS"
+        },
+        {
+            "name": "InternalRCS"
+        }
+    ],
+    "tags": [
+        "config",
+        "parts"
+    ],
+    "version": "v0.3.8",
+    "x_generated_by": "netkan"
+}

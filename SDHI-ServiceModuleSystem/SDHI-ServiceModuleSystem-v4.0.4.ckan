@@ -1,0 +1,77 @@
+{
+    "abstract": "Service Module and accessories designed specifically for use with the stock Mk1-2 Command Pod, vaguely resembling NASA's Orion MPCV. May or may not have a convincing stockalike appearance. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "sumghai",
+    "depends": [
+        {
+            "name": "AnimatedDecouplers"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "SDHI-SharedAssets"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/sumghai/SDHI_ServiceModuleSystem/releases/download/4.0.4/ksp_sdhi_sms_v4_0_4.zip?auth_key=1748275915-f9906e6a40834a04a95a2c30c611b812-0-3ad602a2034d753b4f12157c43f64b74&size=4692227&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E55C0ABB059ABC8F899C912AA65AA7137A6E1DEE",
+        "sha256": "F4D203D2E5FB2CFB5B17F02FDD2CA44DD8B727B86A4E6C8C68CFFD5FF6CBDA14"
+    },
+    "download_size": 4692227,
+    "identifier": "SDHI-ServiceModuleSystem",
+    "install": [
+        {
+            "file": "GameData/SDHI",
+            "filter": [
+                "Agencies"
+            ],
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 24071047,
+    "ksp_version": "1.10",
+    "license": "CC-BY-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Sum Dum Heavy Industries - Service Module System [PRO-KCMIRROR]",
+    "release_date": "2020-10-11T02:36:41Z",
+    "resources": {
+        "bugtracker": "https://github.com/sumghai/SDHI_ServiceModuleSystem/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/48073-*",
+        "repository": "https://github.com/sumghai/SDHI_ServiceModuleSystem"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "DeadlyReentry"
+        },
+        {
+            "name": "FerramAerospaceResearch"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "ShipManifest"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "PEBKACIndustriesLaunchEscapeSystem"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "v4.0.4",
+    "x_generated_by": "netkan"
+}

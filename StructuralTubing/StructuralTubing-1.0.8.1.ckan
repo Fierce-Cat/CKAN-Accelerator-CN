@@ -1,0 +1,58 @@
+{
+    "abstract": "This mod adds a few structural components for ruggedizing your various crafts.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "DKSalvageAgencyAndFlag"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/StructuralTubingRestructured/releases/download/1.0.8.1/Structural_Tubing_Restructured-1.0.8.1.zip",
+        "https://spacedock.info/mod/1753/Structural%20Tubing%20Restructured/download/1.0.8.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "753DF6F76C65946B987C7DF53AAA5A68E2B84F3A",
+        "sha256": "D02A58A64DA6C21AF643DBC8ABADA4E9F7928461B6736791651802C61FD97E7D"
+    },
+    "download_size": 3953756,
+    "identifier": "StructuralTubing",
+    "install": [
+        {
+            "filter": [
+                "Agencies",
+                "Flags"
+            ],
+            "find": "DKSalvage",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 7521283,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Structural Tubing Restructured",
+    "release_date": "2020-03-09T05:25:46.598027+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/StructuralTubingRestructured/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172505-141-structural-tubing-restructured/",
+        "remote-avc": "http://ksp.spacetux.net/avc/StructuralTubingRestructured",
+        "repository": "https://github.com/linuxgurugamer/StructuralTubingRestructured",
+        "spacedock": "https://spacedock.info/mod/1753/Structural%20Tubing%20Restructured",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Structural_Tubing_Restructured/Structural_Tubing_Restructured-1521252778.3606734.jpg"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1.0.8.1",
+    "x_generated_by": "netkan"
+}

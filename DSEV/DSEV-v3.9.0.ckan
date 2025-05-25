@@ -1,0 +1,92 @@
+{
+    "abstract": "Deep Space Exploration Vessels for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "DSEV-PlayMode"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "WildBlueTools"
+        },
+        {
+            "name": "ClassicStockResources"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "KerbalActuators"
+        },
+        {
+            "name": "BarisBridge"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/DSEV/releases/download/v3.9.0/DSEV.zip?auth_key=1748275915-67be9fa2219545ffbc26ea102c35760d-0-2f3bf1473fea7d728f8d1b384a3dccbb&size=103161554&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D8F9AD30350A5AB91B592510BF11A1A28BA61017",
+        "sha256": "3C141FF9A26F5F41993EDA2782D2778EF6EE83F4AA10B71145B9E8D9F9CF4CA8"
+    },
+    "download_size": 103161554,
+    "identifier": "DSEV",
+    "install": [
+        {
+            "filter_regexp": [
+                ".*\\.pdb$",
+                "ReferenceDesigns",
+                "Templates"
+            ],
+            "find": "WildBlueIndustries/DSEV",
+            "install_to": "GameData/WildBlueIndustries"
+        },
+        {
+            "find": "DSEV/Templates/Common",
+            "install_to": "GameData/WildBlueIndustries/DSEV/Templates"
+        },
+        {
+            "find": "VAB",
+            "install_to": "Ships"
+        },
+        {
+            "find": "SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version_min": "1.12.2",
+    "license": "restricted",
+    "name": "DSEV [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "InfernalRobotics"
+        }
+    ],
+    "release_date": "2021-08-04T22:58:43Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/DSEV/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/122162-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/DSEV/master/GameData/WildBlueIndustries/DSEV/DSEV.version",
+        "repository": "https://github.com/Angel-125/DSEV"
+    },
+    "spec_version": "v1.10",
+    "suggests": [
+        {
+            "name": "ASET"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin",
+        "crewed"
+    ],
+    "version": "v3.9.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,49 @@
+{
+    "abstract": "Manage your action groups in flight [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/ActionGroupManager/releases/download/2.2.6/ActionGroupManager-1.8.0-2.2.6.zip?auth_key=1748275916-c6d00ad1adb148f9bb70733d7129416d-0-e5d5fbec3669d2460c4a3ad0dd3f14ba&size=111016&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "65CB9EB5930A2D1BFE5EADCDECEAEBBC64C7706B",
+        "sha256": "23CDA3017518503FBF192EA9A6A5AA681E0889E05FDA6C027F3E2C891A224159"
+    },
+    "download_size": 111016,
+    "identifier": "ActionGroupManager",
+    "install": [
+        {
+            "find": "AquilaEnterprises",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "ru"
+    ],
+    "name": "Action Group Manager Renewed [PRO-KCMIRROR]",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/ActionGroupManager/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178733-14x-action-group-manager-renewed/",
+        "repository": "https://github.com/linuxgurugamer/ActionGroupManager/",
+        "spacedock": "https://spacedock.info/mod/1976/Action%20Group%20Manager%20Renewed",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Action_Group_Manager_Renewed/Action_Group_Manager_Renewed-1562530514.3111498.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:2.2.6",
+    "x_generated_by": "netkan"
+}

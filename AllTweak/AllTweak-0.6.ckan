@@ -1,0 +1,39 @@
+{
+    "abstract": "It adds tweakscale to all the stock parts and mods. Need Tweakscale and Module Manager",
+    "author": [
+        "Nigel_Cardozo",
+        "Lisias"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2100/All%20Tweak/download/0.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "74A74C27A1887692EBC76B4FB66348ACCCF7C9FB",
+        "sha256": "0DFF1E0CD96DEFA64A13D54F73CAE2A827B9E0ADEFF3019D27186689B2AE11F1"
+    },
+    "download_size": 1405,
+    "identifier": "AllTweak",
+    "install": [
+        {
+            "find": "GameData/All Tweak",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "MIT",
+    "name": "All Tweak",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182700-all-tweak/",
+        "spacedock": "https://spacedock.info/mod/2100/All%20Tweak"
+    },
+    "spec_version": "v1.4",
+    "version": "0.6",
+    "x_generated_by": "netkan"
+}

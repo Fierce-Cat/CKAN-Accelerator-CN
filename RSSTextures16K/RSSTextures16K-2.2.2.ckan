@@ -1,0 +1,42 @@
+{
+    "abstract": "Textures for Real Solar Systems",
+    "author": "Vannadin",
+    "conflicts": [
+        {
+            "name": "RSSTextures"
+        }
+    ],
+    "download": "https://github.com/Vannadin/VaNnadin-s-16K-RSS-texture-pack/releases/download/2.2.2/VaNnadin_16K_RSS_texture_2.2.2.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F5E43FB84A55B56E7EF21E6916BBD0D8258AD4A2",
+        "sha256": "EA4420CCCF46AE86A2B4B28457545B6817530F97FD3AB116BD214B8156694B30"
+    },
+    "download_size": 1314649307,
+    "identifier": "RSSTextures16K",
+    "install": [
+        {
+            "find": "RSS-Textures",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Real Solar System Textures - VaNnadin's 16384 x 8192",
+    "provides": [
+        "RSSTextures"
+    ],
+    "release_date": "2020-04-07T02:37:40Z",
+    "resources": {
+        "bugtracker": "https://github.com/Vannadin/VaNnadin-s-16K-RSS-texture-pack/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191018-*",
+        "repository": "https://github.com/Vannadin/VaNnadin-s-16K-RSS-texture-pack"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "2.2.2",
+    "x_generated_by": "netkan"
+}

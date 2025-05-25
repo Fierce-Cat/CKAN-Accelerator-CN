@@ -1,0 +1,65 @@
+{
+    "abstract": "UmbraSpaceIndustries take on life support [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        },
+        {
+            "name": "TACLS"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        },
+        {
+            "min_version": "0.7.0.0",
+            "name": "CommunityResourcePack"
+        },
+        {
+            "min_version": "2.0.0.0",
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/UmbraSpaceIndustries/USI-LS/releases/download/1.3.0.0/USI-LS_1.3.0.0.zip?auth_key=1748275917-1da27c0615fb40f1a23c95b5c1cf8b34-0-f9740e7bcc351a3f4fb5a5db4173206b&size=4318692&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B564FB54926AE56156402F0C80A0B1B6C07A7B0A",
+        "sha256": "E2682E266D6AB8CBF9F3B4F8A8B922DDB3C7C5B931B8B9889E2F4A327AB57386"
+    },
+    "download_size": 4318692,
+    "identifier": "USI-LS",
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/LifeSupport",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "USI Life Support [PRO-KCMIRROR]",
+    "release_date": "2019-10-28T23:56:50Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/UmbraSpaceIndustries/USI-LS/issues",
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "metanetkan": "https://raw.githubusercontent.com/BobPalmer/CKAN/master/USI-LS.netkan",
+        "repository": "https://github.com/UmbraSpaceIndustries/USI-LS"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "version": "1.3.0.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

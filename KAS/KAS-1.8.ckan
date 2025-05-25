@@ -1,0 +1,61 @@
+{
+    "abstract": "KAS introduces new gameplay mechanics by adding winches, struts, and pipes. Now you can easily connect vessels in EVA without docking them!",
+    "author": [
+        "IgorZ"
+    ],
+    "depends": [
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1987/Kerbal%20Attachment%20System%20%28KAS%29/download/1.8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5948F1C3B6A9D1EC53AEF74C32C09BDBEFACE930",
+        "sha256": "8FFD47E1FB6B4818BD1189AA0DE26AB566E15A4E89EA1E241832FDC8984FCE57"
+    },
+    "download_size": 2960095,
+    "identifier": "KAS",
+    "ksp_version_max": "1.99.99",
+    "ksp_version_min": "1.11.0",
+    "license": "restricted",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "it-it",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Kerbal Attachment System",
+    "recommends": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "EasyVesselSwitch"
+        }
+    ],
+    "release_date": "2021-06-28T05:08:43.361608+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/ihsoft/KAS/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/142594-kerbal-attachment-system-kas/",
+        "metanetkan": "https://raw.githubusercontent.com/ihsoft/KAS/master/KAS.netkan",
+        "remote-avc": "https://raw.githubusercontent.com:443/ihsoft/KAS/master/KAS.version",
+        "repository": "https://github.com/ihsoft/KAS",
+        "spacedock": "https://spacedock.info/mod/1987/Kerbal%20Attachment%20System%20(KAS)",
+        "x_screenshot": "https://spacedock.info/content/ihsoft_20222/Kerbal_Attachment_System_KAS/Kerbal_Attachment_System_KAS-1540271898.2998781.jpg"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "version": "1.8",
+    "x_generated_by": "netkan"
+}

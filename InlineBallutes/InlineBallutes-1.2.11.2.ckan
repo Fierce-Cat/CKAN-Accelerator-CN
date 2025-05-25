@@ -1,0 +1,50 @@
+{
+    "abstract": "Inline Ballutes - aerobrake your rocket in an upper atmosphere [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "riocrokite",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/InlineBallutes/releases/download/1.2.11.2/InlineBallutes-1.8.0-1.2.11.2.zip?auth_key=1748275915-136b560a73c24a6fbc79e2dd2176ff3a-0-ccade915e218a9b7323757d8df640e83&size=1267150&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "385673AA30EA7D5BE1D0333F444BB95CB3F7627C",
+        "sha256": "0FFB344004571AB3F961811D7CC5786960C9DFEEFDAB841BC57AB44F6609C012"
+    },
+    "download_size": 1267150,
+    "identifier": "InlineBallutes",
+    "install": [
+        {
+            "find": "KermangeddonIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Inline Ballutes [PRO-KCMIRROR]",
+    "release_date": "2019-12-31T01:21:30Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/InlineBallutes/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173733-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/InlineBallutes",
+        "repository": "https://github.com/linuxgurugamer/InlineBallutes"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "FAR"
+        },
+        {
+            "name": "EntropyRealChute"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1.2.11.2",
+    "x_generated_by": "netkan"
+}

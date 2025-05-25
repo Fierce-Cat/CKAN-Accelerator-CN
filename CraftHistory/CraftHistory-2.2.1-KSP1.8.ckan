@@ -1,0 +1,43 @@
+{
+    "abstract": "Replaces the stock craft loading with a more advanced one allowing categories to be created. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "SpaceTiger",
+        "SpaceKitty"
+    ],
+    "depends": [
+        {
+            "min_version": "1.5.2",
+            "name": "KerboKatzUtilities"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KerboKatz/CraftHistory/releases/download/2.2.1-KSP1.8/CraftHistory.zip?auth_key=1748275916-3247d2ab3fbe4812a6c6afcdaa7eec52-0-5f5ed1bc27485f3a879adcb93cda2f14&size=128614&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "67046707FF7F6C39CF62A54F21061129D4AAC94D",
+        "sha256": "4B1F21AF840F5D98DFFDEF96DEA829B839E1B42B1F66C05C5DAB864F79BEDD55"
+    },
+    "download_size": 128614,
+    "identifier": "CraftHistory",
+    "install": [
+        {
+            "find": "CraftHistory",
+            "install_to": "GameData/KerboKatz"
+        }
+    ],
+    "ksp_version": "1.8",
+    "license": "restricted",
+    "name": "Craft History [PRO-KCMIRROR]",
+    "release_date": "2019-10-18T19:30:23Z",
+    "resources": {
+        "bugtracker": "https://github.com/KerboKatz/CraftHistory/issues",
+        "homepage": "http://kerbokatz.github.io/#CraftHistory",
+        "repository": "https://github.com/KerboKatz/CraftHistory"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "editor"
+    ],
+    "version": "2.2.1-KSP1.8",
+    "x_generated_by": "netkan"
+}

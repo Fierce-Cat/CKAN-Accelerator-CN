@@ -1,0 +1,58 @@
+{
+    "abstract": "Parts Mod 0.625 Launcher",
+    "author": "Well",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "download": [
+        "https://github.com/AstroWell/Luciole/releases/download/v1.9/Luciole_1.9.zip",
+        "https://spacedock.info/mod/2392/Luciole/download/1.9"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "598185E052953FB84F036D21140EB71344402E0B",
+        "sha256": "1FF67F02F9E338CB890F9E5E990A0915B0E6B19EC3D96A1685E89A1AD6E90FEA"
+    },
+    "download_size": 24977544,
+    "identifier": "Luciole",
+    "install": [
+        {
+            "find": "Luciole",
+            "install_to": "GameData"
+        },
+        {
+            "file": "CraftFiles/Ships/VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 73614540,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-ND-4.0",
+    "localizations": [
+        "en-us",
+        "fr-fr"
+    ],
+    "name": "Luciole",
+    "release_date": "2022-07-23T08:44:02.759635+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/AstroWell/Luciole/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193010-191-luciole-10/",
+        "repository": "https://github.com/AstroWell/Luciole",
+        "spacedock": "https://spacedock.info/mod/2392/Luciole",
+        "x_screenshot": "https://spacedock.info/content/Well_7448/Luciole/Luciole-1586456215.882042.jpg"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "crewed",
+        "first-person",
+        "graphics",
+        "parts"
+    ],
+    "version": "1.9",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,72 @@
+{
+    "abstract": "This mod adds Transparency capabilities allowing IVAs to be visible from external view both in the Editors and in Flight. Yes - Stock KSP 1.1 has a similar capability but this mod has more. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JPLRepo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JPLRepo/JSIAdvTransparentPods/releases/download/V0.1.21.0/JSIAdvTransparentPods_V0.1.21.0.zip?auth_key=1748275917-1682fba8a1f744538df22353cb9453ac-0-0582811470460aa7fb963c6bdca0deed&size=53460&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A79C9E14DCCEA004D3691F62FF22DDAD8CDD7118",
+        "sha256": "2548E23D2FA927EE7434CC0E7AE283B58FA8179253A1D68368D040BB1859F39D"
+    },
+    "download_size": 53460,
+    "identifier": "JSIAdvancedTransparentPods",
+    "install": [
+        {
+            "find": "JSIAdvTransparentPods",
+            "install_to": "GameData/JSI"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "es-mx",
+        "ja",
+        "ru",
+        "zh-cn",
+        "de-de",
+        "pt-br",
+        "it-it",
+        "fr-fr"
+    ],
+    "name": "JSI Advanced Transparent Pods [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "DeepFreeze"
+        },
+        {
+            "name": "OrbitalTug"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/138433-*",
+        "repository": "https://github.com/JPLRepo/JSIAdvTransparentPods"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "VesselView"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "SCANsat"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "V0.1.21.0",
+    "x_generated_by": "netkan"
+}

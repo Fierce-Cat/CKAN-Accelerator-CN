@@ -1,0 +1,60 @@
+{
+    "abstract": "Turn your CommNet network of the single type into multiple constellations of different types!",
+    "author": "TaxiService",
+    "conflicts": [
+        {
+            "name": "CommNetVisualisation"
+        },
+        {
+            "name": "RemoteTech"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1309/CommNet%20Constellation/download/1.5.7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DB961E16FDB00D2800E0E46CBAB4EAC69916E758",
+        "sha256": "AB730CCA4B2ECD2764E8CB80EE2C2F32F3FDD4FABC9862F4E0E46C9A269FAC0C"
+    },
+    "download_size": 134177,
+    "identifier": "CommNetConstellation",
+    "install": [
+        {
+            "find": "CommNetConstellation",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 185411,
+    "ksp_version": "1.11.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "CommNet Constellation",
+    "release_date": "2021-01-10T14:25:22.27775+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-TaxiService/CommNetConstellation/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158851-122-commnet-constellation-v10-7-april-2017",
+        "repository": "https://github.com/KSP-TaxiService/CommNetConstellation",
+        "spacedock": "https://spacedock.info/mod/1309/CommNet%20Constellation",
+        "x_screenshot": "https://spacedock.info/content/TaxiService_12023/CommNet_Constellation/CommNet_Constellation-1502547197.9470408.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "RemoteTechRedevAntennas"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "information",
+        "comms"
+    ],
+    "version": "1.5.7",
+    "x_generated_by": "netkan"
+}

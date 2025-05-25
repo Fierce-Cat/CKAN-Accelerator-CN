@@ -1,0 +1,165 @@
+{
+    "abstract": "Tech tree curated to support popular mods with realistic, but still fun progression from sounding rockets to interstellar starships [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "CessnaSkyhawk",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/CessnaSkyhawk/SkyhawkScienceSystem/releases/download/v1.1.2/SkyhawkScienceSystem-v1.1.2.zip?auth_key=1748275915-6aea0498c5f647d29c259e66cf6a5355-0-8787054e8c4768185119876b73c09035&size=7365211&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "321678ECA45BAF01A054AF64583D603CFA0E45FF",
+        "sha256": "4D1A2B6A71F4B4FCEEC4205F9B3072CC805F6CED7F1B627592FBF2A65845631B"
+    },
+    "download_size": 7365211,
+    "identifier": "SkyhawkScienceSystem",
+    "install": [
+        {
+            "filter": ".git",
+            "find": "SkyhawkScienceSystem",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 4026612,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Skyhawk Science System [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "RationalResources"
+        },
+        {
+            "name": "RationalResourcesNuclearFamily"
+        },
+        {
+            "name": "RationalResourcesParts"
+        }
+    ],
+    "release_date": "2022-09-05T00:03:24Z",
+    "resources": {
+        "bugtracker": "https://github.com/CessnaSkyhawk/SkyhawkScienceSystem/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/206109-*",
+        "manual": "https://github.com/CessnaSkyhawk/SkyhawkScienceSystem/wiki",
+        "remote-avc": "https://github.com/CessnaSkyhawk/SkyhawkScienceSystem",
+        "repository": "https://github.com/CessnaSkyhawk/SkyhawkScienceSystem"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SkyhawkKerbalism"
+        },
+        {
+            "name": "ProbesPlus"
+        },
+        {
+            "name": "ExplodiumBreathingEngines"
+        },
+        {
+            "name": "SpecialDelivery"
+        },
+        {
+            "name": "TundraExploration"
+        },
+        {
+            "name": "AirplanePlus"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "FarFutureTechnologies"
+        },
+        {
+            "name": "HeatControl"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "SpaceXLegs"
+        },
+        {
+            "name": "MissingHistory"
+        },
+        {
+            "name": "MK1StkOpenCockpit"
+        },
+        {
+            "name": "Mk2Expansion"
+        },
+        {
+            "name": "Mk3Expansion"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "PlanetsideExplorationTechnologies"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "StockalikeMiningExtension"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "TundraTechnologies"
+        }
+    ],
+    "tags": [
+        "config",
+        "tech-tree"
+    ],
+    "version": "v1.1.2",
+    "x_generated_by": "netkan"
+}

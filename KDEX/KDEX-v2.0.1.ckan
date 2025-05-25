@@ -1,0 +1,46 @@
+{
+    "abstract": "The Kerbal Dust Experiment by masTerTorch is a replica of LADEEs LDEX instrument. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "masTerTorch",
+        "Micha"
+    ],
+    "description": "Inspired by the NASA mission LADEE. The objective of LADEE was to investigate the mysteries of the lunar atmosphere and the question of levitated lunar dust. It carried a scientific instrument called the Lunar Dust Experiment (LDEX). This instrument was an impact ionization dust detector. In this way it was possible to measure the density of dust particles.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/mwerle/kdex/releases/download/v2.0.1/kdex_2.0.1.13.zip?auth_key=1748275918-bf1b8e12a35e4ffa99f563dc25843f51-0-0962ef2daa0faa9864e287af205b075d&size=187111&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B8955FB4F85B2BB466045093C998E95291DF7D24",
+        "sha256": "0401CE155595A5DEEF8C802C399A383AB83C9A79C9B9CA2E807EF6C58014574C"
+    },
+    "download_size": 187111,
+    "identifier": "KDEX",
+    "install": [
+        {
+            "find": "GameData/masTerTorch",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.3.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "ru"
+    ],
+    "name": "Kerbal Dust Experiment [PRO-KCMIRROR]",
+    "release_date": "2021-06-13T04:35:26Z",
+    "resources": {
+        "bugtracker": "https://github.com/mwerle/kdex/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=166619",
+        "remote-avc": "https://raw.githubusercontent.com/mwerle/kdex/master/GameData/masTerTorch/kdex.version",
+        "repository": "https://github.com/mwerle/kdex"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "science"
+    ],
+    "version": "v2.0.1",
+    "x_generated_by": "netkan"
+}

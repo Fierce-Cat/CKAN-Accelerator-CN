@@ -1,0 +1,49 @@
+{
+    "abstract": "Waterfall configuration for the Restock and Restock+ mods. Adds Waterfall-driven effects to most engines and lights. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Chris Adderley (Nertea)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "ReStock"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/WaterfallRestock/releases/download/0.2.3/WaterfallRestock_0_2_3.zip?auth_key=1748275915-72d6619f72c549dba24cb4d7aebe8f37-0-869dd27ab9d20b053dbe797eb38c3992&size=21713575&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2F0595D6F2DD4CB11EE7744FE7EBF51704E39487",
+        "sha256": "380A4D91CC71F1F4C7D58E808C4B6D199EE9C1FF7FD7E3697D4AFB7D30B9543F"
+    },
+    "download_size": 21713575,
+    "identifier": "WaterfallRestock",
+    "install": [
+        {
+            "find": "WaterfallRestock",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 108304,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Waterfall - Restock [PRO-KCMIRROR]",
+    "release_date": "2021-08-26T19:54:08Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/WaterfallRestock/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196309-wip-waterfall-a-framework-for-continuous-mesh-driven-engine-effects-dec-19/",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/WaterfallRestock/raw/master/CKAN/WaterfallRestock.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/WaterfallRestock/master/GameData/WaterfallRestock/Versioning/WaterfallRestock.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/WaterfallRestock"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "graphics",
+        "plugin"
+    ],
+    "version": "0.2.3",
+    "x_generated_by": "netkan"
+}

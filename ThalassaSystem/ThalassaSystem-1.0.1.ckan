@@ -1,0 +1,45 @@
+{
+    "abstract": "Adds in a small purple gas planet with 4 moons between Duna and Jool.",
+    "author": "MythicalDonuts",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2097/Thalassa%20System/download/1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5E689F5D9EF7E76C248DF0E61802BDD5BCD9AA65",
+        "sha256": "E5E79A70BF29CC30AD3FEEEECC5FC6631A1794C27114B2090CA5E1E202386589"
+    },
+    "download_size": 41630324,
+    "identifier": "ThalassaSystem",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "Thalassa",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.1",
+    "license": "MIT",
+    "name": "Thalassa System",
+    "release_date": "2019-03-05T14:03:07.871745+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182655-161-the-thalassa-system/",
+        "spacedock": "https://spacedock.info/mod/2097/Thalassa%20System",
+        "x_screenshot": "https://spacedock.info/content/MythicalDonuts_21282/Thalassa_System/Thalassa_System-1551790192.1426828.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.0.1",
+    "x_generated_by": "netkan"
+}

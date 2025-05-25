@@ -1,0 +1,36 @@
+{
+    "abstract": "Fills empty inventory slots (in command pods) with repair kits.",
+    "author": "FruitGooseKSP",
+    "download": "https://spacedock.info/mod/2668/Filling%20Inventory%20Generously%20%28FIG%29/download/v1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AFCCCBA27BE8BAB02CC21E30B6D6445860C3D6E4",
+        "sha256": "E66ADE86617AE44C03C30ADC3426CF8954EC7F7DB27F293FE394932C6B789037"
+    },
+    "download_size": 4572,
+    "identifier": "FIG",
+    "install": [
+        {
+            "find": "FruitKocktail",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.11.2",
+    "license": "MIT",
+    "name": "Filling Inventory Generously (FIG)",
+    "release_date": "2021-03-25T12:09:40.876728+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/FruitGooseKSP/FillingInventoryGenerously/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201227-1112-fruitkocktail-a-collection-of-mini-life-improvement-mods-with-fruit-based-acronyms-as-names/",
+        "repository": "https://github.com/FruitGooseKSP/FillingInventoryGenerously",
+        "spacedock": "https://spacedock.info/mod/2668/Filling%20Inventory%20Generously%20(FIG)",
+        "x_screenshot": "https://spacedock.info/content/FruitGooseKSP_58074/Filling_Inventory_Generously_FIG/Filling_Inventory_Generously_FIG-1617379924.6878262.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "v1.0.1",
+    "x_generated_by": "netkan"
+}

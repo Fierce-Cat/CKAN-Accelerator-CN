@@ -1,0 +1,44 @@
+{
+    "abstract": "A module which allows parts to switch objects, resources, nodes, attach points, temperature, add mass and cost, and more. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "blowfish",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/blowfishpro/B9PartSwitch/releases/download/v2.11.0/B9PartSwitch_v2.11.0.zip?auth_key=1748275918-9219336214d142259d1a9ef21cc0090b-0-44497a523f726967f7721ee2d7b1f1bf&size=85075&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "78DE25E44F0B5DF09DFA1BCFB581537241BFA31B",
+        "sha256": "87CE179986BDB8D87814E70A54BC998CFF8C2DAF3BDFA8D644471D62CA1B7F60"
+    },
+    "download_size": 85075,
+    "identifier": "B9PartSwitch",
+    "install": [
+        {
+            "find": "B9PartSwitch",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "LGPL-3.0",
+    "localizations": [
+        "ru",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "pt-br"
+    ],
+    "name": "B9 Part Switch [PRO-KCMIRROR]",
+    "provides": [
+        "DeadskinsMeshSwitch"
+    ],
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=140541",
+        "repository": "https://github.com/blowfishpro/B9PartSwitch"
+    },
+    "spec_version": "v1.4",
+    "version": "v2.11.0",
+    "x_generated_by": "netkan"
+}

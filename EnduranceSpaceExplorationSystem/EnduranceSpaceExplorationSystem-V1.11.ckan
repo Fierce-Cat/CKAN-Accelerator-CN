@@ -1,0 +1,71 @@
+{
+    "abstract": "This mod is intended to recreate, visually and functionally, the Endurance spacecraft from the movie 'Interstellar.'",
+    "author": "Jplrepo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/357/Endurance%20%28from%20Interstellar%29%20Continued.../download/V1.11",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "03D72FAF410C42EC749FAAA66BC67C865CA63B37",
+        "sha256": "A92FA98BEF2B166028A0E5FC14D6B7478EDCF2AE2D080D3150D44602EFD3A42B"
+    },
+    "download_size": 14233837,
+    "identifier": "EnduranceSpaceExplorationSystem",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "Endurance",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.9.0",
+    "license": "CC-BY-NC-4.0",
+    "name": "Endurance (from Interstellar) Continued...",
+    "recommends": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "JSIAdvancedTransparentPods"
+        },
+        {
+            "name": "ThrottleControlledAvionics"
+        }
+    ],
+    "release_date": "2020-03-08T04:20:18.452741+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133590-105-endurance-from-interstellar-continued",
+        "repository": "https://github.com/JPLRepo/Endurance",
+        "spacedock": "https://spacedock.info/mod/357/Endurance%20(from%20Interstellar)%20Continued...",
+        "x_screenshot": "https://spacedock.info/content/Jplrepo_405/Endurance_from_Interstellar_Continued/Endurance_from_Interstellar_Continued-1457248000.231013.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "USI-LS"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed",
+        "science"
+    ],
+    "version": "V1.11",
+    "x_generated_by": "netkan"
+}

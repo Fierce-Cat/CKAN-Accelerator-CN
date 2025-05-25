@@ -1,0 +1,38 @@
+{
+    "abstract": "One weird trick to replace your tank fat with resource muscles!",
+    "author": "AtomicTech",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2903/AtomicTech%20Inc.'s%20Kerbal%20Diet%20Pills/download/1.1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0D5F6AFB442512458B3E9173651F21D747E9BD63",
+        "sha256": "8AEEF24D1FCCB326B6521B16B7F386E2DBD2EE52D2B7F21BE12B358CBBDC5997"
+    },
+    "download_size": 4999,
+    "identifier": "AtomicTechKerbalDietPills",
+    "install": [
+        {
+            "find_regexp": ".",
+            "install_to": "GameData/AtomicTechDietPills"
+        }
+    ],
+    "install_size": 4050,
+    "ksp_version": "1.12.3",
+    "license": "BSD-3-clause",
+    "name": "AtomicTech Inc.'s Kerbal Diet Pills",
+    "release_date": "2021-12-06T14:35:52.204453+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/2903/AtomicTech%20Inc.'s%20Kerbal%20Diet%20Pills",
+        "x_screenshot": "https://spacedock.info/content/AtomicTech_61568/AtomicTech_Inc.s_Kerbal_Diet_Pills/AtomicTech_Inc.s_Kerbal_Diet_Pills-1637847929.jpg"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "config"
+    ],
+    "version": "1.1.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,58 @@
+{
+    "abstract": "Slam a spacecraft into Dimorphos to change its orbit around Didymos [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Galileo88",
+        "JadeOfMaar",
+        "OhioBob",
+        "R-T-B",
+        "Gameslinx",
+        "Angel-125",
+        "theRagingIrishman"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Galileo88/DART-Project/releases/download/1.0.0/DART_v1.0.0.zip?auth_key=1748275915-db4992b27a4742c282333ccec1073338-0-e8d4aae086925020bbe40a0baf328bd6&size=154257543&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4C11F00E2B322C503F4EE03D627DC08C3BD229D5",
+        "sha256": "AA4B4D90217E6C88D5BF8554D8FA64BE7AA660AE2B62758703A5DCF92C4C22E3"
+    },
+    "download_size": 154257543,
+    "identifier": "DARTRange",
+    "install": [
+        {
+            "find": "DART",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 212403357,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "restricted",
+    "localizations": [
+        "en-us",
+        "it-it",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "DART Project [PRO-KCMIRROR]",
+    "release_date": "2021-11-02T07:06:51Z",
+    "resources": {
+        "bugtracker": "https://github.com/Galileo88/DART-Project/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/205456-*",
+        "remote-avc": "https://raw.githubusercontent.com/Galileo88/DART-Project/main/GameData/DART/Version/DART.version",
+        "repository": "https://github.com/Galileo88/DART-Project"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "config",
+        "planet-pack",
+        "parts"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

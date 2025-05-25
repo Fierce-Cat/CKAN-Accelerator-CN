@@ -1,0 +1,63 @@
+{
+    "abstract": "First supplemental for CJMP, F-16C and F-16XL",
+    "author": "ColdJ",
+    "depends": [
+        {
+            "name": "ColdJsMilitaryPlanes"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3579/ColdJ's%20Military%20Planes%20F-16/download/1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F48F72053186BF3EDDAA4C3C912AA18EDE73B830",
+        "sha256": "966A21BCC7AD57473AB6741772563F4AC38598F80CFDEC1D31253F6F489B3219"
+    },
+    "download_size": 8994295,
+    "identifier": "ColdJsMilitaryPlanesF16",
+    "install": [
+        {
+            "filter": [
+                "Craft",
+                "Readme.txt",
+                "License.txt"
+            ],
+            "find": "CJMP",
+            "install_to": "GameData"
+        },
+        {
+            "as": "Readme-F16.txt",
+            "find": "Readme.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/CJMP"
+        },
+        {
+            "as": "License-F16.txt",
+            "find": "License.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/CJMP"
+        },
+        {
+            "as": "SPH",
+            "find": "Craft",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 15792071,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "ColdJ's Military Planes F-16",
+    "release_date": "2024-03-16T12:29:47.735651+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/223997-coldjs-military-planes/#comment-4373089",
+        "spacedock": "https://spacedock.info/mod/3579/ColdJ's%20Military%20Planes%20F-16",
+        "x_screenshot": "https://spacedock.info/content/ColdJ_60612/ColdJs_Military_Planes_F-16/ColdJs_Military_Planes_F-16-1710594236.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "crewed",
+        "first-person",
+        "parts"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

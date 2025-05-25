@@ -1,0 +1,37 @@
+{
+    "abstract": "DMP is a multiplayer mod for kerbal space program.",
+    "author": [
+        "godarklight",
+        "Xinayder"
+    ],
+    "download": "https://spacedock.info/mod/10/DarkMultiPlayer/download/v0.3.5.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "68058C4D809F8D1558B01B690408F81BD59144D3",
+        "sha256": "794B59AFC7C20607E1EA86DC7BA76EFD27EA4AFC97F36DC07A09CFC32FF19D01"
+    },
+    "download_size": 164877,
+    "identifier": "DarkMultiPlayer",
+    "install": [
+        {
+            "file": "DMPClient/GameData/DarkMultiPlayer",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.9.1",
+    "license": "MIT",
+    "name": "DarkMultiPlayer",
+    "resources": {
+        "homepage": "http://d-mp.org",
+        "manual": "https://github.com/godarklight/DarkMultiPlayer/blob/master/README.md",
+        "repository": "https://github.com/godarklight/DarkMultiPlayer",
+        "spacedock": "https://spacedock.info/mod/10/DarkMultiPlayer",
+        "x_screenshot": "https://spacedock.info/content/godarklight_151/DarkMultiPlayer/DarkMultiPlayer-1456094845.1546948.png"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin"
+    ],
+    "version": "v0.3.5.4",
+    "x_generated_by": "netkan"
+}

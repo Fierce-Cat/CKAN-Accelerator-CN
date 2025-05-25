@@ -1,0 +1,51 @@
+{
+    "abstract": "Accessory parts for sci-fi ship designs and FTL mods.",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/JadeOfMaar/ImpulseParty/releases/download/0.6/ImpulseParty_0.6.zip",
+        "https://spacedock.info/mod/3424/Impulse%20Party/download/0.6"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D401B273A194DEBD2876D0E5A08108281D7F84EB",
+        "sha256": "39BDB58F6EB7E265909A2543501C42C357BFF386CF8D11DFC0D66AE7A6FEEB22"
+    },
+    "download_size": 21735564,
+    "identifier": "ImpulseParty",
+    "install_size": 235210634,
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.12.2",
+    "license": "CC-BY-NC-ND",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Impulse Party",
+    "recommends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "release_date": "2023-07-17T17:53:57.930284+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/ImpulseParty/issues",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/ImpulseParty/main/GameData/ImpulseParty/Version/ImpulseParty.version",
+        "repository": "https://github.com/JadeOfMaar/ImpulseParty",
+        "spacedock": "https://spacedock.info/mod/3424/Impulse%20Party",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Impulse_Party/Impulse_Party-1689620366.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "parts",
+        "graphics"
+    ],
+    "version": "0.6",
+    "x_generated_by": "netkan"
+}

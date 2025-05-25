@@ -1,0 +1,47 @@
+{
+    "abstract": "Plume Party configs for stock parts [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "conflicts": [
+        {
+            "name": "ReStock"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "PlumeParty"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/PlumeParty/releases/download/0.6.1/PlumeParty-0.6.1.zip?auth_key=1748275915-af12187751e94619b07701f7bb2f1245-0-27a5360679415089c59abc8acc9f5187&size=4374188&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "03E56E6D169912CD2FE9903F9BA4881B390319E9",
+        "sha256": "11B8A7DF1603A86EBAC3C27A41A226F99678810D146170C1DB6A16A4F42738D0"
+    },
+    "download_size": 4374188,
+    "identifier": "PlumeParty-StockConfigs",
+    "install": [
+        {
+            "find": "PlumeParty/Configs",
+            "install_to": "GameData/PlumeParty"
+        }
+    ],
+    "install_size": 61042,
+    "ksp_version_min": "1.9.1",
+    "license": "CC-BY-NC-SA",
+    "name": "Plume Party - Stock Configs [PRO-KCMIRROR]",
+    "release_date": "2023-03-21T17:09:36Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/PlumeParty/issues",
+        "remote-avc": "https://raw.githubusercontent.com:443/JadeOfMaar/PlumeParty/master/GameData/PlumeParty/Version/PlumeParty.version",
+        "repository": "https://github.com/JadeOfMaar/PlumeParty"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "0.6.1",
+    "x_generated_by": "netkan"
+}

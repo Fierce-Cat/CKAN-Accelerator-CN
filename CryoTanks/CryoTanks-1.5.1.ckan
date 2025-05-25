@@ -1,0 +1,69 @@
+{
+    "abstract": "A set of fuel tanks for containing Liquid Hydrogen. Also adds Liquid Hydrogen storage to most stock tanks [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "ChrisAdderley",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ChrisAdderley/CryoTanks/releases/download/1.5.1/CryoTanks_1_5_1.zip?auth_key=1748275917-d9e6dea302414d28807f23c675cda9ee-0-cb1b267b0f68a83e416a64787c5f101b&size=60295294&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "190BA3578E8CB1399028FFFB4909EF4F4AE62002",
+        "sha256": "C571DE8E93C55CFDB730730D87F43CF4C22433EBDD6214A1AA7883E0ADA75954"
+    },
+    "download_size": 60295294,
+    "identifier": "CryoTanks",
+    "install": [
+        {
+            "filter": "SimpleBoiloff.dll",
+            "find": "CryoTanks",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "ru",
+        "zh-cn",
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr"
+    ],
+    "name": "Cryo Tanks [PRO-KCMIRROR]",
+    "release_date": "2020-05-13T16:56:17Z",
+    "resources": {
+        "bugtracker": "https://github.com/ChrisAdderley/CryoTanks/issues",
+        "homepage": "https://github.com/ChrisAdderley/CryoTanks/wiki",
+        "metanetkan": "https://github.com/ChrisAdderley/CryoTanks/raw/master/CKAN/CryoTanks.netkan",
+        "repository": "https://github.com/ChrisAdderley/CryoTanks"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "CryoEngines"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1.5.1",
+    "x_generated_by": "netkan"
+}

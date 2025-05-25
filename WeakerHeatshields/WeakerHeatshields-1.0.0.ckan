@@ -1,0 +1,38 @@
+{
+    "abstract": "Stock Heatshield rebalance. Requires Module Manager.",
+    "author": "Nymbat_The_Eternal",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3271/Weaker%20Heatshields/download/1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9A58C06738DC082F8CF7590B83181D6444B6203C",
+        "sha256": "449D898826D541FA9261C48F5CAA873E854B0AD09A457773EAAD1481ED1F8B8D"
+    },
+    "download_size": 640,
+    "identifier": "WeakerHeatshields",
+    "install": [
+        {
+            "find": "Weaker Heatshields",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 125,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA",
+    "name": "Weaker Heatshields",
+    "release_date": "2023-02-27T18:19:09.933456+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3271/Weaker%20Heatshields"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

@@ -1,0 +1,47 @@
+{
+    "abstract": "PartInfo is a simple mod to expose the internal part name and path to the part file.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2091/PartInfo/download/0.0.6.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "378E705868166BE49E580C06B3A840723C3FA0B9",
+        "sha256": "9D744B567C8FC2C7479BBD89B9109A06D134050FE0764B618187B6293080A858"
+    },
+    "download_size": 16296,
+    "identifier": "PartInfo",
+    "install": [
+        {
+            "find": "PartInfo",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 36748,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "PartInfo",
+    "release_date": "2021-08-15T14:21:46.07502+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/PartInfo/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182040-145-151-161-partinfo/",
+        "remote-avc": "http://ksp.spacetux.net/avc/PartInfo",
+        "repository": "https://github.com/linuxgurugamer/PartInfo",
+        "spacedock": "https://spacedock.info/mod/2091/PartInfo"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "editor",
+        "information"
+    ],
+    "version": "0.0.6.2",
+    "x_generated_by": "netkan"
+}

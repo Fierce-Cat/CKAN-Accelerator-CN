@@ -1,0 +1,52 @@
+{
+    "abstract": "Medium quality orange sunflare for Scatterer",
+    "author": "0_0_1",
+    "conflicts": [
+        {
+            "name": "Scatterer-sunflare"
+        }
+    ],
+    "depends": [
+        {
+            "name": "Scatterer"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1843/Kabrams%20Sun%20Flare%27s%20Pack%20for%20Scatterer./download/001",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2E67F82155CF8477E57E35405D4EB95EAE8F413C",
+        "sha256": "4C3216E781B9240B74D976B6EAD608031950F181F750A804424300DF16BD8BC8"
+    },
+    "download_size": 130088492,
+    "identifier": "KabramsSunFlaresPack-Orange-Medium",
+    "install": [
+        {
+            "find": "Medium_Quality/Orange/Sun",
+            "install_to": "GameData/scatterer/config/Sunflares"
+        },
+        {
+            "find": "Medium_Quality/Orange/Sun.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/scatterer/config/Sunflares"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "restricted",
+    "name": "Kabrams Sun Flare Orange Medium",
+    "provides": [
+        "Scatterer-sunflare"
+    ],
+    "release_date": "2018-05-01T10:58:48.77457+00:00",
+    "resources": {
+        "homepage": "https://www.reddit.com/r/KerbalSpaceProgram/comments/8g76wg/the_jj_kabrams_hq_flares_pack_for_scatterer/",
+        "spacedock": "https://spacedock.info/mod/1843/Kabrams%20Sun%20Flare's%20Pack%20for%20Scatterer.",
+        "x_screenshot": "https://spacedock.info/content/0_0_1_20001/Kabrams_Sun_Flares_Pack_for_Scatterer/Kabrams_Sun_Flares_Pack_for_Scatterer-1526489053.4851332.png"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "001",
+    "x_generated_by": "netkan"
+}

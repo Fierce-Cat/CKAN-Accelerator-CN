@@ -1,0 +1,89 @@
+{
+    "abstract": "SimpleConstruction addon. Adds Mallet, Survey Stake, Recycler, Disposable Pad, and Orbital Dock; and turns Cupola module to Survey Station.. Requires SimpleConstruction!",
+    "author": [
+        "RealGecko",
+        "Mrcarrot1",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SimpleConstruction"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1078/Not%20So%20SimpleConstruction%21%20%28NSSC%29/download/1.0.2.2.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1916C3AF8A1CDCE68F7C8B2FFA8BC8C6B005795A",
+        "sha256": "53ACC62D9D1B05D6ECD98377E246262E53875E94C49C77399AA0DC87D54EEAC2"
+    },
+    "download_size": 1169524,
+    "identifier": "NotSoSimpleConstruction",
+    "install": [
+        {
+            "find": "NotSoSimpleConstruction",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.4.5",
+    "license": "GPL-3.0",
+    "name": "Not So SimpleConstruction! (NSSC)",
+    "provides": [
+        "NSSC"
+    ],
+    "recommends": [
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "KerbalStats"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        }
+    ],
+    "release_date": "2020-02-10T23:44:47.74325+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191504-*",
+        "remote-avc": "https://github.com/zer0Kerbal/NotSoSimpleConstruction/raw/master/NotSoSimpleConstruction.version",
+        "repository": "https://github.com/zer0Kerbal/NotSoSimpleConstruction",
+        "spacedock": "https://spacedock.info/mod/1078/Not%20So%20SimpleConstruction!%20(NSSC)",
+        "x_screenshot": "https://spacedock.info/content/RealGecko_4471/Not_So_SimpleConstruction_NSSC/Not_So_SimpleConstruction_NSSC-1650334305.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SimpleLogistics"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "StockalikeMiningExtension"
+        },
+        {
+            "name": "InfernalRoboticsNext"
+        }
+    ],
+    "supports": [
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "Kethane"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "1.0.2.2.1",
+    "x_generated_by": "netkan"
+}

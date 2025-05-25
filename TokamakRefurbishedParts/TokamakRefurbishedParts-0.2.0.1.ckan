@@ -1,0 +1,62 @@
+{
+    "abstract": "Used and Refurbished Parts;  it's not old, it's a classic",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "USITools"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1444/Tokamak%20Refurbished%20Parts/download/0.2.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CE3B419DA8E94BA9EAE1A5ADE8A987B96D5B43CF",
+        "sha256": "FCC871705F6EF7D5CF03AF0675EC760E145C50D14670CE4306AC2A62A2BF4C3F"
+    },
+    "download_size": 46340199,
+    "identifier": "TokamakRefurbishedParts",
+    "install": [
+        {
+            "find": "TokamakIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es"
+    ],
+    "name": "Tokamak Refurbished Parts",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/163166-13-tokamak-industries-refurbished-parts-featuring-porkjets-hab-pack/",
+        "repository": "https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts",
+        "spacedock": "https://spacedock.info/mod/1444/Tokamak%20Refurbished%20Parts",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Tokamak_Refurbished_Parts/Tokamak_Refurbished_Parts-1499823251.7804608.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "0.2.0.1",
+    "x_generated_by": "netkan"
+}

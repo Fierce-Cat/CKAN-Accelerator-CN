@@ -1,0 +1,69 @@
+{
+    "abstract": "Next Star Industries has several divisions in its ranks from basic ship building parts, to a highly developed mining division, plus a well rounded military division.",
+    "author": "Next_Star_Industries",
+    "conflicts": [
+        {
+            "name": "BDArmoryWeaponsExtension"
+        },
+        {
+            "name": "PEWPromethiumExperimentalWeaponry"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        },
+        {
+            "name": "BDArmoryContinued"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2506/Next%20Star%20Industries/download/v2.4.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E9314FFDA240C7EC6DF769BFBD41CBF47D8E3717",
+        "sha256": "777D2C4A81F1B1C0198C900E3DF6532CFD01063DD768ABA10F4DFD0D3849425F"
+    },
+    "download_size": 564930756,
+    "identifier": "NextStarIndustries",
+    "install": [
+        {
+            "find": "GameData/NSI",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.9.1",
+    "license": "CC-BY-SA-2.0",
+    "localizations": [
+        "cs",
+        "de",
+        "en-us",
+        "es-es",
+        "ja",
+        "ru",
+        "zh-cn",
+        "fr",
+        "nl",
+        "it",
+        "pt-BR"
+    ],
+    "name": "Next Star Industries",
+    "release_date": "2020-10-03T16:52:48.298397+00:00",
+    "resources": {
+        "homepage": "https://github.com/NextStarIndustries/Next-Star-Industries",
+        "repository": "https://github.com/NextStarIndustries/Next-Star-Industries",
+        "spacedock": "https://spacedock.info/mod/2506/Next%20Star%20Industries",
+        "x_screenshot": "https://spacedock.info/content/Next_Star_Industries_13277/Next_Star_Industries/Next_Star_Industries-1602732135.3310738.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts",
+        "combat"
+    ],
+    "version": "2:v2.4.1",
+    "x_generated_by": "netkan"
+}

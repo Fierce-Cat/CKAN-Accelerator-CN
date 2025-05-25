@@ -1,0 +1,42 @@
+{
+    "abstract": "Communicate with external instrumentation through serial connection.",
+    "author": "stibbons",
+    "download": "https://bitbucket.org/pjhardy/kerbalsimpit/downloads/KerbalSimpit-66.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "33142EDCE3DF4F5D4A851228ECA74CDD72B32D6A",
+        "sha256": "51164ACB25E3717F19E50D3F57CA8A0C4EE5FA887FBB229A63770FBF9CB519EC"
+    },
+    "download_size": 20376,
+    "identifier": "KerbalSimpit",
+    "ksp_version": "1.10.0",
+    "ksp_version_strict": true,
+    "license": "BSD-2-clause",
+    "name": "Kerbal Simpit",
+    "recommends": [
+        {
+            "name": "AlternateResourcePanel"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "ci": "https://home.hardy.dropbear.id.au/bamboo/browse/KSPIT-KSPIT",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155796-*",
+        "metanetkan": "https://bitbucket.org/pjhardy/kerbalsimpit/downloads/KerbalSimpit.netkan",
+        "remote-avc": "https://bitbucket.org/pjhardy/kerbalsimpit/downloads/KerbalSimpit.version",
+        "repository": "https://bitbucket.org/pjhardy/kerbalsimpit"
+    },
+    "spec_version": "v1.16",
+    "suggests": [
+        {
+            "name": "AGExt"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "app",
+        "control"
+    ],
+    "version": "1.4.1.66",
+    "x_generated_by": "netkan"
+}

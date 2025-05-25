@@ -1,0 +1,58 @@
+{
+    "abstract": "Solar Thermal Propulsion",
+    "author": [
+        "AtomicTech",
+        "Randazzo",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2986/M.O.T.H.S./download/0.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "14A9EC2D4A1F7AAED7E5C2D4CB762B44AA2A4A3F",
+        "sha256": "516DE3323CDDEFFC2721115F02EA11770FEA22A12D1CD52CFF2C36133AF9B005"
+    },
+    "download_size": 755592,
+    "identifier": "MOTHS",
+    "install": [
+        {
+            "find": "AtomicTech",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 4941086,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY",
+    "name": "M.O.T.H.S.",
+    "release_date": "2022-02-26T23:30:21.107392+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/AtomikkuSan/M.O.T.H.S./issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207037-moths-development-thread/",
+        "remote-avc": "https://raw.githubusercontent.com/AtomikkuSan/M.O.T.H.S./main/AtomicTech/ThermalPond.version",
+        "repository": "https://github.com/AtomikkuSan/M.O.T.H.S.",
+        "spacedock": "https://spacedock.info/mod/2986/M.O.T.H.S.",
+        "x_screenshot": "https://spacedock.info/content/AtomicTech_61568/M.O.T.H.S/M.O.T.H.S-1668048019.jpg"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "StockWaterfallEffects"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "0.0.2",
+    "x_generated_by": "netkan"
+}

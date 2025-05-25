@@ -1,0 +1,59 @@
+{
+    "abstract": "Starship mod using the 2021 (S20) design as the base. Still work in progress.",
+    "author": "EritoKaio",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TundraExploration"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2861/KaioSpace-KSP%20-%20Starship%202021/download/1.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "76239BAEE4589A6766821B802FFB031050CC2CE8",
+        "sha256": "5C471C09C8D14DF221CDF301E3D9ABC2C17D56E0A8A7384219B98620D91438EF"
+    },
+    "download_size": 12687397,
+    "identifier": "KaioSpaceKSPStarship2021",
+    "install": [
+        {
+            "find": "KaioSpace",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 67115768,
+    "ksp_version": "1.12.2",
+    "license": "MIT",
+    "name": "KaioSpace-KSP - Starship 2021",
+    "recommends": [
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "HullcamVDSContinued"
+        },
+        {
+            "name": "StarshipLaunchExpansion"
+        }
+    ],
+    "release_date": "2021-12-03T19:30:44.370811+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204940-112x-kaiospace-ksp-starship-2021/",
+        "spacedock": "https://spacedock.info/mod/2861/KaioSpace-KSP%20-%20Starship%202021",
+        "x_screenshot": "https://spacedock.info/content/EritoKaio_66958/KaioSpace-KSP_-_Starship_2021/KaioSpace-KSP_-_Starship_2021-1632273744.176349.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.2",
+    "x_generated_by": "netkan"
+}

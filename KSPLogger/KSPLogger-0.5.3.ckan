@@ -1,0 +1,33 @@
+{
+    "abstract": "Write specified data items to files for use by external programs (ie: OBS) [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/KSPLogger/releases/download/0.5.3/KSPLogger-1.7.2-0.5.3.zip?auth_key=1748275915-d3584e48b7704a24902a5058cac37b81-0-eb7f729388b716ac9f258a4730620ba2&size=48051&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "620F7A1AC0690B84C9C525766531A827EA7FC90E",
+        "sha256": "DE98F0E7ACFAE4553411103C7AF7F871B1F4607F96E9CA81AF90370901B1EAE9"
+    },
+    "download_size": 48051,
+    "identifier": "KSPLogger",
+    "install": [
+        {
+            "find": "KSPLogger",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.5.1",
+    "license": "restricted",
+    "name": "KSP Logger [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "resources": {
+        "repository": "https://github.com/linuxgurugamer/KSPLogger"
+    },
+    "spec_version": "v1.4",
+    "version": "0.5.3",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

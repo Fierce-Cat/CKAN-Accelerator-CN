@@ -1,0 +1,50 @@
+{
+    "abstract": "Kill your horizontal velocity to land, or hover over a specific point on the ground [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "SirDiazo",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/RCSLandAid/releases/download/3.4.0.2/RCSLandAid-1.12.0-3.4.0.2.zip?auth_key=1748275914-bbfc57d7c5894d2b9f2657833d0ccd1d-0-be87e402306cce3383e3546c3c93d571&size=202730&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3170ECE7AC6EED9339F76B7FA186B629A01EC3EA",
+        "sha256": "A9D42BF42116FECC58C351A1E46502AF95E4CC8DADAF6FAB4ABFC2E9E9206CDC"
+    },
+    "download_size": 202730,
+    "identifier": "RCSLandAid",
+    "install": [
+        {
+            "file": "GameData/Diazo",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 239952,
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "Horizontal Landing Aid Redux [PRO-KCMIRROR]",
+    "release_date": "2021-10-02T06:28:52Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/RCSLandAid/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175403-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/RCSLandAid",
+        "repository": "https://github.com/linuxgurugamer/RCSLandAid"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "3.4.0.2",
+    "x_generated_by": "netkan"
+}

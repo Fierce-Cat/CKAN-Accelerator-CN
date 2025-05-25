@@ -1,0 +1,48 @@
+{
+    "abstract": "Visual enhancements including clouds, lights, etc. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "rbray89",
+        "WazWaz",
+        "R-T-B"
+    ],
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-LR"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/R-T-B/EnvironmentalVisualEnhancements/releases/download/1.10.1-1/EnvironmentalVisualEnhancements-1.10.1-1.zip?auth_key=1748275915-238fd4a3cb394ef594c7a7b235ce6fbe-0-0d56eaebdab64f874edc26a0b05dbc6b&size=762516&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "82F9E8335ED7F4E5CA0D390A9459917DC3FDA6EB",
+        "sha256": "7355CE049CB804FDEF3142E2D94BEA1EA9D0E4FCBB237647297A7834A362E7F4"
+    },
+    "download_size": 762516,
+    "identifier": "EnvironmentalVisualEnhancements",
+    "install": [
+        {
+            "file": "GameData/EnvironmentalVisualEnhancements",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.9.0",
+    "license": "MIT",
+    "name": "Environmental Visual Enhancements [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        }
+    ],
+    "release_date": "2020-08-18T23:54:31Z",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/196289-*",
+        "repository": "https://github.com/R-T-B/EnvironmentalVisualEnhancements"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "version": "3:1.10.1-1",
+    "x_generated_by": "netkan"
+}

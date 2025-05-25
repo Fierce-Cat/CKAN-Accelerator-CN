@@ -1,0 +1,66 @@
+{
+    "abstract": "KSP Mod to add better antenna / link calculations to CommNet. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "DRVeyl",
+        "al2me6",
+        "blowfishpro",
+        "NathanKell",
+        "pjf",
+        "rsparkyc",
+        "SirKeplan",
+        "StollD",
+        "StonesmileGit",
+        "stratochief66",
+        "zorg2044",
+        "Capkirk123"
+    ],
+    "conflicts": [
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "CommNetVisualization"
+        },
+        {
+            "name": "CommNetConstellation"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KSPBurst"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RealAntennas/releases/download/v2.3/RealAntennas-v2.3.zip?auth_key=1748275916-4056216d39ef49bf9b77bcac938ea7f5-0-dbd6ad6eec603d3b189d5ea4b2e72b3d&size=200489&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ED875B58BB715607818E9F382EAFAA098E23FC06",
+        "sha256": "AD325AA9556822A9891C4A04DE8E8E1FAB9EAB3AAE089B065D3594216F45E126"
+    },
+    "download_size": 200489,
+    "identifier": "RealAntennas",
+    "install_size": 637291,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.10.1",
+    "license": "CC-BY-SA-4.0",
+    "name": "Real Antennas [PRO-KCMIRROR]",
+    "release_date": "2024-06-19T22:17:23Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/RealAntennas/issues",
+        "homepage": "https://github.com/KSP-RO/RealAntennas/wiki",
+        "remote-avc": "https://github.com/DRVeyl/RealAntennas/raw/master/GameData/RealAntennas/RealAntennas.version",
+        "repository": "https://github.com/KSP-RO/RealAntennas"
+    },
+    "spec_version": 1,
+    "tags": [
+        "comms",
+        "plugin"
+    ],
+    "version": "v2.3",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,39 @@
+{
+    "abstract": "Small cfg tweak to add kOS scripting to all Command Pods.",
+    "author": "Xyphos",
+    "depends": [
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/869/kOS%20for%20All%21/download/0.0.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AC1F698296CF00481B9D353AAA9C877D72491C27",
+        "sha256": "22E159A00C7571A9C4BD570B679437E72E1833B74693ED256658E9A478C6051F"
+    },
+    "download_size": 2491,
+    "identifier": "kOSforAll",
+    "install": [
+        {
+            "find": "XyphosAerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.0",
+    "license": "unrestricted",
+    "name": "kOS for All!",
+    "release_date": "2016-10-16T02:58:52.161259+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/869/kOS%20for%20All!"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "0.0.5",
+    "x_generated_by": "netkan"
+}

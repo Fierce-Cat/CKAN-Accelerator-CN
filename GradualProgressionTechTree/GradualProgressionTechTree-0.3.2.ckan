@@ -1,0 +1,159 @@
+{
+    "abstract": "A mod-focused, longer-campaign tech tree",
+    "author": "hersfeldtn",
+    "conflicts": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "SkyhawkScienceSystem"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/hersfeldtn/GPTT/releases/download/v0.3.2/zzGPTT.zip",
+        "https://spacedock.info/mod/3768/Gradual%20Progression%20Tech%20Tree/download/0.3.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "70582A361F8C0A5801ACB89926F2382A34DA5C9A",
+        "sha256": "BBA930B6A857D79B1150C96CE7E70EE7FD0E8CAD832ACA568E4A09D4B0D57F58"
+    },
+    "download_size": 659117,
+    "identifier": "GradualProgressionTechTree",
+    "install": [
+        {
+            "find": "zzGPTT",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1996789,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA",
+    "name": "Gradual Progression Tech Tree",
+    "recommends": [
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "SoundingRockets"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "FarFutureTechnologies"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "HeatControl"
+        },
+        {
+            "name": "AirplanePlus"
+        },
+        {
+            "name": "USI-LS"
+        }
+    ],
+    "release_date": "2025-03-06T11:26:47.027194+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/hersfeldtn/GPTT/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/226275-1125-gradual-progression-tech-tree-a-mod-focused-slower-early-game-tech-tree/",
+        "repository": "https://github.com/hersfeldtn/GPTT",
+        "spacedock": "https://spacedock.info/mod/3768/Gradual%20Progression%20Tech%20Tree",
+        "x_screenshot": "https://spacedock.info/content/hersfeldtn_143214/Gradual_Progression_Tech_Tree/Gradual_Progression_Tech_Tree-1732201403.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "DMagicOrbitalScience"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "ProbesPlus"
+        },
+        {
+            "name": "FelineUtilityRovers"
+        },
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "WaterDrinker"
+        },
+        {
+            "name": "DeepFreeze"
+        },
+        {
+            "name": "Mk2Expansion"
+        },
+        {
+            "name": "SupplementaryElectricEngines"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "MarkIVSpaceplaneSystem"
+        },
+        {
+            "name": "CivilianPopulation"
+        },
+        {
+            "name": "OSEWorkShopReworked"
+        },
+        {
+            "name": "MalemuteRover"
+        },
+        {
+            "name": "PlanetsideExplorationTechnologies"
+        }
+    ],
+    "tags": [
+        "config",
+        "tech-tree"
+    ],
+    "version": "0.3.2",
+    "x_generated_by": "netkan"
+}

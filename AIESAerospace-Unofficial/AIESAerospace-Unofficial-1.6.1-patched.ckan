@@ -1,0 +1,34 @@
+{
+    "abstract": "The AIES project is a set pieces to make almost any type of mission, more than 80 pieces so far, engine, fuel tank of any size, Pods, fixed solar panels, SAS, rcs tank, landing legs among others. ",
+    "author": "carmics",
+    "depends": [
+        {
+            "name": "AIES-Patches"
+        }
+    ],
+    "download": "https://media.forgecdn.net/files/2252/518/AIES_Aerospace161.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A02640E7F2FF23BE8535B1A67E6C80D43077824F",
+        "sha256": "55E19FB6CD21EE74E4950A228C152EA51FFCE12C18A4595FB67473CAB70FA9DA"
+    },
+    "download_size": 11162987,
+    "identifier": "AIESAerospace-Unofficial",
+    "install": [
+        {
+            "file": "AIES_Aerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "license": "restricted",
+    "name": "AIES Aerospace",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/30974-*"
+    },
+    "spec_version": 1,
+    "tags": [
+        "parts"
+    ],
+    "version": "1.6.1-patched",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,84 @@
+{
+    "abstract": "This mod will bring all of the Chinese Human Spaceflight vehicles to KSP.",
+    "author": [
+        "Old_Copper",
+        "Armo",
+        "Launcelot"
+    ],
+    "conflicts": [
+        {
+            "name": "KIUChineseHumanSpaceflightPack"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "KIUChinese-Common"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3144/KCHS%20(KIU%20Chinese%20Human%20Spaceflight%20Pack)/download/1.0.9%20Public%20Beta",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "88F1F672F430C7FE483620B5814AE833A45121E497F5F4BF6A03EE529827F241"
+    },
+    "download_size": 125583096,
+    "identifier": "KIUChineseHumanSpaceflightPack-RO",
+    "install": [
+        {
+            "filter": [
+                "Common",
+                "CraftFiles"
+            ],
+            "find": "KIU",
+            "install_to": "GameData"
+        },
+        {
+            "find": "KCHS_RealScalePatch",
+            "install_to": "GameData/KIU"
+        },
+        {
+            "as": "VAB",
+            "find": "CraftFiles/RO",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 221585076,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "KIU Chinese Human Spaceflight Pack (real scale)",
+    "recommends": [
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "release_date": "2024-09-03T15:53:30.20683+00:00",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/Armo00/KIU-Pack/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208654-1123nt-chinese-aerospace-packv120/",
+        "repository": "https://github.com/Armo00/KIU-Pack",
+        "spacedock": "https://spacedock.info/mod/3144/KCHS%20(KIU%20Chinese%20Human%20Spaceflight%20Pack)",
+        "x_screenshot": "https://spacedock.info/content/Old_Copper_79837/KIU_Chinese_Human_Spaceflight_Pack/KIU_Chinese_Human_Spaceflight_Pack-1667076630.jpg"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "parts",
+        "crewed",
+        "graphics"
+    ],
+    "version": "1:1.0.9 Public Beta",
+    "x_generated_by": "netkan"
+}

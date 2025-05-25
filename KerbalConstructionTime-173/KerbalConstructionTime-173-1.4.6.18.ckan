@@ -1,0 +1,71 @@
+{
+    "abstract": "Unrapid Planned Assembly",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "KerbalConstructionTime"
+        }
+    ],
+    "depends": [
+        {
+            "name": "MagiCore"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2254/Kerbal%20Construction%20Time-1.7.3/download/1.4.6.18",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "21EE200D5F5553C7ACDD816101D488F37842063E",
+        "sha256": "63577153DC7E9843EFDA0AB8B00C309029252987C57F45C7096429B56F5883C5"
+    },
+    "download_size": 571746,
+    "identifier": "KerbalConstructionTime-173",
+    "install": [
+        {
+            "file": "GameData/KerbalConstructionTime",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.6.1",
+    "license": "GPL-3.0",
+    "name": "Kerbal Construction Time-1.7.3",
+    "recommends": [
+        {
+            "name": "ScrapYard"
+        },
+        {
+            "name": "KRASH"
+        },
+        {
+            "name": "StageRecovery"
+        },
+        {
+            "name": "CrewQueueTwo"
+        },
+        {
+            "name": "OhScrap"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182877-151-161-kerbal-construction-time-unrapid-planned-assembly/",
+        "repository": "https://github.com/linuxgurugamer/KCT",
+        "spacedock": "https://spacedock.info/mod/2254/Kerbal%20Construction%20Time-1.7.3"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KerbalAlarmClock"
+        }
+    ],
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.4.6.18",
+    "x_generated_by": "netkan"
+}

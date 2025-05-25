@@ -1,0 +1,37 @@
+{
+    "abstract": "A minor cfg tweak to extend strut length from 10 to 1000, so now your struts will reach just about anywhere, but \"better engineering\" is still recommended.",
+    "author": "Xyphos",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1544/LongStrut/download/0.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E26E8AEE53B706A22E6EE445FC6009581C5BABC5",
+        "sha256": "22518634A89C21094E8D5E14D9D9D09695D581EAB6D8FFAEECC14F10733D4A08"
+    },
+    "download_size": 957,
+    "identifier": "LongStrut",
+    "install": [
+        {
+            "find": "XyphosAerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.0",
+    "license": "unrestricted",
+    "name": "LongStrut",
+    "release_date": "2017-10-10T04:21:46.553099+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/166338-any-longstrut-struts-reach-super-far/",
+        "spacedock": "https://spacedock.info/mod/1544/LongStrut"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "0.0.1",
+    "x_generated_by": "netkan"
+}

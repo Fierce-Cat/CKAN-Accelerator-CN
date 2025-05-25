@@ -1,0 +1,41 @@
+{
+    "abstract": "Adds custom icons for the planets in the Real Solar System mod",
+    "author": "ProximaCentauri",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3708/RSS-Icons/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "24DC92F0F2BF17E0805C2BA3248B082A7E3684E2",
+        "sha256": "3CC7B5A62E64E6A72CC7D6AAB3A0412A5F7A774698272F0FEF88798B24DA6AFB"
+    },
+    "download_size": 61136,
+    "identifier": "RSS-Icons",
+    "install_size": 67483,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-ND",
+    "name": "RSS-Icons",
+    "release_date": "2024-08-29T17:12:02.416594+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3708/RSS-Icons"
+    },
+    "spec_version": "v1.2",
+    "supports": [
+        {
+            "name": "RealSolarSystem"
+        }
+    ],
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

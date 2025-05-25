@@ -1,0 +1,56 @@
+{
+    "abstract": "Plugin allowing for configurable filters for the VAB/SPH using .cfg files.",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/1972/Filter%20Extensions/download/3.2.4.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "71A14713AF52C37F9F91FEAF74DAF7E8A516FCD9",
+        "sha256": "834794A5289D4EA6069DEB16F960CDC6474D0D02DE3E17E9EB03527B6D2B5449"
+    },
+    "download_size": 750269,
+    "identifier": "FilterExtensions",
+    "install": [
+        {
+            "file": "GameData/000_FilterExtensions",
+            "install_to": "GameData"
+        },
+        {
+            "file": "GameData/000_FilterExtensions_Configs",
+            "filter": [
+                "Default",
+                "StockRework"
+            ],
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.0",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Filter Extensions - Plugin",
+    "recommends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "FilterExtensionsDefaultConfig"
+        },
+        {
+            "name": "MoarFEConfigs"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/168456-*",
+        "repository": "https://github.com/linuxgurugamer/FilterExtension",
+        "spacedock": "https://spacedock.info/mod/1972/Filter%20Extensions",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Filter_Extensions/Filter_Extensions-1537624808.6939957.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience",
+        "editor"
+    ],
+    "version": "3.2.4.1",
+    "x_generated_by": "netkan"
+}

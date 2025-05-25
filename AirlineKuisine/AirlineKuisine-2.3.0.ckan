@@ -1,0 +1,50 @@
+{
+    "abstract": "Everyone's favorite life support in everyone's favorite shapes. The Mk2 and Mk3 body. Needs Deep Sky Core.",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "DeepSkyCore"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1252/Airline%20Kuisine/download/2.3.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F754BE1B16D998D5A40D2897A4F9B83C67BCE78F",
+        "sha256": "F3EC6DE0B1F5A2C3AFB7F42ED4AED6A7F14EBA7017766991FA9452BB2C854B69"
+    },
+    "download_size": 65964676,
+    "identifier": "AirlineKuisine",
+    "install": [
+        {
+            "filter_regexp": [
+                ".*\\.pdb$"
+            ],
+            "find": "DeepSky",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.9",
+    "ksp_version_min": "1.7.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Airline Kuisine",
+    "release_date": "2019-06-09T02:01:38.954354+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/156475-12x-airline-kuisine-v100/",
+        "repository": "https://github.com/JadeOfMaar/AirlineKuisine",
+        "spacedock": "https://spacedock.info/mod/1252/Airline%20Kuisine",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Airline_Kuisine/Airline_Kuisine-1515070664.3178043.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "2.3.0",
+    "x_generated_by": "netkan"
+}

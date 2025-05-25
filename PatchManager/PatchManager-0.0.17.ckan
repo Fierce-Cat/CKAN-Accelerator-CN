@@ -1,0 +1,46 @@
+{
+    "abstract": "In-game patch manager, makes adding/removing patches more friendly. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/PatchManager/releases/download/0.0.17/PatchManager-1.8.0-0.0.17.zip?auth_key=1748275915-e1c152692e4b43969d37f4b9b8781f7e-0-316eccc80416b2c8782b9a91b7e13813&size=53302&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2F955780198E4236D944DD764A7EE5021948FC2E",
+        "sha256": "236AE1E1B085FF7A0151E27C130383E897E8D5289FA7FD8BC49D6177834284A0"
+    },
+    "download_size": 53302,
+    "identifier": "PatchManager",
+    "install": [
+        {
+            "find": "PatchManager",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "es-es",
+        "fr-fr",
+        "ja",
+        "ru",
+        "de-de",
+        "en-us",
+        "pt-br"
+    ],
+    "name": "Patch Manager [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/163072-13-",
+        "repository": "https://github.com/linuxgurugamer/PatchManager"
+    },
+    "spec_version": "v1.4",
+    "version": "0.0.17",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

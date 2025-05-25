@@ -1,0 +1,52 @@
+{
+    "abstract": "A small random collection of parts and a small plugin to add some interesting mechanics to KSP.",
+    "author": "Hyper_Fun",
+    "conflicts": [
+        {
+            "name": "ProceduralParts"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3108/LudicrousParts/download/v0.0.4.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8F27C26FF40F73EE7E6097EE3D3AB166982F4DA8",
+        "sha256": "5BACCD958279E5FB8F90F3389420F930F92309AB200C9DC46D8A6F30DCC000DA"
+    },
+    "download_size": 2103985,
+    "identifier": "LudicrousParts",
+    "install": [
+        {
+            "filter_regexp": "\\.pdb$",
+            "find": "LudicrousParts",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2470458,
+    "ksp_version_min": "1.8",
+    "license": "GPL-2.0",
+    "localizations": [
+        "en-us",
+        "fr-fr"
+    ],
+    "name": "LudicrousParts",
+    "release_date": "2022-10-17T11:46:49.755271+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/HyperFunOriginal/LudicrousPartsMod/issues",
+        "homepage": "https://github.com/HyperFunOriginal/LudicrousPartsMod/",
+        "repository": "https://github.com/HyperFunOriginal/LudicrousPartsMod",
+        "spacedock": "https://spacedock.info/mod/3108/LudicrousParts",
+        "x_screenshot": "https://spacedock.info/content/Hyper_Fun_30907/LudicrousParts/LudicrousParts-1662211998.png"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "v0.0.4.1",
+    "x_generated_by": "netkan"
+}

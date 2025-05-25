@@ -1,0 +1,74 @@
+{
+    "abstract": "Advanced electric engines and two new fuel types in a fully developed stockalike aesthetic.",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://spacedock.info/mod/557/Near%20Future%20Propulsion/download/1.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A415DC3B6EED4E72AF42FD769E9476CACB021444",
+        "sha256": "FB63C4D53D603214377030677C61D140487241E05FC5F5A12EDADAEE4D2FFA92"
+    },
+    "download_size": 38840074,
+    "identifier": "NearFuturePropulsion",
+    "install": [
+        {
+            "find": "NearFuturePropulsion",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.7.0",
+    "license": "restricted",
+    "localizations": [
+        "ru",
+        "zh-cn",
+        "de-de",
+        "en-us",
+        "es-es"
+    ],
+    "name": "Near Future Propulsion",
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFutureElectrical"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-16x-near-future-technologies-16x-fixes-jan-21/",
+        "repository": "https://github.com/ChrisAdderley/NearFuturePropulsion",
+        "spacedock": "https://spacedock.info/mod/557/Near%20Future%20Propulsion",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Propulsion/Near_Future_Propulsion-1461341391.2874317.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ContractConfigurator-GrandTours"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        }
+    ],
+    "version": "1.1.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,72 @@
+{
+    "abstract": "Unrapid Planned Assembly",
+    "author": [
+        "magico13",
+        "westamastaflash",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "KerbalConstructionTime-173"
+        }
+    ],
+    "depends": [
+        {
+            "name": "MagiCore"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": "https://spacedock.info/mod/222/Kerbal%20Construction%20Time/download/1.4.7.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F246EDF9C008F3F14066E4D2E109FA2DFCABF240",
+        "sha256": "63BDD646CFB9FC8FB7EDA556199BE2B0612B394CFB26626B798AE4F1C2B17696"
+    },
+    "download_size": 573213,
+    "identifier": "KerbalConstructionTime",
+    "install": [
+        {
+            "file": "GameData/KerbalConstructionTime",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Kerbal Construction Time",
+    "recommends": [
+        {
+            "name": "ScrapYard"
+        },
+        {
+            "name": "KRASH"
+        },
+        {
+            "name": "StageRecovery"
+        },
+        {
+            "name": "CrewQueueTwo"
+        },
+        {
+            "name": "OhScrap"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182877-151-161-kerbal-construction-time-unrapid-planned-assembly/",
+        "repository": "https://github.com/linuxgurugamer/KCT",
+        "spacedock": "https://spacedock.info/mod/222/Kerbal%20Construction%20Time",
+        "x_screenshot": "https://spacedock.info/content/magico13_204/Kerbal_Construction_Time/Kerbal_Construction_Time-1456094774.2806504.png"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KerbalAlarmClock"
+        }
+    ],
+    "version": "1:1.4.7.2",
+    "x_generated_by": "netkan"
+}

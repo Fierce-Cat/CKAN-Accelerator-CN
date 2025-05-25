@@ -1,0 +1,54 @@
+{
+    "abstract": "New parts from Ven's Stock Part Revamp [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "VenVen",
+        "Kerbas-ad-astra"
+    ],
+    "depends": [
+        {
+            "name": "VenStockRevamp-Core"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kerbas-ad-astra/Stock-Revamp/releases/download/v1.15.1/VenStockRevamp-v1.15.1.zip?auth_key=1748275917-e96895aabb394d8ca1a26a2c0c908831-0-25e034ecea412a37ffc229306b68a015&size=142283541&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D7957C28F19E04A257DEDC774AFE443E3996A00E",
+        "sha256": "CF3B1F8D238755760E24D6AC9612FAE30B5CD96F774F0E24B7A87C059ED33132"
+    },
+    "download_size": 142283541,
+    "identifier": "VenStockRevamp-NewParts",
+    "install": [
+        {
+            "find": "VenStockRevamp/Part Bin",
+            "install_to": "GameData/VenStockRevamp"
+        }
+    ],
+    "ksp_version_max": "1.10",
+    "ksp_version_min": "1.9.0",
+    "license": "CC-BY-4.0",
+    "name": "Ven's New Parts [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "VenStockRevamp"
+        }
+    ],
+    "release_date": "2020-03-15T20:11:13Z",
+    "resources": {
+        "bugtracker": "https://github.com/Kerbas-ad-astra/Stock-Revamp/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189732-*",
+        "remote-avc": "https://raw.githubusercontent.com/Kerbas-ad-astra/Stock-Revamp/master/GameData/VenStockRevamp/VenStockRevamp.version",
+        "repository": "https://github.com/Kerbas-ad-astra/Stock-Revamp"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "VensStockPartRevamp-CTTPatch"
+        }
+    ],
+    "tags": [
+        "parts",
+        "graphics"
+    ],
+    "version": "v1.15.1",
+    "x_generated_by": "netkan"
+}

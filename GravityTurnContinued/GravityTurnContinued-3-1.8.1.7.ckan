@@ -1,0 +1,55 @@
+{
+    "abstract": "Automated highly efficient launches [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "johnfink8",
+        "AndyMt",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "GravityTurn"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/GravityTurn/releases/download/1.8.1.7/GravityTurn-1.11.2-1.8.1.7.zip?auth_key=1748275915-9e5af504b0064d6d814e388c99e41e04-0-248121873e0d4e06a0baf7c8d0e11fa5&size=116844&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "731E88C286CBE323070153DAF69B4E01A71E6135",
+        "sha256": "4E6D685E1A22C11C4A89EBA32CE3FCDFE051E0ACF35D0494386743D6F4B9CDD6"
+    },
+    "download_size": 116844,
+    "identifier": "GravityTurnContinued",
+    "install": [
+        {
+            "find": "GravityTurn",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "GravityTurn Continued [PRO-KCMIRROR]",
+    "provides": [
+        "GravityTurn"
+    ],
+    "release_date": "2021-06-16T14:04:27Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/GravityTurn/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192590-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/GravityTurn",
+        "repository": "https://github.com/linuxgurugamer/GravityTurn"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "3:1.8.1.7",
+    "x_generated_by": "netkan"
+}

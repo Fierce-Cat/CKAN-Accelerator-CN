@@ -1,0 +1,60 @@
+{
+    "abstract": "An IVA mod for KSP, to add more interactive IVAs [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "DemonEin",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/DemonEin/DE_IVAExtension/releases/download/v1.0.2/DE_IVAExtension_1.0.2.zip?auth_key=1748275917-8161c8db48fe4a298edc954fc7054046-0-a92554b696d1b4ee6345e8fed5d6fdc5&size=114275&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9B519423D09427701AC06822F813C23B3F954A95",
+        "sha256": "18F5BA4650F273F5EAC46C2EC83C928C7FFA24CFEC9DEFEFB3A58D9AC3C64045"
+    },
+    "download_size": 114275,
+    "identifier": "DE-IVAExtension",
+    "install": [
+        {
+            "find": "DE_IVAExtension",
+            "install_to": "GameData"
+        },
+        {
+            "find": "ProbeControlRoom",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "DE IVAExtension [PRO-KCMIRROR]",
+    "release_date": "2019-08-20T18:19:38Z",
+    "resources": {
+        "bugtracker": "https://github.com/DemonEin/DE_IVAExtension/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/186715-*",
+        "repository": "https://github.com/DemonEin/DE_IVAExtension"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "ProbeControlRoom"
+        }
+    ],
+    "tags": [
+        "config",
+        "crewed"
+    ],
+    "version": "v1.0.2",
+    "x_generated_by": "netkan"
+}

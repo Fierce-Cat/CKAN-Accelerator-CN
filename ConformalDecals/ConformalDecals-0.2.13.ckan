@@ -1,0 +1,59 @@
+{
+    "abstract": "Add decals to any surface",
+    "author": "drewcassidy",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Shabby"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2451/Conformal%20Decals/download/0.2.13",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EE021CA58AFA734473700741B4B86D6016E262AA",
+        "sha256": "E8697DECFCC1EFBA0B2243EACA0D2E3605D2AA6149E25D1C4B301EF357468781"
+    },
+    "download_size": 2844725,
+    "identifier": "ConformalDecals",
+    "install": [
+        {
+            "find": "GameData/ConformalDecals",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 3628454,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Conformal Decals",
+    "release_date": "2024-05-18T03:55:05.18677+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/drewcassidy/KSP-Conformal-Decals/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194802-*",
+        "manual": "https://github.com/drewcassidy/KSP-Conformal-Decals/wiki",
+        "remote-avc": "https://github.com/drewcassidy/KSP-Conformal-Decals/releases/latest/download/ConformalDecals.version",
+        "repository": "https://github.com/drewcassidy/KSP-Conformal-Decals",
+        "spacedock": "https://spacedock.info/mod/2451/Conformal%20Decals",
+        "x_screenshot": "https://spacedock.info/content/drewcassidy_10616/Conformal_Decals/Conformal_Decals-1603613809.4420319.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "WildBlueTools"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "0.2.13",
+    "x_generated_by": "netkan"
+}

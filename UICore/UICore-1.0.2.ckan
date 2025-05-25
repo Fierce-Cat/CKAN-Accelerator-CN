@@ -1,0 +1,48 @@
+{
+    "abstract": "Something that'll make your mod look cool",
+    "author": [
+        "RealGecko",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/KSP-UICore/releases/download/1.0.2/UICore-1.0.2.zip",
+        "https://spacedock.info/mod/1572/UICore/download/1.0.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "11746EF66EB5D623D203863D47B0ADD861594A6A",
+        "sha256": "9059357681466B271C6F27F57A989C299045522C89F343EBC9D9C043D299EB36"
+    },
+    "download_size": 43128,
+    "identifier": "UICore",
+    "install": [
+        {
+            "find": "000_UICore",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 101838,
+    "ksp_version": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "UICore",
+    "release_date": "2019-10-27T14:12:24.432019+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/152007-ksp-131-overdrive-lets-rock-revamp-ksp-ui/",
+        "remote-avc": "http://ksp.spacetux.net/avc/UICore.version",
+        "repository": "https://github.com/linuxgurugamer/KSP-UICore",
+        "spacedock": "https://spacedock.info/mod/1572/UICore",
+        "x_screenshot": "https://spacedock.info/content/RealGecko_4471/UICore/UICore-1509146663.8784165.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "1.0.2",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,55 @@
+{
+    "abstract": "Changes TAC converters in supported mods to produce less abstract Waste resource and more of what is in it that is useful to other mods",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RationalResources"
+        },
+        {
+            "name": "TACLS"
+        }
+    ],
+    "download": [
+        "https://github.com/JadeOfMaar/RationalResources/releases/download/3.0.2/RationalResources-3.0.2.zip",
+        "https://spacedock.info/mod/2201/Rational%20Resources/download/3.0.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3F99D5ABCEB9082C604DF3ACAD1D03D906A631AE",
+        "sha256": "F972733DC93A6A58B53BDB210D4F3D28D162B3DED2F8E22F4AC336D14B647D66"
+    },
+    "download_size": 37852798,
+    "identifier": "RationalResourcesTACLS",
+    "install_size": 10138,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Rational Resources TAC LS",
+    "release_date": "2024-09-25T01:13:13.927234+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/RationalResources/issues",
+        "discussions": "https://github.com/JadeOfMaar/RationalResources/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184875-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalResources/Version/RationalResources.version",
+        "repository": "https://github.com/JadeOfMaar/RationalResources",
+        "spacedock": "https://spacedock.info/mod/2201/Rational%20Resources",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Rational_Resources/Rational_Resources-1633389353.6822987.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "AirlineKuisine"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        }
+    ],
+    "tags": [
+        "config",
+        "convenience"
+    ],
+    "version": "3.0.2",
+    "x_generated_by": "netkan"
+}

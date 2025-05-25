@@ -1,0 +1,52 @@
+{
+    "abstract": "Control your descent speed in discreet increments for soft, controlled skycrane landings.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/TWR1/releases/download/1.34.0.3/Vertical_Velocity_Controller_Redux-1.34.0.3.zip",
+        "https://spacedock.info/mod/1871/Vertical%20Velocity%20Controller%20Redux/download/1.34.0.3"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0C7424322567CD15E035A467FFB116456B1C6944",
+        "sha256": "C2F0C7F416CC18722DF444BADB5276C1EE50B342E0377A8AE43A0119AE9E3D13"
+    },
+    "download_size": 50370,
+    "identifier": "TWR1",
+    "install": [
+        {
+            "file": "GameData/Diazo",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 72430,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Vertical Velocity Controller Redux",
+    "release_date": "2021-07-29T03:59:11.12489+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/TWR1/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175400-14-vertical-velocity-controller/",
+        "remote-avc": "http://ksp.spacetux.net/avc/TWR1",
+        "repository": "https://github.com/linuxgurugamer/TWR1",
+        "spacedock": "https://spacedock.info/mod/1871/Vertical%20Velocity%20Controller%20Redux"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "1.34.0.3",
+    "x_generated_by": "netkan"
+}

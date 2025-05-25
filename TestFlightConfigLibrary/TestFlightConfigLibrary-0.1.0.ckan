@@ -1,0 +1,48 @@
+{
+    "abstract": "ModuleManager scripts for simplifying and standardizing TestFlight configs. Do *not* provide TestFlight support by themselves. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Starstrider42",
+    "conflicts": [
+        {
+            "comment": "RO uses similar scripts; they will likely interfere with each other.",
+            "name": "RealismOverhaul"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "1.8.0",
+            "name": "TestFlight"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Starstrider42/TestFlight-Configs/releases/download/0.1.0/Stock%2B-TF-Configs-0.1.0.zip?auth_key=1748275917-e4c5a368e4004e19a7958ad180213adf-0-2aecc0f6f10d2751cec7ec877d2be975&size=16862&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A1967F9198AC36AB3AAB1D927FC10277C112A620",
+        "sha256": "864BEA68BCCD0D55FA7D84F1F12523BB38A7848C01F788A2CD72107D4B568545"
+    },
+    "download_size": 16862,
+    "identifier": "TestFlightConfigLibrary",
+    "install": [
+        {
+            "file": "GameData/TestFlight/Config",
+            "filter_regexp": "(?<!Generic_.+\\.cfg)$",
+            "install_to": "GameData/TestFlight"
+        }
+    ],
+    "license": "MIT",
+    "name": "TestFlight Generic Config Library [PRO-KCMIRROR]",
+    "resources": {
+        "bugtracker": "https://github.com/Starstrider42/TestFlight-Configs/issues",
+        "repository": "https://github.com/Starstrider42/TestFlight-Configs"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "config",
+        "library"
+    ],
+    "version": "0.1.0",
+    "x_generated_by": "netkan",
+    "x_maintained_by": "Starstrider42"
+}

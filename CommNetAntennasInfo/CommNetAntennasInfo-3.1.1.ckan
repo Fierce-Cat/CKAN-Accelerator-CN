@@ -1,0 +1,69 @@
+{
+    "abstract": "The plugin, what enhanced antennas info panel in the VAB/SPH [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "flart",
+    "conflicts": [
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/yalov/CommNetAntennasInfo/releases/download/3.1.1/CommNetAntennasInfo-v3.1.1.zip?auth_key=1748275917-56af9bd5fbd84087ab93aa4ebd61ca06-0-78431b367a8c4dbb0faf52d2d8d6261f&size=88907&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "64C8C6AD7FA48A31BF30C1D98B37FD5700E5A442",
+        "sha256": "5604BA6A06DB0C45DC649994651DAA26A2371F9FA1EBBDA58C150C997E62741C"
+    },
+    "download_size": 88907,
+    "identifier": "CommNetAntennasInfo",
+    "install_size": 68506,
+    "ksp_version_max": "1.12.9",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "CommNet Antennas Info [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "CommNetAntennasExtension"
+        },
+        {
+            "name": "CommNetAntennasConsumptor"
+        }
+    ],
+    "release_date": "2021-12-22T18:14:44Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/yalov/CommNetAntennasInfo/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177292-*",
+        "remote-avc": "https://raw.githubusercontent.com/yalov/CommNetAntennasInfo/master/CommNetAntennasInfo.version",
+        "repository": "https://github.com/yalov/CommNetAntennasInfo"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SpeedUnitAnnex"
+        },
+        {
+            "name": "ScienceLabInfo"
+        },
+        {
+            "name": "ScienceSituationInfo"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "information",
+        "comms"
+    ],
+    "version": "3.1.1",
+    "x_generated_by": "netkan"
+}

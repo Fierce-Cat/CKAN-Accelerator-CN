@@ -1,0 +1,64 @@
+{
+    "abstract": "A planetwide city.",
+    "author": "Vortinium",
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        },
+        {
+            "name": "Scatterer-config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "CommunityTerrainTexturePack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2272/Ecumenopolis/download/1.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A4B82F6F4FEFD4B66987FD7B65F4725835F295EE",
+        "sha256": "16952765D700818297A0D25E715A23BE4F606B7C106825160CC66EFAA86DFAE5"
+    },
+    "download_size": 108050710,
+    "identifier": "Ecumenopolis",
+    "ksp_version": "1.8.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Ecumenopolis",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config",
+        "Scatterer-config"
+    ],
+    "recommends": [
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "KopernicusExpansionContinued-EVAFootprints"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189710-173-ecumenopolis/",
+        "spacedock": "https://spacedock.info/mod/2272/Ecumenopolis",
+        "x_screenshot": "https://spacedock.info/content/Vortinium_30987/Ecumenopolis/Ecumenopolis-1578695439.6182718.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1:1.3",
+    "x_generated_by": "netkan"
+}

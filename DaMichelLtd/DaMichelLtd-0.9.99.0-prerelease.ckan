@@ -1,0 +1,43 @@
+{
+    "abstract": "Agent, flags, and common files for DaMichel's parts addons.",
+    "author": "zer0Kerbal",
+    "download": "https://spacedock.info/mod/3027/DaMichel%20Ltd%20(DM/L)/download/0.9.99.0-prerelease",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ECFD2BB403AC328DFEAA5E0107BAA95E20467EC3",
+        "sha256": "EC70422733A36AC5FB5BAAF3C199209E7B6B854B6696DE651A7B866B4060DE52"
+    },
+    "download_size": 128043,
+    "identifier": "DaMichelLtd",
+    "install": [
+        {
+            "find": "DaMichel",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 172009,
+    "ksp_version": "1.12.3",
+    "license": "CC-BY-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "DaMichel Ltd (DM/L)",
+    "release_date": "2022-05-10T03:54:26.60395+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/DaMichelLtd/issues",
+        "discussions": "https://github.com/zer0Kerbal/DaMichelLtd/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/DaMichelLtd/master/DaMichelLtd.version",
+        "repository": "https://github.com/zer0Kerbal/DaMichelLtd",
+        "spacedock": "https://spacedock.info/mod/3027/DaMichel%20Ltd%20(DM/L)",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/DaMichel_Ltd_DM_L/DaMichel_Ltd_DM_L-1679974897.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "agency",
+        "flags"
+    ],
+    "version": "0.9.99.0-prerelease",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

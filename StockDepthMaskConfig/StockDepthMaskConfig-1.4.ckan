@@ -1,0 +1,55 @@
+{
+    "abstract": "This mod adds ModuleDepthMask to some of the stock parts.",
+    "author": "KingNoob",
+    "conflicts": [
+        {
+            "name": "ReStock"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "DepthMask"
+        }
+    ],
+    "download": [
+        "https://github.com/kingnoob1377/Stock_DepthMask_Config/releases/download/v1.4/StockDepthMaskConfig.v1.4.zip",
+        "https://spacedock.info/mod/2963/Stock%20DepthMask%20Config/download/1.4"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0F8FE0AC901A32108054109CFE891F5CFE52C67F",
+        "sha256": "7F45780A88986E056170154FA3653A19EB5AA89FA9E3369732B4CDCCB861E37B"
+    },
+    "download_size": 2659977,
+    "identifier": "StockDepthMaskConfig",
+    "install": [
+        {
+            "filter": [
+                ".git",
+                ".gitattributes"
+            ],
+            "find": "StockDepthMaskConfig",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 42585,
+    "ksp_version": "1.12.3",
+    "license": "MIT",
+    "name": "Stock DepthMask Config",
+    "release_date": "2022-02-07T09:08:33.617509+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/kingnoob1377/Stock_DepthMask_Config/issues",
+        "homepage": "https://spacedock.info/mod/2963/Stock DepthMask Config",
+        "repository": "https://github.com/kingnoob1377/Stock_DepthMask_Config",
+        "spacedock": "https://spacedock.info/mod/2963/Stock%20DepthMask%20Config"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config"
+    ],
+    "version": "1.4",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,61 @@
+{
+    "abstract": "Shangsheng Orbital is a rocket based on Linkspace's Newline-1 rocket.",
+    "author": "damon",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SpaceXLegs"
+        }
+    ],
+    "download": [
+        "https://github.com/TundraMods/Shangsheng-Orbital/releases/download/v0.5/Shangsheng-Orbital_v0.5.zip",
+        "https://spacedock.info/mod/2209/Shangsheng%20Orbital/download/0.5"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B51C912074A294155D3B6D6DE1AC48BCA88843CE",
+        "sha256": "8DE941D5D4CFC8F7A4F4AACCBD5FBA88627D76310DF2D5E34E9D9FD55194787D"
+    },
+    "download_size": 6403570,
+    "identifier": "ShangshengOrbital",
+    "install": [
+        {
+            "find": "ShangshengOrbital",
+            "install_to": "GameData"
+        },
+        {
+            "find": "VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 20551888,
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "Shangsheng Orbital",
+    "recommends": [
+        {
+            "name": "Smokescreen"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "release_date": "2022-09-11T10:02:57.029083+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/TundraMods/Shangsheng-Orbital/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/187254-17x-shangsheng-orbital-v01-stockalike-newline-1-rocket/",
+        "remote-avc": "https://raw.githubusercontent.com/damonvv/Shangsheng-Orbital/master/GameData/ShangshengOrbital/Versioning/ShangshengOrbital.version?token=AhTk73IQtrCLgQqK8cx-7Hh9PMjbiF9lks5cnrdfwA%3D%3D",
+        "repository": "https://github.com/TundraMods/Shangsheng-Orbital",
+        "spacedock": "https://spacedock.info/mod/2209/Shangsheng%20Orbital",
+        "x_screenshot": "https://spacedock.info/content/damon_4180/Shangsheng_Orbital/Shangsheng_Orbital-1566034496.4398758.jpg"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "parts"
+    ],
+    "version": "v0.5",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,85 @@
+{
+    "abstract": "A pack of stock-alike parts that fill in some gaps in the stock lineup. LITE version only has the more interesting and unique parts!",
+    "author": "NecroBones",
+    "conflicts": [
+        {
+            "name": "ModularRocketSystem"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/87/Modular%20Rocket%20Systems%20LITE/download/1.13.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0362261E3ECDB7D78CD16201DC93AB8CC1C498F9",
+        "sha256": "D6B4A0ED07157CB4BE20DF73DE16AB3C7D010A8445C8EF943E4FC0C42BFB1D0B"
+    },
+    "download_size": 5114981,
+    "identifier": "ModularRocketSystemsLITE",
+    "install": [
+        {
+            "file": "ModRocketSysLite",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Modular Rocket Systems LITE",
+    "release_date": "2018-03-12T14:54:11.510366+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/83959-ModularRocketSystems",
+        "spacedock": "https://spacedock.info/mod/87/Modular%20Rocket%20Systems%20LITE",
+        "x_screenshot": "https://spacedock.info/content/NecroBones_209/Modular_Rocket_Systems_LITE/Modular_Rocket_Systems_LITE-1455717483.2597597.jpg"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "ColorCodedCans"
+        },
+        {
+            "name": "ColorfulFuelLines"
+        },
+        {
+            "name": "FuelTanksPlus"
+        },
+        {
+            "name": "LithobrakeExplorationTechnologies"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "FerramAerospaceResearch"
+        },
+        {
+            "name": "KSP-AVC"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "EngineIgnitorReignited"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "HotRockets"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1.13.2",
+    "x_generated_by": "netkan"
+}

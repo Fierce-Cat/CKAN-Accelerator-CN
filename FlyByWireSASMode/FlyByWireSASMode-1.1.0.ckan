@@ -1,0 +1,30 @@
+{
+    "abstract": "Adds a new \"fly by wire\" SAS mode. When enabled, pitch and yaw inputs don't control the vessel directly anymore, but instead control the position of a custom navball direction marker that the SAS will follow automatically. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "gotmachine",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/gotmachine/FlyByWireSASMode/releases/download/1.1.0/FlyByWireSASMode_1.1.0.zip?auth_key=1748275916-9570fcc7f4c04aee86ff37ebd80d7b4d-0-2c625969bc471be008cdabd5c79fa823&size=15882&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "915CD2BE70931229782E953FBEE9925D12CFBAC8",
+        "sha256": "3F5175471F1BFA36E5E7F5FB12859810489E77ABF959F8C96A13A51A065D32C3"
+    },
+    "download_size": 15882,
+    "identifier": "FlyByWireSASMode",
+    "install_size": 24913,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.3",
+    "license": "MIT",
+    "name": "Fly By Wire SAS Mode [PRO-KCMIRROR]",
+    "release_date": "2024-04-28T18:42:15Z",
+    "resources": {
+        "bugtracker": "https://github.com/gotmachine/FlyByWireSASMode/issues",
+        "remote-avc": "https://raw.githubusercontent.com/gotmachine/FlyByWireSASMode/master/GameData/FlyByWireSASMode/FlyByWireSASMode.version",
+        "repository": "https://github.com/gotmachine/FlyByWireSASMode"
+    },
+    "spec_version": "v1.27",
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "1.1.0",
+    "x_generated_by": "netkan"
+}

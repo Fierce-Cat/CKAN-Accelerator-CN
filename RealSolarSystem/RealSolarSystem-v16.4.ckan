@@ -1,0 +1,67 @@
+{
+    "abstract": "Resizes and rearranges the Kerbal system to more closely resemble the Solar System [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "NathanKell",
+        "eggrobin",
+        "raidernick",
+        "PhineasFreak"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "2:release-1.3.1-7",
+            "name": "Kopernicus"
+        },
+        {
+            "name": "RSSTextures"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RealSolarSystem/releases/download/v16.4/RealSolarSystem_v16.4.zip?auth_key=1748275915-98ecc5274bfa400e92eaccc185ef11a8-0-26e6e88dc1328c844ec007230ba1e4c2&size=2109414&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0888C1DE87BA4C7BB3BB9E5AF28716929D575A8E",
+        "sha256": "46D01DD95CD5D19ECC080C2BA7557B5D49AFE6C13BD4B23DFEB385C837DE6D97"
+    },
+    "download_size": 2109414,
+    "identifier": "RealSolarSystem",
+    "install": [
+        {
+            "find": "RealSolarSystem",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.7.0",
+    "license": "CC-BY-NC-SA",
+    "name": "Real Solar System [PRO-KCMIRROR]",
+    "provides": [
+        "CustomAsteroids-Pops"
+    ],
+    "recommends": [
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "RSSDateTimeFormatter"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177216-*",
+        "repository": "https://github.com/KSP-RO/RealSolarSystem"
+    },
+    "spec_version": "v1.12",
+    "tags": [
+        "planet-pack",
+        "config",
+        "plugin",
+        "resources"
+    ],
+    "version": "v16.4",
+    "x_generated_by": "netkan"
+}

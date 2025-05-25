@@ -1,0 +1,77 @@
+{
+    "abstract": "Adapts your stock KSP for the Real Solar System [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Globul-Art",
+    "conflicts": [
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "RealFuels"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "CryoTanks"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Globul-Art/RSS_Adapter/releases/download/v0.3.5/RSS_Adapter_0.3.5.zip?auth_key=1748275917-c1e9b1fff19d4d3da3da6786366beb43-0-3cdc59eb851e8ca70f073096f3c0ec0a&size=176475&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E43233C4E81FA42A50E72D16F4762C5A36C8C542",
+        "sha256": "BFBE2D718A7254DA662762279CA9AB47AC1FA58569C9D45E9842031A2BCF1E48"
+    },
+    "download_size": 176475,
+    "identifier": "RSS-Adapter",
+    "install": [
+        {
+            "filter": [
+                ".git",
+                ".gitattributes"
+            ],
+            "find": "zzz_RSS_Adapter",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 124768,
+    "license": "MIT",
+    "name": "RSS Adapter [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RealEngines"
+        }
+    ],
+    "release_date": "2024-03-05T03:33:57Z",
+    "resources": {
+        "bugtracker": "https://github.com/Globul-Art/RSS_Adapter/issues",
+        "repository": "https://github.com/Globul-Art/RSS_Adapter"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "MandatoryRCS"
+        },
+        {
+            "name": "InternalRCS"
+        }
+    ],
+    "supports": [
+        {
+            "name": "NewTantares"
+        }
+    ],
+    "tags": [
+        "config",
+        "parts"
+    ],
+    "version": "v0.3.5",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,68 @@
+{
+    "abstract": "Recover Funds, Kerbals, and Science from Dropped Stages",
+    "author": [
+        "magico13",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "DebRefund"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": "https://spacedock.info/mod/219/StageRecovery/download/1.9.5.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1C6EBFCACE43E4B762A38F87909098980099E595",
+        "sha256": "C307774AE683F2CB79047BD9DA455D753AED85EA2D4DF2C9B2D3ED03A602A35E"
+    },
+    "download_size": 64317,
+    "identifier": "StageRecovery",
+    "install": [
+        {
+            "file": "GameData/StageRecovery",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 136777,
+    "ksp_version_max": "1.12.2",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "StageRecovery",
+    "release_date": "2021-10-13T11:21:01.663003+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/StageRecovery/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179306-151-stagerecovery-recover-funds-from-dropped-stages/&",
+        "remote-avc": "http://ksp.spacetux.net/avc/StageRecovery",
+        "repository": "https://github.com/linuxgurugamer/StageRecovery",
+        "spacedock": "https://spacedock.info/mod/219/StageRecovery"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "career"
+    ],
+    "version": "1.9.5.4",
+    "x_generated_by": "netkan"
+}

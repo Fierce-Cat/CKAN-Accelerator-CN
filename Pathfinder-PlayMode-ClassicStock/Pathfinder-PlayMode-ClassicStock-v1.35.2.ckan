@@ -1,0 +1,53 @@
+{
+    "abstract": "Space Camping @ Geoscience [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "WildBlue-PlayMode-ClassicStock"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Pathfinder"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/Pathfinder/releases/download/v1.35.2/Pathfinder_1_35_2.zip?auth_key=1748275917-be32302b970a4acaa1e82ec5aaa252a1-0-426bb64078478c9f6fbf61d69447b8b8&size=62202355&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F2656905D2C6DA8AD82DB60E148C7E4317CBED6C",
+        "sha256": "65F6C7C00BD4B9B7A10B21100A5F71E8467141197BC9ED9A7975552CCBB48221"
+    },
+    "download_size": 62202355,
+    "identifier": "Pathfinder-PlayMode-ClassicStock",
+    "install": [
+        {
+            "find": "Pathfinder/Templates/ClassicStock",
+            "install_to": "GameData/WildBlueIndustries/Pathfinder/Templates"
+        },
+        {
+            "find": "Pathfinder/Templates/ClassicStock.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/Pathfinder/Templates"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Pathfinder Classic Stock Play Mode [PRO-KCMIRROR]",
+    "provides": [
+        "Pathfinder-PlayMode"
+    ],
+    "release_date": "2020-08-31T20:35:24Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/Pathfinder/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/121397-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/Pathfinder/master/GameData/WildBlueIndustries/Pathfinder/Pathfinder.version",
+        "repository": "https://github.com/Angel-125/Pathfinder"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "config"
+    ],
+    "version": "v1.35.2",
+    "x_generated_by": "netkan"
+}

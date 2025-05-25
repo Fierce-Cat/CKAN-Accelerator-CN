@@ -1,0 +1,51 @@
+{
+    "abstract": "For the basic version of NathanKell's Real Solar System mod [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "duckytopia",
+        "MOARdV"
+    ],
+    "conflicts": [
+        {
+            "name": "DistantObject-config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "DistantObject"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/MOARdV/DistantObject/releases/download/v1.9.1.1/DistantObject_1.9.1.1.zip?auth_key=1748275914-9c8a6f4af0f74d428e7e3bdc809c388c-0-0187ac63c643d4e008bf96883c4ff998&size=40325&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "368AEB9CA2007C766F14086415EDFFE577044291",
+        "sha256": "8DBFAC8F2DDEE485DF946561EF2379BF4B4B01F4733B3A7F563621346946F211"
+    },
+    "download_size": 40325,
+    "identifier": "DistantObject-RealSolarSystem",
+    "install": [
+        {
+            "file": "Alternate Planet Color Configs/Real Solar System (default)/DistantObject",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.3.0",
+    "license": "CC-BY-4.0",
+    "name": "Distant Object Enhancement Real Solar System config [PRO-KCMIRROR]",
+    "provides": [
+        "DistantObject-config"
+    ],
+    "release_date": "2018-10-16T14:22:09Z",
+    "resources": {
+        "bugtracker": "https://github.com/MOARdV/DistantObject/issues",
+        "remote-avc": "https://raw.githubusercontent.com/MOARdV/DistantObject/master/GameData/DistantObject/DistantObject.version",
+        "repository": "https://github.com/MOARdV/DistantObject"
+    },
+    "spec_version": 1,
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "v1.9.1.1",
+    "x_generated_by": "netkan"
+}

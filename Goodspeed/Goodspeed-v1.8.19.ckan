@@ -1,0 +1,41 @@
+{
+    "abstract": "Allows you to automatically transfer or balance fuel [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "hab136",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/henrybauer/GPOSpeedPump/releases/download/v1.8.19/GPOSpeedFuelPump-v1.8.19.zip?auth_key=1748275914-6809c9c868c74e08b3537ed707c933d4-0-2c3c7cd9ad6d8b8dfadb486bd5464653&size=17942&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "43DA0A18A795D1C4E75D447AB4A8CC96E68B91E5",
+        "sha256": "62B3DA0C05B93E673410D7F529B73CBB1C0C0E43152ACC6ED6CE348E9251C0EC"
+    },
+    "download_size": 17942,
+    "identifier": "Goodspeed",
+    "install": [
+        {
+            "filter": "sourcecode",
+            "find": "GPOSpeedFuelPump",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "GPL-3.0",
+    "name": "GPOSpeedFuelPump [PRO-KCMIRROR]",
+    "release_date": "2019-07-23T00:17:02Z",
+    "resources": {
+        "bugtracker": "https://github.com/henrybauer/GPOSpeedPump/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/137489-*",
+        "remote-avc": "https://raw.githubusercontent.com/henrybauer/GPOSpeedPump/master/GameData/GPOSpeedFuelPump.version",
+        "repository": "https://github.com/henrybauer/GPOSpeedPump",
+        "x_screenshot": "https://spacedock.info/content/hab136_461/GPOSpeedFuelPump/GPOSpeedFuelPump-1461173729.569611.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "v1.8.19",
+    "x_generated_by": "netkan"
+}

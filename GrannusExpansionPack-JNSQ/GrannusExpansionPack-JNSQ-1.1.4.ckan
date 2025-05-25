@@ -1,0 +1,40 @@
+{
+    "abstract": "Grannus Expansion Pack rescaled 2.5x to provide compatibility with the JNSQ planet pack [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "OhioBob",
+    "depends": [
+        {
+            "name": "GrannusExpansionPack"
+        },
+        {
+            "name": "JNSQ"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/OhioBob/Grannus-Expansion-Pack/releases/download/1.1.4/GrannusExpansionPack_1.1.4.zip?auth_key=1748275916-a4d8a1e4339e4db38d87ee9442877e6d-0-6a0db354688d208f0a9a49390529f820&size=338456612&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9245F46A8B517B1D3416B797C10013A324AEBD80",
+        "sha256": "0B4546777577016FCCD6A538F2E5ACDFF735D3965AF7AF7F21FE72DED3EF4133"
+    },
+    "download_size": 338456612,
+    "identifier": "GrannusExpansionPack-JNSQ",
+    "install": [
+        {
+            "find": "GEP_JNSQ/GameData/GEP_JNSQ",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-ND",
+    "name": "Grannus Expansion Pack JNSQ [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169664-*",
+        "repository": "https://github.com/OhioBob/Grannus-Expansion-Pack"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.1.4",
+    "x_generated_by": "netkan"
+}

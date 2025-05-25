@@ -1,0 +1,131 @@
+{
+    "abstract": "This mod converts all the stock fuel tanks and resource containers so that you can change the resource(s) they hold in Editor and in Flight.",
+    "author": [
+        "allista"
+    ],
+    "conflicts": [
+        {
+            "name": "ModularFuelTanks"
+        },
+        {
+            "name": "RealFuels"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "AT-Utils"
+        },
+        {
+            "name": "ConfigurableContainers-Core"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1002/Configurable%20Containers/download/2.4.8.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E96E72652EE3813A23CE26C78A5CD8A5F020C7B7",
+        "sha256": "940A93890976143081DEAE2C0484D40B415107D39A81763A4EF5B20FA7B8F033"
+    },
+    "download_size": 260954,
+    "identifier": "ConfigurableContainers",
+    "install": [
+        {
+            "file": "GameData/ConfigurableContainers",
+            "filter": [
+                "TankTypes.cfg",
+                "TankConfigs.cfg",
+                "Cryogenics.cfg"
+            ],
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.9.1",
+    "license": "MIT",
+    "name": "Configurable Containers",
+    "resources": {
+        "bugtracker": "https://github.com/allista/ConfigurableContainers/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150104-12-configurable-containers",
+        "metanetkan": "https://raw.githubusercontent.com/allista/ConfigurableContainers/master/ConfigurableContainers.netkan",
+        "repository": "https://github.com/allista/ConfigurableContainers",
+        "spacedock": "https://spacedock.info/mod/1002/Configurable%20Containers",
+        "x_screenshot": "https://spacedock.info/content/allista_931/Configurable_Containers/Configurable_Containers-1476558929.8494947.png"
+    },
+    "spec_version": "v1.16",
+    "suggests": [
+        {
+            "name": "KSP-AVC"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "supports": [
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "Goodspeed"
+        },
+        {
+            "name": "KWRocketryRebalanced"
+        },
+        {
+            "name": "Mk2Expansion"
+        },
+        {
+            "name": "Mk3Expansion"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "SpaceY-Expanded"
+        },
+        {
+            "name": "FuelTanksPlus"
+        },
+        {
+            "name": "ModRocketSys"
+        },
+        {
+            "name": "StandardPropulsionSystems"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "TALSphericalToroidalPack"
+        },
+        {
+            "name": "MunarIndustriesFTX"
+        },
+        {
+            "name": "RaginCaucasian"
+        },
+        {
+            "name": "B9-PWings-Fork"
+        },
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "StockalikeMiningExtension"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "StreamlineEnginesRCSsandfueltank"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "2.4.8.2",
+    "x_generated_by": "netkan"
+}

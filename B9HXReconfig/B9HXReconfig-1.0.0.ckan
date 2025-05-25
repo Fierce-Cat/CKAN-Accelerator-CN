@@ -1,0 +1,49 @@
+{
+    "abstract": "Brings contemporary performance buffs and gameplay features to B9 HX megaship parts",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9AerospaceHX"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2319/B9%20HX%20Reconfig/download/1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "10EC955C05DC75233166E1DCE66091945EAE8214",
+        "sha256": "25FCF4614B6B78BAEE36A1A88DA999E22B306D1E9FC132951860E772E067EB33"
+    },
+    "download_size": 254689,
+    "identifier": "B9HXReconfig",
+    "install": [
+        {
+            "find": "B9_HX_Reconfig",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.1",
+    "license": "CC-BY-NC-SA",
+    "name": "B9 HX Reconfig",
+    "release_date": "2020-02-02T03:30:15.39858+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191354-b9-hx-reconfig-10-feb-1-2020/",
+        "repository": "https://github.com/JadeOfMaar/B9HXReconfig/",
+        "spacedock": "https://spacedock.info/mod/2319/B9%20HX%20Reconfig",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/B9_HX_Reconfig/B9_HX_Reconfig-1580614241.1814992.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "parts"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

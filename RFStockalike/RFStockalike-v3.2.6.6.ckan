@@ -1,0 +1,58 @@
+{
+    "abstract": "Adds RealFuels configs to stock and many mods' engines, keeping engine role as designed to fit with stock and stock-aligned mods. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Raptor831",
+    "comment": "Version file has a syntax error.   Multiple configs can be installed; RO disables its engine configs if RFStockalike is detected. KSP-CKAN/NetKAN#55.",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealFuels"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Raptor831/RFStockalike/releases/download/v3.2.6.6/RFStockalike--v3.2.6.6-39.zip?auth_key=1748275917-79ca91c78b7d4498b3c4e2a2c66aa0f6-0-eb7e6a72a0163dffd59050803c79afef&size=1114131&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A0191A7469BB35AA723B07AE278BE63FFD9A41FB",
+        "sha256": "00D99E4F6A43E6FF94781CCAD6A9268977ABAE76C28BA4BF39CAB89D702AD66A"
+    },
+    "download_size": 1114131,
+    "identifier": "RFStockalike",
+    "install": [
+        {
+            "find": "GameData/RealFuels-Stockalike",
+            "install_to": "GameData"
+        },
+        {
+            "find": "GameData/RealPlume-RFStockalike",
+            "install_to": "GameData"
+        },
+        {
+            "find": "GameData/zzRFStockalike",
+            "install_to": "GameData"
+        }
+    ],
+    "license": "CC-BY-SA",
+    "name": "Real Fuels: Stockalike RF Configs [PRO-KCMIRROR]",
+    "provides": [
+        "RealPlumeConfigs",
+        "RealFuels-Engine-Configs"
+    ],
+    "recommends": [
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "release_date": "2019-01-20T23:25:46Z",
+    "resources": {
+        "bugtracker": "https://github.com/Raptor831/RFStockalike/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/73410-*",
+        "repository": "https://github.com/Raptor831/RFStockalike"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "v3.2.6.6",
+    "x_generated_by": "netkan"
+}

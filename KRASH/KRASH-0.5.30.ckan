@@ -1,0 +1,44 @@
+{
+    "abstract": "Simulation mod",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/302/KRASH%20-%20Kerbal%20Ramification%20Artifical%20Simulation%20Hub%20%28simulation%20mod%20for%20KSP%29/download/0.5.30",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0C1F9AB418ADA7E8DEC069AB1BB5D7DC011AFCF8",
+        "sha256": "660F4591200BF69AA103AB60E832C35B897681832B4B4CF6C45AC45857CBC2B1"
+    },
+    "download_size": 100854,
+    "identifier": "KRASH",
+    "install": [
+        {
+            "find": "KRASH",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.3",
+    "ksp_version_min": "1.5.1",
+    "license": "MIT",
+    "name": "KRASH - Kerbal Ramification Artifical Simulation Hub (simulation mod for KSP)",
+    "recommends": [
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133082-krash-kerbal-ramification-artifical-simulation-hub-simulation-mod-for-ksp/",
+        "repository": "https://github.com/linuxgurugamer/KRASH",
+        "spacedock": "https://spacedock.info/mod/302/KRASH%20-%20Kerbal%20Ramification%20Artifical%20Simulation%20Hub%20(simulation%20mod%20for%20KSP)",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/KRASH_-_Kerbal_Ramification_Artifical_Simulation_Hub_simulation_mod_for_KSP/KRASH_-_Kerbal_Ramification_Artifical_Simulation_Hub_simulation_mod_for_KSP-1456623331.1446705.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.5.30",
+    "x_generated_by": "netkan"
+}

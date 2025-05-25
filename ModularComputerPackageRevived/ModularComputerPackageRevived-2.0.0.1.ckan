@@ -1,0 +1,89 @@
+{
+    "abstract": "This is a small parts pack which provides a configurable computer core",
+    "author": [
+        "CSVoltage",
+        "micha030201",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3099/Modular%20Computer%20Package%20Revived/download/2.0.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "15F72E0135F649CEBE3E36C9B834A4E6D7A84010",
+        "sha256": "B2B29CB410C0A512A625E72CFE97D1612D4488F5E2E25FF6286AE42A3243B2CD"
+    },
+    "download_size": 2961872,
+    "identifier": "ModularComputerPackageRevived",
+    "install": [
+        {
+            "find": "ChromaWorks",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 11408422,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA",
+    "name": "Modular Computer Package Revived",
+    "recommends": [
+        {
+            "name": "KAS"
+        }
+    ],
+    "release_date": "2022-08-31T00:53:58.510932+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/ChromaWorks/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209559-112x-modular-computer-package-revived/",
+        "remote-avc": "http://ksp.spacetux.net/avc/ChromaWorks",
+        "repository": "https://github.com/linuxgurugamer/ChromaWorks",
+        "spacedock": "https://spacedock.info/mod/3099/Modular%20Computer%20Package%20Revived",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Modular_Computer_Package_Revived/Modular_Computer_Package_Revived-1661809542.png"
+    },
+    "spec_version": "v1.18",
+    "supports": [
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "KSPInterstellarExtended"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "BDArmory"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "TarsierSpaceTechnologyWithGalaxies"
+        },
+        {
+            "name": "Graphotron"
+        }
+    ],
+    "tags": [
+        "parts",
+        "information",
+        "control"
+    ],
+    "version": "2.0.0.1",
+    "x_generated_by": "netkan"
+}

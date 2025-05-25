@@ -1,0 +1,54 @@
+{
+    "abstract": "A part of RSS-Origin, which replaces your skybox with a high-quality Milky Way background. This is the 32k res version [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "CharonSSS",
+    "conflicts": [
+        {
+            "name": "RSSOrigin-GalaxyTex"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/CharonSSS/RSS-Origin/releases/download/v1.1.0/RSS-Origin.GalaxyTex32k.zip?auth_key=1748275918-33754b92eb3c4788af1939e86bd46936-0-d31bfe77a194bdfc8ff1eb057e302cc2&size=124994330&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "973542CF0EC70AECA5323D4F947D0A6A1E4D11F1",
+        "sha256": "09EF6D04C3903B897A474FFD69DC2826C4B72FC37169C5ED455AB14E42493417"
+    },
+    "download_size": 124994330,
+    "identifier": "RSSOrigin-GalaxyTex-32k",
+    "install": [
+        {
+            "find": "RSSOrigin",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 268436455,
+    "ksp_version": "1.12",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "RSS-Origin GalaxyTex32k [PRO-KCMIRROR]",
+    "provides": [
+        "RSSOrigin-GalaxyTex"
+    ],
+    "recommends": [
+        {
+            "name": "RSSOrigin"
+        }
+    ],
+    "release_date": "2024-07-27T16:27:14Z",
+    "resources": {
+        "bugtracker": "https://github.com/CharonSSS/RSS-Origin/issues",
+        "repository": "https://github.com/CharonSSS/RSS-Origin"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "graphics"
+    ],
+    "version": "v1.1.0",
+    "x_generated_by": "netkan"
+}

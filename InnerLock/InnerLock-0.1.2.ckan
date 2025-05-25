@@ -1,0 +1,43 @@
+{
+    "abstract": "This mods allows to lock moving parts in place when they should not be moved.",
+    "author": "whale_2",
+    "download": "https://spacedock.info/mod/2113/InnerLock/download/0.1.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CF1E3A31EBCBAC39A2FF5CE04817AD1F4DA3C1A7",
+        "sha256": "1C7A848485AB2388F2EF7735D8B817B8182ADDFD581B16D8BAB191F8E0BD1172"
+    },
+    "download_size": 185194,
+    "identifier": "InnerLock",
+    "install": [
+        {
+            "find": "InnerLock",
+            "install_to": "GameData"
+        },
+        {
+            "find": "MagicSmokeIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 866703,
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "InnerLock",
+    "release_date": "2020-02-15T10:48:46.342122+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/whale2/InnerLock/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182833-131-151-161-inner-lock-lock-your-inner-parts/",
+        "remote-avc": "https://raw.githubusercontent.com/whale2/InnerLock/master/GameData/InnerLock/InnerLock.version",
+        "repository": "https://github.com/whale2/InnerLock",
+        "spacedock": "https://spacedock.info/mod/2113/InnerLock",
+        "x_screenshot": "https://spacedock.info/content/whale_2_17233/InnerLock/InnerLock-1581763585.2694716.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "0.1.2",
+    "x_generated_by": "netkan"
+}

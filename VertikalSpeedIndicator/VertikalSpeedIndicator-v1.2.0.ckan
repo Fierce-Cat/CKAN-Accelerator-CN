@@ -1,0 +1,36 @@
+{
+    "abstract": "Simple KSP landing aid mod which changes the NavBall speed text colour depending on whether you are ascending or descending",
+    "author": "FruitGooseKSP",
+    "download": "https://spacedock.info/mod/2705/Vertikal%20Speed%20Indicator/download/v1.2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A97739D2295F2213A35877FF7A641167D2B35B07",
+        "sha256": "186F581A849EED88C9DF7E02CFBF2BF0A510E9F58C89C72EF57A64D34C0608E4"
+    },
+    "download_size": 19980,
+    "identifier": "VertikalSpeedIndicator",
+    "install": [
+        {
+            "find": "FruitKocktail",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.11.2",
+    "license": "MIT",
+    "name": "Vertikal Speed Indicator",
+    "release_date": "2021-05-17T15:35:22.946882+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/FruitGooseKSP/VSIndicator/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201898-1112-vertikal-speed-indicator-a-simple-landing-aid-mod/",
+        "repository": "https://github.com/FruitGooseKSP/VSIndicator",
+        "spacedock": "https://spacedock.info/mod/2705/Vertikal%20Speed%20Indicator",
+        "x_screenshot": "https://spacedock.info/content/FruitGooseKSP_58074/Vertikal_Speed_Indicator/Vertikal_Speed_Indicator-1619047760.7766168.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "v1.2.0",
+    "x_generated_by": "netkan"
+}

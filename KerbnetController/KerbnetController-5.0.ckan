@@ -1,0 +1,37 @@
+{
+    "abstract": "Adds a KerbNet button to the toolbar along with several useful KerbNet features",
+    "author": "DMagic",
+    "download": "https://spacedock.info/mod/986/KerbNet%20Controller/download/5.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2E9D820AFCF154F9D4917CA8538FC8A6A7557236",
+        "sha256": "2034EAC55A54E63A8AB80E53277E4CF8EFD8AFB6144D3915B567279B52A5ED44"
+    },
+    "download_size": 15760,
+    "identifier": "KerbnetController",
+    "install": [
+        {
+            "find": "KerbNetController",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.8",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "KerbNet Controller",
+    "release_date": "2019-10-30T04:22:36.520125+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/DMagic1/KSP_KerbNetController/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/108704-1",
+        "remote-avc": "https://raw.githubusercontent.com/DMagic1/KSP_KerbNetController/master/GameData/KerbNetController/KerbNetController.version",
+        "repository": "https://github.com/DMagic1/KSP_KerbNetController",
+        "spacedock": "https://spacedock.info/mod/986/KerbNet%20Controller",
+        "x_screenshot": "https://spacedock.info/content/DMagic_247/KerbNet_Controller/KerbNet_Controller-1476393394.54287.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "5.0",
+    "x_generated_by": "netkan"
+}

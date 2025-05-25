@@ -1,0 +1,54 @@
+{
+    "abstract": "Old rocket parts from the dawn of the rocket age, back during kerbals Komplete Konflict II.  Wernher von Kerben's legacy. Old Aggregate rockets including those that were never built. For Kerbal Space Program.",
+    "author": [
+        "TiktaalikDreaming",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/42/Wernher's%20Old%20Stuff%20(WOS)/download/1.9.99.0-adoption",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F386D3EE0EBCE3FF5EC2216B958BF1D562450477",
+        "sha256": "5912CDB3CD71990AD7362131AF2042CC00ABF04CCD56FD30664D569453D8E9AE"
+    },
+    "download_size": 56159046,
+    "identifier": "WernhersOldBits",
+    "install": [
+        {
+            "find": "WernhersOldStuff",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 212682745,
+    "ksp_version_max": "1.12.4",
+    "ksp_version_min": "1.7.1",
+    "license": "MIT",
+    "name": "Wernher's Old Stuff (WOS)",
+    "recommends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "release_date": "2022-11-04T02:30:43.600178+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/WernhersOldStuff/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/207233-*/",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/WernhersOldStuff/master/WernhersOldStuff.version",
+        "repository": "https://github.com/zer0Kerbal/WernhersOldStuff",
+        "spacedock": "https://spacedock.info/mod/42/Wernher's%20Old%20Stuff%20(WOS)",
+        "x_screenshot": "https://spacedock.info/content/TiktaalikDreaming_235/Wernhers_Old_Stuff_WOS/Wernhers_Old_Stuff_WOS-1667528746.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.9.99.0-adoption",
+    "x_generated_by": "netkan"
+}

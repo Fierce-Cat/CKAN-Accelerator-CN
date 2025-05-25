@@ -1,0 +1,40 @@
+{
+    "abstract": "This optional patch makes the power output of RTGs (both stock and Near Future's) shrink over time, like they would in real life.",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "NearFutureElectrical"
+        }
+    ],
+    "download": "https://spacedock.info/mod/558/Near%20Future%20Electrical/download/1.1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5ECD725A4B8E4C5C9F5F9E1A4D94493B835BDA03",
+        "sha256": "38AF64661AC927921E5EA30548CE633645BB1D2FEFCC1D12023CA235E6322092"
+    },
+    "download_size": 13672928,
+    "identifier": "NearFutureElectrical-DecayingRTGs",
+    "install": [
+        {
+            "find": "DecayingRTGs",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Near Future Electrical - Decaying RTGs",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155465-122-near-future-technologies",
+        "metanetkan": "https://github.com/ChrisAdderley/NearFutureElectrical/raw/master/CKAN/NearFutureElectrical-DecayingRTGs.netkan",
+        "repository": "https://github.com/ChrisAdderley/NearFutureElectrical",
+        "spacedock": "https://spacedock.info/mod/558/Near%20Future%20Electrical",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Electrical/Near_Future_Electrical-1461341733.2071052.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "1.1.0",
+    "x_generated_by": "netkan"
+}

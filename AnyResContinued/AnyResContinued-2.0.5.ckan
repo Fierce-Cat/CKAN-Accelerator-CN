@@ -1,0 +1,51 @@
+{
+    "abstract": "Change your screen resolution on the fly [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "AnyRes"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/AnyRes/releases/download/2.0.5/AnyRes-1.10.1-2.0.5.zip?auth_key=1748275917-031099bf59f84891a51e507f44edf380-0-069b53259597666d61e36873dd0940c8&size=19789&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B966154CD0BEF13FE036862C9B063ABD4CBA26AA",
+        "sha256": "964486AC5FBB72BCE4C113ED8DA9B4A1D8A8C29DBF2344B3A3BA4477A613870E"
+    },
+    "download_size": 19789,
+    "identifier": "AnyResContinued",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "AnyRes",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-4.0",
+    "name": "AnyRes Continued [PRO-KCMIRROR]",
+    "release_date": "2021-05-25T22:46:22Z",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170160-131-anyres-continued-change-your-screen-resolution-on-the-fly/",
+        "remote-avc": "http://ksp.spacetux.net/avc/AnyRes",
+        "repository": "https://github.com/linuxgurugamer/AnyRes",
+        "spacedock": "https://spacedock.info/mod/1681/AnyRes%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/AnyRes_Continued/AnyRes_Continued-1517085590.1798694.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "2.0.5",
+    "x_generated_by": "netkan"
+}

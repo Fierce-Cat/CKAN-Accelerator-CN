@@ -1,0 +1,42 @@
+{
+    "abstract": "Ascension comet made into a stockalike member of Kerbol system",
+    "author": "lajoswinkler",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1409/Realistic%20Ascension/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "08A5A7701913AB82D2A2EBA22741A8FE56E85229",
+        "sha256": "56A184044C70D44A1261285851612D2EAD010FC0F87FEAFF62734CD94C131BFC"
+    },
+    "download_size": 671457,
+    "identifier": "RealisticAscension",
+    "install": [
+        {
+            "find": "RealisticAscension",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "GPL-3.0",
+    "name": "Realistic Ascension",
+    "release_date": "2018-10-26T16:28:54.066125+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/161853-151-realistic-ascension-2018-10-26/",
+        "spacedock": "https://spacedock.info/mod/1409/Realistic%20Ascension",
+        "x_screenshot": "https://spacedock.info/content/lajoswinkler_1395/Realistic_Ascension/Realistic_Ascension-1497021318.3638036.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

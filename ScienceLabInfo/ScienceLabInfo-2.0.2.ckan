@@ -1,0 +1,57 @@
+{
+    "abstract": "Show more info about Science Labs in the Editor and Flight and add enhanced 6-Crew Lab [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "flart",
+    "conflicts": [
+        {
+            "name": "SixCrewScienceLab"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/yalov/ScienceLabInfo/releases/download/2.0.2/ScienceLabInfo-v2.0.2.zip?auth_key=1748275915-ddcea5c295d442a590d9ca7c2f961d8c-0-2788f20ad08d27c923ae8618a08a59ce&size=380311&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EA41E2E041A282869849BDAE1D89EAEFCF7EA9C5",
+        "sha256": "6E2653ED0940EC31F0ED49D56AE85C08773B38A5EA7AFAEE5F8B5C813648F837"
+    },
+    "download_size": 380311,
+    "identifier": "ScienceLabInfo",
+    "install_size": 794011,
+    "ksp_version_max": "1.12.9",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "Science Lab Info (and 6 Crew Lab) [PRO-KCMIRROR]",
+    "release_date": "2022-05-05T16:29:10Z",
+    "resources": {
+        "bugtracker": "https://github.com/yalov/ScienceLabInfo/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179385-*",
+        "remote-avc": "https://raw.githubusercontent.com/yalov/ScienceLabInfo/master/ScienceLabInfo.version",
+        "repository": "https://github.com/yalov/ScienceLabInfo"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "SpeedUnitAnnex"
+        },
+        {
+            "name": "CommunityPartsTitles"
+        },
+        {
+            "name": "CommNetAntennasExtension"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "science",
+        "information"
+    ],
+    "version": "2.0.2",
+    "x_generated_by": "netkan"
+}

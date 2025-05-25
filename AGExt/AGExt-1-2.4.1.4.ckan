@@ -1,0 +1,60 @@
+{
+    "abstract": "Increases the number of action groups to 250 and allows in-flight editing. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Diazo",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/AGExt/releases/download/2.4.1.4/AGExt-1.12.0-2.4.1.4.zip?auth_key=1748275917-578739d52ebb415b99643fe22866846d-0-ba151180c98a55d74731770aee64c019&size=136813&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "805DB08B3F089C78C049DD6FE82FC902A25311F0",
+        "sha256": "FA5F56288165321775C96674A1B64E49C353CCFEC57FD4D7979AFB1C1005F7AA"
+    },
+    "download_size": 136813,
+    "identifier": "AGExt",
+    "install": [
+        {
+            "file": "GameData/Diazo",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 305431,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "jp",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Action Groups Extended [PRO-KCMIRROR]",
+    "release_date": "2024-12-20T23:42:17Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/AGExt/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167269-1",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/AGExt/refs/heads/master/AGExt.version",
+        "repository": "https://github.com/linuxgurugamer/AGExt",
+        "spacedock": "https://spacedock.info/mod/1685/Action%20Groups%20Extended"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:2.4.1.4",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,61 @@
+{
+    "abstract": "Many types of cameras for vessels",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "HullcamVDS"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/HullcamVDSContinued/releases/download/0.2.2.2/HullcamVDSContinued-1.12.0-0.2.2.2.zip",
+        "https://spacedock.info/mod/885/HullcamVDS%20Continued/download/0.2.2.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "71F04DB1CE7F5F36ADD55278DAA12D8894971961",
+        "sha256": "A0F92380D8C18335B2C8C97198B0A1A44D6CC79221E5A694F93CAF24FF6697C7"
+    },
+    "download_size": 6830471,
+    "identifier": "HullcamVDSContinued",
+    "install": [
+        {
+            "find": "HullCameraVDS",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 12959157,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.11.1",
+    "license": "GPL-3.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "zh-cn"
+    ],
+    "name": "HullcamVDS Continued",
+    "provides": [
+        "HullcamVDS"
+    ],
+    "release_date": "2024-12-30T00:21:47.565591+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/HullcamVDSContinued/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/145633-113-hullcam-vds-continued/&do=findComment&comment=2710247",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/HullcamVDSContinued/refs/heads/master/HullcamVDSContinued.version",
+        "repository": "https://github.com/linuxgurugamer/HullcamVDSContinued",
+        "spacedock": "https://spacedock.info/mod/885/HullcamVDS%20Continued"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "version": "0.2.2.2",
+    "x_generated_by": "netkan"
+}

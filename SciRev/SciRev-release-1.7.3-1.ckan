@@ -1,0 +1,37 @@
+{
+    "abstract": "This mod changes your definition of science. Literally. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "StollD",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/StollD/SciRev/releases/download/release-1.7.3-1/SciRev-1.7.3-1.zip?auth_key=1748275915-f3fd7e9235a14fd7a8cc9ac89af9043f-0-930ee19f5432f8e5c4eaee511d302918&size=22296&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FE3ED275EF073E8632B20BBE9D69924FA5BE4C2A",
+        "sha256": "2E341AE46802FA7C899ACFED295F98F69B3478457BFB508C690470F981A8B213"
+    },
+    "download_size": 22296,
+    "identifier": "SciRev",
+    "install": [
+        {
+            "file": "Kopernicus.Parser.dll",
+            "install_to": "GameData/SciRev"
+        },
+        {
+            "file": "SciRev.dll",
+            "install_to": "GameData/SciRev"
+        }
+    ],
+    "license": "MIT",
+    "name": "Sci Rev [PRO-KCMIRROR]",
+    "release_date": "2019-07-29T17:07:15Z",
+    "resources": {
+        "bugtracker": "https://github.com/StollD/SciRev/issues",
+        "repository": "https://github.com/StollD/SciRev"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library",
+        "science"
+    ],
+    "version": "release-1.7.3-1",
+    "x_generated_by": "netkan"
+}

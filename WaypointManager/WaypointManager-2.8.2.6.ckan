@@ -1,0 +1,49 @@
+{
+    "abstract": "Display waypoints while in flight, create custom waypoints. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "jrossignol",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/WaypointManager/releases/download/2.8.2.6/WaypointManager-1.8.0-2.8.2.6.zip?auth_key=1748275918-49374c5c3d694dfe8e0803d263b7e7ce-0-008b240fb2bd010e037174cc33c7d790&size=112334&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "26C70B670750639BE96E1E63A5C4586DB6246D9D",
+        "sha256": "4964FEEF9F6AADD57343AB2622CA87C6A06AEDC07F972075A27A392EA8A17080"
+    },
+    "download_size": 112334,
+    "identifier": "WaypointManager",
+    "install": [
+        {
+            "find": "WaypointManager",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.99.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Waypoint Manager [PRO-KCMIRROR]",
+    "release_date": "2020-07-12T22:52:26Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/WaypointManager/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194876-18x-19x-waypoint-manager/",
+        "remote-avc": "http://ksp.spacetux.net/avc/WaypointManager",
+        "repository": "https://github.com/linuxgurugamer/WaypointManager"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information",
+        "convenience"
+    ],
+    "version": "2.8.2.6",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

@@ -1,0 +1,61 @@
+{
+    "abstract": "This System Heat configuration pack modifies nuclear reactors to use the SystemHeat backend. This principally applies to Near Future Electrical reactors. WARNING: potentially vessel-breaking. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SystemHeat"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/SystemHeat/releases/download/0.3.10/SystemHeat_0_3_10.zip?auth_key=1748275916-73d976a431244d52a35114503b4f5ce0-0-5ff53438973a35b86b69aac515223a35&size=2142595&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "00173457B0570B0EB00F06DEEF85B89DE89D0130",
+        "sha256": "2F2A8B28BCA4B5C3E727BAFD027237EF3FC0C69D76414218CA36577985CC1DD8"
+    },
+    "download_size": 2142595,
+    "identifier": "SystemHeat-FissionReactors",
+    "install": [
+        {
+            "find": "SystemHeatFissionReactors",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.11.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "System Heat - Nuclear Reactor Configuration [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "NearFutureElectrical"
+        }
+    ],
+    "release_date": "2021-03-14T06:23:38Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/SystemHeat/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193909-1",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/SystemHeat/raw/master/CKAN/SystemHeat-FissionReactors.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/SystemHeat/master/GameData/SystemHeat/Versioning/SystemHeat.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/SystemHeat"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SystemHeatConverters"
+        },
+        {
+            "name": "SystemHeatFissionEngines"
+        },
+        {
+            "name": "SystemHeatHarvesters"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "0.3.10",
+    "x_generated_by": "netkan"
+}

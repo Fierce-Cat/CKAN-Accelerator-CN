@@ -1,0 +1,59 @@
+{
+    "abstract": "Express Installation for RP-1 Graphics - Low Res version [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "KSP-RO Group",
+    "conflicts": [
+        {
+            "name": "RP-1-ExpressInstall-Graphics"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RSSTextures4096"
+        },
+        {
+            "name": "RP-1-ExpressInstall"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RP-1-ExpressInstall-Graphics/releases/download/v1.0.0.0/Low.zip?auth_key=1748275916-c1a26047602c423bb5772979bebffefc-0-49e408dfb7baf0760ecea822abc7a200&size=1247&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "398C4936F3785A2F753A59FC2F6523D9789132C6",
+        "sha256": "5EC58D719EE428F32019AAF9800FD2B63C820F6F3486D8121AAC94E9F8FCD0B6"
+    },
+    "download_size": 1247,
+    "identifier": "RP-1-ExpressInstall-Graphics-Low",
+    "install": [
+        {
+            "find": "RP-1-ExpressInstall-Graphics",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 776,
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.10.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Low Graphics [PRO-KCMIRROR]",
+    "provides": [
+        "RP-1-ExpressInstall-Graphics"
+    ],
+    "release_date": "2021-08-09T22:27:01Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*",
+        "metanetkan": "https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics/raw/main/RP-1-ExpressInstall-Graphics-Low.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/RP-1-ExpressInstall-Graphics/main/RP-1-ExpressInstall-Graphics.version",
+        "repository": "https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack",
+        "resources",
+        "graphics"
+    ],
+    "version": "v1.0.0.0",
+    "x_generated_by": "netkan"
+}

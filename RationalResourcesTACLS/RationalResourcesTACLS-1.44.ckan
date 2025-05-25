@@ -1,0 +1,51 @@
+{
+    "abstract": "Changes TAC converters in supported mods to produce less abstract Waste resource and more of what is in it that is useful to other mods",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RationalResources"
+        },
+        {
+            "name": "TACLS"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2201/Rational%20Resources/download/1.44",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "26BC701CF5F96B5D1408451968A23843BAF8076A",
+        "sha256": "E9806CA690FFFB32DC4283844B67323F777D6C78A4379202343C8D14B82A4DCD"
+    },
+    "download_size": 4452856,
+    "identifier": "RationalResourcesTACLS",
+    "install_size": 10138,
+    "ksp_version": "1.12.3",
+    "license": "MIT",
+    "name": "Rational Resources TAC LS",
+    "release_date": "2023-05-04T03:45:59.524634+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/RationalResources/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184875-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalResources/Version/RationalResources.version",
+        "repository": "https://github.com/JadeOfMaar/RationalResources",
+        "spacedock": "https://spacedock.info/mod/2201/Rational%20Resources",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Rational_Resources/Rational_Resources-1633389353.6822987.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "AirlineKuisine"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        }
+    ],
+    "tags": [
+        "config",
+        "convenience"
+    ],
+    "version": "1.44",
+    "x_generated_by": "netkan"
+}

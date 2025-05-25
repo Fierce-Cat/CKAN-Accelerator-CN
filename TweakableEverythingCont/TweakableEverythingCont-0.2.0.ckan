@@ -1,0 +1,48 @@
+{
+    "abstract": "Tweak parts to your hearts delight",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "ToadicusTools"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToadicusToolsContinued"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1059/TweakableEverythingContinued/download/0.2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "63299C96FD2A554381A92A018A590F5DF20AC7C5",
+        "sha256": "56E3F9934226CDDFDEC338AA654B4D0E40C07A26001BB95216841D3DAB0FCAF7"
+    },
+    "download_size": 88191,
+    "identifier": "TweakableEverythingCont",
+    "install": [
+        {
+            "file": "GameData/TweakableEverything",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "BSD-3-clause",
+    "name": "TweakableEverythingContinued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154841-122-tweakable-everything-continued-replacement/",
+        "repository": "https://github.com/linuxgurugamer/TweakableEverything",
+        "spacedock": "https://spacedock.info/mod/1059/TweakableEverythingContinued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/TweakableEverythingContinued/TweakableEverythingContinued-1479008463.6865757.png"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "0.2.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,44 @@
+{
+    "abstract": "A planet pack adding many bodies in another star system ",
+    "author": "strandedkerbal1",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3889/Yetirgu%20System/download/1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "443514110525DE5923ED83F9DC6BCBDFF0656BF5",
+        "sha256": "B51F958F41204A747DA881F0AA847736871993BD823E849C0C2C145985C99FF7"
+    },
+    "download_size": 97716198,
+    "identifier": "YetirguSystem",
+    "install": [
+        {
+            "find": "Yetirgu",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 237667147,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Yetirgu System",
+    "release_date": "2025-05-14T17:33:36.060049+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/strandedkerbal/YetirguSystem./issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227833-yetirgu-system-or-other-systems-soon/#comment-4460759",
+        "repository": "https://github.com/strandedkerbal/YetirguSystem.",
+        "spacedock": "https://spacedock.info/mod/3889/Yetirgu%20System",
+        "x_screenshot": "https://spacedock.info/content/strandedkerbal1_118443/Yetirgu_System/Yetirgu_System-1747108365.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "planet-pack"
+    ],
+    "version": "1.0.1",
+    "x_generated_by": "netkan"
+}

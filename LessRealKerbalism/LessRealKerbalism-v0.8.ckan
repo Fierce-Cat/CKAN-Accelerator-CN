@@ -1,0 +1,68 @@
+{
+    "abstract": "LRTR KerbalismConfig [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "pehvbot",
+    "conflicts": [
+        {
+            "name": "Kerbalism-Config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/pehvbot/LRKerbalism/releases/download/v0.8/LRKerbalism-v0.8.zip?auth_key=1748275918-76af4bea930640e698947b0db4b7bea3-0-6503752369a56a4a863297d5398e7ac2&size=14760942&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DDDC6901AD90942147066B7B69281140B4E5E2AF",
+        "sha256": "48E2907203BF24D49ED94E416836F5CB5BBFDFDC9F21091AD08E9C7C930AA3B7"
+    },
+    "download_size": 14760942,
+    "identifier": "LessRealKerbalism",
+    "install": [
+        {
+            "find": "KerbalismConfig",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.5.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us",
+        "zh-cn",
+        "es-es",
+        "ru",
+        "ko-kr",
+        "de-de",
+        "pt-br"
+    ],
+    "name": "Kerbalism - LRTR Config [PRO-KCMIRROR]",
+    "provides": [
+        "Kerbalism-Config"
+    ],
+    "recommends": [
+        {
+            "name": "LessRealThanReal"
+        }
+    ],
+    "release_date": "2020-12-24T03:34:35Z",
+    "resources": {
+        "bugtracker": "https://github.com/pehvbot/LRKerbalism/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189978-*",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=559",
+        "repository": "https://github.com/pehvbot/LRKerbalism"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config",
+        "crewed",
+        "science",
+        "parts"
+    ],
+    "version": "v0.8",
+    "x_generated_by": "netkan"
+}

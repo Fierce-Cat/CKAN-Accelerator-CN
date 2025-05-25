@@ -1,0 +1,50 @@
+{
+    "abstract": "Comfortable Landing can keep your Kerbals safe and feel comfortable even in the last minute of a mission",
+    "author": [
+        "IcecoveryStudio",
+        "flywlyx",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1528/Comfortable%20Landing/download/1.9.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "54F12395C1777E2FC896DBF74EEF88E41217E83C",
+        "sha256": "5173191D28C0E35446A9A64114ABD6F38962AF104B7EA0B43D216E32CB840EEF"
+    },
+    "download_size": 10958493,
+    "identifier": "ComfortableLanding",
+    "install": [
+        {
+            "find": "ComfortableLanding",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.9.1",
+    "license": "GPL-3.0",
+    "name": "Comfortable Landing",
+    "recommends": [
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "release_date": "2020-05-31T18:08:43.79574+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179556-15x-comfortable-landing-continued-v161/&tab=comments#comment-3553246",
+        "repository": "https://github.com/flywlyx/Comfortable-Landing",
+        "spacedock": "https://spacedock.info/mod/1528/Comfortable%20Landing",
+        "x_screenshot": "https://spacedock.info/content/IcecoveryStudio_9112/Comfortable_Landing/Comfortable_Landing-1506168264.9443016.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "version": "2:1.9.1",
+    "x_generated_by": "netkan"
+}

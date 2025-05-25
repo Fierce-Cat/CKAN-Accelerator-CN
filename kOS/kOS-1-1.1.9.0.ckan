@@ -1,0 +1,50 @@
+{
+    "abstract": "kOS is a scriptable autopilot Mod for Kerbal Space Program. It allows you write small programs that automate specific tasks. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "many KSP-KOS contributers, currently dunbaratu and hvacengi",
+    "conflicts": [
+        {
+            "name": "kOS-Classic"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-KOS/KOS/releases/download/v1.1.9.0/kOS-v1.1.9.0.zip?auth_key=1748275915-38fc06309b0346ce98c9f548fa3a2d61-0-9c5cde77199f1708aea285a530372f87&size=3069328&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F527B8150B4665F390C3BE34264B19196CF4CA84",
+        "sha256": "6D1ABD6FB5DAF371C82C1F575664214FBCF8995E03A2CAD36CCD7F413260AB80"
+    },
+    "download_size": 3069328,
+    "identifier": "kOS",
+    "install": [
+        {
+            "file": "GameData/kOS",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.7.0",
+    "license": "GPL-3.0",
+    "name": "kOS: Scriptable Autopilot System [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "comment": "Earlier versions of MM have forward compatibility problems, according to the MM release notes.",
+            "min_version": "2.5.6",
+            "name": "ModuleManager"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://ksp-kos.github.io/KOS_DOC/",
+        "manual": "http://ksp-kos.github.io/KOS_DOC/",
+        "repository": "https://github.com/KSP-KOS/KOS"
+    },
+    "spec_version": "v1.16",
+    "suggests": [
+        {
+            "comment": "RT gives incentive to having local control of craft, even unmanned ones",
+            "min_version": "1.5.1",
+            "name": "RemoteTech"
+        }
+    ],
+    "version": "1:1.1.9.0",
+    "x_generated_by": "netkan"
+}

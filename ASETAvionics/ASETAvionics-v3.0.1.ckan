@@ -1,0 +1,65 @@
+{
+    "abstract": "An Aircraft-style \"props\" pack for use in IVAs.",
+    "author": [
+        "alexustas",
+        "StoneBlue",
+        "JonnyOThan"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ASETAgency"
+        },
+        {
+            "min_version": "2.0.0",
+            "name": "ASETProps"
+        },
+        {
+            "min_version": "1:v0.30.2",
+            "name": "RasterPropMonitor-Core"
+        }
+    ],
+    "download": [
+        "https://github.com/FirstPersonKSP/ASET_Avionics/releases/download/v3.0.1/ASET.Consolidated.Avionics.Pack.v3.0.1.zip",
+        "https://spacedock.info/mod/3239/ASET%20Consolidated%20Avionics%20Pack/download/v3.0.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2FBE732341C98712A318944D38108E2D1D9F06BA",
+        "sha256": "D7BB5DBD4B2D979B4B9D2A49C80BB2EB060B3E10EDD36855707DD0730520860F"
+    },
+    "download_size": 5706013,
+    "identifier": "ASETAvionics",
+    "install": [
+        {
+            "find": "ASET",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 12812970,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "ASET Consolidated Avionics Pack",
+    "release_date": "2023-04-13T20:47:23.909618+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/StoneBlue/ASET-Consolidated-Avionics/issues",
+        "discussions": "https://github.com/FirstPersonKSP/ASET_Avionics/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/211905-wip-1125-181-aset-consolidated-avionics-props-iva-packs",
+        "remote-avc": "https://raw.githubusercontent.com/StoneBlue/ASET-Consolidated-Avionics/main/GameData/ASET/ASET_Avionics/ASET_Avionics.version",
+        "repository": "https://github.com/StoneBlue/ASET-Consolidated-Avionics",
+        "spacedock": "https://spacedock.info/mod/3239/ASET%20Consolidated%20Avionics%20Pack",
+        "x_screenshot": "https://spacedock.info/content/StoneBlue_14786/ASET_Consolidated_Avionics_Pack/ASET_Consolidated_Avionics_Pack-1676219079.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "library",
+        "crewed",
+        "first-person"
+    ],
+    "version": "v3.0.1",
+    "x_generated_by": "netkan"
+}

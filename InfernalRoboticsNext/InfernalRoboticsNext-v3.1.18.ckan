@@ -1,0 +1,64 @@
+{
+    "abstract": "Robotic parts for your constructions [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Rudolf Meier",
+        "ZodiusInfuser",
+        "Ziw",
+        "sirkut"
+    ],
+    "conflicts": [
+        {
+            "name": "InfernalRobotics"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "IR-ConnectionSystem"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/meirumeiru/InfernalRobotics/releases/download/v3.1.18/InfernalRobotics_v3.1.18.zip?auth_key=1748275917-058fdbd151814cffa97c82c1f1070ef8-0-c2c1dc042447ae91b494b6eddd5c74a2&size=3171580&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "F55AAC407038F52D791ED35EC3D9B54F0DFD001BAE52C351225D13C98D4406D0"
+    },
+    "download_size": 3171580,
+    "identifier": "InfernalRoboticsNext",
+    "install": [
+        {
+            "file": "GameData/MagicSmokeIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 11156600,
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Infernal Robotics - Next [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KerbalJointReinforcementNext"
+        },
+        {
+            "name": "CameraControllerNext"
+        }
+    ],
+    "release_date": "2025-02-21T14:08:05Z",
+    "release_status": "testing",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184787-*",
+        "remote-avc": "https://github.com/meirumeiru/InfernalRobotics/raw/develop/Resources/GameData/MagicSmokeIndustries/InfernalRobotics.version",
+        "repository": "https://github.com/meirumeiru/InfernalRobotics"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "v3.1.18",
+    "x_generated_by": "netkan"
+}

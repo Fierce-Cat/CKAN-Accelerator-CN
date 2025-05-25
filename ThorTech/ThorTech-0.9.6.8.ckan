@@ -1,0 +1,52 @@
+{
+    "abstract": "Electric engines and complementary parts, old-school and sci-fi, for your early and late-game spaceplane needs.",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DeepSkyCore"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1620/Thor%20Tech/download/0.9.6.8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "78E5B137451459E30AFF6CBE78FC4962554A8FCD",
+        "sha256": "0D27ED4DD2B24F2ACB21BC7DF9242185FB56DFDCD322B782B1A224CED3FF44E1"
+    },
+    "download_size": 13747005,
+    "identifier": "ThorTech",
+    "install": [
+        {
+            "find": "ThorTech",
+            "install_to": "GameData/DeepSky"
+        }
+    ],
+    "install_size": 39054449,
+    "ksp_version_max": "1.11.0",
+    "ksp_version_min": "1.9.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Thor Tech",
+    "release_date": "2020-08-07T17:59:58.094913+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/ThorTech/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/168326-131-thor-tech-v085-~-dec-17-2017/",
+        "remote-avc": "https://raw.githubusercontent.com:443/JadeOfMaar/ThorTech/master/GameData/DeepSky/ThorTech/Version/ThorTech.version",
+        "repository": "https://github.com/JadeOfMaar/ThorTech",
+        "spacedock": "https://spacedock.info/mod/1620/Thor%20Tech",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Thor_Tech/Thor_Tech-1523334177.5981305.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.9.6.8",
+    "x_generated_by": "netkan"
+}

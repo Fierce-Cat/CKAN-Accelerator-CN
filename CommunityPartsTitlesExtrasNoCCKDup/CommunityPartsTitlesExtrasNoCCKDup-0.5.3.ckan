@@ -1,0 +1,46 @@
+{
+    "abstract": "If parts are placed in a CCK category, it usually also appeared in the original category. This patch hide all CCK-parts from the original categories. CPT give new titles considering the No Duplicates, so it is recommended. The mod was separated, because it has one disadvantage: parts what was hided from their original categories are not available in the search. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "flart",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/yalov/CommunityPartsTitles/releases/download/0.5.3/CommunityPartsTitles-v0.5.3.zip?auth_key=1748275916-d02b027f4ab144bf96e0053925075dba-0-8b2d31cf009c607a1e8e9e9c4e6516ce&size=144817&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "25255BF870A760C19ADDC0BCB9E237E705589119",
+        "sha256": "EB88E84B0229FAF9DD2E8D82EB707FF82FA45C493C4D193AA111775D8673A6BD"
+    },
+    "download_size": 144817,
+    "identifier": "CommunityPartsTitlesExtrasNoCCKDup",
+    "install": [
+        {
+            "comment": "Install category_hide_cck.cfg into Extras/ folder. So it is kind of Extra for Extra.",
+            "file": "GameData/002_CommunityPartsTitles/Extras/category_hide_cck.cfg",
+            "install_to": "GameData/002_CommunityPartsTitles/Extras"
+        }
+    ],
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.3.0",
+    "license": "GPL-3.0",
+    "name": "Community Parts Titles Extras: CCK - No Duplicates [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "CommunityPartsTitles"
+        },
+        {
+            "name": "CommunityPartsTitlesExtrasCategory"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174189-*",
+        "repository": "https://github.com/yalov/CommunityPartsTitles"
+    },
+    "spec_version": "v1.4",
+    "version": "0.5.3",
+    "x_generated_by": "netkan"
+}

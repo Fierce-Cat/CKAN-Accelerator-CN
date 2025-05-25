@@ -1,0 +1,58 @@
+{
+    "abstract": "Fuji (ふじ) was a crewed spacecraft of the space capsule kind, proposed by Japan's National Space Development Agency (NASDA) Advanced mission Research center in December 2001.",
+    "author": "Well",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "download": [
+        "https://github.com/AstroWell/Fuji/releases/download/v1.4/Fuji_1.4.zip",
+        "https://spacedock.info/mod/2240/Fuji/download/1.4"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "98A1CC27A0CF0B83A0C1C019015523193723ECFE",
+        "sha256": "9BF7736E5C0633F36CB0E7E86FF237A42A7EC847D17E8C98D0748A4936AAF86E"
+    },
+    "download_size": 4994666,
+    "identifier": "Fuji",
+    "install": [
+        {
+            "find": "Fuji",
+            "install_to": "GameData"
+        },
+        {
+            "file": "CraftFiles/VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 17286601,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-ND-4.0",
+    "localizations": [
+        "en-us",
+        "fr-fr"
+    ],
+    "name": "Fuji",
+    "release_date": "2022-07-18T15:17:25.351978+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/AstroWell/Fuji/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188488-173-fuji-10/",
+        "repository": "https://github.com/AstroWell/Fuji",
+        "spacedock": "https://spacedock.info/mod/2240/Fuji",
+        "x_screenshot": "https://spacedock.info/content/Well_7448/Fuji/Fuji-1569425093.842322.jpg"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "crewed",
+        "first-person",
+        "graphics",
+        "parts"
+    ],
+    "version": "1.4",
+    "x_generated_by": "netkan"
+}

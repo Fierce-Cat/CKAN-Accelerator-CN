@@ -1,0 +1,40 @@
+{
+    "abstract": "Adds configurable auditory/visual alerts.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1260/Danger%20Alerts%20Continued/download/1.4.5.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8BBC1D3A48F716C2146FBC486FDEB027F518ACFB",
+        "sha256": "942707A37A4F3F66A89BCA7CF46F7CF761C815F80023D0942985CF8C70275F8A"
+    },
+    "download_size": 1818213,
+    "identifier": "DangerAlertsContinued",
+    "install": [
+        {
+            "find": "DangerAlerts",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Danger Alerts Continued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/157835-danger-alerts-continued/",
+        "repository": "https://github.com/linuxgurugamer/DangerAlerts",
+        "spacedock": "https://spacedock.info/mod/1260/Danger%20Alerts%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Danger_Alerts_Continued/Danger_Alerts_Continued-1489584639.613014.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.4.5.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

@@ -1,0 +1,44 @@
+{
+    "abstract": "The Minor Planets Expansion (MPE) is made to work along-side the glorious Outer Planets Mod to make a more complete analogue to our real solar system. It does so by adding a total of 15 new objects, from asteroids to dwarf planets! All of which use hand-drawn heightmaps, have biome maps, and even science definitions!",
+    "author": "Exos_Lab",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2383/Minor%20Planets%20Expansion/download/1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D2AEECF7723FDD74B862904C0E20DE659BA79CF6",
+        "sha256": "133EB5D42549A641D6314F162CA4F4248618D9B64DCB1A8F8B6A1068B8DCB3CF"
+    },
+    "download_size": 95207397,
+    "identifier": "MinorPlanetsExpansion",
+    "install": [
+        {
+            "find": "MPE",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "MIT",
+    "name": "Minor Planets Expansion",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192848-minor-planets-expansion/&tab=comments#comment-3764746",
+        "spacedock": "https://spacedock.info/mod/2383/Minor%20Planets%20Expansion",
+        "x_screenshot": "https://spacedock.info/content/Exos_Lab_38621/Minor_Planets_Expansion/Minor_Planets_Expansion-1585765909.055922.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

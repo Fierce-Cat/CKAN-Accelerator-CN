@@ -1,0 +1,43 @@
+{
+    "abstract": "automated screenshots",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/43/Automated%20Screenshots%20%26%20Saves/download/0.8.5.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3FA064F8A939C9B5D57C6C4E609FB4BDEC32DBC1",
+        "sha256": "05DE98BD7843E5F8593E5956BA84F5A4C2A8F4B1ED42D040DC8FD20A6C4D83B0"
+    },
+    "download_size": 69112,
+    "identifier": "AutomatedScreenshots",
+    "install": [
+        {
+            "find": "AutomatedScreenshots",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Automated Screenshots & Saves",
+    "recommends": [
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/116979-141-automated-screenshots/",
+        "repository": "https://github.com/linuxgurugamer/AutomatedScreenshots",
+        "spacedock": "https://spacedock.info/mod/43/Automated%20Screenshots%20&%20Saves",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Automated_Screenshots__Saves/Automated_Screenshots__Saves-1456622044.5102704.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.8.5.1",
+    "x_generated_by": "netkan"
+}

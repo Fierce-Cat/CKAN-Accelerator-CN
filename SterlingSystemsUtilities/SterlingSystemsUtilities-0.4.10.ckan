@@ -1,0 +1,55 @@
+{
+    "abstract": "Baseline stuff for ISRU plus other helpful things like fancy lights [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "WildBlueCore"
+        },
+        {
+            "name": "WildBlueTools"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.4.10/SterlingSystems_Utilities_0.4.10.zip?auth_key=1748275916-69c5ffd9609a4041bec634b326c7374c-0-b79699048814ef78c0b91e800a383a68&size=26074679&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "587B6FBAAF80FE5E84548C32665B340C2A663151",
+        "sha256": "299DCC6CFCA9565FC053CC0B9D9EC852D5A39C7E1A3E29B479E73FCB0FC32AEB"
+    },
+    "download_size": 26074679,
+    "identifier": "SterlingSystemsUtilities",
+    "install": [
+        {
+            "find": "Utilities",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 99041522,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Utilities [PRO-KCMIRROR]",
+    "release_date": "2025-02-03T00:43:39Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "parts",
+        "resources"
+    ],
+    "version": "0.4.10",
+    "x_generated_by": "netkan"
+}

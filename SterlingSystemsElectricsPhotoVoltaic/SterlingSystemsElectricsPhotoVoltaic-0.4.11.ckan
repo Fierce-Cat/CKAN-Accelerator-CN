@@ -1,0 +1,50 @@
+{
+    "abstract": "Solar panels (mostly conformal) [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "SterlingSystemsElectrics"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.4.11/SterlingSystems_Electrics_0.4.11.zip?auth_key=1748275916-99fa1220a5244c52879ebce114accefa-0-cee7bea5c98513dc7b0e3ec49ec82468&size=35771047&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "366BF072FDEB1B4D321D02A57AB313BFBB22260BA87C9FC22D541078B8200F02"
+    },
+    "download_size": 35771047,
+    "identifier": "SterlingSystemsElectricsPhotoVoltaic",
+    "install": [
+        {
+            "find": "ElectricsPhotoVoltaic",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 43204264,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Electrics - PhotoVoltaics [PRO-KCMIRROR]",
+    "release_date": "2025-04-21T21:12:58Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.4.11",
+    "x_generated_by": "netkan"
+}

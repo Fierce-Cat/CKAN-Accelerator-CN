@@ -1,0 +1,45 @@
+{
+    "abstract": "Adds ground stations compatible with Remote Tech in the locations of the stock dishes [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "woeller",
+    "depends": [
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/woeller/RemoteTech-StockConfigs/releases/download/1.0.2/RemoteTechStockConfigs.zip?auth_key=1748275915-fc05cc34396b478e8491ee9747f9e04b-0-21360fe5528e6b95192c37d94f68b14f&size=3893&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3942EE38E7D6387925E98A1571389DCEAB5849C1",
+        "sha256": "E72223021D6CB1C00B7CA11F96F75A7309D5B04AB1560441B9E232702892F7C7"
+    },
+    "download_size": 3893,
+    "identifier": "RemoteTechStockConfigs",
+    "install": [
+        {
+            "file": "GameData/RTStock",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 4773,
+    "ksp_version_max": "1.9.9",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "RemoteTech StockConfigs [PRO-KCMIRROR]",
+    "release_date": "2020-04-21T09:32:48Z",
+    "resources": {
+        "bugtracker": "https://github.com/woeller/RemoteTech-StockConfigs/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/180968-16-remotetech-stockconfigs-v1002018-12-29/&tab=comments#comment-3512923",
+        "remote-avc": "https://raw.githubusercontent.com/woeller/RemoteTech-StockConfigs/master/GameData/RTStock/RTStock.version",
+        "repository": "https://github.com/woeller/RemoteTech-StockConfigs"
+    },
+    "spec_version": 1,
+    "tags": [
+        "config",
+        "comms"
+    ],
+    "version": "1:1.0.2",
+    "x_generated_by": "netkan"
+}

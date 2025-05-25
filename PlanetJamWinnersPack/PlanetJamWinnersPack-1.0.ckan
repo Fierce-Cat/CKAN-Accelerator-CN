@@ -1,0 +1,54 @@
+{
+    "abstract": "The Planet Jam Winners Pack/Planet Jam Mod is a collection of community-made celestial bodies that were announced as winners for the KSP Planet Jam challenges. ",
+    "author": [
+        "wpetula",
+        "RJVB09"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3081/Planet%20Jam%20Winners%20Pack/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B364A417C7F7EAEF79C4EBC27BD8C537E92F18D3",
+        "sha256": "E1A8FE735FC330B030714C0ABB699C29837BAF78526F84A881A2121DD107AF93"
+    },
+    "download_size": 543701837,
+    "identifier": "PlanetJamWinnersPack",
+    "install": [
+        {
+            "find": "PlanetJamMod",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 844501185,
+    "ksp_version": "1.12.4",
+    "license": "restricted",
+    "name": "Planet Jam Winners Pack",
+    "recommends": [
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "KopernicusExpansionContinued-EmissiveFX"
+        }
+    ],
+    "release_date": "2022-08-14T21:15:48.856421+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209069-ksp-planet-jam-updated-aug-9-2022challenge-1-is-out-now/",
+        "spacedock": "https://spacedock.info/mod/3081/Planet%20Jam%20Winners%20Pack",
+        "x_screenshot": "https://spacedock.info/content/wpetula_66710/Planet_Jam_WInners_Pack/Planet_Jam_WInners_Pack-1660513414.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

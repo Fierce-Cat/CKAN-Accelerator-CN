@@ -1,0 +1,62 @@
+{
+    "abstract": "Adds a stockalike replica of the Kistler K-1 reusable launch vehicle.",
+    "author": "EStreetRockets",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "SimpleAdjustableFairings"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3042/Asbury%20Western%20Stars%20Industries/download/v1.0.0-beta-3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "646D02276255E7744AF3859783949CEE22533439",
+        "sha256": "64B8CC98B446012025FC0444C2BD70CFAF679D172580347CA0BD0D2A5042EC8C"
+    },
+    "download_size": 29710565,
+    "identifier": "AsburyWesternStarsIndustries",
+    "install": [
+        {
+            "find": "Asbury",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 86549906,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Asbury Western Stars Industries",
+    "recommends": [
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "release_date": "2022-06-11T04:31:33.712447+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/EStreetRockets/Asbury-Western-Stars-Industries/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199280-wip-asbury-western-stars-industries-stockalike-kistler-k-1/",
+        "repository": "https://github.com/EStreetRockets/Asbury-Western-Stars-Industries",
+        "spacedock": "https://spacedock.info/mod/3042/Asbury%20Western%20Stars%20Industries",
+        "x_screenshot": "https://spacedock.info/content/EStreetRockets_54289/Asbury_Western_Stars_Industries/Asbury_Western_Stars_Industries-1654921899.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "graphics"
+    ],
+    "version": "v1.0.0-beta-3",
+    "x_generated_by": "netkan"
+}

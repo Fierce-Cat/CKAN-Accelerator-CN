@@ -1,0 +1,65 @@
+{
+    "abstract": "Tarsier Space Technology - Space Telescopes, Galaxies, ChemCam surface analyser, Science Storage Drives and Contracts",
+    "author": "Jplrepo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/143/Tarsier%20Space%20Technology%20with%20Galaxies%20Continued.../download/v7.10",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6DB0B6B4CCE40FF82252A6ED867913CF8DD71305",
+        "sha256": "D6AF87ABE669E05D5F79DAD27E4198864F9389FF26BF0DE473080F07F9E362D6"
+    },
+    "download_size": 6192266,
+    "identifier": "TarsierSpaceTechnologyWithGalaxies",
+    "install": [
+        {
+            "find": "TarsierSpaceTech",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.9.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "de-de",
+        "pt-br",
+        "it-it",
+        "ja",
+        "ru",
+        "zh-cn",
+        "es-mx"
+    ],
+    "name": "Tarsier Space Technology with Galaxies Continued...",
+    "recommends": [
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "release_date": "2020-02-28T23:18:40.462272+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154853-121",
+        "repository": "https://github.com/JPLRepo/TarsierSpaceTechnology",
+        "spacedock": "https://spacedock.info/mod/143/Tarsier%20Space%20Technology%20with%20Galaxies%20Continued...",
+        "x_screenshot": "https://spacedock.info/content/Jplrepo_405/Tarsier_Space_Technology_with_Galaxies_Continued/Tarsier_Space_Technology_with_Galaxies_Continued-1455817104.0385642.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts",
+        "science"
+    ],
+    "version": "1:7.10",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,102 @@
+{
+    "abstract": "Grannus Expansion Pack [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "OhioBob",
+    "conflicts": [
+        {
+            "min_version": "3:v0.0825b",
+            "name": "Scatterer"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/OhioBob/Grannus-Expansion-Pack/releases/download/1.2.7/GrannusExpansionPack_1.2.7.zip?auth_key=1748275915-d90630ca05a948b991752a75c50567e6-0-ccd28a4a6285225cc745ae3586464613&size=339713982&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EF70AADD2697155AEB0588B1D0BB9E3335AC6981",
+        "sha256": "4B1842723671C1C8FF9AAF384052C6B0D53353D5941131E609BF12F26FBC964C"
+    },
+    "download_size": 339713982,
+    "identifier": "GrannusExpansionPack",
+    "install": [
+        {
+            "file": "GameData/GEP",
+            "install_to": "GameData"
+        },
+        {
+            "filter": [
+                "Grannus"
+            ],
+            "find": "GameData/Nereid",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-ND",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "es-mx",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Grannus Expansion Pack [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "ResearchBodies"
+        },
+        {
+            "name": "FinalFrontier"
+        },
+        {
+            "name": "KerbalHealth"
+        },
+        {
+            "name": "Grannus-RibbonPack"
+        }
+    ],
+    "release_date": "2022-05-08T17:01:57Z",
+    "resources": {
+        "bugtracker": "https://github.com/OhioBob/Grannus-Expansion-Pack/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169664-*",
+        "remote-avc": "https://raw.githubusercontent.com/OhioBob/Grannus-Expansion-Pack/master/GameData/GEP/Version/GrannusExpansionPack.version",
+        "repository": "https://github.com/OhioBob/Grannus-Expansion-Pack"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "GPP"
+        },
+        {
+            "name": "GrannusExpansionPack-Primary"
+        },
+        {
+            "name": "GrannusExpansionPack-Rescale"
+        },
+        {
+            "name": "GrannusExpansionPack-CommNet"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.2.7",
+    "x_generated_by": "netkan"
+}

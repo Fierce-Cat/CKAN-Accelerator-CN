@@ -1,0 +1,66 @@
+{
+    "abstract": "Replacement for Monthly Budgets, now with Construction and Research Funding! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "severedsolo",
+    "conflicts": [
+        {
+            "name": "MonthlyBudgets"
+        },
+        {
+            "name": "SpaceProgramFunding"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "FlightTracker"
+        },
+        {
+            "name": "CustomBarnKit"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/severedsolo/Bureaucracy/releases/download/1.4/Bureaucracy.zip?auth_key=1748275914-6c7479487e314fe082eef59fee8de5b9-0-d5537a4e50a7f2cb4be566363ce7200a&size=47473&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "164166D5FC19BBC7E71CF2347A4AFB63183404BB",
+        "sha256": "4D77A7CCF929F3F4650DB2B1DA0CB8772F8DF337B19D7C90B2C2E95D4C5C9513"
+    },
+    "download_size": 47473,
+    "identifier": "Bureaucracy",
+    "install": [
+        {
+            "find": "Bureaucracy",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.9.0",
+    "license": "MIT",
+    "name": "Bureaucracy [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "ContractConfigurator-ExplorationPlus"
+        }
+    ],
+    "release_date": "2020-06-27T10:04:58Z",
+    "resources": {
+        "bugtracker": "https://github.com/severedsolo/Bureaucracy/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/191192-*",
+        "remote-avc": "https://raw.githubusercontent.com:443/severedsolo/Bureaucracy/master/GameData/Bureaucracy/Bureaucracy.version",
+        "repository": "https://github.com/severedsolo/Bureaucracy"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "career"
+    ],
+    "version": "1.4",
+    "x_generated_by": "netkan"
+}

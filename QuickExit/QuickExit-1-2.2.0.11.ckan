@@ -1,0 +1,61 @@
+{
+    "abstract": "Adds the possibility to exit KSP at any time.",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/QuickMods/releases/download/1.4.0.15/QuickExit-2.2.0.11.zip",
+        "https://spacedock.info/mod/105/QuickExit/download/2.2.0.11"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6FE70C4AF1E761B304788CDC82CBA7E336857F60",
+        "sha256": "3CDF532217C71AD2E08A42734191CA6BA15FC528335B81D1251742AEF8ED3F1E"
+    },
+    "download_size": 31362,
+    "identifier": "QuickExit",
+    "install": [
+        {
+            "file": "GameData/QuickMods/QuickExit",
+            "install_to": "GameData/QuickMods"
+        }
+    ],
+    "install_size": 70511,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "QuickExit",
+    "release_date": "2025-03-06T14:52:17.766247+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/QuickMods/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/QuickMods/refs/heads/master/QuickExit/QuickExit.version",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/105/QuickExit"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:2.2.0.11",
+    "x_generated_by": "netkan"
+}

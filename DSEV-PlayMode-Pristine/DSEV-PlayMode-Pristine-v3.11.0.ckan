@@ -1,0 +1,56 @@
+{
+    "abstract": "Deep Space Exploration Vessels for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "WildBlue-PlayMode-Pristine"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "DSEV"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/DSEV/releases/download/v3.11.0/DSEV.zip?auth_key=1748275918-bff9ba34f4184f9eb69038e2002a7db0-0-818ae4e02d8c9f17fe23b85d3cc5ed14&size=106588674&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B60EDB11779C643CC555FDD6087928BFA69CBCF2",
+        "sha256": "EF5DAA437B8E91F4DF4ADE100EAC3867C751155417DD81C7412EFF22D698FC84"
+    },
+    "download_size": 106588674,
+    "identifier": "DSEV-PlayMode-Pristine",
+    "install": [
+        {
+            "find": "WildBlueIndustries/DSEV/Templates/Pristine.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/DSEV/Templates"
+        },
+        {
+            "as": "MM_Pristine.cfg",
+            "find": "DSEV/Templates/Pristine/MM_Pristine.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/DSEV/Templates/Pristine"
+        }
+    ],
+    "install_size": 1943,
+    "ksp_version_min": "1.12.2",
+    "license": "restricted",
+    "name": "DSEV Pristine Play Mode [PRO-KCMIRROR]",
+    "provides": [
+        "DSEV-PlayMode"
+    ],
+    "release_date": "2022-06-20T19:58:09Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/DSEV/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/122162-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/DSEV/master/GameData/WildBlueIndustries/DSEV/DSEV.version",
+        "repository": "https://github.com/Angel-125/DSEV"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config"
+    ],
+    "version": "v3.11.0",
+    "x_generated_by": "netkan"
+}

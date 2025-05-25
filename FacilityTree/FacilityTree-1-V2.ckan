@@ -1,0 +1,49 @@
+{
+    "abstract": "A funds-based tech tree designed around the space center facilities",
+    "author": "sunnypunny",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2918/FacilityTree/download/V2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7925B8BC524994DED80F5A0B37513BF03D1BA78D",
+        "sha256": "CE6CC1087EA86742F3D32DA5C00160341A00ACD88F4F398B50CFE03D40243943"
+    },
+    "download_size": 69832,
+    "identifier": "FacilityTree",
+    "ksp_version": "1.12.3",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "FacilityTree",
+    "recommends": [
+        {
+            "name": "KerbalWitchery"
+        },
+        {
+            "name": "KerbalHero"
+        }
+    ],
+    "release_date": "2021-12-26T05:05:01.910042+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/sunnypunny/FacilityTree/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/205814-112x-kerbalhero-facilitytree-kerbalwitchery-opentree/",
+        "repository": "https://github.com/sunnypunny/FacilityTree",
+        "spacedock": "https://spacedock.info/mod/2918/FacilityTree",
+        "x_screenshot": "https://spacedock.info/content/sunnypunny_72620/FacilityTree/FacilityTree-1640495120.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "config",
+        "tech-tree",
+        "science",
+        "career"
+    ],
+    "version": "1:V2",
+    "x_generated_by": "netkan"
+}

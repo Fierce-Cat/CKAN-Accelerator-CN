@@ -1,0 +1,46 @@
+{
+    "abstract": "The sunflare component of scatterer",
+    "author": "blackrack",
+    "comment": "Does not depend on Scatterer to avoid planet packs forcing installation of Scatterer",
+    "conflicts": [
+        {
+            "name": "Scatterer-sunflare"
+        }
+    ],
+    "download": "https://spacedock.info/mod/141/Scatterer/download/0.0834",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A5F9FECF2966D5A221EB3471C4A2A721B3C9BFC0",
+        "sha256": "52D58CBE1693C744AF0FE2E836D53FFE0A785BA99D4393744C784E5D100AC991"
+    },
+    "download_size": 9414519,
+    "identifier": "Scatterer-sunflare",
+    "install": [
+        {
+            "find": "Sunflares",
+            "install_to": "GameData/Scatterer/config"
+        }
+    ],
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.9",
+    "license": "GPL-3.0",
+    "name": "Scatterer Sunflare",
+    "provides": [
+        "Scatterer-sunflare-default"
+    ],
+    "release_date": "2022-04-08T16:18:11.129552+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/LGhassen/Scatterer/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip-scatterer-atmospheric-scattering",
+        "repository": "https://github.com/LGhassen/Scatterer",
+        "spacedock": "https://spacedock.info/mod/141/Scatterer",
+        "x_screenshot": "https://spacedock.info/content/blackrack_378/scatterer/scatterer-1456285817.4561393.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "graphics",
+        "config"
+    ],
+    "version": "3:v0.0834",
+    "x_generated_by": "netkan"
+}

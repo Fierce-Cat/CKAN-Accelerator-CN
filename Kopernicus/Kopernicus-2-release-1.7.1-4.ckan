@@ -1,0 +1,52 @@
+{
+    "abstract": "Allows users to replace the planetary system used by the game. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "BryceSchroeder",
+        "Teknoman117",
+        "Thomas P.",
+        "NathanKell",
+        "KillAshley",
+        "Gravitasi",
+        "KCreator",
+        "Sigma88"
+    ],
+    "depends": [
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "1.2.4.0",
+            "name": "ModularFlightIntegrator"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kopernicus/Kopernicus/releases/download/release-1.7.1-4/Kopernicus-1.7.1-4.zip?auth_key=1748275914-d930a071f76c4d779f3dcbf91424a57a-0-e062bbad30f0efda564cffc0fa0eca0a&size=360968&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C29472ED022713EB586E99897CC5C2C1D92DC0EA",
+        "sha256": "22174BC985ED8F53442B7A0A6ABAB2E314E01F6D935CF668F3567109E48E6C18"
+    },
+    "download_size": 360968,
+    "identifier": "Kopernicus",
+    "install": [
+        {
+            "find": "Kopernicus",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.1",
+    "license": "LGPL-3.0",
+    "name": "Kopernicus Planetary System Modifier [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181547-*",
+        "repository": "https://github.com/Kopernicus/Kopernicus"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KittopiaTech"
+        }
+    ],
+    "version": "2:release-1.7.1-4",
+    "x_generated_by": "netkan"
+}

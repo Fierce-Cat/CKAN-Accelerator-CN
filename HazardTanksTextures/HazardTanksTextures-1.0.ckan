@@ -1,0 +1,45 @@
+{
+    "abstract": "Procedural textures for tanks with hazards stripes. Give the badass look to your vessels!",
+    "author": "Enceos",
+    "depends": [
+        {
+            "name": "VensStylePPTextures"
+        },
+        {
+            "name": "ProceduralParts"
+        }
+    ],
+    "download": "https://spacedock.info/mod/467/Hazard%20Tanks%20Textures%20for%20Procedural%20Parts/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "33FEBCAE304E9144D352A3B703A7C380DBA1B43B",
+        "sha256": "BADA6A2565A5589B4A46A51F65D85681E852CDD1372B7678D99DA9DBA8A775BB"
+    },
+    "download_size": 1339655,
+    "identifier": "HazardTanksTextures",
+    "install": [
+        {
+            "file": "GameData/KerbalHacks/PP_Textures",
+            "filter": "PPVensTankEnds.dds",
+            "install_to": "GameData/KerbalHacks"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-4.0",
+    "name": "Procedural Parts - Hazard Tanks Textures",
+    "provides": [
+        "PPTextures"
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/134889-11-kerbal-hacks-procedural-part-textures-asphalt-tiles-unusual-parts-other-hacks/",
+        "spacedock": "https://spacedock.info/mod/467/Hazard%20Tanks%20Textures%20for%20Procedural%20Parts",
+        "x_screenshot": "https://spacedock.info/content/Enceos_856/Hazard_Tanks_Textures_for_Procedural_Parts/Hazard_Tanks_Textures_for_Procedural_Parts-1459548045.2359412.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

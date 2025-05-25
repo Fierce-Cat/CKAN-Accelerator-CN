@@ -1,0 +1,89 @@
+{
+    "abstract": "Longer fuel tanks in a variety of styles, with assocaited fueled nose cones. Stand-alone, or companion to Color Coded Canisters.",
+    "author": "NecroBones",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/92/Fuel%20Tanks%20Plus/download/2.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EE9C9C0C8207B7E380A97657D55694F0900C55E2",
+        "sha256": "DA6E0B828EA12622E8535C7DD9FE089912254E032DBF55DE7F823AAD2F1EACAA"
+    },
+    "download_size": 7405423,
+    "identifier": "FuelTanksPlus",
+    "install": [
+        {
+            "file": "FuelTanksPlus",
+            "filter": [
+                "Ships"
+            ],
+            "install_to": "GameData"
+        },
+        {
+            "find": "Ships/VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.4.0",
+    "license": "CC-BY-NC-SA",
+    "name": "Fuel Tanks Plus",
+    "release_date": "2018-03-14T19:18:04.486288+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/97541-FuelTanksPlus",
+        "spacedock": "https://spacedock.info/mod/92/Fuel%20Tanks%20Plus",
+        "x_screenshot": "https://spacedock.info/content/NecroBones_209/Fuel_Tanks_Plus/Fuel_Tanks_Plus-1455805293.4222665.jpg"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ColorCodedCans"
+        },
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ModularRocketSystem"
+        },
+        {
+            "name": "ModularRocketSystemsLITE"
+        },
+        {
+            "name": "ColorCodedCans"
+        },
+        {
+            "name": "ColorfulFuelLines"
+        },
+        {
+            "name": "LithobrakeExplorationTechnologies"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "FerramAerospaceResearch"
+        },
+        {
+            "name": "KSP-AVC"
+        },
+        {
+            "name": "DeadlyReentry"
+        },
+        {
+            "name": "ModularFuelTanks"
+        },
+        {
+            "name": "InterstellarFuelSwitch"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "2.0.2",
+    "x_generated_by": "netkan"
+}

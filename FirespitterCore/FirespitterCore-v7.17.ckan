@@ -1,0 +1,45 @@
+{
+    "abstract": "Core Firespitter.dll. Install `Firespitter` for the whole shebang [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Roverdude",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/snjo/Firespitter/releases/download/v7.17/Firespitter_7.17.zip?auth_key=1748275915-4108217faf86467cbf25c39ac62d76eb-0-9cf1cc075e999b01bc0f29b677cd1c71&size=30071403&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B18880D4D974121A7316E586620DA793AD5AEED7",
+        "sha256": "CE19D8ABC5EF3343752146644F4F8BAA25DAAE4F38124541399590D4156E87FC"
+    },
+    "download_size": 30071403,
+    "identifier": "FirespitterCore",
+    "install": [
+        {
+            "find": "Firespitter/Plugins",
+            "install_to": "GameData/Firespitter"
+        },
+        {
+            "find": "Firespitter.version",
+            "find_matches_files": true,
+            "install_to": "GameData/Firespitter"
+        }
+    ],
+    "install_size": 866389,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "Firespitter Core [PRO-KCMIRROR]",
+    "provides": [
+        "DeadskinsTextureSwitch"
+    ],
+    "release_date": "2020-12-22T23:12:11Z",
+    "resources": {
+        "bugtracker": "https://github.com/snjo/Firespitter/issues",
+        "homepage": "http://snjo.github.io/",
+        "remote-avc": "https://raw.githubusercontent.com/snjo/Firespitter/master/For%20release/Firespitter/Firespitter.version",
+        "repository": "https://github.com/snjo/Firespitter"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "v7.17",
+    "x_generated_by": "netkan"
+}

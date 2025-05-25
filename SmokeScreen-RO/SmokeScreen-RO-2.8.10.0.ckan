@@ -1,0 +1,42 @@
+{
+    "abstract": "SmokeScreen is a plugin that build on the engine FX added in .23 and adds new features to them. Most of the features ideas comes from Nothke. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Sarbian",
+    "conflicts": [
+        {
+            "name": "SmokeScreen"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/sarbian/jenkins/job/SmokeScreen-RO/4/artifact/SmokeScreen-RO-2.8.10.0.zip?auth_key=1748275918-3a023e17e6524ebdbf1d0512b38b1146-0-457aec141eeaf9852e36b2db6fd196ec&size=28430&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4816E762A32BBB5B1F2E249AF5AF3E4921B79067",
+        "sha256": "DE53D2F6B685250F892290AD56594FBEC942C52A75D0BC8A8DA47379AE2DFB56"
+    },
+    "download_size": 28430,
+    "identifier": "SmokeScreen-RO",
+    "install": [
+        {
+            "find": "SmokeScreen",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.3",
+    "ksp_version_min": "1.7.3",
+    "license": "BSD-2-clause",
+    "name": "SmokeScreen - Extended FX Plugin - Realism Overhaul [PRO-KCMIRROR]",
+    "provides": [
+        "SmokeScreen"
+    ],
+    "resources": {
+        "ci": "https://ksp.sarbian.com/jenkins/job/SmokeScreen-RO/",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/64987-*",
+        "repository": "https://github.com/sarbian/SmokeScreen"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "2.8.10.0",
+    "x_generated_by": "netkan"
+}

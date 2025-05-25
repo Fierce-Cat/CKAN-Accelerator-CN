@@ -1,0 +1,61 @@
+{
+    "abstract": "Communicate with external instrumentation through serial connection [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "stibbons",
+        "LRTNZ",
+        "rogor"
+    ],
+    "conflicts": [
+        {
+            "max_version": "1:2.4.1",
+            "name": "AGExt"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Simpit-team/KerbalSimpitRevamped/releases/download/v2.3.0/KerbalSimpitRevamped-v2.3.0.zip?auth_key=1748275917-9380a9bf5f234755a7509c2c5eb343d2-0-123253a406b148ab494f71003af8711c&size=128191&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "61FFEEF7DE01A7B137D3DB83149CF0EEFD3AB0DE",
+        "sha256": "AB735E6BE7272FD52ED329FC5CF212C6C2C0F591D5289B08075803D956276C2B"
+    },
+    "download_size": 128191,
+    "identifier": "KerbalSimpit",
+    "install_size": 263994,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.2",
+    "license": "BSD-2-clause",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "fr-fr"
+    ],
+    "name": "Kerbal Simpit [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "AlternateResourcePanel"
+        }
+    ],
+    "release_date": "2023-09-17T19:49:29Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/Simpit-team/KerbalSimpitRevamped/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204852-112x-simpit-revamped-simpit-20/",
+        "manual": "https://kerbalsimpitrevamped-arduino.readthedocs.io",
+        "repository": "https://github.com/Simpit-team/KerbalSimpitRevamped"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "AGExt"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "app",
+        "control"
+    ],
+    "version": "v2.3.0",
+    "x_generated_by": "netkan"
+}

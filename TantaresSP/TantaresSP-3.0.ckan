@@ -1,0 +1,54 @@
+{
+    "abstract": "Soviet Space Probes and Interplanetary Spacecraft [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Beale",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Tantares/TantaresSP/releases/download/v3.0/TantaresSP.zip?auth_key=1748275916-4a14f2a7ebb14215bed56f65873ef148-0-0c6ed12b52e84c947de3761769437c3f&size=6468374&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "562944CA65CB67B10C6AD1BAB4E1C3AAF92B62DF",
+        "sha256": "6DCB3A7ED78D5E3C75CDC817140EE1FC127EE5DC53BB453AE20CCE342357871E"
+    },
+    "download_size": 6468374,
+    "identifier": "TantaresSP",
+    "install": [
+        {
+            "find": "TantaresSP",
+            "install_to": "GameData"
+        },
+        {
+            "as": "VAB",
+            "find": "Crafts",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version_max": "1.11",
+    "ksp_version_min": "1.10.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Tantares SP - Soviet Space Probes [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "NeptuneCamera"
+        }
+    ],
+    "release_date": "2020-10-23T08:21:44Z",
+    "resources": {
+        "bugtracker": "https://github.com/Tantares/TantaresSP/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/73686-Tantares",
+        "repository": "https://github.com/Tantares/TantaresSP",
+        "spacedock": "https://spacedock.info/mod/2498/TantaresSP"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts",
+        "uncrewed"
+    ],
+    "version": "3.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,66 @@
+{
+    "abstract": "Allows you to remove asteroid mass and attach multiple reconfigurable storage tanks to the asteroid's surface. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "v7.6.0",
+            "name": "FirespitterCore"
+        },
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        },
+        {
+            "min_version": "0.7.0.0",
+            "name": "CommunityResourcePack"
+        },
+        {
+            "min_version": "0.4.0.0",
+            "name": "USI-Core"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/UmbraSpaceIndustries/ART/releases/download/1.4.0/ART_1.4.0.0.zip?auth_key=1748275915-fcb4a5b9cded4c75ad77a1b6a49f9cf3-0-3f172c7cd5a2750e63e862f233990ad6&size=16118578&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "922901132B1996D5D7AA1AC55F7BBDA8B5C829A4",
+        "sha256": "2C55D37A7840510C32160405825FFDFBA3B73CB5A7E613424D458F31530704A3"
+    },
+    "download_size": 16118578,
+    "identifier": "USI-ART",
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/ART",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "USI Asteroid Recycling Technologies [PRO-KCMIRROR]",
+    "release_date": "2020-12-21T21:29:27Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/UmbraSpaceIndustries/ART/issues",
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "metanetkan": "https://raw.githubusercontent.com/UmbraSpaceIndustries/CKAN/master/USI-ART.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/BobPalmer/ART/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/ART/ART.version",
+        "repository": "https://github.com/UmbraSpaceIndustries/ART"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "parts",
+        "resources"
+    ],
+    "version": "1:1.4.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

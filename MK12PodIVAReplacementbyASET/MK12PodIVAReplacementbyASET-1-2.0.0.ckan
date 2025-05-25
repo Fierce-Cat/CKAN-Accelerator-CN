@@ -1,0 +1,80 @@
+{
+    "abstract": "A set of three advanced, functional IVAs",
+    "author": [
+        "alexustas",
+        "StoneBlue"
+    ],
+    "depends": [
+        {
+            "name": "ASETAgency"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.28.0",
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "min_version": "1.4",
+            "name": "ASETProps"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3241/ASET%20Consolidated%20Stock%20Replacement%20IVAs/download/2.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "62025B1EC042BDCE3F6F951C2439CA4ECCF4376C",
+        "sha256": "F5522A278D7EA7CC6C1C29B2BD330EFA7FD6C200EB27D25FF0C7FB8F71D40363"
+    },
+    "download_size": 1145601,
+    "identifier": "MK12PodIVAReplacementbyASET",
+    "install": [
+        {
+            "find": "ASET",
+            "include_only": [
+                "Assets",
+                "ASET_StckRplc_Mk1-2_Pod.cfg",
+                "RPM_ASET_StckRplc_Mk1-2_Pod_Patch.cfg"
+            ],
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2110682,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "MK1-2 IVA Replacement by ASET",
+    "recommends": [
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "VesselView"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "Astrogator"
+        }
+    ],
+    "release_date": "2023-02-12T14:49:26.682419+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/StoneBlue/ASET-Consolidated-IVAs/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/211905-wip-1125-181-aset-consolidated-avionics-props-iva-packs",
+        "remote-avc": "https://raw.githubusercontent.com:443/StoneBlue/ASET-Consolidated-Props/main/GameData/ASET/ASET_StockRpl_IVAs/ASET_StockRpl_IVAs.version",
+        "repository": "https://github.com/StoneBlue/ASET-Consolidated-IVAs",
+        "spacedock": "https://spacedock.info/mod/3241/ASET%20Consolidated%20Stock%20Replacement%20IVAs",
+        "x_screenshot": "https://spacedock.info/content/StoneBlue_14786/ASET_Consolidated_Stock_Replacement_IVAs/ASET_Consolidated_Stock_Replacement_IVAs-1676233614.png"
+    },
+    "spec_version": "v1.24",
+    "tags": [
+        "config",
+        "crewed"
+    ],
+    "version": "1:2.0.0",
+    "x_generated_by": "netkan"
+}

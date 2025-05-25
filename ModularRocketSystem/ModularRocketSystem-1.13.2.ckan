@@ -1,0 +1,92 @@
+{
+    "abstract": "A stock-alike parts pack that fills in a variety of gaps in the stock lineup of rocketry parts.",
+    "author": "NecroBones",
+    "conflicts": [
+        {
+            "name": "ModularRocketSystemsLITE"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/86/Modular%20Rocket%20Systems/download/1.13.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "740B7036F476695A732881E93895FD1EFFC41CCA",
+        "sha256": "011FC6A3D96CFD3E25A0E138A0E9D26EDF633B7070A9E8F4623321C086933502"
+    },
+    "download_size": 11259660,
+    "identifier": "ModularRocketSystem",
+    "install": [
+        {
+            "file": "ModRocketSys",
+            "filter_regexp": [
+                "\\.craft$"
+            ],
+            "install_to": "GameData"
+        },
+        {
+            "find_regexp": "\\.craft$",
+            "install_to": "Ships/SPH"
+        }
+    ],
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-SA",
+    "name": "Modular Rocket Systems",
+    "release_date": "2018-03-12T14:54:37.173769+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/83959-ModularRocketSystems",
+        "spacedock": "https://spacedock.info/mod/86/Modular%20Rocket%20Systems",
+        "x_screenshot": "https://spacedock.info/content/NecroBones_209/Modular_Rocket_Systems/Modular_Rocket_Systems-1455805044.8633614.jpg"
+    },
+    "spec_version": "v1.12",
+    "supports": [
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "ColorCodedCans"
+        },
+        {
+            "name": "ColorfulFuelLines"
+        },
+        {
+            "name": "FuelTanksPlus"
+        },
+        {
+            "name": "LithobrakeExplorationTechnologies"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "FerramAerospaceResearch"
+        },
+        {
+            "name": "KSP-AVC"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "EngineIgnitorReignited"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "HotRockets"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1.13.2",
+    "x_generated_by": "netkan"
+}

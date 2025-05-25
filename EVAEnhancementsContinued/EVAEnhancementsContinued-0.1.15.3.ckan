@@ -1,0 +1,59 @@
+{
+    "abstract": "Enhance EVA controls & experience",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/EVAEnhancementsContinued/releases/download/0.1.15.3/EVAEnhancementsContinued-1.12.0-0.1.15.3.zip",
+        "https://spacedock.info/mod/994/EVA%20Enhancements%20Continued/download/0.1.15.3"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BF37662159B83A3DB00B9ABEB6EE446D9BAC9B4A",
+        "sha256": "00669ABBA474F321457B19FDDE82317501A88ED10C9131517BC527920F943CF7"
+    },
+    "download_size": 23146,
+    "identifier": "EVAEnhancementsContinued",
+    "install": [
+        {
+            "find": "EVAEnhancementsContinued",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 42218,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "EVA Enhancements Continued",
+    "release_date": "2021-09-09T18:03:51.835741+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/EVAEnhancementsContinued/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/149997-12-eva-enhancements-continued/",
+        "remote-avc": "http://ksp.spacetux.net/avc/EVAEnhancementsContinued",
+        "repository": "https://github.com/linuxgurugamer/EVAEnhancementsContinued",
+        "spacedock": "https://spacedock.info/mod/994/EVA%20Enhancements%20Continued"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "EvaFuelCont"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "crewed",
+        "information",
+        "control"
+    ],
+    "version": "0.1.15.3",
+    "x_generated_by": "netkan"
+}

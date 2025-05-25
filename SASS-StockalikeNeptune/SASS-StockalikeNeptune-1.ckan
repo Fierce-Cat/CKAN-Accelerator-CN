@@ -1,0 +1,37 @@
+{
+    "abstract": "StockalikeNeptune for SASS",
+    "author": "GregroxMun",
+    "depends": [
+        {
+            "name": "StockalikeSolarSystem"
+        }
+    ],
+    "download": "https://www.dropbox.com/s/ujqpl307jf5w82a/GregroxNeptune.zip?dl=1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BB4396F8403E3AF075D1B8F739D32AA40195FE45",
+        "sha256": "AE1637922D294ED4D269B7830A1ACAC863B370AFB8A73F42EE0ACA788178BFB3"
+    },
+    "download_size": 111115,
+    "identifier": "SASS-StockalikeNeptune",
+    "install": [
+        {
+            "file": "GregroxNeptune",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "restricted",
+    "name": "SASS-StockalikeNeptune",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/142085-kopernicus-11x-gregroxmuns-jool-textures/",
+        "metanetkan": "https://raw.githubusercontent.com/Sigma88/CKAN/master/Stockalike/SASS-StockalikeNeptune.netkan"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1",
+    "x_generated_by": "netkan"
+}

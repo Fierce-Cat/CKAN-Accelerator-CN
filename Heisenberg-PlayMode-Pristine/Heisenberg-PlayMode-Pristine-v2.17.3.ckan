@@ -1,0 +1,60 @@
+{
+    "abstract": "Giant floating aircraft [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "conflicts": [
+        {
+            "name": "Heisenberg-PlayMode"
+        }
+    ],
+    "depends": [
+        {
+            "name": "Heisenberg"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "WildBlue-PlayMode-Pristine"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/Airships/releases/download/v2.17.3/Heisenberg_2_17_3.zip?auth_key=1748275917-e80b2d1eefd0405caa3cf6cc778fe5fe-0-af57b868cf7bc52d3f564308f0fb8e44&size=48570893&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BCBC4C0D6ABDCFFF5808A917E731966D4EF0174C",
+        "sha256": "A9CE2746F9BEA5D5442D72100D3F7D69F5312CF55A6F383614A7A67FDCDF88D6"
+    },
+    "download_size": 48570893,
+    "identifier": "Heisenberg-PlayMode-Pristine",
+    "install": [
+        {
+            "find": "WildBlueIndustries/Heisenberg/Templates/Pristine.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/Heisenberg/Templates"
+        },
+        {
+            "as": "MM_Pristine.cfg",
+            "find": "Heisenberg/Templates/Pristine/MM_Pristine.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/Heisenberg/Templates/Pristine"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "Heisenberg Pristine Play Mode [PRO-KCMIRROR]",
+    "provides": [
+        "Heisenberg-PlayMode"
+    ],
+    "release_date": "2020-08-24T19:24:11Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/Airships/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/150702-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/Airships/master/GameData/WildBlueIndustries/Heisenberg/Airships/Airships.version",
+        "repository": "https://github.com/Angel-125/Airships"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config"
+    ],
+    "version": "v2.17.3",
+    "x_generated_by": "netkan"
+}

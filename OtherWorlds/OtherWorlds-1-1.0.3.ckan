@@ -1,0 +1,79 @@
+{
+    "abstract": "An interstellar destination and a full-fledged story for you to unveil",
+    "author": "pkmniako",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "CommunityTerrainTexturePack"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        }
+    ],
+    "download": "https://github.com/pkmniako/OtherWorlds_Public/releases/download/1.0.3/Other_Worlds.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B8E5A7C07E8D7807A17A693BB7921BA32883D533",
+        "sha256": "3B238855400E26BCD07F7A754B687CE58159BC4C2F6F61B55F98AD4709439AB8"
+    },
+    "download_size": 872506479,
+    "identifier": "OtherWorlds",
+    "install": [
+        {
+            "file": "OtherWorldsReboot",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2311630321,
+    "ksp_version_min": "1.12",
+    "license": "restricted",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "ru"
+    ],
+    "name": "Other Worlds - Story and Planet Mod",
+    "recommends": [
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Parallax-StockTextures"
+        },
+        {
+            "name": "KopernicusExpansionContinued-EmissiveFX"
+        }
+    ],
+    "release_date": "2023-02-21T21:22:19Z",
+    "resources": {
+        "bugtracker": "https://github.com/pkmniako/OtherWorlds_Public/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/211965-*",
+        "license": "https://github.com/pkmniako/OtherWorlds_Public/blob/main/License.txt",
+        "manual": "https://pkmniako.github.io/OtherWorldsProgram/index.html",
+        "repository": "https://github.com/pkmniako/OtherWorlds_Public"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "FarFutureTechnologies"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "planet-pack"
+    ],
+    "version": "1:1.0.3",
+    "x_generated_by": "netkan"
+}

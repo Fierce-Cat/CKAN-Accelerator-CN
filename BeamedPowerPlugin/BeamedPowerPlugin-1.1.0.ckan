@@ -1,0 +1,48 @@
+{
+    "abstract": "An add-on that adds beamed power parts and modules to the stock game.",
+    "author": "Aniruddh",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2492/Beamed%20Power%20Plugin/download/1.1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "130DF98EFE24608E81293BF549F068B5AE7105B9",
+        "sha256": "9D7CD4F903846A1D885086C92EF3BBD3A276B59614AD961D995229FF23E04F58"
+    },
+    "download_size": 724213,
+    "identifier": "BeamedPowerPlugin",
+    "install": [
+        {
+            "find": "BeamedPowerStandalone",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2021472,
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.0",
+    "license": "public-domain",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Beamed Power Plugin",
+    "release_date": "2020-12-25T19:01:07.794656+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/AniruddhKSP/KSP-Beamed-Power-Standalone-mod/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196087-18-110x-beamed-power-standalone-and-propulsion-v105/",
+        "remote-avc": "https://github.com/AniruddhKSP/KSP-Beamed-Power-Standalone-mod/raw/master/BeamedPowerStandalone.version",
+        "repository": "https://github.com/AniruddhKSP/KSP-Beamed-Power-Standalone-mod",
+        "spacedock": "https://spacedock.info/mod/2492/Beamed%20Power%20Plugin",
+        "x_screenshot": "https://spacedock.info/content/Aniruddh_43378/Beamed_Power_Plugin/Beamed_Power_Plugin-1604435269.8285365.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts",
+        "physics"
+    ],
+    "version": "1.1.0",
+    "x_generated_by": "netkan"
+}

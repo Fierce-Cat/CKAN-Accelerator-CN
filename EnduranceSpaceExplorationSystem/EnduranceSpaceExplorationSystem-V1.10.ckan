@@ -1,0 +1,66 @@
+{
+    "abstract": "This mod is intended to recreate, visually and functionally, the Endurance spacecraft from the movie 'Interstellar.'",
+    "author": "Jplrepo",
+    "download": "https://spacedock.info/mod/357/Endurance%20%28from%20Interstellar%29%20Continued.../download/V1.10",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "04B5E804A34336680A7EADC699A3BA666C99B319",
+        "sha256": "A2E243A3597B718D8FDFEE693DEEEAB4B2CB5F95896561A2C7CBFBEA1FA22E1C"
+    },
+    "download_size": 31095706,
+    "identifier": "EnduranceSpaceExplorationSystem",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "Endurance",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-4.0",
+    "name": "Endurance (from Interstellar) Continued...",
+    "recommends": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "JSIAdvancedTransparentPods"
+        },
+        {
+            "name": "ThrottleControlledAvionics"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133590-105-endurance-from-interstellar-continued",
+        "repository": "https://github.com/JPLRepo/Endurance",
+        "spacedock": "https://spacedock.info/mod/357/Endurance%20(from%20Interstellar)%20Continued...",
+        "x_screenshot": "https://spacedock.info/content/Jplrepo_405/Endurance_from_Interstellar_Continued/Endurance_from_Interstellar_Continued-1457248000.231013.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "USI-LS"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "V1.10",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,40 @@
+{
+    "abstract": "Small pack with all my ModuleManager tweaks for KSP and mods. Full list on my homepage. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Jenyaza01",
+    "depends": [
+        {
+            "min_version": "2.6",
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/jenyaza01/SmallTweaks/releases/download/v1.6/SmallTweaks.v1.6.zip?auth_key=1748275916-71c6d619b52d4e73a0208556179f91cc-0-4f774aed17d3b188d8c76e7e3a7d9fad&size=4261&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DB7A9F9ABE73215B162A780E125AA362FD5AFB5F",
+        "sha256": "46DBD9B41F8903B7D64EA457256C97F92ECFA7E8752C96553DF0EA32A15FBE84"
+    },
+    "download_size": 4261,
+    "identifier": "SmallTweaks",
+    "install": [
+        {
+            "find": "Jenyaza",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.9",
+    "ksp_version_min": "1.0.2",
+    "license": "MIT",
+    "name": "SmallTweaks [PRO-KCMIRROR]",
+    "release_date": "2019-01-04T08:28:55Z",
+    "resources": {
+        "bugtracker": "https://github.com/jenyaza01/SmallTweaks/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/152741-*",
+        "repository": "https://github.com/jenyaza01/SmallTweaks"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "v1.6",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,60 @@
+{
+    "abstract": "Lite Blue reduces the number available templates and resources used. This is great for players new to Pathfinder and other WildBlue mods or for those that don't want a lot of complexity. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "conflicts": [
+        {
+            "name": "WildBlue-PlayMode"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "depends": [
+        {
+            "name": "WildBlueTools"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/WildBlueTools/releases/download/v1.78.0/WildBlueTools_1_78_0.zip?auth_key=1748275916-376d32b84b2048f18fc17637098f002b-0-907990b7841a8ceae3178dca811f8b10&size=21712237&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "425B4F7B595D2AA57A2118B619F53A029C05CF97",
+        "sha256": "DC41A598FF7A2C2ABE1AA19984D5157EA6DBC2400F36D1A13B10B82BEE7E8591"
+    },
+    "download_size": 21712237,
+    "identifier": "WildBlue-PlayMode-Simplified",
+    "install": [
+        {
+            "as": "OmniStorage.cfg",
+            "find": "000WildBlueTools/Templates/Simplified/Storage/OmniStorage.txt",
+            "find_matches_file": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/Simplified/Storage"
+        },
+        {
+            "find": "000WildBlueTools/Templates/Simplified.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "WildBlueIndustries Simplified Play Mode [PRO-KCMIRROR]",
+    "provides": [
+        "WildBlue-PlayMode",
+        "Buffalo-PlayMode",
+        "DSEV-PlayMode",
+        "MOLE-PlayMode",
+        "ClassicStockResources-PlayMode"
+    ],
+    "release_date": "2020-06-19T19:21:12Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/WildBlueTools/issues",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/WildBlueTools/master/GameData/WildBlueIndustries/000WildBlueTools/WildBlueTools.version",
+        "repository": "https://github.com/Angel-125/WildBlueTools"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config"
+    ],
+    "version": "v1.78.0",
+    "x_generated_by": "netkan"
+}

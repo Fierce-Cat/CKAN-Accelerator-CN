@@ -1,0 +1,47 @@
+{
+    "abstract": "KSP node editor [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Felbourn",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/NodeHelper/releases/download/1.5.1.5/NodeHelper-1.12.0-1.5.1.5.zip?auth_key=1748275918-34d9a44dc308489aa79c31a61344f534-0-3737c23c376100c66f42541a05d45b08&size=32863&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C8108BA51A141B799DB0D1B52BD82F77DA7AE005",
+        "sha256": "CB9ED998A9EB33104F80268257AE7A18F61A1165261A53065BF3C468669DAD46"
+    },
+    "download_size": 32863,
+    "identifier": "NodeHelper",
+    "install": [
+        {
+            "find": "NodeHelper",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 71030,
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Node Helper [PRO-KCMIRROR]",
+    "release_date": "2021-10-01T23:59:34Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/NodeHelper/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190144-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/NodeHelper",
+        "repository": "https://github.com/linuxgurugamer/NodeHelper"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "app"
+    ],
+    "version": "1.5.1.5",
+    "x_generated_by": "netkan"
+}

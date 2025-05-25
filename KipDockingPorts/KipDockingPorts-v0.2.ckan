@@ -1,0 +1,59 @@
+{
+    "abstract": "A set of useful docking ports for Kerbal Space Program.",
+    "author": [
+        "CaptainKipard",
+        "micha"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KipEng-Agency"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2454/KipDockingPorts/download/v0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2DDC486128133FCB3E262255D07675596EB56703",
+        "sha256": "2CE386D03EF5504146AE80E18730580CD86023AF3320EDE75DF4353051D12C18"
+    },
+    "download_size": 4173162,
+    "identifier": "KipDockingPorts",
+    "install": [
+        {
+            "filter": [
+                "Agencies"
+            ],
+            "find": "KipEng",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.0",
+    "ksp_version_min": "1.0.5",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "KipDockingPorts",
+    "release_date": "2020-06-25T15:47:15.363837+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/mwerle/KipDockingPorts/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?showtopic=194930",
+        "remote-avc": "https://raw.githubusercontent.com/mwerle/KipDockingPorts/primary/GameData/KipEng/KipDockingPorts/KipDockingPorts.version",
+        "repository": "https://github.com/mwerle/KipDockingPorts",
+        "spacedock": "https://spacedock.info/mod/2454/KipDockingPorts",
+        "x_screenshot": "https://spacedock.info/content/micha_8295/KipDockingPorts/KipDockingPorts-1593005870.1450794.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "v0.2",
+    "x_generated_by": "netkan"
+}

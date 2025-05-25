@@ -1,0 +1,60 @@
+{
+    "abstract": "Better wheels and anti-gravity repulsors [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "lo-fi",
+        "Gaalidas",
+        "shadowmage45"
+    ],
+    "conflicts": [
+        {
+            "name": "KerbalFoundries"
+        }
+    ],
+    "depends": [
+        {
+            "name": "KSPWheel"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/shadowmage45/KerbalFoundries2/releases/download/2.4.8.18/KerbalFoundries-2.4.8.18.zip?auth_key=1748275914-1062d30da57b4cc6aab5bd5d2d5df784-0-9a0042d22f3822f7ea973667a6a2e42a&size=56904537&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "15DB2E6035E4051DE838FEA308EA3AB09F8CCB6E",
+        "sha256": "9EEE70F6E0175AF4A3BA62430A2BC87EC30B079216192208B92589818E59DEBC"
+    },
+    "download_size": 56904537,
+    "identifier": "KerbalFoundriesContinued",
+    "install": [
+        {
+            "find": "KerbalFoundries",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 92124208,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Kerbal Foundries Continued [PRO-KCMIRROR]",
+    "provides": [
+        "KerbalFoundries"
+    ],
+    "release_date": "2020-02-11T01:55:15Z",
+    "resources": {
+        "bugtracker": "https://github.com/shadowmage45/KerbalFoundries2/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155056-*",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=430",
+        "repository": "https://github.com/shadowmage45/KerbalFoundries2"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "2.4.8.18",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,38 @@
+{
+    "abstract": "Agency folders shared by multiple SDHI-branded add-ons for Kerbal Space Program [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "sumghai",
+    "comment": "agencymod",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/sumghai/SDHI_ServiceModuleSystem/releases/download/4.0.3/ksp_sdhi_sms_v4_0_3.zip?auth_key=1748275915-1a290c198c3d483f9642d0f059045a12-0-248332775ba14ad6ecb3b8287fe1579d&size=4692172&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "75E06E44EFC9E70C1BC62D346899D6C8CE143F01",
+        "sha256": "E0DB8CBBD667075871A5F19444E86ECF0CFE4DE74DA2CD8A1517C824D8BF5650"
+    },
+    "download_size": 4692172,
+    "identifier": "SDHI-SharedAssets",
+    "install": [
+        {
+            "find": "Agencies",
+            "install_to": "GameData/SDHI"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Sum Dum Heavy Industries - Shared Assets [PRO-KCMIRROR]",
+    "release_date": "2020-08-29T01:35:32Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/sumghai/SDHI_ServiceModuleSystem/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/48073-*",
+        "repository": "https://github.com/sumghai/SDHI_ServiceModuleSystem"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "4.0.3",
+    "x_generated_by": "netkan"
+}

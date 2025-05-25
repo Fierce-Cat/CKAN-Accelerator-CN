@@ -1,0 +1,67 @@
+{
+    "abstract": "Launch Clamps are free, because technically a part of the launch pad, and have EC changer and fueling. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Galileo88",
+        "flart"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/yalov/FreeLaunchClamps/releases/download/0.3.1/FreeLaunchClamps-v0.3.1.zip?auth_key=1748275916-d72158dcb074409bbfc520ed19e00f6c-0-26dde7173857fcbe421280f03b427906&size=65531&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B1460B603F85E4D65EFB2738C8A1A70D1935061B",
+        "sha256": "B84C1A64E43B12AF7B452CCB636A16C8F7BED67D6ADCAA6689E76B0FE2E8CEF9"
+    },
+    "download_size": 65531,
+    "identifier": "AlmostFreeLaunchClamps",
+    "install": [
+        {
+            "find": "FreeLaunchClamps",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 4753,
+    "ksp_version_max": "1.12.9",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "Free Launch Clamps [PRO-KCMIRROR]",
+    "release_date": "2022-08-06T13:35:23Z",
+    "resources": {
+        "bugtracker": "https://github.com/yalov/FreeLaunchClamps/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209241-*",
+        "remote-avc": "https://raw.githubusercontent.com/yalov/FreeLaunchClamps/master/FreeLaunchClamps.version",
+        "repository": "https://github.com/yalov/FreeLaunchClamps"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "FASALaunchClampsContinued"
+        },
+        {
+            "name": "FASA"
+        },
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "RealScaleBoosters"
+        },
+        {
+            "name": "ModularLaunchPads"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "0.3.1",
+    "x_generated_by": "netkan"
+}

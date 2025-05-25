@@ -1,0 +1,74 @@
+{
+    "abstract": "ROTanks uses modified code of SSTU by Shadowmage45 to provide modular tanks (and more) for Realism Overhaul. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "pap1723",
+    "conflicts": [
+        {
+            "name": "TweakableEverything"
+        }
+    ],
+    "depends": [
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "RealFuels"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/ROTanks/releases/download/v1.0.1.0/ROTanks-v1.0.1.0.zip?auth_key=1748275915-104722f3de4b4e58969ad825134debde-0-f1a032571c76cd69bdc86f75c77428b9&size=54306260&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "112179D516F118B0299C21EC0CA13AE1F9F30634",
+        "sha256": "9BD6E157994AECB605BC7ABEC5B8060E8428D52D2F7EE7C7C3248F59DE359DCB"
+    },
+    "download_size": 54306260,
+    "identifier": "ROTanks",
+    "install": [
+        {
+            "file": "GameData/ROTanks",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.3",
+    "ksp_version_min": "1.6.1",
+    "license": "CC-BY-SA",
+    "name": "ROTanks [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ROEngines"
+        },
+        {
+            "name": "ROCapsules"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "RP-0"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "repository": "https://github.com/KSP-RO/ROTanks"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "parts"
+    ],
+    "version": "v1.0.1.0",
+    "x_generated_by": "netkan"
+}

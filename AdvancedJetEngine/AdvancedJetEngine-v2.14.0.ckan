@@ -1,0 +1,62 @@
+{
+    "abstract": "Gives jets, propellers, and rotors realistic performance. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "blowfish",
+        "NathanKell",
+        "camlost"
+    ],
+    "depends": [
+        {
+            "name": "FAR"
+        },
+        {
+            "name": "SolverEngines"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/AJE/releases/download/v2.14.0/Advanced_Jet_Engine_v2.14.0.zip?auth_key=1748275914-cde5ad527fd2425fb07a44cd67db9f99-0-cc63851408dbf3267f2dfdc7d7b3ef5a&size=643920&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "20B40FF394D7A90427DDF8D919AB96C03C7A7B25",
+        "sha256": "DA25C5DC277534106BFFD2945B8B9AC7F8015B83AC00CC3B3683FB818F7CD603"
+    },
+    "download_size": 643920,
+    "identifier": "AdvancedJetEngine",
+    "install": [
+        {
+            "find": "GameData/AJE",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "LGPL-2.0",
+    "localizations": [
+        "zh-cn",
+        "en-us"
+    ],
+    "name": "Advanced Jet Engine [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RealFuels"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?showtopic=139868",
+        "metanetkan": "https://raw.githubusercontent.com/KSP-RO/AJE/master/NetKAN/AdvancedJetEngine.netkan",
+        "repository": "https://github.com/KSP-RO/AJE"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "v2.14.0",
+    "x_generated_by": "netkan"
+}

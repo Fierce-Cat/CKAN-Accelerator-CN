@@ -1,0 +1,40 @@
+{
+    "abstract": "Integrate the stack decouplers with your tanks to save on part count",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1538/Integrated%20Stack%20Decouplers/download/0.1.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "82B137ED774C296220916B506914127684677282",
+        "sha256": "490A0823EB7FE0CD6D2B1FEAD56092AF8A5436E5AA441DED61060443A4982F37"
+    },
+    "download_size": 72161,
+    "identifier": "IntegratedStackDecouplers",
+    "install": [
+        {
+            "find": "IntegratedStackDecouplers",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Integrated Stack Decouplers",
+    "release_date": "2019-11-01T23:14:23.127056+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/166246-13-integrated-stack-decouplers/",
+        "repository": "https://github.com/linuxgurugamer/IntegratedStackDecouplers",
+        "spacedock": "https://spacedock.info/mod/1538/Integrated%20Stack%20Decouplers",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Integrated_Stack_Decouplers/Integrated_Stack_Decouplers-1507388184.1072423.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "0.1.5",
+    "x_generated_by": "netkan"
+}

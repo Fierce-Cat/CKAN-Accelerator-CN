@@ -1,0 +1,45 @@
+{
+    "abstract": "Essentially BARIS-Lite, This mod disables part modules when the MTBF expires. When that happens, the part requires one or more stock EVA Repair Kits to fix. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/EVARepairs/releases/download/v1.4.0/EVARepairs.zip?auth_key=1748275918-5f319b63ddac49c88057ddccb6185d5f-0-00d7bb856b8c4f8bb1d024eadb112233&size=23094408&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "293BF4F3EBF1AF946F532403F8C12042C4AF7250",
+        "sha256": "8BE9F5252599E9A0DA7FEF7E6C85892A64E5DF444DA233379214375561B4BFED"
+    },
+    "download_size": 23094408,
+    "identifier": "EVARepairs",
+    "install": [
+        {
+            "find": "EVARepairs",
+            "install_to": "GameData/WildBlueIndustries"
+        }
+    ],
+    "install_size": 35239456,
+    "ksp_version_min": "1.12.2",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "EVARepairs [PRO-KCMIRROR]",
+    "release_date": "2024-05-02T00:43:46Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/EVARepairs/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/204907-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/EVARepairs/main/ReleaseFolder/GameData/WildBlueIndustries/EVARepairs/EVARepairs.version",
+        "repository": "https://github.com/Angel-125/EVARepairs"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "version": "1:v1.4.0",
+    "x_generated_by": "netkan"
+}

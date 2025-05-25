@@ -1,0 +1,54 @@
+{
+    "abstract": "HSI and Instrument Landing System for both standalone and RPM",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2879/NavUtilities%20Updated/download/0.8.0.7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C7B0AE3772B00D5E42BEFE8055FBBBD1E48E80EA",
+        "sha256": "D3CBA6FB1C70A00CFDEDEF680FF3A12B7703098F863DBB1B04111A2BE4589452"
+    },
+    "download_size": 1038225,
+    "identifier": "NavUtilitiesUpdated",
+    "install": [
+        {
+            "find": "NavInstruments",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1886788,
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "NavUtilities Updated",
+    "release_date": "2022-08-30T22:47:15.451032+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/NavInstruments/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204929-112x-navutilities-continued-ft-hsi-instrument-landing-system-beta-now-available/page/2/",
+        "remote-avc": "http://ksp.spacetux.net/avc/NavInstruments",
+        "repository": "https://github.com/linuxgurugamer/NavInstruments",
+        "spacedock": "https://spacedock.info/mod/2879/NavUtilities%20Updated",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/NavUtilities_Updated/NavUtilities_Updated-1634491303.0875568.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information",
+        "crewed"
+    ],
+    "version": "0.8.0.7",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,58 @@
+{
+    "abstract": " This mod aims to provide simple rocketbuilding capability to stock parts. ",
+    "author": [
+        "matterbeam",
+        "RealGecko",
+        "zer0Kerbal"
+    ],
+    "conflicts": [
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        }
+    ],
+    "download": "https://spacedock.info/mod/59/SimpleConstruction/download/4.0.2.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5788F2EF4FB2DB5E6BAD7DE6ACFE8162EA4E52A8",
+        "sha256": "C5C236F2F6349E33A022BBFFE74D0038292C4DBF47290071AC572239F41A2DA9"
+    },
+    "download_size": 33218,
+    "identifier": "SimpleConstruction",
+    "install": [
+        {
+            "find": "SimpleConstruction",
+            "install_to": "GameData"
+        },
+        {
+            "find": "ExtraplanetaryLaunchpads",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.1",
+    "license": "MIT",
+    "name": "SimpleConstruction",
+    "provides": [
+        "ExtraPlanetaryLaunchpads"
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191424-ksp-*",
+        "repository": "https://github.com/zer0Kerbal/SimpleConstruction",
+        "spacedock": "https://spacedock.info/mod/59/SimpleConstruction",
+        "x_screenshot": "https://spacedock.info/content/matterbeam_328/SimpleConstruction/SimpleConstruction-1455675320.902058.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "resources"
+    ],
+    "version": "1:4.0.2.1",
+    "x_generated_by": "netkan"
+}

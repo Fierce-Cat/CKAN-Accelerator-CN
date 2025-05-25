@@ -1,0 +1,543 @@
+{
+    "abstract": "KSP: dedicated playmode \"USI\" for WildBlueIndustries (MOLE, Pathfinder, ...)",
+    "author": "TheDogKSP",
+    "conflicts": [
+        {
+            "name": "WildBlue-PlayMode"
+        },
+        {
+            "name": "Buffalo-PlayMode"
+        },
+        {
+            "name": "DSEV-PlayMode"
+        },
+        {
+            "name": "MOLE-PlayMode"
+        },
+        {
+            "name": "Pathfinder-PlayMode"
+        },
+        {
+            "name": "ClassicStockResources-PlayMode"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "WildBlueTools"
+        }
+    ],
+    "download": "https://archive.org/download/WildBlue-PlayMode-USI-v1.0.0.2/AB996AF2-WildBlue-PlayMode-USI-v1.0.0.2.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AB996AF2F88BBCF4E6803BE30B51839899D5B062",
+        "sha256": "4ABC58696DC7A337DC5A529CF9DCF94A645DD904A66B7BB6A6182DD346776419"
+    },
+    "download_size": 147099,
+    "identifier": "WildBlue-PlayMode-USI",
+    "install": [
+        {
+            "filter": [
+                "Templates",
+                ".git"
+            ],
+            "find": "WildBluePlaymodeUSI",
+            "install_to": "GameData"
+        },
+        {
+            "as": "99_remove_modules.cfg",
+            "find": "Templates/USI/99_remove_modules.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI"
+        },
+        {
+            "as": "BuffaloISRU.cfg",
+            "find": "Templates/USI/Buffalo/BuffaloISRU.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Buffalo"
+        },
+        {
+            "as": "Buffalo_airlock.cfg",
+            "find": "Templates/USI/Buffalo/Buffalo_airlock.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Buffalo"
+        },
+        {
+            "as": "Buffalo_habitation.cfg",
+            "find": "Templates/USI/Buffalo/Buffalo_habitation.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Buffalo"
+        },
+        {
+            "as": "OmniConverters_CRP.cfg",
+            "find": "Templates/USI/Common/Production/OmniConverters_CRP.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Production"
+        },
+        {
+            "as": "OmniConverters_Lifesupport.cfg",
+            "find": "Templates/USI/Common/Production/OmniConverters_Lifesupport.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Production"
+        },
+        {
+            "as": "Coolant.cfg",
+            "find": "Templates/USI/Common/Storage/Coolant.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "Dirt.cfg",
+            "find": "Templates/USI/Common/Storage/Dirt.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "ExoticMinerals.cfg",
+            "find": "Templates/USI/Common/Storage/ExoticMinerals.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "Fertilzer.cfg",
+            "find": "Templates/USI/Common/Storage/Fertilzer.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "FusionPellets.cfg",
+            "find": "Templates/USI/Common/Storage/FusionPellets.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "Glykerol.cfg",
+            "find": "Templates/USI/Common/Storage/Glykerol.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "Karborundrum.cfg",
+            "find": "Templates/USI/Common/Storage/Karborundrum.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "Konkrete.cfg",
+            "find": "Templates/USI/Common/Storage/Konkrete.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "KonstructionEquipment.cfg",
+            "find": "Templates/USI/Common/Storage/KonstructionEquipment.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "KonstructionKonkrete.cfg",
+            "find": "Templates/USI/Common/Storage/KonstructionKonkrete.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "Lead.cfg",
+            "find": "Templates/USI/Common/Storage/Lead.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "LiquidHydrogen.cfg",
+            "find": "Templates/USI/Common/Storage/LiquidHydrogen.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "MetallicOre.cfg",
+            "find": "Templates/USI/Common/Storage/MetallicOre.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "Metals.cfg",
+            "find": "Templates/USI/Common/Storage/Metals.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "Minerals.cfg",
+            "find": "Templates/USI/Common/Storage/Minerals.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "OmniStorage.cfg",
+            "find": "Templates/USI/Common/Storage/OmniStorage.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "OmniStorage_blacklist.cfg",
+            "find": "Templates/USI/Common/Storage/OmniStorage_blacklist.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "Organics.cfg",
+            "find": "Templates/USI/Common/Storage/Organics.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "RareMetals.cfg",
+            "find": "Templates/USI/Common/Storage/RareMetals.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "ResearchKits.cfg",
+            "find": "Templates/USI/Common/Storage/ResearchKits.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "Rock.cfg",
+            "find": "Templates/USI/Common/Storage/Rock.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "Slag.cfg",
+            "find": "Templates/USI/Common/Storage/Slag.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "Supplies.cfg",
+            "find": "Templates/USI/Common/Storage/Supplies.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "Uraninite.cfg",
+            "find": "Templates/USI/Common/Storage/Uraninite.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "Water.cfg",
+            "find": "Templates/USI/Common/Storage/Water.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "XenonGas.cfg",
+            "find": "Templates/USI/Common/Storage/XenonGas.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Common/Storage"
+        },
+        {
+            "as": "D2Templates.cfg",
+            "find": "Templates/USI/DSEV/D2Templates.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/DSEV"
+        },
+        {
+            "as": "D2Templates_hab.cfg",
+            "find": "Templates/USI/DSEV/D2Templates_hab.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/DSEV"
+        },
+        {
+            "as": "DefaultTemplates.cfg",
+            "find": "Templates/USI/DSEV/DefaultTemplates.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/DSEV"
+        },
+        {
+            "as": "dsev_airlocks.cfg",
+            "find": "Templates/USI/DSEV/dsev_airlocks.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/DSEV"
+        },
+        {
+            "as": "dsev_cryoshelters.cfg",
+            "find": "Templates/USI/DSEV/dsev_cryoshelters.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/DSEV"
+        },
+        {
+            "as": "dsev_greenhouses.cfg",
+            "find": "Templates/USI/DSEV/dsev_greenhouses.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/DSEV"
+        },
+        {
+            "as": "dsev_habls_usi.cfg",
+            "find": "Templates/USI/DSEV/dsev_habls_usi.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/DSEV"
+        },
+        {
+            "as": "dsev_mk3_hab.cfg",
+            "find": "Templates/USI/DSEV/dsev_mk3_hab.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/DSEV"
+        },
+        {
+            "as": "dsev_tranq_hab.cfg",
+            "find": "Templates/USI/DSEV/dsev_tranq_hab.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/DSEV"
+        },
+        {
+            "as": "MM_CompactISRU.cfg",
+            "find": "Templates/USI/DSEV/MM_CompactISRU.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/DSEV"
+        },
+        {
+            "as": "MM_Trinity.cfg",
+            "find": "Templates/USI/DSEV/MM_Trinity.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/DSEV"
+        },
+        {
+            "as": "PathfinderTemplates.cfg",
+            "find": "Templates/USI/DSEV/PathfinderTemplates.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/DSEV"
+        },
+        {
+            "as": "Scanners.cfg",
+            "find": "Templates/USI/DSEV/Scanners.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/DSEV"
+        },
+        {
+            "as": "BOW.cfg",
+            "find": "Templates/USI/MOLE/BOW.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/MOLE"
+        },
+        {
+            "as": "BOW_habitation.cfg",
+            "find": "Templates/USI/MOLE/BOW_habitation.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/MOLE"
+        },
+        {
+            "as": "DefaultTemplates.cfg",
+            "find": "Templates/USI/MOLE/DefaultTemplates.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/MOLE"
+        },
+        {
+            "as": "Experiments.cfg",
+            "find": "Templates/USI/MOLE/Experiments.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/MOLE"
+        },
+        {
+            "as": "MOBL18.cfg",
+            "find": "Templates/USI/MOLE/MOBL18.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/MOLE"
+        },
+        {
+            "as": "MOH18.cfg",
+            "find": "Templates/USI/MOLE/MOH18.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/MOLE"
+        },
+        {
+            "as": "MOLE18.cfg",
+            "find": "Templates/USI/MOLE/MOLE18.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/MOLE"
+        },
+        {
+            "as": "wbiMk1Cupola.cfg",
+            "find": "Templates/USI/MOLE/wbiMk1Cupola.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/MOLE"
+        },
+        {
+            "as": "wbi_airlock.cfg",
+            "find": "Templates/USI/MOLE/wbi_airlock.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/MOLE"
+        },
+        {
+            "as": "wbi_commandmodules.cfg",
+            "find": "Templates/USI/MOLE/wbi_commandmodules.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/MOLE"
+        },
+        {
+            "as": "WBI_StationHub2.cfg",
+            "find": "Templates/USI/MOLE/WBI_StationHub2.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/MOLE"
+        },
+        {
+            "as": "Blacksmith.cfg",
+            "find": "Templates/USI/Pathfinder/Blacksmith.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "BrewWorks.cfg",
+            "find": "Templates/USI/Pathfinder/BrewWorks.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "Claimjumper.cfg",
+            "find": "Templates/USI/Pathfinder/Claimjumper.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "Clockworks.cfg",
+            "find": "Templates/USI/Pathfinder/Clockworks.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "DefaultTemplates.cfg",
+            "find": "Templates/USI/Pathfinder/DefaultTemplates.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "GeologyLab.cfg",
+            "find": "Templates/USI/Pathfinder/GeologyLab.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "GoldStrike.cfg",
+            "find": "Templates/USI/Pathfinder/GoldStrike.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "HotSprings.cfg",
+            "find": "Templates/USI/Pathfinder/HotSprings.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "Ironworks.cfg",
+            "find": "Templates/USI/Pathfinder/Ironworks.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "Nukeworks.cfg",
+            "find": "Templates/USI/Pathfinder/Nukeworks.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "OmniLab.cfg",
+            "find": "Templates/USI/Pathfinder/OmniLab.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "OmniShop.cfg",
+            "find": "Templates/USI/Pathfinder/OmniShop.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "OmniWorks.cfg",
+            "find": "Templates/USI/Pathfinder/OmniWorks.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "OPAL.cfg",
+            "find": "Templates/USI/Pathfinder/OPAL.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "pathfinder_base.cfg",
+            "find": "Templates/USI/Pathfinder/pathfinder_base.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "pathfinder_chuckwagon_prairie.cfg",
+            "find": "Templates/USI/Pathfinder/pathfinder_chuckwagon_prairie.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "pathfinder_cropworks.cfg",
+            "find": "Templates/USI/Pathfinder/pathfinder_cropworks.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "pathfinder_habitation.cfg",
+            "find": "Templates/USI/Pathfinder/pathfinder_habitation.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "pathfinder_spyglass.cfg",
+            "find": "Templates/USI/Pathfinder/pathfinder_spyglass.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "SolarFlare.cfg",
+            "find": "Templates/USI/Pathfinder/SolarFlare.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "SunburnLab.cfg",
+            "find": "Templates/USI/Pathfinder/SunburnLab.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        },
+        {
+            "as": "WatneyChemLab.cfg",
+            "find": "Templates/USI/Pathfinder/WatneyChemLab.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBluePlaymodeUSI/Templates/USI/Pathfinder"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.10.0",
+    "license": "GPL-3.0",
+    "name": "WildBlueIndustries USI Play Mode",
+    "provides": [
+        "WildBlue-PlayMode",
+        "Buffalo-PlayMode",
+        "DSEV-PlayMode",
+        "MOLE-PlayMode",
+        "Pathfinder-PlayMode",
+        "ClassicStockResources-PlayMode"
+    ],
+    "release_date": "2021-01-06T16:00:20Z",
+    "resources": {
+        "bugtracker": "https://github.com/TheDogKSP/WBIPlaymodeUSI/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/198964-*",
+        "remote-avc": "https://raw.githubusercontent.com/TheDogKSP/WBIPlaymodeUSI/master/wbiplaymodeusi.version",
+        "repository": "https://github.com/TheDogKSP/WBIPlaymodeUSI"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config"
+    ],
+    "version": "v1.0.0.2",
+    "x_generated_by": "netkan"
+}

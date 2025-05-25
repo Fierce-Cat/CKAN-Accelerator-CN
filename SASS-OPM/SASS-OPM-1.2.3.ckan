@@ -1,0 +1,36 @@
+{
+    "abstract": "OPM for SASS. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Galileo88",
+    "depends": [
+        {
+            "name": "StockalikeSolarSystem"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Galileo88/OPM_Galileo/releases/download/1.2.3/OPM_Galileo.v1.2.3.zip?auth_key=1748275915-e576ba2bdbdd43dcb436e7545cb91562-0-0ca40e5d25353d71652e1761c6176938&size=122386209&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CAC3F5E6E30363CC723BD153492D1AC32C5BD416",
+        "sha256": "FF3E9AD77B8B30054D68ABFE00A6847D6217E91BA758AAB88D219B4B62D8B99B"
+    },
+    "download_size": 122386209,
+    "identifier": "SASS-OPM",
+    "install": [
+        {
+            "find": "OPM",
+            "install_to": "GameData"
+        },
+        {
+            "find": "CTTP",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "SASS-OPM [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/165854-OPMG/"
+    },
+    "spec_version": "v1.4",
+    "version": "1.2.3",
+    "x_generated_by": "netkan"
+}

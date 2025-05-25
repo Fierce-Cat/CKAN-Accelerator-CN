@@ -1,0 +1,71 @@
+{
+    "abstract": "The total visual overhaul for Kerbal Space Program, originally by Astronomer. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "themaster402",
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "AVP-Textures"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/themaster402/AstronomersVisualPack/releases/download/v4.05/AVP.v.4.05.zip?auth_key=1748275914-7e2d7a3b835e4505a878792f71babb8e-0-d7b77941a28ecac169e26920ba0ea6e5&size=52679270&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "70D13E535C0B5A4F582F6C80C59774C1C7BD6C8F",
+        "sha256": "75D430843B96784BD3B304A58D9287B06CB584C6DA326471206E7E3F6B12E6A3"
+    },
+    "download_size": 52679270,
+    "identifier": "AstronomersVisualPack",
+    "ksp_version_max": "1.10.9",
+    "ksp_version_min": "1.10.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Astronomer's Visual Pack [PRO-KCMIRROR]",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config"
+    ],
+    "recommends": [
+        {
+            "name": "KS3P"
+        },
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "release_date": "2020-07-19T10:19:38Z",
+    "resources": {
+        "bugtracker": "https://github.com/themaster402/AstronomersVisualPack/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160878-*",
+        "remote-avc": "https://raw.githubusercontent.com/themaster402/AstronomersVisualPack/master/GameData/AstronomersVisualPack/AstronomersVisualPack.version",
+        "repository": "https://github.com/themaster402/AstronomersVisualPack"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "Chatterer"
+        }
+    ],
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "2:v4.05",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,38 @@
+{
+    "abstract": "Aims to autonomously guide a Booster to land on a drone ship or the launch site using Boostback, Re-entry Burn, Aerodynamic Descent and Landing Burn SpaceX Falcon 9 style",
+    "author": "oyster_catcher",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2587/BoosterGuidance/download/1.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7F034A10702BE4E07B9932961163CCCCA77BF801",
+        "sha256": "0D3BF41C7983EE1BBD42CBE117A3A1077650866F9D269291A1257E95D9DE2A34"
+    },
+    "download_size": 75512,
+    "identifier": "BoosterGuidance",
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.3.1",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "BoosterGuidance",
+    "release_date": "2021-01-18T22:28:56.167482+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/oyster-catcher/BoosterGuidance/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/198760-181-1101-boostguidance-v101/",
+        "repository": "https://github.com/oyster-catcher/BoosterGuidance",
+        "spacedock": "https://spacedock.info/mod/2587/BoosterGuidance"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "1.1.1",
+    "x_generated_by": "netkan"
+}

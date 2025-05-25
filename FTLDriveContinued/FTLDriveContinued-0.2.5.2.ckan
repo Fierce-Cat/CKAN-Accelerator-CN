@@ -1,0 +1,59 @@
+{
+    "abstract": "Ever wished you were somewhere else instantly. With the Kerbin Science Foundry faster than light (FTL) drive you can! Just spin it up to create an instant reality dysfunction that might, just might transport you instantly to another point in space.",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "FTLDrive"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/835/FTL%20Drive%20Continued/download/0.2.5.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0D62C94E717C2F3A20439032DAF7B973AED68262",
+        "sha256": "29171C5D93B0CF50BF8AE8B44ED30D0079E6DAA3E3ED4B06BAA6F83EB762AE6E"
+    },
+    "download_size": 6805717,
+    "identifier": "FTLDriveContinued",
+    "install": [
+        {
+            "find": "FTLDriveContinued",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 28745804,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "FTL Drive Continued",
+    "recommends": [
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "release_date": "2022-04-25T20:32:58.659116+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/FTLDriveContinued/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150178-12-ftl-drive-continued/",
+        "remote-avc": "http://ksp.spacetux.net/avc/FTLDriveContinued",
+        "repository": "https://github.com/linuxgurugamer/FTLDriveContinued",
+        "spacedock": "https://spacedock.info/mod/835/FTL%20Drive%20Continued"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "0.2.5.2",
+    "x_generated_by": "netkan"
+}

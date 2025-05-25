@@ -1,0 +1,45 @@
+{
+    "abstract": "Count down and count up timers [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/BigBen/releases/download/0.0.2.8/BigBen-1.12.0-0.0.2.8.zip?auth_key=1748275915-16426ccfdd0a4b5bbcf8fc38a67c44f9-0-41aeff5d6c7d0f83edd0a9c28cf6d867&size=821900&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "459504C850BD2B0B7728113D153B8084ADA05AC3",
+        "sha256": "179985EA2EF36F637549E7CB390DD6C7603A396A35562AD430AA950EE84B9107"
+    },
+    "download_size": 821900,
+    "identifier": "BigBen",
+    "install": [
+        {
+            "find": "BigBen",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "BigBen [PRO-KCMIRROR]",
+    "release_date": "2021-11-29T05:01:52Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/BigBen/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190916-18x-big-ben-stopwatch-timers-to-count-down-and-up/",
+        "remote-avc": "http://ksp.spacetux.net/avc/BigBen",
+        "repository": "https://github.com/linuxgurugamer/BigBen",
+        "spacedock": "https://spacedock.info/mod/2307/BigBen",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/BigBen/BigBen-1578974416.9790013.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "0.0.2.8",
+    "x_generated_by": "netkan"
+}

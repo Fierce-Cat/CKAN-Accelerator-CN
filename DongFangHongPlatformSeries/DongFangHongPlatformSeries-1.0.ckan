@@ -1,0 +1,55 @@
+{
+    "abstract": "万户出品，必属精品！",
+    "author": "Karrot",
+    "depends": [
+        {
+            "name": "Wanhu-Common"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2409/DongFangHong%20Platform%20Series/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CB0DB9EF3673C088937EE473268F4C399F853E0B",
+        "sha256": "202EECCBA0B19D228C253C47CF1BA4FCFD1AC9CAE29340B3D8230A450FEDC92D"
+    },
+    "download_size": 8331354,
+    "identifier": "DongFangHongPlatformSeries",
+    "install": [
+        {
+            "as": "Wanhu",
+            "filter": [
+                "Assets",
+                "Flags",
+                "FX",
+                "Icons",
+                "Patches",
+                "Resources",
+                "WanhuTools.dll",
+                "WanhuCategory.cfg"
+            ],
+            "filter_regexp": [
+                ".*\\.craft$"
+            ],
+            "find": "DongFangHong Platform Series",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 387008,
+    "ksp_version": "1.11.1",
+    "license": "CC-BY-NC-ND-4.0",
+    "localizations": [
+        "zh-cn"
+    ],
+    "name": "DongFangHong Platform Series",
+    "release_date": "2020-04-24T06:19:04.580059+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/2409/DongFangHong%20Platform%20Series",
+        "x_screenshot": "https://spacedock.info/content/Karrot_36750/DongFangHong_Platform_Series/DongFangHong_Platform_Series-1596934268.0717378.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

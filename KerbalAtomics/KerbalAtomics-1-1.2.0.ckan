@@ -1,0 +1,95 @@
+{
+    "abstract": "Provides several new and exciting nuclear engines to use in your game in many size classes and technologies, such as gas-core reactors, nuclear aerospikes and multimode engines.",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "CryoTanks"
+                },
+                {
+                    "name": "KerbalAtomics-NTRsUseLF"
+                }
+            ]
+        }
+    ],
+    "download": "https://spacedock.info/mod/710/Kerbal%20Atomics/download/1.2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A16D8AA658E71D1C2B1DCD9280E4CB917F87F99C",
+        "sha256": "23F586BF843DFA2ACB2A4BFC455D35C03B74001DE575D79BA57D65977B97D212"
+    },
+    "download_size": 81819658,
+    "identifier": "KerbalAtomics",
+    "install": [
+        {
+            "find": "KerbalAtomics",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "ru",
+        "de-de",
+        "en-us",
+        "es-es",
+        "zh-cn"
+    ],
+    "name": "Kerbal Atomics",
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "KerbalAtomics-NTRModSupport"
+        }
+    ],
+    "release_date": "2020-12-23T15:32:35.504811+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/130503-16x-kerbal-atomics-fancy-nuclear-engines-january-21/",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/KerbalAtomics/raw/master/CKAN/KerbalAtomics.netkan",
+        "repository": "https://github.com/post-kerbin-mining-corporation/KerbalAtomics",
+        "spacedock": "https://spacedock.info/mod/710/Kerbal%20Atomics",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Kerbal_Atomics/Kerbal_Atomics-1463537395.8438432.png"
+    },
+    "spec_version": "v1.26",
+    "suggests": [
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1:1.2.0",
+    "x_generated_by": "netkan"
+}

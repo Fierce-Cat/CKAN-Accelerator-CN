@@ -1,0 +1,44 @@
+{
+    "abstract": "Enables the stock science lab (with engineers) to refill or transfer non-transferrable resources without plugins or cheaty techniques",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RationalResourcesCompanion"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2201/Rational%20Resources/download/1.30",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "08A9F72254BFA3561BF0F20869B73288F29269C0",
+        "sha256": "88ADAAEF2F76D82EB4799FD1E183142F962ACE815EA7C0220AA41E0431DA8767"
+    },
+    "download_size": 4421527,
+    "identifier": "RationalResourcesBlacksmith",
+    "ksp_version": "1.12.2",
+    "license": "MIT",
+    "name": "Rational Resources Blacksmith",
+    "release_date": "2021-10-21T22:45:13.02597+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/RationalResources/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184875-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalResources/Version/RationalResources.version",
+        "repository": "https://github.com/JadeOfMaar/RationalResources",
+        "spacedock": "https://spacedock.info/mod/2201/Rational%20Resources",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Rational_Resources/Rational_Resources-1633389353.6822987.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        }
+    ],
+    "tags": [
+        "config",
+        "convenience"
+    ],
+    "version": "1.30",
+    "x_generated_by": "netkan"
+}

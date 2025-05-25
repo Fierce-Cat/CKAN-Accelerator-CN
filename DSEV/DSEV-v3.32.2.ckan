@@ -1,0 +1,95 @@
+{
+    "abstract": "Deep Space Exploration Vessels for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "WBIProps"
+        },
+        {
+            "name": "WBIResources"
+        },
+        {
+            "name": "WBIScience"
+        },
+        {
+            "name": "WBIWidgets"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "KerbalActuators"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/DSEV/releases/download/v3.32.2/DSEV.zip?auth_key=1748275915-28c5d598eedf4a7ab782a2d1d9a81634-0-d593bd55bdf2b9c16774a304c296bdbe&size=132828088&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2735595910F248E9B94CB0F72021D9ABE165C45B",
+        "sha256": "096B4FB557A18EE4AA6D9CE906E6A2FA5DFCB65C077CC495A28F840D2F918817"
+    },
+    "download_size": 132828088,
+    "identifier": "DSEV",
+    "install": [
+        {
+            "filter_regexp": [
+                ".*\\.pdb$",
+                "ReferenceDesigns"
+            ],
+            "find": "WildBlueIndustries/DSEV",
+            "install_to": "GameData/WildBlueIndustries"
+        },
+        {
+            "find": "VAB",
+            "install_to": "Ships"
+        },
+        {
+            "find": "SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 354706587,
+    "ksp_version_min": "1.12.2",
+    "license": "restricted",
+    "name": "DSEV [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ClassicStockResources"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "AvionicsSystems"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "ASETAvionics"
+        },
+        {
+            "name": "InfernalRobotics"
+        },
+        {
+            "name": "Snacks"
+        }
+    ],
+    "release_date": "2025-05-03T21:10:00Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/DSEV/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/122162-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/DSEV/master/GameData/WildBlueIndustries/DSEV/DSEV.version",
+        "repository": "https://github.com/Angel-125/DSEV"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "parts",
+        "plugin",
+        "crewed"
+    ],
+    "version": "v3.32.2",
+    "x_generated_by": "netkan"
+}

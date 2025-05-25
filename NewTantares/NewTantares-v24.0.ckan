@@ -1,0 +1,62 @@
+{
+    "abstract": "Stockalike Soviet Spacecraft [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Beale",
+    "conflicts": [
+        {
+            "name": "Tantares"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Tantares/Tantares/releases/download/v24.0/Tantares.zip?auth_key=1748275914-0f0ecb0e91b340d0951a44abda8923b6-0-395723b9c1dfc6f1c79c2120fa295aa8&size=107338693&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3F3955CAAEA6098A8CFB265336136D9BDFAA8338",
+        "sha256": "1566C673311C0D5C76D345B9571308477041410F2B8595C7E9A2F279F63F916A"
+    },
+    "download_size": 107338693,
+    "identifier": "NewTantares",
+    "install": [
+        {
+            "find": "Tantares",
+            "install_to": "GameData"
+        },
+        {
+            "as": "VAB",
+            "find": "Crafts",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version_max": "1.11",
+    "ksp_version_min": "1.10.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Tantares - Soviet Spacecraft [PRO-KCMIRROR]",
+    "provides": [
+        "Tantares"
+    ],
+    "recommends": [
+        {
+            "name": "NewTantaresLV"
+        }
+    ],
+    "release_date": "2021-02-21T15:40:28Z",
+    "resources": {
+        "bugtracker": "https://github.com/Tantares/Tantares/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/73686-Tantares",
+        "repository": "https://github.com/Tantares/Tantares",
+        "spacedock": "https://spacedock.info/mod/174/Tantares"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "v24.0",
+    "x_generated_by": "netkan"
+}

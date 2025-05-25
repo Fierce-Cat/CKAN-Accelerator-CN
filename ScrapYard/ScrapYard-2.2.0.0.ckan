@@ -1,0 +1,95 @@
+{
+    "abstract": "A common part inventory add-on for Kerbal Space Program.",
+    "author": [
+        "magico13",
+        "severedsolo",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1746/ScrapYard/download/2.2.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "308CA059F48657819B1255BECB517A3F23309CE0",
+        "sha256": "D54FE9F4FB656D268B2B337CBB2C092557C1896C6F77A22DBF4CC7A9FEF46DAE"
+    },
+    "download_size": 88563,
+    "identifier": "ScrapYard",
+    "ksp_version_max": "1.12.9999",
+    "ksp_version_min": "1.9.1",
+    "license": "MIT",
+    "name": "ScrapYard",
+    "recommends": [
+        {
+            "name": "OhScrap"
+        },
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "release_date": "2021-09-17T07:46:24.974069+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/ScrapYard/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192456-*",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/ScrapYard/master/GameData/ScrapYard/ScrapYard.version",
+        "repository": "https://github.com/zer0Kerbal/ScrapYard",
+        "spacedock": "https://spacedock.info/mod/1746/ScrapYard",
+        "x_screenshot": "https://spacedock.info/content/magico13_204/ScrapYard/ScrapYard-1584356712.188748.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "Kaboom"
+        },
+        {
+            "name": "Komplexity"
+        },
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "StageRecovery"
+        },
+        {
+            "name": "KerbalKrashSystem"
+        },
+        {
+            "name": "Tweakscale"
+        },
+        {
+            "name": "KSP-Recall"
+        }
+    ],
+    "supports": [
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "KerbalKrashSystem"
+        },
+        {
+            "name": "FerramAerospaceResearchContinued"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "editor"
+    ],
+    "version": "2.2.0.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,49 @@
+{
+    "abstract": "A modified version of SWE to fill in the gaps that Restock has in Waterfall Coverage. (Please read the installation notes!)",
+    "author": "AtomicTech",
+    "conflicts": [
+        {
+            "name": "StockWaterfallEffects"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "ReStock"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3149/Restock%20Waterfall%20Expansion/download/0.3.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7000F0112FEAB81FB691B246E22A0EDA0B1260D7",
+        "sha256": "1F1641048C195F8AFBDB5C7A47ED26F1CF7D91AE00152231A1181C59828FF05C"
+    },
+    "download_size": 169259,
+    "identifier": "RestockWaterfallExpansion",
+    "install_size": 1736406,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Restock Waterfall Expansion",
+    "release_date": "2022-12-17T21:02:52.317919+00:00",
+    "resources": {
+        "homepage": "https://replit.com/@JamesErvin/Restock-Waterfall-Expansion",
+        "repository": "https://replit.com/@JamesErvin/Restock-Waterfall-Expansion",
+        "spacedock": "https://spacedock.info/mod/3149/Restock%20Waterfall%20Expansion",
+        "x_screenshot": "https://spacedock.info/content/AtomicTech_61568/Restock_Waterfall_Expansion/Restock_Waterfall_Expansion-1671310767.jpg"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "0.3.0",
+    "x_generated_by": "netkan"
+}

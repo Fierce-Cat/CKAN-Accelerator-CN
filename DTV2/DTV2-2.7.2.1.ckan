@@ -1,0 +1,51 @@
+{
+    "abstract": "Draft, tour with, or rescue your twitch viewers as in-game Kerbals!",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/DraftTwitchViewers/releases/download/2.7.2.1/DraftTwitchViewers-1.12.0-2.7.2.1.zip",
+        "https://spacedock.info/mod/1985/Draft%20Twitch%20Viewers%20Redrafted/download/2.7.2.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9D41033D345D97B1DD248C9CE335EBAB8C3429A5",
+        "sha256": "196105C6AE32800962FD87F86AA33A46651AC64EB4420A9DE9C39DD9A7A775DC"
+    },
+    "download_size": 235256,
+    "identifier": "DTV2",
+    "install": [
+        {
+            "find": "DraftTwitchViewers",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 416821,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Draft Twitch Viewers Redrafted",
+    "release_date": "2023-07-24T20:40:18.126295+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/DraftTwitchViewers/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164357-141-draft-twitch-viewers-redrafted-draft-tour-with-or-rescue-your-twitch-viewers-as-in-game-kerbals/",
+        "remote-avc": "http://ksp.spacetux.net/avc/DraftTwitchViewers",
+        "repository": "https://github.com/linuxgurugamer/DraftTwitchViewers",
+        "spacedock": "https://spacedock.info/mod/1985/Draft%20Twitch%20Viewers%20Redrafted",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Draft_Twitch_Viewers_Redrafted/Draft_Twitch_Viewers_Redrafted-1540129063.9716632.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "crewed",
+        "app"
+    ],
+    "version": "2.7.2.1",
+    "x_generated_by": "netkan"
+}

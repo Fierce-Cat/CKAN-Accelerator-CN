@@ -1,0 +1,48 @@
+{
+    "abstract": "Adds a new Material Science Pod part. The pod collects the same experiment as the larger Material Science Bay, but it's resized, but somewhat heavier than a goo to be mounted opposite a Mystery Goo Container.﻿  ",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "MSP3000"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2642/Material%20Science%20Pod%20Updated/download/2.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D0BEB48CEB7DC0D2E76A438F3F540F093FF93FC1",
+        "sha256": "982C7140C155AB709CA83E561F9E355AD768553EF49CBC5F0AF7485BAC61B2EB"
+    },
+    "download_size": 2541891,
+    "identifier": "MSP3000a",
+    "install": [
+        {
+            "find": "MSP3000-A",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.1",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Material Science Pod Updated",
+    "release_date": "2021-02-17T03:17:31.100744+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200424-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/Material-Science-Pod",
+        "repository": "https://github.com/linuxgurugamer/Material-Science-Pod",
+        "spacedock": "https://spacedock.info/mod/2642/Material%20Science%20Pod%20Updated",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Material_Science_Pod_Updated/Material_Science_Pod_Updated-1613531859.6143878.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "science"
+    ],
+    "version": "2.0.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

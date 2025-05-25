@@ -1,0 +1,58 @@
+{
+    "abstract": "Plugin that creates blue-print-like images (into your Screenshots/ directory) from the KSP Editor (VAB/SPH).",
+    "author": [
+        "linuxgurugamer",
+        "Kerbas_ad_astra"
+    ],
+    "conflicts": [
+        {
+            "name": "KronalVesselViewer"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1092/Kronal%20Vessel%20Viewer%20Continued/download/0.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "224D8667041F7F3C4B0D94E27EE1F6317E49AD05",
+        "sha256": "54AAC30264069F50A032F768C196F247A85643ED35C91936CC794603BBCDBAA1"
+    },
+    "download_size": 2905288,
+    "identifier": "KVVContinued",
+    "install": [
+        {
+            "find": "KronalVesselViewer",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 12741164,
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.8.0",
+    "license": "unrestricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Kronal Vessel Viewer Continued",
+    "release_date": "2020-03-15T01:35:28.950581+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Kerbas-ad-astra/KronalVesselViewer/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190989-18x-kronal-vessel-viewer-kvv-010-throwing-shade-02020-jan-12/",
+        "remote-avc": "https://raw.githubusercontent.com/Kerbas-ad-astra/KronalVesselViewer/master/KronalVesselViewer.version",
+        "repository": "https://github.com/Kerbas-ad-astra/KronalVesselViewer",
+        "spacedock": "https://spacedock.info/mod/1092/Kronal%20Vessel%20Viewer%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Kronal_Vessel_Viewer_Continued/Kronal_Vessel_Viewer_Continued-1480167501.365928.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "editor"
+    ],
+    "version": "0.1.1",
+    "x_generated_by": "netkan"
+}

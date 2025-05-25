@@ -1,0 +1,74 @@
+{
+    "abstract": "Build vessels directly on other planets and in orbit using light-weight kits of high-tech components, with energy and raw materials produced on-site from Ore.",
+    "author": [
+        "allista"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "GroundConstruction-Core"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1123/Ground%20Construction/download/2.6.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "356D43C6F690808D1162F66E13790DDD449100F3",
+        "sha256": "D03FFBC8487FDAF328C77D26F9836EFE0CAF805F6145C21A5DDD41EA573B6AA4"
+    },
+    "download_size": 16550632,
+    "identifier": "GroundConstruction",
+    "install": [
+        {
+            "file": "GameData/GroundConstruction/Patches",
+            "install_to": "GameData/GroundConstruction"
+        },
+        {
+            "file": "GameData/GroundConstruction/Parts",
+            "filter": [
+                "DIYKit"
+            ],
+            "install_to": "GameData/GroundConstruction"
+        }
+    ],
+    "ksp_version": "1.8.1",
+    "license": "MIT",
+    "name": "Global Construction",
+    "recommends": [
+        {
+            "name": "ConfigurableContainers"
+        }
+    ],
+    "resources": {
+        "bugtracker": "https://github.com/allista/GroundConstruction/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154167-122-ground-construction",
+        "metanetkan": "https://raw.githubusercontent.com/allista/GroundConstruction/master/GroundConstruction.netkan",
+        "repository": "https://github.com/allista/GroundConstruction",
+        "spacedock": "https://spacedock.info/mod/1123/Ground%20Construction",
+        "x_screenshot": "https://spacedock.info/content/allista_931/Ground_Construction/Ground_Construction-1536838498.3931928.png"
+    },
+    "spec_version": "v1.16",
+    "suggests": [
+        {
+            "name": "ThrottleControlledAvionics"
+        },
+        {
+            "name": "Hangar"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "2.6.0",
+    "x_generated_by": "netkan"
+}

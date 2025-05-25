@@ -1,0 +1,41 @@
+{
+    "abstract": "This mod provides a simple module which lets you have two active animations in the same part working at the same time.",
+    "author": "linuxgurugamer",
+    "download": [
+        "https://github.com/linuxgurugamer/ModuleAnimateDualGenerics/releases/download/0.0.1.5/ModuleAnimateDualGenerics-1.12.0-0.0.1.5.zip",
+        "https://spacedock.info/mod/3692/ModuleAnimateDualGenerics/download/0.0.1.5"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "67B07FBAB6B3429F1893A0236403A3FC3EC56FF7",
+        "sha256": "2D91042BDC59AB62934B1BCB551ECF768D718AD465CBDDA622AF5F5D40D60EE0"
+    },
+    "download_size": 16496,
+    "identifier": "ModuleAnimateDualGenerics",
+    "install": [
+        {
+            "filter_regexp": "\\.mdb$",
+            "find": "ModuleAnimateDualGenerics",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 37146,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.9.0",
+    "license": "CC-BY-NC-SA",
+    "name": "ModuleAnimateDualGenerics",
+    "release_date": "2025-03-30T18:22:02.768045+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/ModuleAnimateDualGenerics/issues",
+        "remote-avc": "http://ksp.spacetux.net/avc/ModuleAnimateDualGenerics",
+        "repository": "https://github.com/linuxgurugamer/ModuleAnimateDualGenerics",
+        "spacedock": "https://spacedock.info/mod/3692/ModuleAnimateDualGenerics"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin"
+    ],
+    "version": "0.0.1.5",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

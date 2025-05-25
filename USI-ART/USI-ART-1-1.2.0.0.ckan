@@ -1,0 +1,58 @@
+{
+    "abstract": "Allows you to remove asteroid mass and attach multiple reconfigurable storage tanks to the asteroid's surface. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "v7.6.0",
+            "name": "FirespitterCore"
+        },
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        },
+        {
+            "min_version": "0.7.0.0",
+            "name": "CommunityResourcePack"
+        },
+        {
+            "min_version": "0.4.0.0",
+            "name": "USI-Core"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/UmbraSpaceIndustries/ART/releases/download/1.2.0.0/ART_1.2.0.0.zip?auth_key=1748275915-ad5ac6d2083344678146ee8305914224-0-956e9042df1f3ad53e0ccb2a6b0fdde6&size=16083253&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D7A30A03E2652BB3354CFF3ADA31697AF88BE61D",
+        "sha256": "B3608907F7F5C820CF93A53EA44B069F60626F7431F944C6828D2702D689CFDF"
+    },
+    "download_size": 16083253,
+    "identifier": "USI-ART",
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/ART",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.6.0",
+    "license": "restricted",
+    "name": "USI Asteroid Recycling Technologies [PRO-KCMIRROR]",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "repository": "https://github.com/UmbraSpaceIndustries/ART"
+    },
+    "spec_version": "v1.16",
+    "version": "1:1.2.0.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

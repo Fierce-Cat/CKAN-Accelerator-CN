@@ -1,0 +1,48 @@
+{
+    "abstract": "Gives stock/ReStock parachutes RealChute capabilities [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "stupid_chris",
+        "sumghai"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealChute"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ChrisViral/RealChute/releases/download/v1.4.9.5/RealChute_v1.4.9.5.zip?auth_key=1748275917-656e4e935c8c44c0afdd7f51563dbe65-0-48b298a7389de6fb25d014ae96d73244&size=2680043&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9D40112E20AD6C71FEC16C829D9A2653A83AB1E2",
+        "sha256": "3B135AE03D2214D4721A655E2D63E7C93C9A69558D8EAE2473FCED2BBF92BDF0"
+    },
+    "download_size": 2680043,
+    "identifier": "RealChuteForStock",
+    "install": [
+        {
+            "find": "RealChute/Patches",
+            "install_to": "GameData/RealChute"
+        }
+    ],
+    "install_size": 16494,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.3",
+    "license": "restricted",
+    "name": "RealChute for Stock [PRO-KCMIRROR]",
+    "release_date": "2024-10-20T07:49:42Z",
+    "resources": {
+        "bugtracker": "https://github.com/ChrisViral/RealChute/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/52931-0",
+        "remote-avc": "https://raw.githubusercontent.com/ChrisViral/RealChute/master/Output/GameData/RealChute/RealChute.version",
+        "repository": "https://github.com/ChrisViral/RealChute"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "physics"
+    ],
+    "version": "v1.4.9.5",
+    "x_generated_by": "netkan"
+}

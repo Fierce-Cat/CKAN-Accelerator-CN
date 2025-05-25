@@ -1,0 +1,58 @@
+{
+    "abstract": "Grannus Expansion Pack as a primary star system, with Grannus as the central star and Nodens the home world [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "OhioBob",
+    "conflicts": [
+        {
+            "name": "GPP"
+        }
+    ],
+    "depends": [
+        {
+            "name": "GrannusExpansionPack"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/OhioBob/Grannus-Expansion-Pack/releases/download/1.1.1/GrannusExpansionPack_1.1.1.zip?auth_key=1748275916-c53d9f46e59b414fb9fae6fa1777c146-0-afeec8a086469e4f6bddb61338a98986&size=330210671&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "04A466D98EC5D15DF35013C989732BBE048F808F",
+        "sha256": "17A720541196CF1242EC47594DECA058FBF4FE9E52E29B307ADEC4FE2EDD588B"
+    },
+    "download_size": 330210671,
+    "identifier": "GrannusExpansionPack-Primary",
+    "install": [
+        {
+            "find": "GEP_Primary/GameData/GEP_Primary",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.7.1",
+    "license": "CC-BY-NC-ND",
+    "name": "Grannus Expansion Pack Primary [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "Kronometer"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169664-*",
+        "repository": "https://github.com/OhioBob/Grannus-Expansion-Pack"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "GPPSecondary"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.1.1",
+    "x_generated_by": "netkan"
+}

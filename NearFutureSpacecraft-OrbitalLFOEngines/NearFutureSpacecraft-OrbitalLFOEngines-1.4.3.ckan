@@ -1,0 +1,45 @@
+{
+    "abstract": "Convertes the monopropellant-based orbital engines in NF Spacecraft to use Liquid Fuel/Oxidizer",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "NearFutureSpacecraft"
+        }
+    ],
+    "download": "https://spacedock.info/mod/708/Near%20Future%20Spacecraft/download/1.4.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EEAF590F5D1355512EA4AC706C65FC2F858BB576",
+        "sha256": "AB0EF7A1D553313B3691FC9DE756B4B7128EE52187AC9F3F051D3A0F00C891BB"
+    },
+    "download_size": 91200421,
+    "identifier": "NearFutureSpacecraft-OrbitalLFOEngines",
+    "install": [
+        {
+            "find": "OrbitalLFOEngines",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1105,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Near Future Spacecraft - LFO Engines",
+    "release_date": "2021-08-26T17:57:16.08293+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/NearFutureSpacecraft/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-16x-near-future-technologies-16x-fixes-jan-21/",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/NearFutureSpacecraft/raw/master/CKAN/NearFutureSpacecraft-OrbitalLFOEngines.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureSpacecraft/master/GameData/NearFutureSpacecraft/Versioning/NearFutureSpacecraft.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/NearFutureSpacecraft",
+        "spacedock": "https://spacedock.info/mod/708/Near%20Future%20Spacecraft",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Spacecraft/Near_Future_Spacecraft-1463532778.5485678.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "crewed"
+    ],
+    "version": "1.4.3",
+    "x_generated_by": "netkan"
+}

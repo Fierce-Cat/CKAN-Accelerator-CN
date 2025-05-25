@@ -1,0 +1,88 @@
+{
+    "abstract": "Latest, continually updated version of BDArmory. Continuation of BDAc and BDArmory for Runway Project.",
+    "author": [
+        "BahamutoD",
+        "Papa_Joe",
+        "jrodrigv",
+        "ouloul",
+        "Scott Manley",
+        "JR",
+        "DocNappers",
+        "Cl0by",
+        "josue",
+        "aubranium",
+        "benbenwilde",
+        "TheKurgan"
+    ],
+    "conflicts": [
+        {
+            "name": "BDArmory"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "PhysicsRangeExtender"
+        }
+    ],
+    "download": [
+        "https://github.com/BrettRyland/BDArmory/releases/download/v1.8.0.0/BDArmory.1.8.0.0_2024-11-30T12.27.37%2B00.00.zip",
+        "https://spacedock.info/mod/2487/BDArmory%20Plus/download/1.8.0.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9D5619B422CB25259CE7C40870DBE9554A456A58",
+        "sha256": "04D22B3D0BEDBEF34359898F3985A50C535A55AED4A917528F92F7CD3B21BB86"
+    },
+    "download_size": 42808747,
+    "identifier": "BDArmoryForRunwayProject",
+    "install": [
+        {
+            "find": "BDArmory",
+            "install_to": "GameData"
+        },
+        {
+            "as": "SPH",
+            "find": "craft",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 59386349,
+    "ksp_version_max": "1.12.999",
+    "ksp_version_min": "1.9.0",
+    "license": "CC-BY-SA-2.0",
+    "localizations": [
+        "de",
+        "de-de",
+        "en-us",
+        "es-es",
+        "ja",
+        "ru",
+        "ru-ru",
+        "zh-cn"
+    ],
+    "name": "BDArmory Plus",
+    "provides": [
+        "BDArmory"
+    ],
+    "release_date": "2024-11-30T12:54:54.652337+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/BrettRyland/BDArmory/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209092-bdarmory-plus-bda/",
+        "remote-avc": "https://github.com/BrettRyland/BDArmory/raw/master/BDArmory/Distribution/GameData/BDArmory/BDArmory.version",
+        "repository": "https://github.com/BrettRyland/BDArmory",
+        "spacedock": "https://spacedock.info/mod/2487/BDArmory%20Plus",
+        "x_screenshot": "https://spacedock.info/content/josue_43006/BDArmory_Plus/BDArmory_Plus-1658613767.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "parts",
+        "sound",
+        "combat"
+    ],
+    "version": "2:v1.8.0.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,55 @@
+{
+    "abstract": "Shared configs for the engine suites such as System Heat and Waterfall [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.4.12/SterlingSystems_Engines_0.4.12.zip?auth_key=1748275914-b0a9dcd3133246c5b81fef6d103a9336-0-b3c0ed12bd6c18fb90eb96ee86444278&size=41976948&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "0E04F27CE4A07B14D6AF2EE1689C72BBF34E392D4C0F3A53FB7CCB59715D4F0C"
+    },
+    "download_size": 41976948,
+    "identifier": "SterlingSystemsEngines",
+    "install": [
+        {
+            "find": "Engines",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 123502,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Engines [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "release_date": "2025-05-07T21:49:53Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "config"
+    ],
+    "version": "0.4.12",
+    "x_generated_by": "netkan"
+}

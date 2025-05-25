@@ -1,0 +1,41 @@
+{
+    "abstract": "this mod is for 1.8.x untill 1.12.x",
+    "author": "Kion",
+    "download": "https://spacedock.info/mod/2710/NO-TEXTURE%20CST-100%20Starliner/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "34DFAE106321E78C7704B2303768B05D451FD1C3",
+        "sha256": "E63A7E24109CDE4B8BE95C8732A4ACBB7EE1EF53E6AE40BD777198C94A1AE4C2"
+    },
+    "download_size": 24315,
+    "identifier": "No-Texture-CST-100",
+    "install": [
+        {
+            "filter": [
+                "Ships"
+            ],
+            "find": "cst 100",
+            "install_to": "GameData"
+        },
+        {
+            "find": "cst 100/Ships/VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 125689,
+    "ksp_version": "1.11.0",
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "NO-TEXTURE CST-100 Starliner",
+    "release_date": "2021-04-24T19:25:14.725146+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201964-18x-ksp-no-textur-cst-100-mod/",
+        "spacedock": "https://spacedock.info/mod/2710/NO-TEXTURE%20CST-100%20Starliner",
+        "x_screenshot": "https://spacedock.info/content/Kion_59615/ksp_no_textur_cst_100/ksp_no_textur_cst_100-1676823411.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

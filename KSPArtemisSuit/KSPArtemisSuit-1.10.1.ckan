@@ -1,0 +1,41 @@
+{
+    "abstract": "The artemis suit for KSP! it does say soup suit but you can edit it in the config's",
+    "author": "Souptime",
+    "depends": [
+        {
+            "name": "BreakingGround-DLC"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2517/KSP%20Artemis%20Suit/download/1.10.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E437C10A98EDAED945A4395D401914041503B2D4",
+        "sha256": "31C1C322B420CFFF34B2181B286D2329D98B0AEB29D5EA5B47D8465B2B380AE9"
+    },
+    "download_size": 574375,
+    "identifier": "KSPArtemisSuit",
+    "install": [
+        {
+            "find": "Artemis_Suit",
+            "install_to": "GameData/Squad"
+        }
+    ],
+    "install_size": 573712,
+    "ksp_version_max": "1.11.2",
+    "ksp_version_min": "1.10.1",
+    "license": "GPL-3.0",
+    "name": "KSP Artemis Suit",
+    "release_date": "2020-09-05T00:02:32.284702+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196716-ksp-artemis-suit-110-only/",
+        "spacedock": "https://spacedock.info/mod/2517/KSP%20Artemis%20Suit"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "suits",
+        "graphics",
+        "crewed"
+    ],
+    "version": "1.10.1",
+    "x_generated_by": "netkan"
+}

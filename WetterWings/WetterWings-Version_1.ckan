@@ -1,0 +1,38 @@
+{
+    "abstract": "Adds liquid fuel storage to all the stock wing pieces. Requires ModuleManager.",
+    "author": "RocketInMyPocket",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1665/WetterWings/download/Version_1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9193B6F6EDE7266AFC6F3740F6FA4504CCBB6810",
+        "sha256": "3B96D378B8647B35E46E18EE857D0DD32999BFAF33E97D40547225C4782D2834"
+    },
+    "download_size": 5780,
+    "identifier": "WetterWings",
+    "install": [
+        {
+            "find": "WetterWingsMM",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "MIT",
+    "name": "WetterWings",
+    "release_date": "2018-01-19T17:45:14.149617+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169799-17wetterwings/",
+        "spacedock": "https://spacedock.info/mod/1665/WetterWings",
+        "x_screenshot": "https://spacedock.info/content/RocketInMyPocket_17959/WetterWings/WetterWings-1516382064.2011807.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "Version_1",
+    "x_generated_by": "netkan"
+}

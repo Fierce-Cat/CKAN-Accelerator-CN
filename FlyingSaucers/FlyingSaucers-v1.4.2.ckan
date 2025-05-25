@@ -1,0 +1,81 @@
+{
+    "abstract": "Build Flying Saucers in KSP! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "WBIResources"
+        },
+        {
+            "name": "KerbalActuators"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/FlyingSaucers/releases/download/v1.4.2/KFS.zip?auth_key=1748275917-0e7f9da9a03144829250780f004054aa-0-b1d718d30b494f448a7425c87fd9b913&size=116611920&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B6500FFF655F1315EE58455D9B47B5E443ED95C7",
+        "sha256": "57745F52E8514B347BA7D740D606E034483FD2BF20EB382F760D7277A1874A50"
+    },
+    "download_size": 116611920,
+    "identifier": "FlyingSaucers",
+    "install": [
+        {
+            "filter": "Ships",
+            "find": "GameData/WildBlueIndustries/FlyingSaucers",
+            "install_to": "GameData/WildBlueIndustries"
+        },
+        {
+            "find": "Ships/SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 413832795,
+    "ksp_version_min": "1.12.5",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Flying Saucers [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        }
+    ],
+    "release_date": "2025-05-03T21:08:53Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/FlyingSaucers/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173857-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/FlyingSaucers/master/GameData/WildBlueIndustries/FlyingSaucers/KFS.version",
+        "repository": "https://github.com/Angel-125/FlyingSaucers"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "TACLS"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin",
+        "crewed"
+    ],
+    "version": "v1.4.2",
+    "x_generated_by": "netkan"
+}

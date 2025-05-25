@@ -1,0 +1,53 @@
+{
+    "abstract": "a potato [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "zhouyiqing0304",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "AdvancedPQSTools"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/zhouyiqing0304/MangoTech_Potato/releases/download/0.9.2/MangoTech_Potato_Stock.zip?auth_key=1748275918-f97a0b70ce7542eb81d3590aa3d3c2c4-0-137f70fb60f51838a9af9ea9ae735ef4&size=1102958&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1C4E4F65FDF78D93015744AC393A61329FF2CB83",
+        "sha256": "118D5811C22CA8CC2A68FD181A703819928125F97260A723F0C05265D5F0D99D"
+    },
+    "download_size": 1102958,
+    "identifier": "APotato",
+    "install": [
+        {
+            "find": "MangoTech",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2848705,
+    "license": "Unlicense",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "MangoTech Potato [PRO-KCMIRROR]",
+    "release_date": "2025-05-11T07:25:05Z",
+    "resources": {
+        "bugtracker": "https://github.com/zhouyiqing0304/MangoTech_Potato/issues",
+        "repository": "https://github.com/zhouyiqing0304/MangoTech_Potato"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config"
+    ],
+    "version": "0.9.2",
+    "x_generated_by": "netkan"
+}

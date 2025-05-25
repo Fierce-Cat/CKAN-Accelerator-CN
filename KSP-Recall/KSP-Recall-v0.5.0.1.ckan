@@ -1,0 +1,52 @@
+{
+    "abstract": "KSP Recall - Solves the resource resetting on KSP 1.9.x, the heading drift on grounded crafts on KSP >= 1.8, and more to come...",
+    "author": [
+        "LisiasT"
+    ],
+    "depends": [
+        {
+            "min_version": "4.0.2",
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2434/KSP-Recall/download/0.5.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1EEF3D6A22EA32210F5FE7CFA263585FF6A9D30B",
+        "sha256": "B12DB54B398B50247245062877136DC7651960E6E23D2DA2997A525CF98BA91A"
+    },
+    "download_size": 186817,
+    "identifier": "KSP-Recall",
+    "install": [
+        {
+            "file": "GameData/999_KSP-Recall",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 294037,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.4.1",
+    "license": [
+        "GPL-2.0",
+        "restricted"
+    ],
+    "name": "KSP Recall",
+    "release_date": "2024-05-19T07:55:48.313787+00:00",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/net-lisias-ksp/KSP-Recall/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192048-*",
+        "manual": "https://net-lisias-ksp.github.io/KSP-Recall/",
+        "remote-avc": "https://raw.githubusercontent.com/net-lisias-ksp/KSP-Recall/master/KSP_Recall.version",
+        "repository": "https://github.com/net-lisias-ksp/KSP-Recall",
+        "spacedock": "https://spacedock.info/mod/2434/KSP-Recall",
+        "x_screenshot": "https://spacedock.info/content/Lisias_20517/KSP-Recall/KSP-Recall-1590183070.4064715.jpg"
+    },
+    "spec_version": "v1.8",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "v0.5.0.1",
+    "x_generated_by": "netkan"
+}

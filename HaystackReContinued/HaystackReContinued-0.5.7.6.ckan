@@ -1,0 +1,51 @@
+{
+    "abstract": "Find that lost ship you were looking for!",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/HaystackContinued/releases/download/0.5.7.6/HaystackContinued-1.12.0-0.5.7.6.zip",
+        "https://spacedock.info/mod/1680/Haystack%20ReContinued/download/0.5.7.6"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FE74401FCAF68D1EE5756F1658A27E8FA20D9263",
+        "sha256": "573268F0E701EDBCAFF4559DDC19A3E5CA865BD7B5E026FB3E35401A26D49C0D"
+    },
+    "download_size": 147515,
+    "identifier": "HaystackReContinued",
+    "install": [
+        {
+            "find": "HaystackContinued",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 238112,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "Haystack ReContinued",
+    "release_date": "2022-11-30T02:52:54.105209+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/HaystackContinued/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170111-131-haystack-recontinued/",
+        "remote-avc": "http://ksp.spacetux.net/avc/HaystackContinued",
+        "repository": "https://github.com/linuxgurugamer/HaystackContinued",
+        "spacedock": "https://spacedock.info/mod/1680/Haystack%20ReContinued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Haystack_ReContinued/Haystack_ReContinued-1516989285.061836.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "information",
+        "convenience"
+    ],
+    "version": "0.5.7.6",
+    "x_generated_by": "netkan"
+}

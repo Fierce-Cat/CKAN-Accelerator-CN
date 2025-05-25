@@ -1,0 +1,62 @@
+{
+    "abstract": "Kopernicus dev tools and footprints",
+    "author": [
+        "MrHappyFace",
+        "StollD",
+        "Vabien"
+    ],
+    "depends": [
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3357/Kopernicus%20Expansion%20Continued-er/download/Beta9.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9A3188C34D3D40D3B3B805022D47AB999DCFA34E",
+        "sha256": "7A8552309B49E48436A2167A2B0EE2D98D2AF9B5BEE66E264454E0581E05FA01"
+    },
+    "download_size": 129352,
+    "identifier": "KopernicusExpansionContinueder",
+    "install": [
+        {
+            "find": "KopernicusExpansion",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 194378,
+    "ksp_version_min": "1.10",
+    "license": "GPL-3.0",
+    "name": "Kopernicus Expansion Continued-er",
+    "provides": [
+        "KopernicusExpansion",
+        "KopernicusExpansionContinued-Common",
+        "KopernicusExpansionContinued-EVAFootprints",
+        "KopernicusExpansionContinued-EmissiveFX",
+        "KopernicusExpansionContinued-RegionalPQSMods",
+        "KopernicusExpansionContinued-VertexHeightDeformity",
+        "KopernicusExpansionContinued-VertexHeightMap",
+        "KopernicusExpansionContinued-Wormholes"
+    ],
+    "release_date": "2023-04-10T16:10:18.025539+00:00",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/VabienArt/KopernicusExpansion-Continueder/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/195844-110-112-kopernicus-expansion-continued-er/",
+        "repository": "https://github.com/VabienArt/KopernicusExpansion-Continueder",
+        "spacedock": "https://spacedock.info/mod/3357/Kopernicus%20Expansion%20Continued-er",
+        "x_screenshot": "https://spacedock.info/content/vabien_109046/Kopernicus_Expansion_Continued-er/Kopernicus_Expansion_Continued-er-1680980198.png"
+    },
+    "spec_version": "v1.36",
+    "suggests": [
+        {
+            "name": "KopernicusExpansionContinueder-StockConfigs"
+        }
+    ],
+    "tags": [
+        "planet-pack",
+        "plugin"
+    ],
+    "version": "Beta9.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,75 @@
+{
+    "abstract": "Visual Enhancements for Real Solar System [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "SpaceODY",
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        },
+        {
+            "name": "PhotoRealisticVisualEnhancement-LowRes"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Scatterer-config",
+            "version": "3:v0.0835"
+        },
+        {
+            "name": "Scatterer",
+            "version": "3:v0.0835"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "RealSolarSystem"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/SpaceODY/PRVE/releases/download/v1.9/PRVEv1.9.zip?auth_key=1748275916-d368b84cff4e434792f61dff23d92dcc-0-0f82f4dca6200054c7d2a84ef05f5159&size=318879498&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9889485E76029BBF5786F3A76566BB09896993A0",
+        "sha256": "7275A0DBF9E1DDD50D1F72780D51BD6E422C5F12BFBF05F16236D6B9427502A1"
+    },
+    "download_size": 318879498,
+    "identifier": "PhotoRealisticVisualEnhancement",
+    "install": [
+        {
+            "find": "PRVE",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 3006159780,
+    "ksp_version": "1.12.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "PRVE [PRO-KCMIRROR]",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config"
+    ],
+    "release_date": "2022-07-24T15:49:02Z",
+    "resources": {
+        "bugtracker": "https://github.com/SpaceODY/PRVE/issues",
+        "repository": "https://github.com/SpaceODY/PRVE"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KS3P"
+        },
+        {
+            "name": "TUFX"
+        }
+    ],
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "v1.9",
+    "x_generated_by": "netkan"
+}

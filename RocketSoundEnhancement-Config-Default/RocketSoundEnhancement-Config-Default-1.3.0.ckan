@@ -1,0 +1,52 @@
+{
+    "abstract": "RSE sounds for stock engines, wheels, decouplers, and more [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "ensou04",
+        "JonnyOThan"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RocketSoundEnhancement"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSPModStewards/RocketSoundEnhancementDefault/releases/download/1.3.0/RocketSoundEnhancement-Default-v1.3.0.zip?auth_key=1748275914-352c5cc430594a17bb73ad9f3fc26631-0-f9bd01f231bc43ac6e27af4068db3778&size=104204602&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5225400537EB69BFF38B8B2F6EC699B39AB1C6A0",
+        "sha256": "AA3C3FA099858F6E097C83929B31A7BA6B011BB6B62ECAF554F6311E88C8DA91"
+    },
+    "download_size": 104204602,
+    "identifier": "RocketSoundEnhancement-Config-Default",
+    "install": [
+        {
+            "find": "RocketSoundEnhancementDefault",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 113543273,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Rocket Sound Enhancement - Default [PRO-KCMIRROR]",
+    "provides": [
+        "RocketSoundEnhancement-Config"
+    ],
+    "release_date": "2023-09-16T15:46:26Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSPModStewards/RocketSoundEnhancementDefault/issues",
+        "discussions": "https://github.com/KSPModStewards/RocketSoundEnhancementDefault/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179579-112x-rocket-sound-enhancement-plugin-v096-070922-config-pack-v124-070922/",
+        "remote-avc": "https://raw.githubusercontent.com/ensou04/RocketSoundEnhancementDefault/master/GameData/RocketSoundEnhancementDefault/RocketSoundEnhancementDefault.version",
+        "repository": "https://github.com/KSPModStewards/RocketSoundEnhancementDefault"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "sound"
+    ],
+    "version": "1.3.0",
+    "x_generated_by": "netkan"
+}

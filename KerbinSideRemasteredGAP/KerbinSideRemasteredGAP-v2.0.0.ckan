@@ -1,0 +1,57 @@
+{
+    "abstract": "Flight contract missions from KSC to bases in the Kerbin Side Remastered mod. Please check the README.md for details and dependencies and Version 2.0 notes",
+    "author": "Caerfinon",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KerbinSideRemastered"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2573/Kerbin%20Side%20Remastered%20GAP/download/v2.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E4BD527846FEAB5B65073BF83BE6519F5445034C",
+        "sha256": "3426F916AEF890FC5AE7BD5D7AE961862299B40DC4633AB824788BE6FF9E5FFD"
+    },
+    "download_size": 14772886,
+    "identifier": "KerbinSideRemasteredGAP",
+    "install": [
+        {
+            "find": "ContractPacks",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.11.0",
+    "license": "MIT",
+    "name": "Kerbin Side Remastered GAP",
+    "release_date": "2021-01-22T08:11:58.58393+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/198011-wip-kerbin-side-remastered-gap-flight-contract-pack/",
+        "repository": "https://github.com/caerfinon/KerbinSideRemasteredGAP",
+        "spacedock": "https://spacedock.info/mod/2573/Kerbin%20Side%20Remastered%20GAP",
+        "x_screenshot": "https://spacedock.info/content/Caerfinon_49341/Kerbin_Side_Remastered_GAP/Kerbin_Side_Remastered_GAP-1605979151.5442297.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "NavUtilitiesContinued"
+        },
+        {
+            "name": "KramaxAutopilotContinued"
+        }
+    ],
+    "tags": [
+        "config",
+        "career"
+    ],
+    "version": "v2.0.0",
+    "x_generated_by": "netkan"
+}

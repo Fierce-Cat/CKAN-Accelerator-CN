@@ -1,0 +1,44 @@
+{
+    "abstract": "Better Science Labs Continued",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SpacetuxSA"
+        }
+    ],
+    "download": "https://spacedock.info/mod/45/Better%20Science%20Labs%20Continued/download/0.1.11",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "93BEF261D537196DC34682F5EFEB58F7D4BFB21A",
+        "sha256": "98987A59D6E7EF5FC9EEF656D4083206E8F52B045ECDA6C666F9039E52284EE8"
+    },
+    "download_size": 2225916,
+    "identifier": "BetterScienceLabsContinued",
+    "install": [
+        {
+            "find": "BetterScienceLabsContinued",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.2",
+    "ksp_version_min": "1.7.0",
+    "license": "MIT",
+    "name": "Better Science Labs Continued",
+    "recommends": [
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/112754-13-14-better-science-labs-continued/",
+        "repository": "https://github.com/linuxgurugamer/BetterScienceLabsContinued",
+        "spacedock": "https://spacedock.info/mod/45/Better%20Science%20Labs%20Continued"
+    },
+    "spec_version": "v1.4",
+    "version": "0.1.11",
+    "x_generated_by": "netkan"
+}

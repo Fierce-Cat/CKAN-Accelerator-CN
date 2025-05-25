@@ -1,0 +1,59 @@
+{
+    "abstract": "KAS introduces new gameplay mechanics by adding winches, struts, and pipes. Now you can easily connect vessels in EVA without docking them!",
+    "author": [
+        "IgorZ"
+    ],
+    "depends": [
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1987/Kerbal%20Attachment%20System%20%28KAS%29/download/1.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5609B1D704382F663C4C788AAB24FC373018BA07",
+        "sha256": "C2A3BFDA43CF533241F95686993EC7940D146CFF508E487C4C51121319A9499B"
+    },
+    "download_size": 2967345,
+    "identifier": "KAS",
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "it-it",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Kerbal Attachment System",
+    "recommends": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "EasyVesselSwitch"
+        }
+    ],
+    "resources": {
+        "bugtracker": "https://github.com/ihsoft/KAS/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/142594-kerbal-attachment-system-kas/",
+        "metanetkan": "https://raw.githubusercontent.com/ihsoft/KAS/master/KAS.netkan",
+        "repository": "https://github.com/ihsoft/KAS",
+        "spacedock": "https://spacedock.info/mod/1987/Kerbal%20Attachment%20System%20(KAS)",
+        "x_screenshot": "https://spacedock.info/content/ihsoft_20222/Kerbal_Attachment_System_KAS/Kerbal_Attachment_System_KAS-1540271898.2998781.jpg"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "version": "1.5",
+    "x_generated_by": "netkan"
+}

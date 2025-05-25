@@ -1,0 +1,44 @@
+{
+    "abstract": "Extensions of KSP's decouplers that play animations. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Starwaster",
+    "conflicts": [
+        {
+            "name": "AnimatedDecouplers-x64"
+        },
+        {
+            "name": "AnimatedDecouplers-x86"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Starwaster/AnimatedDecouplers/releases/download/v1.5.0/AnimatedDecouplers_v1.5.0.zip?auth_key=1748275915-4e2523393b554bc08d62dae0394a7303-0-aab1332a8b2bb6c90be7633da4ae2fa8&size=6828&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F6D0F4E5EB10972D4B14BC393985450C1E945771",
+        "sha256": "41FEED4AE9628A2170ADF0185383417370D9828F915A3BE34C4FEB4E21805493"
+    },
+    "download_size": 6828,
+    "identifier": "AnimatedDecouplers",
+    "install": [
+        {
+            "file": "GameData/AnimatedDecouplers",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 14593,
+    "ksp_version_min": "1.9.0",
+    "license": "CC-BY-SA-4.0",
+    "name": "Animated Decouplers [PRO-KCMIRROR]",
+    "release_date": "2021-08-14T16:08:08Z",
+    "resources": {
+        "bugtracker": "https://github.com/Starwaster/AnimatedDecouplers/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170880-*",
+        "remote-avc": "http://raw.githubusercontent.com/Starwaster/AnimatedDecouplers/master/GameData/AnimatedDecouplers/AnimatedDecouplers.version",
+        "repository": "https://github.com/Starwaster/AnimatedDecouplers"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "v1.5.0",
+    "x_generated_by": "netkan"
+}

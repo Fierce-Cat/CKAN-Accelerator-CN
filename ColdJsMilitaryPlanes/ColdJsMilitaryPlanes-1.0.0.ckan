@@ -1,0 +1,53 @@
+{
+    "abstract": "Four Military Fighters",
+    "author": "ColdJ",
+    "download": "https://spacedock.info/mod/3576/ColdJ's%20Military%20Planes/download/1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "00DF211977C01E38D7AFD7A9C8B5BA910FEFD332",
+        "sha256": "DA8408D4FB1A466F4A9DBA9D2C97F897E4281E5EA2A16F676574C0A3A56CFE87"
+    },
+    "download_size": 27005212,
+    "identifier": "ColdJsMilitaryPlanes",
+    "install": [
+        {
+            "filter": "Craft",
+            "find": "CJMP",
+            "install_to": "GameData"
+        },
+        {
+            "as": "SPH",
+            "find": "Craft",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 77481148,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "ColdJ's Military Planes",
+    "release_date": "2024-03-07T08:15:31.051324+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/223997-coldjs-military-planes/",
+        "spacedock": "https://spacedock.info/mod/3576/ColdJ's%20Military%20Planes",
+        "x_screenshot": "https://spacedock.info/content/ColdJ_60612/ColdJs_Military_Planes/ColdJs_Military_Planes-1709802485.jpg"
+    },
+    "spec_version": "v1.18",
+    "suggests": [
+        {
+            "name": "ColdJsHeliCarrier"
+        },
+        {
+            "name": "ColdJsMilitaryPlanesF16"
+        },
+        {
+            "name": "ColdJsMilitaryPlanesSoviet"
+        }
+    ],
+    "tags": [
+        "crewed",
+        "first-person",
+        "parts"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

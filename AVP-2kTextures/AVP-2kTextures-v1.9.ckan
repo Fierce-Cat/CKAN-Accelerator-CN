@@ -1,0 +1,47 @@
+{
+    "abstract": "Textures for Astronomer's Visual pack [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "themaster402",
+    "comment": "Textures only",
+    "conflicts": [
+        {
+            "name": "AVP-Textures"
+        }
+    ],
+    "depends": [
+        {
+            "name": "AstronomersVisualPack"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/themaster402/AstronomersVisualPack/releases/download/v1.9/AVP_2kTextures.zip?auth_key=1748275916-45da2c9a3fef427b9b1d06a56748bdd8-0-a347bf9e1a31a151e9bacfaaac74e00e&size=35217855&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6CCB470A2748F6E2C246F8C1B3C4C42456E410B2",
+        "sha256": "A0235B44558445E932EB2E2D4C3874E14C38B9BE06117ABE6EC87CFC95D1F79C"
+    },
+    "download_size": 35217855,
+    "identifier": "AVP-2kTextures",
+    "install": [
+        {
+            "find": "GameData/AstronomersVisualPack",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.2",
+    "license": "LGPL-3.0",
+    "name": "Astronomer's Visual Pack-2k Textures [PRO-KCMIRROR]",
+    "provides": [
+        "AVP-Textures"
+    ],
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/160878-*",
+        "repository": "https://github.com/themaster402/AstronomersVisualPack"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "library",
+        "graphics"
+    ],
+    "version": "v1.9",
+    "x_generated_by": "netkan"
+}

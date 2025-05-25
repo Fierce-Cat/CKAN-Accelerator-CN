@@ -1,0 +1,70 @@
+{
+    "abstract": "Life Support from Thunder Aerospace Corporation [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "KSP-RO Group/JPLRepo",
+        "Taranis Elsu"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "BackgroundResources"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/TacLifeSupport/releases/download/v0.18.0.0/TacLifeSupport_V0.18.0.zip?auth_key=1748275916-191a4818fdf240849ac4b6fd2640d2af-0-0461e135319c42627912b214a0bbc56b&size=5269290&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "46652810E53F71DA84D75B1179A47938BC054FF9",
+        "sha256": "1A69554DF40972B26F1BD39ABC882E11BECE2198A7F47B80313A37DEA741D56B"
+    },
+    "download_size": 5269290,
+    "identifier": "TACLS",
+    "install": [
+        {
+            "find": "GameData/ThunderAerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 24542287,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "es-mx",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "TAC Life Support (TACLS) [PRO-KCMIRROR]",
+    "release_date": "2021-09-19T09:22:53Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/TacLifeSupport/issues",
+        "homepage": "https://github.com/KSP-RO/TacLifeSupport/wiki",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=9",
+        "repository": "https://github.com/KSP-RO/TacLifeSupport"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "supports": [
+        {
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "crewed",
+        "parts"
+    ],
+    "version": "1:v0.18.0.0",
+    "x_generated_by": "netkan"
+}

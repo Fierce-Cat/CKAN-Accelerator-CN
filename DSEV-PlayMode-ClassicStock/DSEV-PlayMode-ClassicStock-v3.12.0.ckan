@@ -1,0 +1,54 @@
+{
+    "abstract": "Deep Space Exploration Vessels for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "WildBlue-PlayMode-ClassicStock"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "DSEV"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/DSEV/releases/download/v3.12.0/DSEV.zip?auth_key=1748275914-1f7f943194ca43368a4c8a85cdc114f0-0-3f518d08be3d041e88483a5f62611e1b&size=132510416&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "13437B5CF9E158A7AF394699AF1045C74FAD0E36",
+        "sha256": "A83ECAE1BA748957808B81669FE2868BB1560C9344287BB7495600946DB805D2"
+    },
+    "download_size": 132510416,
+    "identifier": "DSEV-PlayMode-ClassicStock",
+    "install": [
+        {
+            "find": "WildBlueIndustries/DSEV/Templates/ClassicStock",
+            "install_to": "GameData/WildBlueIndustries/DSEV/Templates"
+        },
+        {
+            "find": "WildBlueIndustries/DSEV/Templates/ClassicStock.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/DSEV/Templates"
+        }
+    ],
+    "install_size": 36819,
+    "ksp_version_min": "1.12.2",
+    "license": "restricted",
+    "name": "DSEV Classic Stock Play Mode [PRO-KCMIRROR]",
+    "provides": [
+        "DSEV-PlayMode"
+    ],
+    "release_date": "2022-08-23T21:02:13Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/DSEV/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/122162-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/DSEV/master/GameData/WildBlueIndustries/DSEV/DSEV.version",
+        "repository": "https://github.com/Angel-125/DSEV"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "config"
+    ],
+    "version": "v3.12.0",
+    "x_generated_by": "netkan"
+}

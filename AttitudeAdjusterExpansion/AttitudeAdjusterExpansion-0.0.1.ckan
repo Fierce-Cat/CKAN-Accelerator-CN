@@ -1,0 +1,46 @@
+{
+    "abstract": "Expands the Attitude Adjuster mod to all command pods",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "AttitudeAdjuster"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/AttitudeAdjusterExpansion/releases/download/0.0.1/AttitudeAdjusterExpansion-1.12.0-0.0.1.zip",
+        "https://spacedock.info/mod/3850/Attitude%20Adjuster%20Expansion/download/0.0.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9E15A8A1263AF058E55DA1439CE672C4416DFC1F",
+        "sha256": "889290001F317348A295128E7E451FC3061DA6F36257614362A8EC5B6873973C"
+    },
+    "download_size": 1232,
+    "identifier": "AttitudeAdjusterExpansion",
+    "install_size": 1116,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.7.0",
+    "license": "CC-BY-NC-ND",
+    "name": "Attitude Adjuster Expansion",
+    "release_date": "2025-03-31T16:04:44.33986+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/AttitudeAdjusterExpansion/issues",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/AttitudeAdjusterExpansion/refs/heads/main/AttitudeAdjusterExpansion.version",
+        "repository": "https://github.com/linuxgurugamer/AttitudeAdjusterExpansion",
+        "spacedock": "https://spacedock.info/mod/3850/Attitude%20Adjuster%20Expansion"
+    },
+    "spec_version": "v1.34",
+    "supports": [
+        {
+            "name": "AttitudeAdjuster"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "0.0.1",
+    "x_generated_by": "netkan"
+}

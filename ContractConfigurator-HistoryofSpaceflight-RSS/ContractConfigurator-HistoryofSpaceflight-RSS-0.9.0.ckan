@@ -1,0 +1,75 @@
+{
+    "abstract": "A contract pack recreating almost all real-life missions that were actually flown, currently up until 1967. This version is for users of RSS and fits well with RP-0/RP-1.",
+    "author": [
+        "Morphisor",
+        "Frylovespi"
+    ],
+    "conflicts": [
+        {
+            "name": "ContractConfigurator-HistoryofSpaceflight"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "RealSolarSystem"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2385/History%20of%20Spaceflight%20RSS/download/0.9.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "20AAD1ABC9185B46196824E70CD7B6BC95A099D1",
+        "sha256": "78D6C9B772DBF23FE1347D87E33CF957D3D2D4888243DAC9AA954DD182C4971E"
+    },
+    "download_size": 15144221,
+    "identifier": "ContractConfigurator-HistoryofSpaceflight-RSS",
+    "install": [
+        {
+            "find": "ContractPacks",
+            "install_to": "GameData"
+        },
+        {
+            "find": "GenericEngines",
+            "install_to": "GameData"
+        },
+        {
+            "find": "GenericPlumes",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.99.99",
+    "ksp_version_min": "1.2.2",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "History of Spaceflight RSS",
+    "provides": [
+        "ContractConfigurator-HistoryofSpaceflight"
+    ],
+    "recommends": [
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "NewTantares"
+        },
+        {
+            "name": "ProbesPlus"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192880-12-19x-contract-pack-history-of-spaceflight/",
+        "repository": "https://github.com/Frylovespi/History-of-Spaceflight/",
+        "spacedock": "https://spacedock.info/mod/2385/History%20of%20Spaceflight%20RSS"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "career"
+    ],
+    "version": "0.9.0",
+    "x_generated_by": "netkan"
+}

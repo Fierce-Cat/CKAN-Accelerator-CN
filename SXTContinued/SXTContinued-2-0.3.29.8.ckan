@@ -1,0 +1,56 @@
+{
+    "abstract": "A memory light 'Stock-a-like' expansion pack that relies solely using the MODEL{} to reference Squad's textures and get a lot of 'bang for buck'",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "FirespitterResourcesConfig"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RetractableLiftingSurface"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1030/SXTContinued/download/0.3.29.8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "52E5F1FF9848B9909931BA2D8B32428A408C9AF4",
+        "sha256": "B3491BF77B6D00DCAD7EC3CED8E8EB25A533196C4D89F641505F1CD5FDA6AC1E"
+    },
+    "download_size": 43455155,
+    "identifier": "SXTContinued",
+    "install": [
+        {
+            "find": "SXT",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 90768671,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "de-de",
+        "en-us"
+    ],
+    "name": "SXTContinued",
+    "release_date": "2022-04-25T20:59:19.221333+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/SXTContinued/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151129-12-sxt-continued-beta/",
+        "remote-avc": "http://ksp.spacetux.net/avc/SXTContinued",
+        "repository": "https://github.com/linuxgurugamer/SXTContinued",
+        "spacedock": "https://spacedock.info/mod/1030/SXTContinued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/SXTContinued/SXTContinued-1477802930.9760618.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "2:0.3.29.8",
+    "x_generated_by": "netkan"
+}

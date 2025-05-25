@@ -1,0 +1,52 @@
+{
+    "abstract": "Replicas of various modern small real-life rockets",
+    "author": "tylerraiz",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "download": [
+        "https://github.com/tylerraiz/SmallRockets/releases/download/0.9.1/SmallRocketsv0.9.1.zip",
+        "https://spacedock.info/mod/3575/Small%20Rockets/download/0.9.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CB6C81A86E4FD7AE8EAFB4B32CFA8FA02DB59243",
+        "sha256": "8FED9FB3653353298D89A34C1C163CB8B5B87015B8AF58C4012FA813FE838EC2"
+    },
+    "download_size": 104171615,
+    "identifier": "SmallRockets",
+    "install": [
+        {
+            "find": "EDBMods",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 125076779,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY",
+    "name": "Small Rockets",
+    "release_date": "2024-04-03T17:26:49.715116+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/tylerraiz/SmallRockets/issues",
+        "homepage": "https://github.com/tylerraiz/SmallRockets",
+        "repository": "https://github.com/tylerraiz/SmallRockets",
+        "spacedock": "https://spacedock.info/mod/3575/Small%20Rockets"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.9.1",
+    "x_generated_by": "netkan"
+}

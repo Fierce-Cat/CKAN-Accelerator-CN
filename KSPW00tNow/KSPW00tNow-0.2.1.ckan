@@ -1,0 +1,43 @@
+{
+    "abstract": "Support for Wooting Keyboards (e.g. Wooting One/Two)",
+    "author": "Kristallranke",
+    "depends": [
+        {
+            "name": "Harmony2"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2630/KSPW00tNow/download/0.2.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4DDBFD9D647FA3847CFCFBBA83107DB5965AAEAB",
+        "sha256": "32E16D094EE3133941BFF406C94320CF3EB25094E0BFE1E48A8EAAA797B72F6C"
+    },
+    "download_size": 413265,
+    "identifier": "KSPW00tNow",
+    "install": [
+        {
+            "filter_regexp": [
+                "0Harmony.*\\.dll"
+            ],
+            "find": "KSPW00tNow",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 200192,
+    "ksp_version": "1.11.2",
+    "license": "MPL-2.0",
+    "name": "KSPW00tNow",
+    "release_date": "2021-02-28T13:37:33.748826+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Kristallranke/KSPW00tNow/issues",
+        "repository": "https://github.com/Kristallranke/KSPW00tNow",
+        "spacedock": "https://spacedock.info/mod/2630/KSPW00tNow"
+    },
+    "spec_version": "v1.30",
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "0.2.1",
+    "x_generated_by": "netkan"
+}

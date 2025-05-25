@@ -1,0 +1,53 @@
+{
+    "abstract": "automated screenshots [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/AutomatedScreenshots/releases/download/0.8.5.4/automatedscreenshots-1.8.0-0.8.5.4.zip?auth_key=1748275918-ca17564161224f629cab00d4a5c74f69-0-7fdb435204d1babf9f66e61b947003a7&size=69126&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E714AEBF29C4950B39BA99E281EB355D596D0A69",
+        "sha256": "C2DA8F2676F56C1AA004C4BF02B4ECF66793930B81EFF909E1694417129D02C0"
+    },
+    "download_size": 69126,
+    "identifier": "AutomatedScreenshots",
+    "install": [
+        {
+            "find": "AutomatedScreenshots",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Automated Screenshots & Saves [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "release_date": "2019-12-06T15:44:17Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/AutomatedScreenshots/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/116979-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/automatedscreenshots",
+        "repository": "https://github.com/linuxgurugamer/AutomatedScreenshots",
+        "spacedock": "https://spacedock.info/mod/43/Automated%20Screenshots%20&%20Saves",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Automated_Screenshots__Saves/Automated_Screenshots__Saves-1456622044.5102704.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "0.8.5.4",
+    "x_generated_by": "netkan"
+}

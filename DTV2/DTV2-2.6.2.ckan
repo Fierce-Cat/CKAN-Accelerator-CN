@@ -1,0 +1,39 @@
+{
+    "abstract": "Draft, tour with, or rescue your twitch viewers as in-game Kerbals!",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1985/Draft%20Twitch%20Viewers%20Redrafted/download/2.6.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "36EB4ECBD82368B87FDA28FDE36CBBCCCFAFE6AC",
+        "sha256": "1AF10AF7F2C94B7F124057B51DA56970EA29DF9FAC4CDEB04A9B52EE3C53FB1E"
+    },
+    "download_size": 235752,
+    "identifier": "DTV2",
+    "install": [
+        {
+            "find": "DraftTwitchViewers",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.2",
+    "license": "GPL-3.0",
+    "name": "Draft Twitch Viewers Redrafted",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164357-141-draft-twitch-viewers-redrafted-draft-tour-with-or-rescue-your-twitch-viewers-as-in-game-kerbals/",
+        "repository": "https://github.com/linuxgurugamer/DraftTwitchViewers/releases",
+        "spacedock": "https://spacedock.info/mod/1985/Draft%20Twitch%20Viewers%20Redrafted",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Draft_Twitch_Viewers_Redrafted/Draft_Twitch_Viewers_Redrafted-1540129063.9716632.png"
+    },
+    "spec_version": "v1.4",
+    "version": "2.6.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

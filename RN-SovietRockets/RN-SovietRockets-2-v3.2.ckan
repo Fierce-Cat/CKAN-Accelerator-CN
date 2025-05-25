@@ -1,0 +1,51 @@
+{
+    "abstract": "This mod contains various Soviet rockets derived from ICBM designs. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Raidernick",
+    "depends": [
+        {
+            "name": "BDAnimationModules"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/SovietRockets/releases/download/v3.2/RN_Soviet_Rockets_v3.2.zip?auth_key=1748275916-4b7ca42f9d3a4e72bd17aa6262fa8d50-0-7164edac7c45b90245bfd95232ae1dca&size=121095122&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B3C9BE5144767BA77135F02BE12959AED14377C4",
+        "sha256": "345A6C24075DF690F3AE17325E5C7F12C21795EA3F27656AE384ECD3CA6165C4"
+    },
+    "download_size": 121095122,
+    "identifier": "RN-SovietRockets",
+    "install": [
+        {
+            "find": "RN_Soviet_Rockets",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-ND-3.0",
+    "name": "Soviet Rockets - R7/Proton/Zenit Rockets and more [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RN-SalyutStations"
+        },
+        {
+            "name": "RN-SovietSpacecraft"
+        },
+        {
+            "name": "RN-SovietProbes"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/79433-122-131-soviet-probes-soviet-rockets-r7soyuzprotonzenit-4-2-18/",
+        "repository": "https://github.com/KSP-RO/SovietRockets"
+    },
+    "spec_version": "v1.4",
+    "version": "2:v3.2",
+    "x_generated_by": "netkan"
+}

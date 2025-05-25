@@ -1,0 +1,48 @@
+{
+    "abstract": "Adds scatterer support for LSR.",
+    "author": [
+        "RevanX",
+        "Watermel00n"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "LinbolSystemRebirth"
+        },
+        {
+            "name": "Scatterer"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3462/LSR%20Scatterer%20Configs/download/1.2.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FAE624E6496813E50C537DE8ECED9402FFA3A52A",
+        "sha256": "0220BA74EE3E2E55AE0D8A4723FDDFDE56E4A77CCE8D4525D50E079B9A864A0B"
+    },
+    "download_size": 96383,
+    "identifier": "LinbolSystemRebirth-ScattererConfigs",
+    "install": [
+        {
+            "find": "LSR_Scatterer",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 136974,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "LSR Scatterer Configs",
+    "release_date": "2023-09-08T13:18:07.622361+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219128-112x-linbol-system-rebirth-25x-scale-quaternary-system/",
+        "spacedock": "https://spacedock.info/mod/3462/LSR%20Scatterer%20Configs",
+        "x_screenshot": "https://spacedock.info/content/RevanX_117585/LSR_Scatterer_Configs/LSR_Scatterer_Configs-1695198363.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config"
+    ],
+    "version": "1.2.1",
+    "x_generated_by": "netkan"
+}

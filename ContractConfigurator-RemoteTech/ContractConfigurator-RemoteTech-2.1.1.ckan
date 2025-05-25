@@ -1,0 +1,42 @@
+{
+    "abstract": "A contract pack containing contracts for RemoteTech. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "nightingale",
+    "depends": [
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/jrossignol/ContractPack-RemoteTech/releases/download/2.1.1/ContractPack-RemoteTech_2.1.1.zip?auth_key=1748275916-67d974e0b98248edb3420c562583d46b-0-166e87593e7aea19d1bc3975dbc5ab12&size=39228&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EB6466D0BD80F7836293A30A725477AE9859F0C3",
+        "sha256": "15400924D5A3773E627E2957227D5360AFA8DB2A458B90E8623D195A62CB66DA"
+    },
+    "download_size": 39228,
+    "identifier": "ContractConfigurator-RemoteTech",
+    "install": [
+        {
+            "find": "RemoteTech",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "ksp_version_min": "1.0.2",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Contract Pack: RemoteTech [PRO-KCMIRROR]",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/jrossignol/ContractPack-RemoteTech/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/96045-*",
+        "license": "https://raw.githubusercontent.com/jrossignol/ContractPack-RemoteTech/master/GameData/ContractPacks/RemoteTech/LICENSE.txt",
+        "repository": "https://github.com/jrossignol/ContractPack-RemoteTech"
+    },
+    "spec_version": "v1.4",
+    "version": "2.1.1",
+    "x_generated_by": "netkan"
+}

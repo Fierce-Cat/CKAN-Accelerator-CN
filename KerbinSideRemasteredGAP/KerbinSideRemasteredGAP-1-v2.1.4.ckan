@@ -1,0 +1,59 @@
+{
+    "abstract": "Flight contract missions from KSC to bases in the Kerbin Side Remastered mod. Please check the README.md for details and dependencies",
+    "author": "Caerfinon",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KerbinSideRemastered"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2573/Kerbin%20Side%20Remastered%20GAP/download/v2.1.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E43708991607793D2EE8A01B0FDD974ADCDAB4D0",
+        "sha256": "4DDAE091EACA24D13FD1B136287418A30DF7EF3A83740263A7DB8CCBF38A1BA2"
+    },
+    "download_size": 19475495,
+    "identifier": "KerbinSideRemasteredGAP",
+    "install": [
+        {
+            "find": "ContractPacks",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 26340528,
+    "ksp_version": "1.12.4",
+    "license": "MIT",
+    "name": "Kerbin Side Remastered GAP",
+    "release_date": "2022-10-01T19:08:47.789582+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/caerfinon/KerbinSideRemasteredGAP/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/198011-wip-kerbin-side-remastered-gap-flight-contract-pack/",
+        "repository": "https://github.com/caerfinon/KerbinSideRemasteredGAP",
+        "spacedock": "https://spacedock.info/mod/2573/Kerbin%20Side%20Remastered%20GAP",
+        "x_screenshot": "https://spacedock.info/content/Caerfinon_49341/Kerbin_Side_Remastered_GAP/Kerbin_Side_Remastered_GAP-1605979151.5442297.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "NavUtilitiesContinued"
+        },
+        {
+            "name": "KramaxAutopilotContinued"
+        }
+    ],
+    "tags": [
+        "config",
+        "career"
+    ],
+    "version": "1:v2.1.4",
+    "x_generated_by": "netkan"
+}

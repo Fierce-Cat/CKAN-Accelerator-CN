@@ -1,0 +1,56 @@
+{
+    "abstract": "Spend science points to improve the stats of the parts you have already unlocked in a career game.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/KRnD/releases/download/1.16.0.14/KRnD-1.12.0-1.16.0.14.zip",
+        "https://spacedock.info/mod/2311/Kerbal%20Research%20&%20Development/download/1.16.0.14"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "59A2E0A1462964EA2B85A111F78AF2218AF3BB12",
+        "sha256": "424722E29D1F56D9D6EE4F18084A0477BCAD85B68BE43692269679CF236086FD"
+    },
+    "download_size": 43262,
+    "identifier": "KRnD",
+    "install": [
+        {
+            "find": "KRnD",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 90212,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Kerbal Research & Development",
+    "release_date": "2024-01-21T23:14:12.811901+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/KRnD/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191014-18x-kerbal-research-development/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/KRnD/master/KRnD.version",
+        "repository": "https://github.com/linuxgurugamer/KRnD",
+        "spacedock": "https://spacedock.info/mod/2311/Kerbal%20Research%20&%20Development",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Kerbal_Research__Development/Kerbal_Research__Development-1578962824.0145452.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "science"
+    ],
+    "version": "1.16.0.14",
+    "x_generated_by": "netkan"
+}

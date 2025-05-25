@@ -1,0 +1,48 @@
+{
+    "abstract": "Adds the Xingyun-2 satellite from the mod by the same name into the RP-1 tech tree",
+    "author": "KerbalMissile",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RP-1"
+        },
+        {
+            "name": "Xingyun2"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3854/Xingyun-2%20Satellite%20RP-1%20Config/download/1.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7D310C77819E1F26F5A21A12B976AECF51B07319",
+        "sha256": "DAFBE376F5657DCBF4C6CD222FF0D3D8AFB2F58E949FACE2152479214B999AF8"
+    },
+    "download_size": 564,
+    "identifier": "Xingyun2-RP-1",
+    "install": [
+        {
+            "find": "RP1Configs",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 483,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Xingyun-2 Satellite RP-1 Config",
+    "release_date": "2025-04-05T16:23:03.331553+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3854/Xingyun-2%20Satellite%20RP-1%20Config"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "Xingyun2"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "1.3",
+    "x_generated_by": "netkan"
+}

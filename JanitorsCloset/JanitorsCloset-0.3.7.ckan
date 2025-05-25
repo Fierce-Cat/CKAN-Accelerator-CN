@@ -1,0 +1,53 @@
+{
+    "abstract": "Get your parts list under control",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/944/The%20Janitor%27s%20Closet/download/0.3.7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8D5E69178689DC52D5B5378903E8D1074EF4F11D",
+        "sha256": "C5BC379B0CCAFFE8F56A9A3AC97237E0E066DF59DDD9C13D4148D6FC630D6865"
+    },
+    "download_size": 208468,
+    "identifier": "JanitorsCloset",
+    "install": [
+        {
+            "find": "JanitorsCloset",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.0",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-4.0",
+    "name": "The Janitor's Closet",
+    "recommends": [
+        {
+            "name": "FilterExtensions"
+        },
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "release_date": "2019-11-16T01:15:37.431619+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/147463-end-your-parts-list-nightmare-introducing-the-janitors-closet/",
+        "remote-avc": "http://ksp.spacetux.net/avc/JanitorsCloset",
+        "repository": "https://github.com/linuxgurugamer/JanitorsCloset",
+        "spacedock": "https://spacedock.info/mod/944/The%20Janitor's%20Closet",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/The_Janitors_Closet/The_Janitors_Closet-1477536060.0319965.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "0.3.7",
+    "x_generated_by": "netkan"
+}

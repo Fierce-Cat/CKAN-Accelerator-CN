@@ -1,0 +1,81 @@
+{
+    "abstract": "Build Flying Saucers in KSP! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "WildBlueTools"
+        },
+        {
+            "name": "KerbalActuators"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/FlyingSaucers/releases/download/v1.0.2/KFS.zip?auth_key=1748275917-246d3930fe254ebab1182d99760c4114-0-411d75429187f40e047a0f4bed13bf97&size=122833775&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "74ED545AA4BFDB71577E6A11FB6178EBF3BC2439",
+        "sha256": "21D512C60327851D1822D9A08753013D7904C06C8864939F7CDC33BD7DC2A1FB"
+    },
+    "download_size": 122833775,
+    "identifier": "FlyingSaucers",
+    "install": [
+        {
+            "filter": "Ships",
+            "find": "GameData/WildBlueIndustries/FlyingSaucers",
+            "install_to": "GameData/WildBlueIndustries"
+        },
+        {
+            "find": "Ships/SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 413671607,
+    "ksp_version_min": "1.12.2",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Flying Saucers [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        }
+    ],
+    "release_date": "2023-03-15T21:59:48Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/FlyingSaucers/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173857-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/FlyingSaucers/master/GameData/WildBlueIndustries/FlyingSaucers/KFS.version",
+        "repository": "https://github.com/Angel-125/FlyingSaucers"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "TACLS"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin",
+        "crewed"
+    ],
+    "version": "v1.0.2",
+    "x_generated_by": "netkan"
+}

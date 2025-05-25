@@ -1,0 +1,75 @@
+{
+    "abstract": "This is a mod that adds SpaceX parts like the Dragon V2, Falcon 9, Starship and more!",
+    "author": "damon",
+    "depends": [
+        {
+            "name": "SpaceXLegs"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "AnimatedDecouplers"
+        },
+        {
+            "name": "RetractableLiftingSurface"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/223/Tundra%20Exploration%20-%20Stockalike%20Dragon%20V2%20and%20Falcon%209/download/3.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3D01F24A020AA936BA6D6141909DDC3C32BE5FCC",
+        "sha256": "741DF3900B6C33CBB8A3F48C8BD0B3DADADF806F1578CEE1BCC2944A331893C1"
+    },
+    "download_size": 189205943,
+    "identifier": "TundraExploration",
+    "install": [
+        {
+            "filter": "Thumbs.db",
+            "find": "TundraExploration",
+            "install_to": "GameData"
+        },
+        {
+            "description": "Tundra Exploration example craft",
+            "find": "Ships/VAB",
+            "install_to": "Ships",
+            "optional": true
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.1",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Tundra Exploration - Stockalike Dragon V2 and Falcon 9",
+    "recommends": [
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "FMRS"
+        }
+    ],
+    "release_date": "2020-12-27T22:26:33.62012+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/166915-131-tundra-exploration-v093-stockalike-falcon-9-and-dragon-v2/",
+        "spacedock": "https://spacedock.info/mod/223/Tundra%20Exploration%20-%20Stockalike%20Dragon%20V2%20and%20Falcon%209",
+        "x_screenshot": "https://spacedock.info/content/damon_4180/Tundra_Exploration_-_Stockalike_Dragon_V2_and_Falcon_9/Tundra_Exploration_-_Stockalike_Dragon_V2_and_Falcon_9-1575140669.4396348.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "3.1.1",
+    "x_generated_by": "netkan"
+}

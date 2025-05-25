@@ -1,0 +1,78 @@
+{
+    "abstract": "SSTO project add wide range of high-performance spacecraft parts",
+    "author": "Monniasza",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2417/SSTO%20Project/download/1.5.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "00151C5903988069504E853DACCB13D2D02D4BBE",
+        "sha256": "D9CA7A627CE21488B5CCD067B9C38674B8F305B32A8A6E29310DB8DF9FB7D58B"
+    },
+    "download_size": 1146983,
+    "identifier": "SSTOProject",
+    "install_size": 7209957,
+    "ksp_version_max": "1.12.999",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "SSTO Project",
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "ModularFuelTanks"
+        },
+        {
+            "name": "SMURFF"
+        }
+    ],
+    "release_date": "2023-08-26T16:10:09.037346+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Monniasza/SSTO-Project/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/195058-ssto-project-ksp-181/",
+        "repository": "https://github.com/Monniasza/SSTO-Project",
+        "spacedock": "https://spacedock.info/mod/2417/SSTO%20Project"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "B9AerospaceHX"
+        },
+        {
+            "name": "ProceduralParts"
+        }
+    ],
+    "supports": [
+        {
+            "name": "TETRIXTechTree"
+        },
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "BehemothAerospaceEngineeringLargeParts"
+        },
+        {
+            "name": "RealEngines"
+        },
+        {
+            "name": "RealScaleBoosters"
+        }
+    ],
+    "tags": [
+        "config",
+        "parts",
+        "science",
+        "tech-tree",
+        "resources"
+    ],
+    "version": "1.5.0",
+    "x_generated_by": "netkan"
+}

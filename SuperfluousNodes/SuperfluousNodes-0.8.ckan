@@ -1,0 +1,54 @@
+{
+    "abstract": "Creating extra attachment nodes on some structural pieces, as well as adding nods to many of the surface attach parts, such as science experiments and wheels.",
+    "author": "Geonovast",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2064/Superfluous%20Nodes/download/0.8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3301B9533301D07DC6D222C7D51025ABF1BA317E",
+        "sha256": "7BC34F83C7231CE0CE61341267E1524E95815DB1738BFF8904FFBE8745B7A373"
+    },
+    "download_size": 15969,
+    "identifier": "SuperfluousNodes",
+    "install": [
+        {
+            "find_regexp": "SuperfluousNodes.*",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 46027,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8.1",
+    "license": "MIT",
+    "name": "Superfluous Nodes",
+    "recommends": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "Konstruction"
+        }
+    ],
+    "release_date": "2023-11-19T15:44:58.965232+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181663-16-superfluous-nodes-attachment-nodes-for-surface-attach-parts/",
+        "spacedock": "https://spacedock.info/mod/2064/Superfluous%20Nodes",
+        "x_screenshot": "https://spacedock.info/content/Geonovast_25063/Superfluous_Nodes/Superfluous_Nodes-1548384087.7257993.png"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "config"
+    ],
+    "version": "0.8",
+    "x_generated_by": "netkan"
+}

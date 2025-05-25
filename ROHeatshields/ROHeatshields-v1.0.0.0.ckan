@@ -1,0 +1,59 @@
+{
+    "abstract": "ROHeatshields adds resizable heatshields at varying tech levels for Realism Overhaul. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "KSP-RO"
+    ],
+    "conflicts": [
+        {
+            "name": "TweakableEverything"
+        }
+    ],
+    "depends": [
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "ROLib"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/ROHeatshields/releases/download/v1.0.0.0/ROHeatshields-v1.0.0.zip?auth_key=1748275917-c747f132fc8d408380454e1c08e59059-0-39741fb127ff44ff61ab0aae2e796691&size=4214815&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F5A1E203CEF2320F6766ADAA1889FDC53E0054E2",
+        "sha256": "AEB0AA6E1C5AC55F4E8E395C3C02B07CA62872EBD5174E8A258DA9E679D26441"
+    },
+    "download_size": 4214815,
+    "identifier": "ROHeatshields",
+    "install": [
+        {
+            "file": "GameData/ROHeatshields",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 9475199,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.3",
+    "license": "MIT",
+    "name": "ROHeatshields [PRO-KCMIRROR]",
+    "release_date": "2022-07-23T05:41:11Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/ROHeatshields/issues",
+        "homepage": "https://discordapp.com/invite/ZGbR6nv",
+        "metanetkan": "https://github.com/KSP-RO/ROHeatshields/raw/master/ROHeatshields.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/ROHeatshields/master/GameData/ROHeatshields/ROHeatshields.version",
+        "repository": "https://github.com/KSP-RO/ROHeatshields"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "parts",
+        "config",
+        "graphics",
+        "plugin"
+    ],
+    "version": "v1.0.0.0",
+    "x_generated_by": "netkan"
+}

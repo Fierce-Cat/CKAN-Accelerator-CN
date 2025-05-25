@@ -1,0 +1,58 @@
+{
+    "abstract": "Recover Funds, Kerbals, and Science from Dropped Stages",
+    "author": [
+        "magico13",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "DebRefund"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/219/StageRecovery/download/1.9.2.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F835CBDD682E3AA2AF736B169BF916F12E638A72",
+        "sha256": "39AD024E4D43E48E74D10147C43BF14E3BC8648605ABB7E6D3DE06613C64C0C6"
+    },
+    "download_size": 79118,
+    "identifier": "StageRecovery",
+    "install": [
+        {
+            "file": "GameData/StageRecovery",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "StageRecovery",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179306-151-stagerecovery-recover-funds-from-dropped-stages/&",
+        "repository": "https://github.com/linuxgurugamer/StageRecovery",
+        "spacedock": "https://spacedock.info/mod/219/StageRecovery"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "career"
+    ],
+    "version": "1.9.2.1",
+    "x_generated_by": "netkan"
+}

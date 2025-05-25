@@ -1,0 +1,72 @@
+{
+    "abstract": "Super Science Advanced Utilities Capsules and Exploration Services",
+    "author": "lil_bread_402",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3649/SSAUCE/download/v.1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E3D48E0F6A12C9D0FEA5E62E68F00613AAB5A137",
+        "sha256": "8155C8EA63DFF554B10B51F57FBEAB4D2D6094775DB0D0A58BA5B8A0AA181677"
+    },
+    "download_size": 28557854,
+    "identifier": "SSAUCE",
+    "install": [
+        {
+            "filter": "Extras",
+            "find": "SSAUCE/SSAUCE",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 28808987,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "SSAUCE",
+    "recommends": [
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "Shaddy"
+        },
+        {
+            "name": "HabTechProps"
+        }
+    ],
+    "release_date": "2024-07-03T04:36:29.673054+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/LilBread402/SSAUCE/issues",
+        "repository": "https://github.com/LilBread402/SSAUCE",
+        "spacedock": "https://spacedock.info/mod/3649/SSAUCE",
+        "x_screenshot": "https://spacedock.info/content/lil_bread_402_100323/SSAUCE/SSAUCE-1719981930.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "Knes"
+        },
+        {
+            "name": "ShuttleOrbiterConstructionKit"
+        },
+        {
+            "name": "RocketMotorMenagerie"
+        }
+    ],
+    "tags": [
+        "crewed",
+        "first-person",
+        "parts"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

@@ -1,0 +1,39 @@
+{
+    "abstract": "KSP Shader, Texture, and Modeling Utilities [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "shadowmage45",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/shadowmage45/TexturesUnlimited/releases/download/1.5.9.24/TexturesUnlimited-1.5.9.24.zip?auth_key=1748275917-294c3a45168b4ccc802b5309719d693a-0-deb362ffd8c6b535a134966636e832c9&size=5562773&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FE7FEA20A45AAE0A61B49143118B2D50D111D4E4",
+        "sha256": "23D9127C2872FA03A447742907E3DE990B75FE06A6953B229B824168D18F5AA9"
+    },
+    "download_size": 5562773,
+    "identifier": "TexturesUnlimited",
+    "install": [
+        {
+            "find": "000_TexturesUnlimited",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Textures Unlimited [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167450-*",
+        "repository": "https://github.com/shadowmage45/TexturesUnlimited"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "plugin",
+        "graphics",
+        "library"
+    ],
+    "version": "1.5.9.24",
+    "x_generated_by": "netkan"
+}

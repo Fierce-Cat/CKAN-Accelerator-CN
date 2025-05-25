@@ -1,0 +1,41 @@
+{
+    "abstract": "Library used to make animations use power [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/ModuleAnimGenericResourceUsage/releases/download/0.0.1.1/ModuleAnimGenericResourceUsage-1.12.0-0.0.1.1.zip?auth_key=1748275918-b3c36a24b70f423880e361b53a02570c-0-d714a7c978c55d40a0bf7ce86940f1e2&size=21767&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "94934AE7C92429CCF409772996AECABF755A1E18",
+        "sha256": "CA1AB65572E7211E159191EB517FA541F9CB4EDE80551834F7539C1027F48921"
+    },
+    "download_size": 21767,
+    "identifier": "ModuleAnimGenericResourceUsage",
+    "install": [
+        {
+            "find": "ModuleAnimGenericResourceUsage",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 55806,
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "ModuleAnimGenericResourceUsage [PRO-KCMIRROR]",
+    "release_date": "2021-10-18T23:52:53Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/ModuleAnimGenericResourceUsage/issues",
+        "remote-avc": "http://ksp.spacetux.net/avc/ModuleAnimGenericResourceUsage",
+        "repository": "https://github.com/linuxgurugamer/ModuleAnimGenericResourceUsage"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "library",
+        "plugin"
+    ],
+    "version": "0.0.1.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

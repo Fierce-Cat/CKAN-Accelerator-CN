@@ -1,0 +1,78 @@
+{
+    "abstract": "A newly discovered mineral that has hydrocarbon-like properties and is perfect for processing into a fuel. It's easily mined from the surface, and can be found in liquid or gaseous forms on certain planets. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RoverDude",
+    "comment": "This may be renamed to USI-Karbonite in the future",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "v7.6.0",
+            "name": "FirespitterCore"
+        },
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        },
+        {
+            "min_version": "0.7.0.0",
+            "name": "CommunityResourcePack"
+        },
+        {
+            "min_version": "0.4.0.0",
+            "name": "USI-Core"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/UmbraSpaceIndustries/Karbonite/releases/download/v112.0.1/Karbonite_112.0.1.zip?auth_key=1748275915-9286015075174e4f81c880b564b5f518-0-83ade90b2b73ab12a4466b127bc971e1&size=83471304&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9EDE37E690E4870D3C698660EEB8B7D1FC8F1CD7",
+        "sha256": "42A8013962D95A6D888740477FCDDB5D534D80C2204185B89A9DDAC22B604030"
+    },
+    "download_size": 83471304,
+    "identifier": "Karbonite",
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/Karbonite",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        },
+        {
+            "find": "UmbraSpaceIndustries/KarbonitePlus",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "install_size": 99779600,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "Karbonite [PRO-KCMIRROR]",
+    "provides": [
+        "USI-Karbonite"
+    ],
+    "release_date": "2022-05-30T01:02:22Z",
+    "resources": {
+        "bugtracker": "https://github.com/UmbraSpaceIndustries/Karbonite/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/83948-*",
+        "manual": "https://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "remote-avc": "https://raw.githubusercontent.com/UmbraSpaceIndustries/Karbonite/main/FOR_RELEASE/GameData/UmbraSpaceIndustries/Karbonite/Karbonite.version",
+        "repository": "https://github.com/UmbraSpaceIndustries/Karbonite"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "tags": [
+        "parts",
+        "resources"
+    ],
+    "version": "1:v112.0.1",
+    "x_generated_by": "netkan"
+}

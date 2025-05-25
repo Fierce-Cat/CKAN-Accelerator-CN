@@ -1,0 +1,46 @@
+{
+    "abstract": "BetterSRBs - a KSP mod. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "OhioBob",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/OhioBob/BetterSRBs/releases/download/1.2.6/BetterSRBs_1.2.6.zip?auth_key=1748275916-a6f4edf30fbe4c43b6a79ed18d134ce4-0-289d1ad2017b9b9ad6db2d232723d908&size=3910106&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E402475D4B5797F46435D22F514E4B1E3C8DECA0",
+        "sha256": "75785633168F47EEA3829D44D28581CFE174C5F15B4714BB9C7D7201303847D7"
+    },
+    "download_size": 3910106,
+    "identifier": "BetterSRBs",
+    "install": [
+        {
+            "find": "BetterSRBs",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 9722767,
+    "ksp_version_min": "1.5.0",
+    "license": "CC-BY-NC-ND",
+    "name": "Better SR Bs [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "SmartParts"
+        }
+    ],
+    "release_date": "2021-07-01T03:36:17Z",
+    "resources": {
+        "bugtracker": "https://github.com/OhioBob/BetterSRBs/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175316-*",
+        "remote-avc": "https://raw.githubusercontent.com/OhioBob/BetterSRBs/master/GameData/BetterSRBs/BetterSRBs.version",
+        "repository": "https://github.com/OhioBob/BetterSRBs"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "1.2.6",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,59 @@
+{
+    "abstract": "QuickSAS is a plugin which adds the possibility to have keyboard's shortcuts for the SAS functions.",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/999/QuickSAS/download/1.2.0.10",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "017F47C4E908992829F59D59F793A2F97ABBB0B6",
+        "sha256": "7F57A3671D361ACCD7181F0961DC40A8D19DAD22603D0116AF007E074AEA859A"
+    },
+    "download_size": 32242,
+    "identifier": "QuickSAS",
+    "install": [
+        {
+            "file": "GameData/QuickMods/QuickSAS",
+            "install_to": "GameData/QuickMods"
+        }
+    ],
+    "install_size": 73256,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "fr-fr",
+        "zh-cn"
+    ],
+    "name": "QuickSAS",
+    "release_date": "2024-03-15T18:49:45.26109+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/QuickMods/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
+        "remote-avc": "http://ksp.spacetux.net/avc/QuickSAS",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/999/QuickSAS"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:1.2.0.10",
+    "x_generated_by": "netkan"
+}

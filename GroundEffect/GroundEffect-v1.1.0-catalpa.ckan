@@ -1,0 +1,40 @@
+{
+    "abstract": "A KSP mod that adds ground effect forces on top of stock aerodynamics [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Capital-Asterisk",
+    "conflicts": [
+        {
+            "name": "FAR"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Capital-Asterisk/KSP_GroundEffect/releases/download/v1.1.0-catalpa/GroundEffect_v1.1.0.zip?auth_key=1748275917-29c497ddbdb24b468bd62c5416b5b2b8-0-43164d1092303cd5589b0fd1acd7356e&size=4857&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BD2CB5D2423AAF0F8E6D4FE3CD813006CBAFE41F",
+        "sha256": "599928360D03D8AF16ECED8983B4BDDC510D9D85BFFC6D99B6A48E8728C4F31B"
+    },
+    "download_size": 4857,
+    "identifier": "GroundEffect",
+    "install": [
+        {
+            "find": "GroundEffect.dll",
+            "install_to": "GameData/GroundEffect"
+        }
+    ],
+    "ksp_version_max": "1.11",
+    "ksp_version_min": "1.3",
+    "license": "MIT",
+    "name": "KSP GroundEffect [PRO-KCMIRROR]",
+    "release_date": "2020-08-16T21:13:54Z",
+    "resources": {
+        "bugtracker": "https://github.com/Capital-Asterisk/KSP_GroundEffect/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/183500-*",
+        "repository": "https://github.com/Capital-Asterisk/KSP_GroundEffect"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "v1.1.0-catalpa",
+    "x_generated_by": "netkan"
+}

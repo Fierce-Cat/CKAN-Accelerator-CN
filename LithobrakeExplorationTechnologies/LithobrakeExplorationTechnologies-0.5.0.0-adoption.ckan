@@ -1,0 +1,70 @@
+{
+    "abstract": "A parts pack for exploring other worlds, and returning home. Pods, large legs, large chutes, service bays, long ladders, etc for Kerbal Space Program.",
+    "author": [
+        "NecroBones",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/93/Lithobrake%20Exploration%20Technologies%20(LET)%20(formerly%20LETech)/download/0.5.0.0-adoption",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2222DA98EA991B12AD6DA73A5C22319ED6970204",
+        "sha256": "BE9AE05C833E9DF9E7242E69BC8F85FAF2C43782FBC4CB243AED6660788899FB"
+    },
+    "download_size": 5104854,
+    "identifier": "LithobrakeExplorationTechnologies",
+    "install": [
+        {
+            "find": "Necrobones",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 9001895,
+    "ksp_version_max": "1.12.9999",
+    "ksp_version_min": "1.0.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Lithobrake Exploration Technologies (LET) (formerly LETech)",
+    "release_date": "2022-04-07T05:25:01.980307+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/206860-*",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/LithobrakeExplorationTechnologies.version",
+        "repository": "https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies",
+        "spacedock": "https://spacedock.info/mod/93/Lithobrake%20Exploration%20Technologies%20(LET)%20(formerly%20LETech)",
+        "x_screenshot": "https://spacedock.info/content/NecroBones_209/Lithobrake_Exploration_Technologies/Lithobrake_Exploration_Technologies-1455805339.2854161.jpg"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "ModularRocketSystem"
+        },
+        {
+            "name": "ModularRocketSystemsLITE"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "ColorCodedCans"
+        },
+        {
+            "name": "ColorfulFuelLines"
+        },
+        {
+            "name": "FuelTanksPlus"
+        }
+    ],
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "0.5.0.0-adoption",
+    "x_generated_by": "netkan"
+}

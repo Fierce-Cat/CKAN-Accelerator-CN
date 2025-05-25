@@ -1,0 +1,41 @@
+{
+    "abstract": "Adds the ED FrameShiftDrive to KSP",
+    "author": "kAerospace",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2862/Kerbal:%20Dangerous/download/0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9F580C0766FD9DF1AA0CC2F06E5F4C8033B0C435",
+        "sha256": "A5E01618D613FC02ABFBC79ADAD133D2AF29639665EB7BFC6FCD99A31BAD3489"
+    },
+    "download_size": 7131,
+    "identifier": "KerbalDangerous",
+    "install": [
+        {
+            "find": "kFSD",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 16182,
+    "ksp_version_min": "1.10",
+    "license": "LGPL-2.1",
+    "name": "Kerbal: Dangerous",
+    "release_date": "2021-09-23T16:16:42.395845+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204937-110x-112x-wip-kerbal-dangerous-ed-style-frame-shift-drive/",
+        "repository": "https://github.com/kAerospace/kspFSD",
+        "spacedock": "https://spacedock.info/mod/2862/Kerbal:%20Dangerous",
+        "x_screenshot": "https://spacedock.info/content/kAerospace_65633/Kerbal_Dangerous/Kerbal_Dangerous-1632316228.6447916.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "0.2",
+    "x_generated_by": "netkan"
+}

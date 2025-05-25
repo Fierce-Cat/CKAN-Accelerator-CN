@@ -1,0 +1,64 @@
+{
+    "abstract": "The \"Main\" pack from OPT. No more old plugin bundles. *Requires* Reconfig.",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "OPTReconfig"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2494/OPT%20Spaceplane%20Continued/download/2.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "36E57149DC37E298A20401596C8CF79AB1E222E3",
+        "sha256": "A0D7D326F59E78F933CA14ACB417CCBA88BE9C241A982F701FB9FCBB218727FE"
+    },
+    "download_size": 67807786,
+    "identifier": "OPTSpacePlaneMain",
+    "install": [
+        {
+            "find": "OPT",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.9.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "OPT Spaceplane Continued",
+    "recommends": [
+        {
+            "name": "KerbalFoundriesContinued"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "OPTSpacePlaneParts"
+        }
+    ],
+    "release_date": "2020-08-07T18:03:20.110003+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196187-19-*/",
+        "spacedock": "https://spacedock.info/mod/2494/OPT%20Spaceplane%20Continued",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/OPT_Spaceplane_Continued/OPT_Spaceplane_Continued-1596824234.699492.png"
+    },
+    "spec_version": "v1.9",
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "ModularFuelTanks"
+        },
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "TacLifeSupport"
+        }
+    ],
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1:2.1",
+    "x_generated_by": "netkan"
+}

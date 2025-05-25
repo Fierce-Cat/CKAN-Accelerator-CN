@@ -1,0 +1,36 @@
+{
+    "abstract": "Controls the throttle to maintain a specified TWR during launch",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1429/ConstantTWR/download/0.0.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "512C66388B980F84CD3A78271BAC4CD37A7B28B8",
+        "sha256": "F252C9ABFB14E913ADA2098CD73B1F7B739480455AF441FB645802D1BEE39DE7"
+    },
+    "download_size": 47355,
+    "identifier": "ConstantTWR",
+    "install": [
+        {
+            "find": "ConstantTWR",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.0",
+    "license": "LGPL-3.0",
+    "name": "ConstantTWR",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/162836-13-constanttwr/",
+        "repository": "https://github.com/linuxgurugamer/ConstantTWR",
+        "spacedock": "https://spacedock.info/mod/1429/ConstantTWR",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/ConstantTWR/ConstantTWR-1499085617.2863977.png"
+    },
+    "spec_version": "v1.4",
+    "version": "0.0.5",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

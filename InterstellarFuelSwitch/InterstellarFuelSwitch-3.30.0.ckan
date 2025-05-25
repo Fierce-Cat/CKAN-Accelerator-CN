@@ -1,0 +1,70 @@
+{
+    "abstract": "Library that enables switching the contents, meshes, and textures of tanks",
+    "author": "FreeThinker",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "1.28",
+            "name": "InterstellarFuelSwitch-Core"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/175/Interstellar%20Fuel%20Switch/download/3.30.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "575CE726CE2A88F7FE1B8549875621D660752D2B",
+        "sha256": "BA748967AE434415FD3CBAFFD76A2768EE95BBC4E561A3EB3E8DB40584DEB356"
+    },
+    "download_size": 22557518,
+    "identifier": "InterstellarFuelSwitch",
+    "install": [
+        {
+            "filter": [
+                "Plugins",
+                "Resources",
+                "Localization"
+            ],
+            "find": "InterstellarFuelSwitch",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 61464167,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8.1",
+    "license": "GPL-2.0",
+    "name": "Interstellar Fuel Switch",
+    "recommends": [
+        {
+            "name": "KSPInterstellarExtended"
+        },
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "release_date": "2023-01-22T18:54:07.873437+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/sswelm/KSP-Interstellar-Extended/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/106243-interstellar-fuel-switch/",
+        "remote-avc": "https://raw.githubusercontent.com/sswelm/KSP-Interstellar-Extended/master/GameData/InterstellarFuelSwitch/Plugins/InterstellarFuelSwitch.version",
+        "repository": "https://github.com/sswelm/KSP-Interstellar-Extended/tree/master/FuelSwitch",
+        "spacedock": "https://spacedock.info/mod/175/Interstellar%20Fuel%20Switch",
+        "x_screenshot": "https://spacedock.info/content/FreeThinker_517/Interstellar_Fuel_Switch/Interstellar_Fuel_Switch-1481278354.0821617.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "crewed",
+        "parts"
+    ],
+    "version": "3.30.0",
+    "x_generated_by": "netkan"
+}

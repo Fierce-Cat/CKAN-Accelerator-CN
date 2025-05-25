@@ -1,0 +1,64 @@
+{
+    "abstract": "This mod adds a contract pack with aircraft milestones and missions. This mod is aimed for use with JNSQ and Kerbal Konstructs only!",
+    "author": "InfiNoctis",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "JNSQ"
+        },
+        {
+            "name": "KerbalKonstructs"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2579/Contract%20Pack:%20GAP%20for%20JNSQ/download/1.0.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "86D4CD1F8249878773C434A901EB3F39FBAEFD03",
+        "sha256": "562FB82DE5A28621F4A427EFFD835DD747647D33F80AF5FBF6C1749A171F5C8F"
+    },
+    "download_size": 224569,
+    "identifier": "ContractConfigurator-JNSQ-GAP",
+    "install": [
+        {
+            "find": "ContractPacks",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 434802,
+    "ksp_version_max": "1.10.1",
+    "ksp_version_min": "1.8.1",
+    "license": "MIT",
+    "name": "Contract Pack: GAP for JNSQ",
+    "recommends": [
+        {
+            "name": "AirplanePlus"
+        },
+        {
+            "name": "AtmosphereAutopilot"
+        },
+        {
+            "name": "WaypointManager"
+        }
+    ],
+    "release_date": "2020-11-30T21:09:58.297021+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/InfiNoctis/GAP-for-JNSQ/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/198338-181-110x-contract-pack-gap-for-jnsq-missionpack-with-milestones-airline-and-rescue-missions/",
+        "remote-avc": "https://github.com/InfiNoctis/GAP-for-JNSQ/raw/main/GAP-for-JNSQ.version",
+        "repository": "https://github.com/InfiNoctis/GAP-for-JNSQ",
+        "spacedock": "https://spacedock.info/mod/2579/Contract%20Pack:%20GAP%20for%20JNSQ",
+        "x_screenshot": "https://spacedock.info/content/InfiNoctis_49461/Contract_Pack_GAP_for_JNSQ/Contract_Pack_GAP_for_JNSQ-1606365446.379834.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "career"
+    ],
+    "version": "1.0.4",
+    "x_generated_by": "netkan"
+}

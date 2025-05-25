@@ -1,0 +1,54 @@
+{
+    "abstract": "Add two spawn points near the KSC Shore: on the water surface for boats and underwater for submarines. Also you can find new underwater anomalies on the Kerbin. Requres Kerbal-Konstruct. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "flart",
+    "depends": [
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/yalov/WaterLaunchSites/releases/download/1.0.0/WaterLaunchSites-v1.0.0.zip?auth_key=1748275918-8b4a31c73b824fccaaccc63d1d427780-0-c185c56276da786f0b9195a853276fdd&size=33306&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "53D5F9737A50DDF4A027672408DC88CFFE70117E",
+        "sha256": "775C2FCD69BCCA2802DE1CA1BD091EF5E208663995D9D3F275CB6AC0D078C9E0"
+    },
+    "download_size": 33306,
+    "identifier": "WaterLaunchSites",
+    "install": [
+        {
+            "file": "GameData/KerbalKonstructs-WaterLaunchSites",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.1",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "Water Launch Sites (Kerbal-Konstructs) [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "MakingHistory-DLC"
+        }
+    ],
+    "release_date": "2019-12-20T13:47:23Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/yalov/WaterLaunchSites/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/183937-*",
+        "remote-avc": "https://raw.githubusercontent.com/yalov/WaterLaunchSites/master/WaterLaunchSites.version",
+        "repository": "https://github.com/yalov/WaterLaunchSites"
+    },
+    "spec_version": "v1.26",
+    "tags": [
+        "config",
+        "convenience",
+        "buildings"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

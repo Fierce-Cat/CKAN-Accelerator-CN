@@ -1,0 +1,80 @@
+{
+    "abstract": "Dynamic switching between multiple IVAs in editor and in-flight [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "610yesnolovely (Harvey Thompson)",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RasterPropMonitor"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/harveyt/reviva/releases/download/0.7.6/Reviva-0.7.6.zip?auth_key=1748275915-384ee75f935446a2b57bb9c6a524b605-0-d9fb3a77c1ac2d71817b2fcc706d6452&size=53127&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7B82E91E0FF0217059E94631B7995811FE6C486F",
+        "sha256": "ACC39391484161D125B5DBEAD609257832FF1DC26662BAFAB7F466FEC7C2F856"
+    },
+    "download_size": 53127,
+    "identifier": "Reviva",
+    "install_size": 182367,
+    "ksp_version": "1.12",
+    "license": "MIT",
+    "name": "Reviva [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "DE-IVAExtension"
+        }
+    ],
+    "release_date": "2022-09-24T19:13:23Z",
+    "resources": {
+        "bugtracker": "https://github.com/harveyt/reviva/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/206744-*",
+        "repository": "https://github.com/harveyt/reviva"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "AvionicsSystems"
+        },
+        {
+            "name": "Mk1CockpitIVAReplbyASET"
+        },
+        {
+            "name": "Mk1LanderCanIVAReplbyASET"
+        },
+        {
+            "name": "MK12PodIVAReplacementbyASET"
+        }
+    ],
+    "supports": [
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "DE-IVAExtension"
+        },
+        {
+            "name": "AvionicsSystems"
+        },
+        {
+            "name": "Mk1CockpitIVAReplbyASET"
+        },
+        {
+            "name": "Mk1LanderCanIVAReplbyASET"
+        },
+        {
+            "name": "MK12PodIVAReplacementbyASET"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "config",
+        "crewed"
+    ],
+    "version": "0.7.6",
+    "x_generated_by": "netkan"
+}

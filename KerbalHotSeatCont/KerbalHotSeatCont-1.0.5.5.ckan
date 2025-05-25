@@ -1,0 +1,46 @@
+{
+    "abstract": "Your kerbals will occasionally move seats to other seats in the craft",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ConnectedLivingSpace"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/KerbalHotSeat/releases/download/1.0.5.5/KerbalHotSeat-1.12.0-1.0.5.5.zip",
+        "https://spacedock.info/mod/1272/Kerbal%20HotSeat/download/1.0.5.5"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6EB64D5A35A94C484C0771F129C016B8B3D05313",
+        "sha256": "2E3E3DD774A154ABD630A1587A47EB2D8B500346ED39689864B8B78D4021FF85"
+    },
+    "download_size": 139474,
+    "identifier": "KerbalHotSeatCont",
+    "install": [
+        {
+            "find": "KerbalHotSeat",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 25932,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Kerbal HotSeat",
+    "release_date": "2021-09-27T19:57:07.475868+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/KerbalHotSeat/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158145-12-kerbalhotseat-continued/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/KerbalHotSeat/master/KerbalHotSeat.version",
+        "repository": "https://github.com/linuxgurugamer/KerbalHotSeat",
+        "spacedock": "https://spacedock.info/mod/1272/Kerbal%20HotSeat"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "1.0.5.5",
+    "x_generated_by": "netkan"
+}

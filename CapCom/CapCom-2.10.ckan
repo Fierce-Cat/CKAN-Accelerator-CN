@@ -1,0 +1,47 @@
+{
+    "abstract": "A contract management window available in all scenes; accept, decline, or cancel contracts without going back to the Mission Control Center",
+    "author": "DMagic",
+    "depends": [
+        {
+            "name": "ProgressParser"
+        },
+        {
+            "name": "ContractParser"
+        }
+    ],
+    "download": "https://spacedock.info/mod/131/CapCom%20-%20Mission%20Control%20On%20The%20Go/download/2.10",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "64E342646390B4703CDAB4AC756CAA6690362955",
+        "sha256": "3C1EC2D7640391E1AB46A589C601605DE22DC992435BF97995575485B6767D14"
+    },
+    "download_size": 95279,
+    "identifier": "CapCom",
+    "install": [
+        {
+            "file": "GameData/DMagicUtilities/CapCom",
+            "install_to": "GameData/DMagicUtilities"
+        }
+    ],
+    "ksp_version_max": "1.7.3",
+    "ksp_version_min": "1.4.4",
+    "license": "MIT",
+    "name": "CapCom - Mission Control On The Go",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/107789-1",
+        "repository": "https://github.com/DMagic1/CapCom",
+        "spacedock": "https://spacedock.info/mod/131/CapCom%20-%20Mission%20Control%20On%20The%20Go",
+        "x_screenshot": "https://spacedock.info/content/DMagic_247/CapCom_-_Mission_Control_On_The_Go/CapCom_-_Mission_Control_On_The_Go-1455816004.9445755.png"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "ContractRewardModifier"
+        },
+        {
+            "name": "ContractsWindowPlus"
+        }
+    ],
+    "version": "2.10",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,48 @@
+{
+    "abstract": "Displays a simple layer much like FPSViewer to compare ingame vs real time speed. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "SpaceTiger",
+        "SpaceKitty"
+    ],
+    "conflicts": [
+        {
+            "name": "KerboKatzSmallUtilities"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "1.5.2",
+            "name": "KerboKatzUtilities"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KerboKatz/SmallUtilities/releases/download/1.5.4-KSP1.8/SmallUtilities.PhysicalTimeRatioViewer.zip?auth_key=1748275917-d0f8a0baec484784994eda8694376f65-0-14faeb397a98f40ab6b16d069ec5e9ba&size=74340&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "826E058D7CB1DF70132165C109750389C47D17D2",
+        "sha256": "F2FEE159AFD944BE9D8364F5A454B839406A6073B41CD1951A8FED00135DC210"
+    },
+    "download_size": 74340,
+    "identifier": "KerboKatzSmallUtilities-PhysicalTimeRatioViewer",
+    "install": [
+        {
+            "find": "PhysicalTimeRatioViewer",
+            "install_to": "GameData/KerboKatz/SmallUtilities"
+        }
+    ],
+    "ksp_version": "1.8",
+    "license": "restricted",
+    "name": "KerboKatz - SmallUtilities - PhysicalTimeRatioViewer [PRO-KCMIRROR]",
+    "release_date": "2019-10-18T19:35:10Z",
+    "resources": {
+        "bugtracker": "https://github.com/KerboKatz/SmallUtilities/issues",
+        "homepage": "http://kerbokatz.github.io/",
+        "repository": "https://github.com/KerboKatz/SmallUtilities"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "1.5.4-KSP1.8",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,33 @@
+{
+    "abstract": "Flags used in SamBelanger's mods",
+    "author": [
+        "d6525640bbd84d8b80eb8e97e35bece9",
+        "DeltaDizzy"
+    ],
+    "comment": "flagmod",
+    "download": "https://archive.org/download/SamBelangerFlags-1.4.9.1/4CCA7451-SamBelangerFlags-1.4.9.1.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4CCA7451D746ED2679C7FD36C853D13A65280325",
+        "sha256": "F5F3BDDC2663E6809677B4D4D314F2915D2FC679B938A7AE73BBF2A7E27CC2B0"
+    },
+    "download_size": 96568,
+    "identifier": "SamBelangerFlags",
+    "install": [
+        {
+            "find": "Flags",
+            "install_to": "GameData/SamBelanger"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "MIT",
+    "name": "Sam Belanger Flags",
+    "release_status": "stable",
+    "resources": {
+        "curse": "https://kerbal.curseforge.com/projects/271783",
+        "x_screenshot": "https://media-elerium.cursecdn.com/avatars/thumbnails/120/699/120/120/636407437880259783.png"
+    },
+    "spec_version": "v1.20",
+    "version": "1.4.9.1",
+    "x_generated_by": "netkan"
+}

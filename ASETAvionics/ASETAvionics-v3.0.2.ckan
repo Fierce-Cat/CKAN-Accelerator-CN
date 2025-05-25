@@ -1,0 +1,59 @@
+{
+    "abstract": "IVA props for aircraft [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "alexustas",
+        "StoneBlue",
+        "JonnyOThan"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ASETAgency"
+        },
+        {
+            "min_version": "2.0.0",
+            "name": "ASETProps"
+        },
+        {
+            "min_version": "1:v0.30.2",
+            "name": "RasterPropMonitor-Core"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/FirstPersonKSP/ASET_Avionics/releases/download/v3.0.2/ASET_Avionics-v3.0.2.zip?auth_key=1748275916-81d34a6900e9482796e9f4603f03c8b7-0-69a6ed6f8a90a5e385b2fa82d20b8d77&size=5713534&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "FC04D74467AC686C451B942ECD5DA3423C12FE72B1A1580874A7AB39170FD8AB"
+    },
+    "download_size": 5713534,
+    "identifier": "ASETAvionics",
+    "install": [
+        {
+            "find": "ASET",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 12807400,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "ASET Avionics [PRO-KCMIRROR]",
+    "release_date": "2025-04-07T00:38:07Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/FirstPersonKSP/ASET_Avionics/issues",
+        "discussions": "https://github.com/FirstPersonKSP/ASET_Avionics/discussions",
+        "remote-avc": "https://raw.githubusercontent.com/FirstPersonKSP/ASET_Avionics/main/GameData/ASET/ASET_Avionics/ASET_Avionics.version",
+        "repository": "https://github.com/FirstPersonKSP/ASET_Avionics"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "config",
+        "library",
+        "crewed",
+        "first-person"
+    ],
+    "version": "v3.0.2",
+    "x_generated_by": "netkan"
+}

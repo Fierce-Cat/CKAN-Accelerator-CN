@@ -1,0 +1,46 @@
+{
+    "abstract": "A plugin to manage extending/retracting engine nozzles [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Nertea (Chris Adderley)",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/DeployableEngines/releases/download/1.3.1/DeployableEngines_1_3_1.zip?auth_key=1748275917-fae3393f6d84407190e7f1559475b807-0-058b933ad64310a732934242cf584c14&size=8168&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "68C6832D8DEF9BC301C041E86BE3A5BB769B3470",
+        "sha256": "3E47C135062A8F5F4D95F8514B83B4B3CC985C4BAF48177EEC378EA83280F375"
+    },
+    "download_size": 8168,
+    "identifier": "DeployableEngines",
+    "install": [
+        {
+            "find": "DeployableEngines",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 12953,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Deployable Engines Plugin [PRO-KCMIRROR]",
+    "release_date": "2021-07-21T19:20:42Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/DeployableEngines/issues",
+        "homepage": "https://github.com/post-kerbin-mining-corporation/DeployableEngines/wiki",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/DeployableEngines/raw/master/CKAN/DeployableEngines.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/DeployableEngines/master/GameData/DeployableEngines/Versioning/DeployableEngines.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/DeployableEngines"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "CryoEngines"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "1.3.1",
+    "x_generated_by": "netkan"
+}

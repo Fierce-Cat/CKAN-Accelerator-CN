@@ -1,0 +1,41 @@
+{
+    "abstract": "Export KSP Flight Data to a CSV file",
+    "author": "kna27",
+    "download": [
+        "https://github.com/kna27/ksp-data-export/releases/download/v0.6/GameData.zip",
+        "https://spacedock.info/mod/2711/KSP%20Data%20Export/download/0.6"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3D3DF6EFDA91E79EDAADCD73CBA0E9A02F917391",
+        "sha256": "79FE85D08FEC615D6615C0CCE1B1017BF5682724826B9FF21C7E32F6AB80132B"
+    },
+    "download_size": 14708,
+    "identifier": "KSP-Data-Export",
+    "install": [
+        {
+            "find": "DataExport",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 31981,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "KSP Data Export",
+    "release_date": "2021-06-28T14:25:45.801451+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/kna27/ksp-data-export/issues",
+        "homepage": "https://github.com/user-attachments/assets/58645219-bdbd-4f5d-8722-afbabfa870b1",
+        "repository": "https://github.com/kna27/ksp-data-export",
+        "spacedock": "https://spacedock.info/mod/2711/KSP%20Data%20Export"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "app",
+        "information"
+    ],
+    "version": "0.6",
+    "x_generated_by": "netkan"
+}

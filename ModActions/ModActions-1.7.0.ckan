@@ -1,0 +1,49 @@
+{
+    "abstract": "Add mouse only actions from right-click menu to action groups, including resource locking and cross-feeding. Supports both stock and other mod's actions. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Diazo",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/ModActions/releases/download/1.7.0/ModActions-1.8.0-1.7.0.zip?auth_key=1748275916-449505f23755457f8adaef456e2a3ae8-0-35e289140c90ed4df64026a0ee8a0751&size=63576&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7AE658ADB79DF1BA8187E92BC1310A07EBF9BEC9",
+        "sha256": "1578F41CFDFF88B41927608A739FD4BC31CC02BADDD0C5695110F19B8AE8737E"
+    },
+    "download_size": 63576,
+    "identifier": "ModActions",
+    "install": [
+        {
+            "file": "GameData/ModActions",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "ModActions [PRO-KCMIRROR]",
+    "release_date": "2020-02-25T01:38:53Z",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191914-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/ScienceAlert",
+        "repository": "https://github.com/linuxgurugamer/ModActions"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1.7.0",
+    "x_generated_by": "netkan"
+}

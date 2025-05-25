@@ -1,0 +1,55 @@
+{
+    "abstract": "A set of expanding plume effects and basic configs that can be attached to any engine as appropriate.  Requires SmokeScreen and secondary configs to function correctly. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Zorg",
+        "Blowfish",
+        "Felger"
+    ],
+    "conflicts": [
+        {
+            "name": "HotRockets"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "RealPlumeConfigs"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RealPlume/releases/download/v13.0.0/RealPlume_v13.0.0.zip?auth_key=1748275914-1f8abbe817f64a2198b2f6146177b653-0-ab432458925931ac9d468a70dc7d49c7&size=43013984&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7702F474710E40E988B9F5E2B9A8DC71EE860828",
+        "sha256": "75267EB58495A1F233DD770DAD69A19687202A597F7153101A63150A7AACF59C"
+    },
+    "download_size": 43013984,
+    "identifier": "RealPlume",
+    "install": [
+        {
+            "find": "RealPlume",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.1",
+    "license": "CC-BY-NC-SA",
+    "name": "Real Plume [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "EngineLighting"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://github.com/KSP-RO/RealPlume/wiki",
+        "repository": "https://github.com/KSP-RO/RealPlume"
+    },
+    "spec_version": "v1.4",
+    "version": "2:v13.0.0",
+    "x_generated_by": "netkan"
+}

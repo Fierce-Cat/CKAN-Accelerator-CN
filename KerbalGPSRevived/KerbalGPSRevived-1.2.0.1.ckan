@@ -1,0 +1,57 @@
+{
+    "abstract": "Adds support for GPS satelites",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1949/KerbalGPS%20Revived/download/1.2.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BC09388C732B17A516C3B00100C98B29287AB31E",
+        "sha256": "84808DEE4496DD41F86C36B1DD85CF1D7A50CE0611142B63D464CF3CEC49A7A9"
+    },
+    "download_size": 439314,
+    "identifier": "KerbalGPSRevived",
+    "install": [
+        {
+            "find": "KerbalGPS",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Kerbal GPS",
+    "recommends": [
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "release_date": "2020-01-26T02:23:49.328698+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177511-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/KerbalGPS",
+        "repository": "https://github.com/linuxgurugamer/KerbalGPS",
+        "spacedock": "https://spacedock.info/mod/1949/KerbalGPS%20Revived",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/KerbalGPS_Revived/KerbalGPS_Revived-1596931697.0786252.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts",
+        "uncrewed"
+    ],
+    "version": "1.2.0.1",
+    "x_generated_by": "netkan"
+}

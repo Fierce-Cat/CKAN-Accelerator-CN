@@ -1,0 +1,68 @@
+{
+    "abstract": "This is the full KW Rocketry with the tanks rebalanced to better values",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "KWRocketry"
+        },
+        {
+            "name": "KWRocketryRedux"
+        },
+        {
+            "name": "KWRocketry-CommunityFixes"
+        },
+        {
+            "name": "KWRocketry-CommunityFixes-interstage"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1497/KW%20Rocketry%20Rebalanced/download/3.2.7.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F7455C5B274CADF3FC6DE409CD4ACC48ED02D0D4",
+        "sha256": "FF9400AD55D49A9A15029B181D1370BA82E4B0EFD0EE949D8810E715ED970102"
+    },
+    "download_size": 50437874,
+    "identifier": "KWRocketryRebalanced",
+    "install": [
+        {
+            "find": "GameData/KWRocketry",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 130838485,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-SA-3.0",
+    "name": "KW Rocketry Rebalanced",
+    "recommends": [
+        {
+            "name": "SimpleAdjustableFairings-KWRocketry"
+        },
+        {
+            "name": "Patchmanager"
+        },
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "release_date": "2021-02-06T02:01:42.238556+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/KWRocketryRedux/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164554-12-kw-rocketry-rebalanced/",
+        "remote-avc": "http://ksp.spacetux.net/avc/KWRocketryRebalanced",
+        "repository": "https://github.com/linuxgurugamer/KWRocketryRedux",
+        "spacedock": "https://spacedock.info/mod/1497/KW%20Rocketry%20Rebalanced",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/KW_Rocketry_Rebalanced/KW_Rocketry_Rebalanced-1503056237.241356.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "3.2.7.2",
+    "x_generated_by": "netkan"
+}

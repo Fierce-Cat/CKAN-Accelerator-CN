@@ -1,0 +1,70 @@
+{
+    "abstract": "Photon Sailor aims to create a realistic photon-sailing experience in KSP. A photonsail, also known as solar sail or laser sail, allows a spacecraft to propel itself using radiation pressure from the sun, removing the need to carry any reaction mass, and simply using the deflection of photon energy to provide thrust. ",
+    "author": "FreeThinker",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1895/Photon%20Sailor/download/1.7.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "804BB73CB391C8AC312518CAAEF84DB458373DD3",
+        "sha256": "05287AFD4C0C8F60332F87B7ADEA70E388B71C55FBE7F22E23EF2A16BCD4DEA4"
+    },
+    "download_size": 7705993,
+    "identifier": "PhotonSailor",
+    "install": [
+        {
+            "find": "PhotonSail",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.2",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-3.0",
+    "localizations": [
+        "en-us",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Photon Sailor",
+    "recommends": [
+        {
+            "name": "PersistentRotation"
+        },
+        {
+            "min_version": "1.19.3",
+            "name": "KSPInterstellarExtended"
+        },
+        {
+            "name": "SolarSailNavigator"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "min_version": "1:3.3.2",
+            "name": "CommunityTechTree"
+        }
+    ],
+    "release_date": "2021-03-25T16:54:26.942628+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/176144-*",
+        "remote-avc": "https://raw.githubusercontent.com/sswelm/KSP-Interstellar-Extended/master/GameData/PhotonSail/Plugins/PhotonSailor.version",
+        "repository": "https://github.com/sswelm/KSP-Interstellar-Extended",
+        "spacedock": "https://spacedock.info/mod/1895/Photon%20Sailor",
+        "x_screenshot": "https://spacedock.info/content/FreeThinker_517/Photon_Sailor/Photon_Sailor-1531575477.7373607.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts",
+        "physics"
+    ],
+    "version": "1.7.1",
+    "x_generated_by": "netkan"
+}

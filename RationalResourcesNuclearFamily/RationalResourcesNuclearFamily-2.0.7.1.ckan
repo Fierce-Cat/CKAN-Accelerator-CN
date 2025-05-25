@@ -1,0 +1,66 @@
+{
+    "abstract": "Enables fuel switching and Kerbalism radioactivity in supported NTRs. Enables supported NTJs to have Kerbalism radioactivity and the features expected of a nuclear reactor",
+    "author": "JadeOfMaar",
+    "conflicts": [
+        {
+            "name": "KerbalAtomics-NTRModSupport"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "ClassicStockResources"
+                },
+                {
+                    "name": "CommunityResourcePack"
+                }
+            ]
+        }
+    ],
+    "download": [
+        "https://github.com/JadeOfMaar/RationalResources/releases/download/2.0.7.1/RationalResources-2.0.7.1.zip",
+        "https://spacedock.info/mod/2201/Rational%20Resources/download/2.0.7.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5875E08BDA0E36FF64375695F7459A2794AA7A61",
+        "sha256": "0C7A4DCA177DE313ABFB237C6EAD37B8FCA5C966BD5E56C5E355982FED526251"
+    },
+    "download_size": 38460628,
+    "identifier": "RationalResourcesNuclearFamily",
+    "install_size": 138901,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Rational Resources Nuclear Family",
+    "release_date": "2024-06-20T17:37:50.591131+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/RationalResources/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184875-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalResources/Version/RationalResources.version",
+        "repository": "https://github.com/JadeOfMaar/RationalResources",
+        "spacedock": "https://spacedock.info/mod/2201/Rational%20Resources",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/Rational_Resources/Rational_Resources-1633389353.6822987.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "RecycledPartsAtomicAge"
+        }
+    ],
+    "tags": [
+        "config",
+        "convenience"
+    ],
+    "version": "2.0.7.1",
+    "x_generated_by": "netkan"
+}

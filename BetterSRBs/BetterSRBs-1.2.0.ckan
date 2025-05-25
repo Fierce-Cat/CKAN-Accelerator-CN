@@ -1,0 +1,42 @@
+{
+    "abstract": "BetterSRBs - a KSP mod. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "OhioBob",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/OhioBob/BetterSRBs/releases/download/1.2.0/BetterSRBs_1.2.0.zip?auth_key=1748275916-6ab5016db09440be93dc518984134602-0-05d79cd29931055fa4fa2483668dd45a&size=2414103&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EBBC184056F80B2360A23958CA4CBC6B87C7AD28",
+        "sha256": "7A4EFEE1D171A928B5EF6C033BF7072F9A9386BCE1002774E37F828CA6E2CE45"
+    },
+    "download_size": 2414103,
+    "identifier": "BetterSRBs",
+    "install": [
+        {
+            "find": "BetterSRBs",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.5.0",
+    "license": "CC-BY-NC-ND",
+    "name": "Better SR Bs [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "SmartParts"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175316-*",
+        "repository": "https://github.com/OhioBob/BetterSRBs"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "1.2.0",
+    "x_generated_by": "netkan"
+}

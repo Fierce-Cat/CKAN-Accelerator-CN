@@ -1,0 +1,44 @@
+{
+    "abstract": "A joint release between Kartoffelkuchen and Raidernick combining our Cygnus and Antares mods. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Raidernick",
+        "Kartoffelkuchen"
+    ],
+    "comment": "Ships are installed by default again",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/Antares-Cygnus/releases/download/v1.6/RN_KK_Antares_Cygnus_v1.6.zip?auth_key=1748275915-7c054bf8b79f4ee3afaec7015ca1a935-0-bf398b5cd3c0df905c534cd06b3bb462&size=12871785&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6B8927239818BA8269EB228F348442F2BEA16686",
+        "sha256": "B673D167E2713F9047E44BC7285AC9A4799C44CD83E91D6F6027FFB19635C984"
+    },
+    "download_size": 12871785,
+    "identifier": "AntaresCygnus",
+    "install": [
+        {
+            "find": "KK_Antares",
+            "install_to": "GameData"
+        },
+        {
+            "find": "RN_Cygnus",
+            "install_to": "GameData"
+        },
+        {
+            "file": "Ships/VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-ND-3.0",
+    "name": "Antares-Cygnus [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/111292-*",
+        "repository": "https://github.com/KSP-RO/Antares-Cygnus"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1:v1.6",
+    "x_generated_by": "netkan"
+}

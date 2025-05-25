@@ -1,0 +1,38 @@
+{
+    "abstract": "A milkyway skybox from Space Engine for Kerbal Space Program.",
+    "author": "Pepepito",
+    "depends": [
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2081/Milkyway%20Skybox%20-%20SpaceEngine/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1DDD376407298F1CC512DF943DFE52F4D17A5E8E",
+        "sha256": "22841BC8CF36C7EAFA3EE378A1FE425CAB53CEBC4F3842696E0226ED8553500A"
+    },
+    "download_size": 28759616,
+    "identifier": "Milkyway-Skybox-SpaceEngine",
+    "install": [
+        {
+            "find": "TextureReplacer",
+            "install_to": "GameData/Milkyway-Skybox-SpaceEngine"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "GPL-2.0",
+    "name": "Milkyway Skybox - SpaceEngine",
+    "release_date": "2019-02-18T23:03:12.294478+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/2081/Milkyway%20Skybox%20-%20SpaceEngine",
+        "x_screenshot": "https://spacedock.info/content/Pepepito_25662/Milkyway_Skybox_-_SpaceEngine/Milkyway_Skybox_-_SpaceEngine-1567957255.6842194.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

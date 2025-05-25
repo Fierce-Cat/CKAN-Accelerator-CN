@@ -1,0 +1,44 @@
+{
+    "abstract": "Makes re-entry much more dangerous [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Starwaster",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Starwaster/DeadlyReentry/releases/download/v7.8.2/DeadlyReentry_v7.8.2.zip?auth_key=1748275917-f52d2ce1d3a349f2896fdc7b3f1e6982-0-47ba8701555732d17c2126a8cf330127&size=1023906&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5A4AD8DD84D48035775069BF9856FBC59731F585",
+        "sha256": "1979621ECAC296A96ABFB24DB0319081F090ABE75687A7B97A09847AD6E52399"
+    },
+    "download_size": 1023906,
+    "identifier": "DeadlyReentry",
+    "install": [
+        {
+            "filter": ".git",
+            "find": "DeadlyReentry",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.99.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-SA",
+    "name": "Deadly Reentry Continued [PRO-KCMIRROR]",
+    "release_date": "2021-08-05T23:51:39Z",
+    "resources": {
+        "bugtracker": "https://github.com/Starwaster/DeadlyReentry/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/50296-*",
+        "remote-avc": "https://raw.githubusercontent.com/Starwaster/DeadlyReentry/master/DeadlyReentry/DeadlyReentry.version",
+        "repository": "https://github.com/Starwaster/DeadlyReentry"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts",
+        "physics",
+        "sound"
+    ],
+    "version": "1:v7.8.2",
+    "x_generated_by": "netkan"
+}

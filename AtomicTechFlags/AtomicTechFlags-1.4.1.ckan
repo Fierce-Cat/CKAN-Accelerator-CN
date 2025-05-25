@@ -1,0 +1,34 @@
+{
+    "abstract": "AtomicTech Inc. Flag Pack",
+    "author": "AtomicTech",
+    "download": "https://spacedock.info/mod/2763/The%20Flags%20of%20AtomicTech%20and%20Friends!/download/1.4.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "60FC91E3E9E435A7B1AC0C79F362B0D5C513F741",
+        "sha256": "ECA8EF5EE11AD3F3A9F9BFDB00C5842FC7A2D0CAF12C877775BAB5D6621FF643"
+    },
+    "download_size": 2668857,
+    "identifier": "AtomicTechFlags",
+    "install": [
+        {
+            "find_regexp": "\\.jpg$",
+            "install_to": "GameData/AtomicTech/Flags"
+        }
+    ],
+    "install_size": 1900642,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "The Flags of AtomicTech and Friends!",
+    "release_date": "2021-11-10T16:16:11.771348+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/202723-the-flags-of-atomictech/",
+        "spacedock": "https://spacedock.info/mod/2763/The%20Flags%20of%20AtomicTech%20and%20Friends!",
+        "x_screenshot": "https://spacedock.info/content/AtomicTech_61568/The_Flags_of_AtomicTech_and_Friends/The_Flags_of_AtomicTech_and_Friends-1636730858.jpg"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "flags"
+    ],
+    "version": "1.4.1",
+    "x_generated_by": "netkan"
+}

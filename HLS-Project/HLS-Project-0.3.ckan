@@ -1,0 +1,52 @@
+{
+    "abstract": "this mod adds the moon version of space x starship",
+    "author": "Alfeda123",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3245/HLS%20project/download/0.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FDBF1F092530BA0965576BE34DB6AFB6F7BE9514",
+        "sha256": "DB7D4337C540BC57B5EDBC612AEE7232C910F98F42D43C5C179E4F1E0DD7F5B9"
+    },
+    "download_size": 25589960,
+    "identifier": "HLS-Project",
+    "install": [
+        {
+            "find": "HLS project",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 29454698,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-SA",
+    "name": "HLS project",
+    "recommends": [
+        {
+            "name": "StarshipExpansionProject"
+        }
+    ],
+    "release_date": "2023-02-13T19:18:54.106944+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3245/HLS%20project",
+        "x_screenshot": "https://spacedock.info/content/Alfeda123_102660/HLS_project/HLS_project-1676315984.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts",
+        "crewed",
+        "graphics"
+    ],
+    "version": "0.3",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

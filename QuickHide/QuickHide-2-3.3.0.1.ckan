@@ -1,0 +1,49 @@
+{
+    "abstract": "Adds the possibility to hide the stock toolbar and the mods of the stock toolbar.",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/106/QuickHide/download/3.3.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0B210C3FFA1FD4E34C7DFCD12C0499610C11E0AC",
+        "sha256": "504EA1985EE75C7C85ACA2026B4F3FAAFDA550FDA89BF511BA9E937BCADCF829"
+    },
+    "download_size": 45469,
+    "identifier": "QuickHide",
+    "install": [
+        {
+            "file": "GameData/QuickMods/QuickHide",
+            "install_to": "GameData/QuickMods"
+        }
+    ],
+    "ksp_version": "1.8.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "fr-fr"
+    ],
+    "name": "QuickHide",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/106/QuickHide"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "version": "2:3.3.0.1",
+    "x_generated_by": "netkan"
+}

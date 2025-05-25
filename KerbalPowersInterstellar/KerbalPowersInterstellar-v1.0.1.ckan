@@ -1,0 +1,54 @@
+{
+    "abstract": "Efficient stockalike parts for interstellar travel with minimal changes to the vanilla experience.",
+    "author": [
+        "Spartwo",
+        "MiffedStarfish"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3821/Kerbal%20Powers%20Interstellar/download/v1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "57249AECF3E8310C87F319F95AAAB724DDBEF404",
+        "sha256": "76C0D3C012D6B03DB31678163CA652360BF216CD972EB3C1DC2AD54EB65F80AF"
+    },
+    "download_size": 18139841,
+    "identifier": "KerbalPowersInterstellar",
+    "install": [
+        {
+            "find": "KerbalPowers",
+            "install_to": "GameData"
+        },
+        {
+            "find": "TURD",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 78788743,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Kerbal Powers Interstellar",
+    "release_date": "2025-02-12T04:26:57.691703+00:00",
+    "resources": {
+        "discussions": "https://github.com/KerbalPowers/KP-Dynamics/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/226866-112x-kerbal-powers-interstellar-v10/",
+        "repository": "https://github.com/KerbalPowers/KP-Dynamics",
+        "spacedock": "https://spacedock.info/mod/3821/Kerbal%20Powers%20Interstellar",
+        "x_screenshot": "https://spacedock.info/content/Spartwo_95463/Kerbal_Powers_Interstellar/Kerbal_Powers_Interstellar-1739416153.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "v1.0.1",
+    "x_generated_by": "netkan"
+}

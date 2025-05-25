@@ -1,0 +1,49 @@
+{
+    "abstract": "Shangsheng Orbital is a rocket based on Linkspace's Newline-1 rocket.",
+    "author": "damon",
+    "depends": [
+        {
+            "name": "SpaceXLegs"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2209/Shangsheng%20Orbital/download/v0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7DB6AE1F0B41DF5EBB2CF1FFF55D8C2120A6E566",
+        "sha256": "B6F9BF21D9AF3596296A9BF1D6DC5D494308923D4D35C2C1D4F72430639A0C6F"
+    },
+    "download_size": 6345406,
+    "identifier": "ShangshengOrbital",
+    "install": [
+        {
+            "find": "ShangshengOrbital",
+            "install_to": "GameData"
+        },
+        {
+            "find": "VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.6.1",
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "Shangsheng Orbital",
+    "recommends": [
+        {
+            "name": "Smokescreen"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/187254-17x-shangsheng-orbital-v01-stockalike-newline-1-rocket/",
+        "repository": "https://github.com/damonvv/Shangsheng-Orbital",
+        "spacedock": "https://spacedock.info/mod/2209/Shangsheng%20Orbital",
+        "x_screenshot": "https://spacedock.info/content/damon_4180/Shangsheng_Orbital/Shangsheng_Orbital-1566034496.4398758.jpg"
+    },
+    "spec_version": "v1.12",
+    "version": "v0.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

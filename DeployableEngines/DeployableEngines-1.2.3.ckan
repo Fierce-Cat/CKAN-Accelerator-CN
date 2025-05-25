@@ -1,0 +1,45 @@
+{
+    "abstract": "A plugin to manage extending/retracting engine nozzles [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "post-kerbin-automation",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/DeployableEngines/releases/download/1.2.3/DeployableEngines_1_2_3.zip?auth_key=1748275917-f433200080d14254bcd7c7f2ab67305a-0-858de314c9e8ba65e9edafb75e6bbb18&size=7825&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4FC9D07E06814C67BA67C59BFA74E7B0BD2BEE6F",
+        "sha256": "1295982641CDE3D2CC6916446250253E86D2A034B397FE0CE11AD55097746206"
+    },
+    "download_size": 7825,
+    "identifier": "DeployableEngines",
+    "install": [
+        {
+            "find": "DeployableEngines",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Deployable Engines Plugin [PRO-KCMIRROR]",
+    "release_date": "2020-12-21T15:41:01Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/DeployableEngines/issues",
+        "homepage": "https://github.com/post-kerbin-mining-corporation/DeployableEngines/wiki",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/DeployableEngines/raw/master/CKAN/DeployableEngines.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/DeployableEngines/master/GameData/DeployableEngines/Versioning/DeployableEngines.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/DeployableEngines"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "CryoEngines"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "1.2.3",
+    "x_generated_by": "netkan"
+}

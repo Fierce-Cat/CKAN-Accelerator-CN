@@ -1,0 +1,54 @@
+{
+    "abstract": "Keeps OPT Spaceplane Parts useful and relevant, and makes the engines less crazy OP",
+    "author": "JadeOfMaar",
+    "conflicts": [
+        {
+            "name": "OPTWBIintegrationpatch"
+        },
+        {
+            "name": "OPTUSILifeSupportPatch"
+        }
+    ],
+    "depends": [
+        {
+            "name": "OPTSpacePlaneParts"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1808/OPT%20Reconfig/download/1.9.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "702A50BC3F8ECC8933F450F67FE1B35D883C86DC",
+        "sha256": "0EFDB87B2FDB7F76089213A3847ACF7FC80003358DC53D30E482EE3BCA9318D6"
+    },
+    "download_size": 2576211,
+    "identifier": "OPTReconfig",
+    "install": [
+        {
+            "find": "OPT_Reconfig",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.1",
+    "license": "MIT",
+    "name": "OPT Reconfig",
+    "recommends": [
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173833-*",
+        "spacedock": "https://spacedock.info/mod/1808/OPT%20Reconfig",
+        "x_screenshot": "https://spacedock.info/content/JadeOfMaar_11026/OPT_Reconfig/OPT_Reconfig-1523578946.859941.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "1.9.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

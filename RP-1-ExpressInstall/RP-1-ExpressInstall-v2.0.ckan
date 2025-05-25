@@ -1,0 +1,216 @@
+{
+    "abstract": "Express Installation for RP-1, RO, Real Solar System etc. Select only this mod and hit apply, CKAN will guide you through the rest. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "KSP-RO Group",
+    "conflicts": [
+        {
+            "name": "SmokeScreen-RO"
+        },
+        {
+            "name": "CustomBarnKit-RO"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "StageRecovery"
+        },
+        {
+            "max_version": "1.1.9.4",
+            "name": "KerbalEngineerRedux"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPCommunityFixes",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPBurst-Full",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ReStock",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ReStockPlus",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RSSDateTimeFormatter",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ROEngines",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ROHeatshields",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ROTanks",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ROCapsules",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ROSolar",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "B9-PWings-Fork",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPWheel",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalRenamer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSCSwitcher",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "AtmosphereAutopilot",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ProceduralFairings",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ProceduralParts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RCSBuildAid",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RealAntennas",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TestFlight",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TextureReplacer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "MechJeb2",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Waterfall",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HangerExtenderExtended",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ModularLaunchPads",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ConformalDecals",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Shabby",
+            "suppress_recommendations": true
+        },
+        {
+            "choice_help_text": "Select your graphics level. Low graphics will function on 8GB of RAM and requires the least powerful computer. Medium graphics looks better, but needs 16GB of RAM and a GTX 970/R9 390 or better. High graphics is best with 24GB+ (but might function on 16GB) and needs more modern graphics hardware (GTX 1070+/RX 5600+).",
+            "name": "RP-1-ExpressInstall-Graphics"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "RP-1"
+                },
+                {
+                    "name": "RONoCareer"
+                }
+            ],
+            "choice_help_text": "RO does not support career mode itself. If you want to play career, select RP-1. Otherwise choose No Career."
+        },
+        {
+            "name": "RealSolarSystem",
+            "suppress_recommendations": true
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RP-1-ExpressInstall/releases/download/v2.0/RP-1-ExpressInstall.zip?auth_key=1748275914-8328d571bad44f34a83c40b925d5bfb5-0-467b0c892be8fe6a9f643c2bfbb59293&size=1162&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "18A83538E27627106C8E636D518BF7B9E2A2DE9C",
+        "sha256": "583DA05F9AFEB8822D3D735EB62FC84A278922DEFEB1413AB9594A49D43A9BD9"
+    },
+    "download_size": 1162,
+    "identifier": "RP-1-ExpressInstall",
+    "install_size": 940,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.10.1",
+    "license": "CC-BY-NC-SA",
+    "name": "Express Install Realism Overhaul/Realistic Progression 1 (RO/RP-1) [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ROLoadingImages"
+        },
+        {
+            "name": "EditorExtensionsRedux"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "TransferWindowPlannerFork"
+        },
+        {
+            "name": "LunarTransferPlanner"
+        },
+        {
+            "name": "KerbalFoundriesContinued"
+        }
+    ],
+    "release_date": "2023-06-06T05:11:16Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/RP-0/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*",
+        "manual": "https://github.com/KSP-RO/RP-0/wiki",
+        "metanetkan": "https://github.com/KSP-RO/RP-1-ExpressInstall/raw/main/RP-1-ExpressInstall.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/RP-1-ExpressInstall/main/GameData/RP-1-ExpressInstall/RP-1-ExpressInstall.version",
+        "repository": "https://github.com/KSP-RO/RP-0"
+    },
+    "spec_version": "v1.31",
+    "supports": [
+        {
+            "min_version": "1.1.9.5",
+            "name": "KerbalEngineerRedux"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "config",
+        "parts",
+        "career",
+        "science",
+        "planet-pack",
+        "resources",
+        "graphics"
+    ],
+    "version": "v2.0",
+    "x_generated_by": "netkan"
+}

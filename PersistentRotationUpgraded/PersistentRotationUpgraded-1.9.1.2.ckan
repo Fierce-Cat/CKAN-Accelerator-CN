@@ -1,0 +1,56 @@
+{
+    "abstract": "Momentum and Rotation in KSP are quite unrealistic.  This mod will maintain rotation through timewarping and changing vessels, etc.",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "PersistentRotation"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2660/PersistentRotation%20Upgraded/download/1.9.1.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8274475ABCDA71F383B06A1A6BABA35BA1D47B2D",
+        "sha256": "B2D951E3E8FFB613493C9AB49C7BCB6EAB217B5C78B205D88F0F6D9AF81F6165"
+    },
+    "download_size": 53723,
+    "identifier": "PersistentRotationUpgraded",
+    "install": [
+        {
+            "file": "GameData/PersistentRotation",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "PersistentRotation Upgraded",
+    "release_date": "2021-04-20T12:22:20.573369+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201121-19x",
+        "remote-avc": "http://ksp.spacetux.net/avc/PersistentRotationUpgraded",
+        "repository": "https://github.com/linuxgurugamer/PersistentRotation",
+        "spacedock": "https://spacedock.info/mod/2660/PersistentRotation%20Upgraded",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/PersistentRotation_Upgraded/PersistentRotation_Upgraded-1616212727.442817.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "1.9.1.2",
+    "x_generated_by": "netkan"
+}

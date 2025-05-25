@@ -1,0 +1,51 @@
+{
+    "abstract": "Atmospheric scattering shaders",
+    "author": "blackrack",
+    "conflicts": [
+        {
+            "name": "Scatterer"
+        }
+    ],
+    "depends": [
+        {
+            "name": "Scatterer-sunflare"
+        },
+        {
+            "name": "Scatterer-config"
+        }
+    ],
+    "download": "https://spacedock.info/mod/141/scatterer/download/0.0770",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8D350C9D5DCA22587B19512D317C2EAF23A19975",
+        "sha256": "BD186442F3FAEDEC56C3CA2F66D789BB7915AF5BD167A21FEB9D8444477AA6A3"
+    },
+    "download_size": 54141326,
+    "identifier": "Scatterer",
+    "install": [
+        {
+            "filter_regexp": "config\\/.*",
+            "find": "scatterer",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.2",
+    "ksp_version_min": "1.9",
+    "license": "GPL-3.0",
+    "name": "scatterer",
+    "release_date": "2021-05-17T09:08:38.879006+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/LGhassen/Scatterer/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip-scatterer-atmospheric-scattering",
+        "repository": "https://github.com/LGhassen/Scatterer",
+        "spacedock": "https://spacedock.info/mod/141/scatterer",
+        "x_screenshot": "https://spacedock.info/content/blackrack_378/scatterer/scatterer-1456285817.4561393.jpg"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "graphics",
+        "plugin"
+    ],
+    "version": "3:v0.0770",
+    "x_generated_by": "netkan"
+}

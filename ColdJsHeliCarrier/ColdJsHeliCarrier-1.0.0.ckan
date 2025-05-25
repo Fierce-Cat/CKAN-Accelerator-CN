@@ -1,0 +1,47 @@
+{
+    "abstract": "An aircraft carrier that can fly.",
+    "author": "ColdJ",
+    "download": "https://spacedock.info/mod/3652/ColdJ's%20HeliCarrier/download/1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4D229B06AAEADBD19F85FF1D342AE456A1F375A1",
+        "sha256": "3B356353D7861890399D7104F0D8F50B4C8FD1280B62780CCAC584009E0F0B87"
+    },
+    "download_size": 10352242,
+    "identifier": "ColdJsHeliCarrier",
+    "install": [
+        {
+            "find": "HeliCar",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 23429823,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-SA-4.0",
+    "name": "ColdJ's HeliCarrier",
+    "release_date": "2024-07-06T14:59:56.918096+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/225349-coldjs-helicarrier/",
+        "spacedock": "https://spacedock.info/mod/3652/ColdJ's%20HeliCarrier",
+        "x_screenshot": "https://spacedock.info/content/ColdJ_60612/ColdJs_HeliCarrier/ColdJs_HeliCarrier-1720278178.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "AircraftCarrierAccessories"
+        },
+        {
+            "name": "WASDCameraEditor"
+        },
+        {
+            "name": "PhysicsRangeExtender"
+        }
+    ],
+    "tags": [
+        "crewed",
+        "first-person",
+        "parts"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

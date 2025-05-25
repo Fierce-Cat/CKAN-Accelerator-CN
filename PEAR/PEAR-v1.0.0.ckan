@@ -1,0 +1,40 @@
+{
+    "abstract": "A mod that extends and retracts all extendable items with a single click",
+    "author": "FruitGooseKSP",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2667/Programmatic%20Extension%20And%20Retraction%20%28PEAR%29/download/v1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "031C52103A06FA2D81E1037DDFA3FF8A454578AF",
+        "sha256": "9EA757D6C3628AC140BAB04F43E12105E2E2705DBD61CC5735A0BF508B2141D1"
+    },
+    "download_size": 8205,
+    "identifier": "PEAR",
+    "install": [
+        {
+            "find": "FruitKocktail",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.11.2",
+    "license": "MIT",
+    "name": "Programmatic Extension And Retraction (PEAR)",
+    "release_date": "2021-03-25T12:07:30.295506+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201227-1112-fruitkocktail-a-collection-of-mini-life-improvement-mods-with-fruit-based-acronyms-as-names/",
+        "repository": "https://github.com/FruitGooseKSP/ProgramaticExtensionAndRetraction",
+        "spacedock": "https://spacedock.info/mod/2667/Programmatic%20Extension%20And%20Retraction%20(PEAR)",
+        "x_screenshot": "https://spacedock.info/content/FruitGooseKSP_58074/Programmatic_Extension_And_Retraction_PEAR/Programmatic_Extension_And_Retraction_PEAR-1617379958.8779788.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "v1.0.0",
+    "x_generated_by": "netkan"
+}

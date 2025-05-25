@@ -1,0 +1,47 @@
+{
+    "abstract": "A collection of 52 modular parts designed to allow for greater flexibility in craft configuration.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1396/Fuel%20Tank%20Expansion%20Rebuilt/download/0.9.6.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B4C8CE13767CF7E0C99E5EE3ACA9068BA6BA85AA",
+        "sha256": "1282DA35F77D21B4BEDC183B13CC68B6804F87B02FF64202E556C0F1AF7A7E20"
+    },
+    "download_size": 9361018,
+    "identifier": "MunarIndustriesFTX",
+    "install": [
+        {
+            "find": "MunarIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.2",
+    "ksp_version_min": "1.3.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Fuel Tank Expansion Rebuilt",
+    "recommends": [
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/161093-12-13-beta-release-munar-industries-modular-fuel-tank-expansion-rebuilt/",
+        "repository": "https://github.com/linuxgurugamer/ModularFuelTankExpansion",
+        "spacedock": "https://spacedock.info/mod/1396/Fuel%20Tank%20Expansion%20Rebuilt",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Fuel_Tank_Expansion_Rebuilt/Fuel_Tank_Expansion_Rebuilt-1496318657.181578.jpg"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "version": "0.9.6.4",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

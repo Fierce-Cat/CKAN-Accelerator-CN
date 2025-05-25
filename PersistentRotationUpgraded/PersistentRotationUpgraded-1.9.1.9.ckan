@@ -1,0 +1,64 @@
+{
+    "abstract": "Momentum and Rotation in KSP are quite unrealistic.  This mod will maintain rotation through timewarping and changing vessels, etc.",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "PersistentRotation"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2660/PersistentRotation%20Upgraded/download/1.9.1.9",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EC1DA8F5E464901B281EA5B287CD795C3BD5FE4C",
+        "sha256": "532F8FD2D97C0C4C61FAD35BB5C36E1B764BC240C1935420B9F3C6A8944B7286"
+    },
+    "download_size": 33473,
+    "identifier": "PersistentRotationUpgraded",
+    "install": [
+        {
+            "file": "GameData/PersistentRotation",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 62909,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "zh-cn"
+    ],
+    "name": "PersistentRotation Upgraded",
+    "provides": [
+        "PersistentRotation"
+    ],
+    "release_date": "2024-01-01T14:06:47.065866+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201121-19x",
+        "remote-avc": "http://ksp.spacetux.net/avc/PersistentRotationUpgraded",
+        "repository": "https://github.com/linuxgurugamer/PersistentRotation",
+        "spacedock": "https://spacedock.info/mod/2660/PersistentRotation%20Upgraded",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/PersistentRotation_Upgraded/PersistentRotation_Upgraded-1616212727.442817.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "1.9.1.9",
+    "x_generated_by": "netkan"
+}

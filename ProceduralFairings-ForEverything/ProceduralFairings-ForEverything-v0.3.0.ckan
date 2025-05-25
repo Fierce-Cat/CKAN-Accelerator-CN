@@ -1,0 +1,53 @@
+{
+    "abstract": "Add those awesome Procedural Fairings to everything with a fairing! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Felger",
+        "NathanKell",
+        "Pap1723"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ProceduralFairings"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/ProceduralFairings-ForEverything/releases/download/v0.3.0/ProceduralFairings-ForEverything_v0.3.0.zip?auth_key=1748275915-62018585ab2a4e1d9292a0a921e0ad5f-0-4611a5e8d37a20603c1fd96c5dce994b&size=5152112&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A9E935957668A5B99FAD98D5A7B9BB93A2A76AF0",
+        "sha256": "F07ED402E4122BDB755CB3EA75307AF8B75427F919358B1682C8C68CE2C9883E"
+    },
+    "download_size": 5152112,
+    "identifier": "ProceduralFairings-ForEverything",
+    "install": [
+        {
+            "file": "GameData/ProceduralFairings-ForEverything",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 39374295,
+    "ksp_version_max": "1.11",
+    "ksp_version_min": "1.4.0",
+    "license": "CC-BY-SA",
+    "name": "Procedural Fairings - For Everything! [PRO-KCMIRROR]",
+    "provides": [
+        "PFTextures"
+    ],
+    "release_date": "2019-05-02T18:05:10Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/ProceduralFairings-ForEverything/issues",
+        "homepage": "https://github.com/KSP-RO/ProceduralFairings-ForEverything",
+        "metanetkan": "https://raw.githubusercontent.com/KSP-RO/ProceduralFairings-ForEverything/master/ProceduralFairings-ForEverything.netkan",
+        "remote-avc": "https://github.com/KSP-RO/ProceduralFairings-ForEverything/raw/master/GameData/ProceduralFairings-ForEverything/ProceduralFairings-ForEverything.version",
+        "repository": "https://github.com/KSP-RO/ProceduralFairings-ForEverything"
+    },
+    "spec_version": 1,
+    "tags": [
+        "parts"
+    ],
+    "version": "v0.3.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,90 @@
+{
+    "abstract": "Get out of your seat in IVA and float around your ship",
+    "author": [
+        "pizzaoverhead",
+        "Icecovery",
+        "JonnyOThan"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3151/FreeIva/download/0.2.7.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F87119E286EC2C3145EEF07A934AE79F4FE0A800",
+        "sha256": "FA5A604FDFD5BE87FC750652B1F718F8C548CC6701750612FA01BD4CFE527F0A"
+    },
+    "download_size": 16960789,
+    "identifier": "FreeIva",
+    "install_size": 22639864,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-2.0",
+    "name": "FreeIva",
+    "recommends": [
+        {
+            "name": "ThroughTheEyesOfaKerbal"
+        },
+        {
+            "name": "Reviva"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "release_date": "2023-02-02T00:40:04.262421+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/pizzaoverhead/FreeIva/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/210548-112-freeiva/",
+        "remote-avc": "https://github.com/pizzaoverhead/FreeIva/raw/main/GameData/FreeIva/FreeIva.version",
+        "repository": "https://github.com/pizzaoverhead/FreeIva",
+        "spacedock": "https://spacedock.info/mod/3151/FreeIva",
+        "x_screenshot": "https://spacedock.info/content/JonnyOThan_33590/FreeIva/FreeIva-1668095034.png"
+    },
+    "spec_version": "v1.18",
+    "suggests": [
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "DE-IVAExtension"
+        },
+        {
+            "name": "AvionicsSystems"
+        }
+    ],
+    "supports": [
+        {
+            "name": "PlanetsideExplorationTechnologies"
+        },
+        {
+            "name": "StationPartsExpansionRedux-IVAs"
+        },
+        {
+            "name": "Buffalo2"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "Kerbalism-Config-Default"
+        },
+        {
+            "name": "Mk2Expansion"
+        },
+        {
+            "name": "Mk3Expansion"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "0.2.7.0",
+    "x_generated_by": "netkan"
+}

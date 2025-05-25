@@ -1,0 +1,56 @@
+{
+    "abstract": "A stockalike Vulcan Centaur mod with a plethora of paintjobs",
+    "author": "NoLifeJordan",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "StockWaterfallEffects"
+        },
+        {
+            "name": "SimpleAdjustableFairings"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3574/BREAD%20-%20Bruno's%20Rocket%20Emporium%20And%20Designs/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "516A339B91581FB600A9D9CE4D731CEAED26EB36",
+        "sha256": "CB9C50B6E3219AF03ACA90E2D2F75B1A6F5B75DCFEC70401A693371BFF65AF5A"
+    },
+    "download_size": 24034682,
+    "identifier": "BrunosRocketEmporiumAndDesigns",
+    "install": [
+        {
+            "find": "BREAD",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 49495421,
+    "ksp_version": "1.12.5",
+    "license": "unknown",
+    "name": "BREAD - Bruno's Rocket Emporium And Designs",
+    "release_date": "2024-03-09T01:16:00.850982+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/nolifejordan/BREAD/issues",
+        "repository": "https://github.com/nolifejordan/BREAD",
+        "spacedock": "https://spacedock.info/mod/3574/BREAD%20-%20Bruno's%20Rocket%20Emporium%20And%20Designs",
+        "x_screenshot": "https://spacedock.info/content/NoLifeJordan_85082/BREAD_-_Brunos_Rocket_Emporium_And_Designs/BREAD_-_Brunos_Rocket_Emporium_And_Designs-1709681580.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "graphics",
+        "parts"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

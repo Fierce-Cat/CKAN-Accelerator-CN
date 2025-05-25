@@ -1,0 +1,59 @@
+{
+    "abstract": "Increases the number of action groups to 250 and allows in-flight editing.",
+    "author": [
+        "Diazo",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1685/Action%20Groups%20Extended/download/2.3.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D87220923D8EF2AE47EE16DAA9F43B20560CCFBC",
+        "sha256": "1B92F9B2033F0F963B969ABBDBAFC58F8C694F57B01D46A4A9CF7661057289F4"
+    },
+    "download_size": 132036,
+    "identifier": "AGExt",
+    "install": [
+        {
+            "file": "GameData/Diazo",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.3",
+    "ksp_version_min": "1.7.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "jp",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Action Groups Extended",
+    "recommends": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167269-1",
+        "repository": "https://github.com/linuxgurugamer/AGExt",
+        "spacedock": "https://spacedock.info/mod/1685/Action%20Groups%20Extended",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Action_Groups_Extended/Action_Groups_Extended-1517453673.540609.jpg"
+    },
+    "spec_version": 1,
+    "version": "1:2.3.5",
+    "x_generated_by": "netkan"
+}

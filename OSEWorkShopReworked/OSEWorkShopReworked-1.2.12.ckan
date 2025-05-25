@@ -1,0 +1,57 @@
+{
+    "abstract": "A set of parts that enable you to make new parts in flight, recycle old parts, and convert ore",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "Workshop"
+        },
+        {
+            "name": "OSEWorkShopCont"
+        }
+    ],
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2086/OSE%20Workshop%20Reworked/download/1.2.12",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0D14FD6FDDA712E81F210F8277C2806E3A8DFA4C",
+        "sha256": "B99424E8D549CB2DED37C9B6D4ADCF8087BCBAED2CB74527AF4EA525D8E7DAF8"
+    },
+    "download_size": 5780804,
+    "identifier": "OSEWorkShopReworked",
+    "install": [
+        {
+            "find": "Workshop",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.3",
+    "ksp_version_min": "1.7.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "OSE Workshop Reworked",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182425-161-ose-workshop-reworked/",
+        "repository": "https://github.com/linuxgurugamer/Workshop",
+        "spacedock": "https://spacedock.info/mod/2086/OSE%20Workshop%20Reworked",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/OSE_Workshop_Reworked/OSE_Workshop_Reworked-1551017415.9841497.jpg"
+    },
+    "spec_version": "v1.4",
+    "version": "1.2.12",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

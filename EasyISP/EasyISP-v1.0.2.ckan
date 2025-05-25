@@ -1,0 +1,43 @@
+{
+    "abstract": "Increase the specific impulse (ISP) of all engines",
+    "author": "Tempus-superest",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://api.github.com/repos/Tempus-superest/EasyISP/zipball/v1.0.2",
+    "download_content_type": "application/vnd.github+json",
+    "download_hash": {
+        "sha1": "618A6290CDADD521485AF46BCE65BB428F382612",
+        "sha256": "0D8767E8A1C4A889F6C66CF5D1590C0BB87C48FFDA8DEC37C22E4C401BC68A4F"
+    },
+    "download_size": 3255,
+    "identifier": "EasyISP",
+    "install": [
+        {
+            "as": "EasyISP",
+            "find_regexp": ".*EasyISP.*",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 4528,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.0.1",
+    "license": "Unlicense",
+    "name": "Easy ISP",
+    "release_date": "2025-02-26T12:47:53Z",
+    "resources": {
+        "bugtracker": "https://github.com/Tempus-superest/EasyISP/issues",
+        "remote-avc": "https://raw.githubusercontent.com/Tempus-superest/EasyISP/main/EasyISP.version",
+        "repository": "https://github.com/Tempus-superest/EasyISP"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "physics",
+        "convenience",
+        "resources"
+    ],
+    "version": "v1.0.2",
+    "x_generated_by": "netkan"
+}

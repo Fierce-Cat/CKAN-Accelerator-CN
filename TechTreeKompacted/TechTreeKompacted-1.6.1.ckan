@@ -1,0 +1,45 @@
+{
+    "abstract": "A TechTree Layout Mod that aims to shrink compatible tech trees to fit on a single page offering an improved layout.",
+    "author": "Cruesoe",
+    "conflicts": [
+        {
+            "name": "SimplexTechTree"
+        },
+        {
+            "name": "TETRIXTechTree"
+        },
+        {
+            "name": "KiwiTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2600/TechTree%20Kompacted/download/1.6.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9811067086AF3D88BF18D783213297C952989670",
+        "sha256": "91BCB77DD29D376CF3B3C612A90860423DECA04051A0ECB11B452D585679897B"
+    },
+    "download_size": 26632,
+    "identifier": "TechTreeKompacted",
+    "install_size": 101946,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-4.0",
+    "name": "TechTree Kompacted",
+    "release_date": "2022-09-08T16:24:59.564455+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199096-111x-techtree-kompacted-12/",
+        "spacedock": "https://spacedock.info/mod/2600/TechTree%20Kompacted",
+        "x_screenshot": "https://spacedock.info/content/Cruesoe_51729/TechTree_Kompacted/TechTree_Kompacted-1662655937.jpg"
+    },
+    "spec_version": 1,
+    "tags": [
+        "config",
+        "tech-tree"
+    ],
+    "version": "1.6.1",
+    "x_generated_by": "netkan"
+}

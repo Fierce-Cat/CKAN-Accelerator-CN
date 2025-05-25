@@ -1,0 +1,41 @@
+{
+    "abstract": "Common stuff for my mods",
+    "author": "linuxgurugamer",
+    "download": [
+        "https://github.com/linuxgurugamer/SpaceTuxSA/releases/download/0.3.13.1/SpacetuxSA-0.3.13.1.zip",
+        "https://spacedock.info/mod/53/SpacetuxSA/download/0.3.13.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "80290DDAFAC307E7DFC80C3C27148C9D25B5D58C",
+        "sha256": "4FD96F998E0B0034F1472E651687EC238A03F1FB5523E48326289C00CDDBFD36"
+    },
+    "download_size": 151147,
+    "identifier": "SpacetuxSA",
+    "install": [
+        {
+            "find": "SpaceTuxSA",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 161646,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "SpacetuxSA",
+    "release_date": "2020-03-09T05:18:32.530705+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/SpaceTuxSA/issues",
+        "remote-avc": "http://ksp.spacetux.net/avc/SpaceTuxSA",
+        "repository": "https://github.com/linuxgurugamer/SpaceTuxSA",
+        "spacedock": "https://spacedock.info/mod/53/SpacetuxSA",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/SpacetuxSA/SpacetuxSA-1456622159.0065007.jpg"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "library"
+    ],
+    "version": "0.3.13.1",
+    "x_generated_by": "netkan"
+}

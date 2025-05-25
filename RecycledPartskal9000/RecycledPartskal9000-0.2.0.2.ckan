@@ -1,0 +1,49 @@
+{
+    "abstract": "Old mods recycled",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "RecycledPartskal9000"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1507/Recycled%20Parts/download/0.2.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1F977B474D35BDFBEEE4F100482B9893EBD18A33",
+        "sha256": "8736472DC781F5C8AC94906D748402010BC1CA39273FF401E421E8502FDC06C3"
+    },
+    "download_size": 33481264,
+    "identifier": "RecycledPartskal9000",
+    "install": [
+        {
+            "find": "KAL9000",
+            "install_to": "GameData/SpaceTuxIndustries/RecycledParts"
+        }
+    ],
+    "ksp_version_max": "1.11.1",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "de-de",
+        "en-us"
+    ],
+    "name": "Recycled Parts KAL-9000",
+    "release_date": "2021-02-03T21:14:30.456575+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164829-13-spacetux-industries-recycled-parts/",
+        "remote-avc": "http://ksp.spacetux.net/avc/RecycledParts",
+        "repository": "https://github.com/linuxgurugamer/RecycledParts",
+        "spacedock": "https://spacedock.info/mod/1507/Recycled%20Parts"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "0.2.0.2",
+    "x_generated_by": "netkan"
+}

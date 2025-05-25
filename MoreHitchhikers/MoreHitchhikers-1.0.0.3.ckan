@@ -1,0 +1,51 @@
+{
+    "abstract": "adds fourteen stock sizes of Hitchhiker's Storage Containers: from 1.25m (1 crew) to 5m (10 crew).",
+    "author": "zer0Kerbal",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2244/More%20Hitchhikers/download/1.0.0.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4AFAC34AE4F7B0D5AC0A0F0A70646DA10C7B4563",
+        "sha256": "5691863BE4F05EF2E4C55C3C69ED2E1CDBAD04E086AB25C7707C39B1BF144A82"
+    },
+    "download_size": 38542,
+    "identifier": "MoreHitchhikers",
+    "install": [
+        {
+            "find": "KGEx",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "More Hitchhikers",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188246-wipdev-kgex-14-sep-19/&do=findComment&comment=3680430",
+        "repository": "https://github.com/zer0Kerbal/KGEx/tree/master/GameData/KGEx/MoreHitchhikers",
+        "spacedock": "https://spacedock.info/mod/2244/More%20Hitchhikers",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/More_Hitchhikers/More_Hitchhikers-1570269415.8593836.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ODFC-Refueled"
+        },
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "version": "1.0.0.3",
+    "x_generated_by": "netkan"
+}

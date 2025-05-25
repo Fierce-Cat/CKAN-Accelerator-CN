@@ -1,0 +1,62 @@
+{
+    "abstract": "High performance alternative to StockVisualEnhancements",
+    "author": "panzer1b",
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        }
+    ],
+    "download": "https://www.dropbox.com/s/evu8ihrnj8z4gqu/SciFiVE-1.6.zip?dl=1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "21A2DB1AA1ABE85600BFAFD591669AE1D5EF1882",
+        "sha256": "4122A7D92E8BBEB1A5F567DA8341F766387238AA11837260F8BF9109BF94807F"
+    },
+    "download_size": 178479446,
+    "identifier": "SciFiVisualEnhancements",
+    "install": [
+        {
+            "find": "ScifiVisualEnchancements_Base",
+            "install_to": "GameData"
+        },
+        {
+            "find": "ScifiVisualEnchancements_Atmospheres",
+            "install_to": "GameData"
+        },
+        {
+            "find": "ScifiVisualEnchancements_Clouds",
+            "install_to": "GameData"
+        },
+        {
+            "find": "ScifiVisualEnchancements_Dust",
+            "install_to": "GameData"
+        },
+        {
+            "find": "ScifiVisualEnchancements_Glows",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 301846034,
+    "ksp_version": "1.12",
+    "license": "unrestricted",
+    "name": "Sci-Fi Visual Enhancements",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config",
+        "EnvironmentalVisualEnhancements-Config-stock"
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/151190-*"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "v1.6",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,65 @@
+{
+    "abstract": "System Heat revamps the Core Heat system used in stock KSP to drive drills and harvesters with a new, more powerful system. This core package does not make changes to the base game - install other SystemHeat packs to change drills, converters and the like to use Systemheat [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/SystemHeat/releases/download/0.3.3/SystemHeat_0_3_3.zip?auth_key=1748275917-59dfee5f1c0a488090fdc8243e74a54b-0-52bf077ce46a6aabecbd3ed34b394796&size=2152153&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B63FA7E42311D22EAA6AB2F21B901721EE373ACB",
+        "sha256": "76B520285EDB79D91E275A4FA1D438A0E3DE3590CDBF1BD3FD29C5488D3AAEC3"
+    },
+    "download_size": 2152153,
+    "identifier": "SystemHeat",
+    "install": [
+        {
+            "find": "SystemHeat",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.11.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "ru",
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "System Heat [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "HeatControl"
+        }
+    ],
+    "release_date": "2020-12-30T19:42:00Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/SystemHeat/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193909-1",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/SystemHeat/raw/master/CKAN/SystemHeat.netkan",
+        "repository": "https://github.com/post-kerbin-mining-corporation/SystemHeat"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SystemHeatConverters"
+        },
+        {
+            "name": "SystemHeatFissionReactors"
+        },
+        {
+            "name": "SystemHeatFissionEngines"
+        },
+        {
+            "name": "SystemHeatHarvesters"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "0.3.3",
+    "x_generated_by": "netkan"
+}

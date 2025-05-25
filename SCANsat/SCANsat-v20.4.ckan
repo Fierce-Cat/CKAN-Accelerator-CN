@@ -1,0 +1,68 @@
+{
+    "abstract": "SCANsat: Real Scanning, Real Science, Warp Speed!",
+    "author": "DMagic",
+    "conflicts": [
+        {
+            "name": "ContractConfigurator-ScanSatLite"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/KSPModStewards/SCANsat/releases/download/v20.4/SCANsat-v20.4.zip",
+        "https://spacedock.info/mod/129/SCANsat/download/v20.4"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "876F0EFCFA066071492AAB31C92AFB16B6C0F7DA",
+        "sha256": "48EA07548E18C968A73BCAC25EE9979B27FF512179C1270C8EAFFC804028FA01"
+    },
+    "download_size": 20252353,
+    "identifier": "SCANsat",
+    "install_size": 51413403,
+    "ksp_version_max": "1.10.8",
+    "ksp_version_min": "1.8.1",
+    "license": "restricted",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "SCANsat",
+    "recommends": [
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "release_date": "2020-09-09T17:27:05.937007+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/KSPModStewards/SCANsat/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/72679-1",
+        "remote-avc": "https://raw.githubusercontent.com/S-C-A-N/SCANsat/release/SCANassets/SCANsat.version",
+        "repository": "https://github.com/KSPModStewards/SCANsat",
+        "spacedock": "https://spacedock.info/mod/129/SCANsat"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "MechJeb2"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "information",
+        "resources"
+    ],
+    "version": "v20.4",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,76 @@
+{
+    "abstract": "New solar panels in a variety of sizes and types",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/559/Near%20Future%20Solar/download/1.3.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DBE33ED7210BF43F98749EB0A24FCDB0EB395F30",
+        "sha256": "7525EB10E8014D0337EC302A4C8735A7065646B75AEFA47EE09C6C7C245A8DEE"
+    },
+    "download_size": 25611361,
+    "identifier": "NearFutureSolar",
+    "install": [
+        {
+            "filter": "NearFutureSolar.dll",
+            "find": "NearFutureSolar",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 144234424,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "it-it",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Near Future Solar",
+    "release_date": "2021-07-21T19:20:19.2813+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/NearFutureSolar/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-*",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureSolar/master/GameData/NearFutureSolar/Versioning/NearFutureSolar.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/NearFutureSolar",
+        "spacedock": "https://spacedock.info/mod/559/Near%20Future%20Solar",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Solar/Near_Future_Solar-1461341963.6733372.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1.3.2",
+    "x_generated_by": "netkan"
+}

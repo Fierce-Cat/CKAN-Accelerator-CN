@@ -1,0 +1,117 @@
+{
+    "abstract": "AngleCan SIMPLEX TechTree is a rework of the Stock Tech Tree.",
+    "author": "theJesuit",
+    "conflicts": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "TETRIXTechTree"
+        },
+        {
+            "name": "ETT"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1848/SIMPLEX%20TechTree/download/1.36.2.20240917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "15A998A9DA2A93B3603D94BDFDE074859F338280",
+        "sha256": "A1E1A80BB7611FF88F5C3F339E3D261A1F5C3BD4C65DDE41E042DA4024AFD8E8"
+    },
+    "download_size": 43138,
+    "identifier": "SimplexTechTree",
+    "install": [
+        {
+            "find": "AngleCanMods",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 216333,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA",
+    "name": "SIMPLEX TechTree",
+    "recommends": [
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "KEI"
+        }
+    ],
+    "release_date": "2024-09-16T20:40:22.903755+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174731-14x-simplex-techtree/",
+        "spacedock": "https://spacedock.info/mod/1848/SIMPLEX%20TechTree"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "DockRotate"
+        },
+        {
+            "name": "FASA-RCS"
+        },
+        {
+            "name": "HullCamVDSContinued"
+        },
+        {
+            "name": "IFILS"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "Konstruction"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "ResearchBodies"
+        },
+        {
+            "name": "SSPX"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "StockalikeMiningExtension"
+        },
+        {
+            "name": "TokamakRefurbishedParts"
+        },
+        {
+            "name": "UniversalStorage2"
+        }
+    ],
+    "tags": [
+        "config",
+        "tech-tree"
+    ],
+    "version": "3:1.36.2",
+    "x_generated_by": "netkan"
+}

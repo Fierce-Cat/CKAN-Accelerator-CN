@@ -1,0 +1,44 @@
+{
+    "abstract": "Bored of yelling the launch countdown yourself ?  Do you find the launch sequence a little ... lifeless ?  So here comes an enhancement for your launch clamps : an authentical launch countdown brought to you by Athlonic Electronics.",
+    "author": "Athlonic",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/791/LCD%20-%20Launch%20CountDown/download/1.8.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DB6CE1B5BDE850FFBB875AE81E8ECB18A95EF717",
+        "sha256": "2213D67DCAC8FF7DB99829F7E0579E19AEB81AC4922A151771ABF7E674E58FD9"
+    },
+    "download_size": 3858000,
+    "identifier": "LCDLaunchCountDown",
+    "install": [
+        {
+            "find": "LaunchCountDown",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.0",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "LCD - Launch CountDown",
+    "release_date": "2019-10-23T21:12:32.671293+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Athlonic/LaunchCountDown/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/39470-113-lcd-launch-countdown-v177-26-jun-2016/",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=61",
+        "repository": "https://github.com/Athlonic/LaunchCountDown",
+        "spacedock": "https://spacedock.info/mod/791/LCD%20-%20Launch%20CountDown",
+        "x_screenshot": "https://spacedock.info/content/Athlonic_476/LCD_-_Launch_CountDown/LCD_-_Launch_CountDown-1466941573.4941287.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience",
+        "sound"
+    ],
+    "version": "1.8.0",
+    "x_generated_by": "netkan"
+}

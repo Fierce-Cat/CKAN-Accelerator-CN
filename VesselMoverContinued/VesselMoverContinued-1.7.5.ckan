@@ -1,0 +1,46 @@
+{
+    "abstract": "A continuation of BahamutoD's Vessel Mover. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "BahamutoD",
+        "Papa_Joe",
+        "jrodrigv"
+    ],
+    "conflicts": [
+        {
+            "name": "VesselMover"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/jrodrigv/VesselMover/releases/download/1.7.5/VesselMover.1.7.5.0_06092019.zip?auth_key=1748275917-0f927e3fd85a43229df192c201b3c0dc-0-dd0bf76e57a2767d25ff96fe5bf58c01&size=93645&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F86AC7647716F67E82A1879BDD9A240F632598AA",
+        "sha256": "D90370402B18A7B6FA55A6FFC5A5BCCB7190F583F0BE820CC7B0E130C6123E04"
+    },
+    "download_size": 93645,
+    "identifier": "VesselMoverContinued",
+    "install": [
+        {
+            "file": "GameData/VesselMover",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.7.1",
+    "license": "MIT",
+    "name": "VesselMover Continued [PRO-KCMIRROR]",
+    "provides": [
+        "VesselMover"
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/183963-*",
+        "repository": "https://github.com/jrodrigv/VesselMover"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "version": "1.7.5",
+    "x_generated_by": "netkan"
+}

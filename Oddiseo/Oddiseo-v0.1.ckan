@@ -1,0 +1,58 @@
+{
+    "abstract": "Missions with an emphasis on in-situ repair and rescue. KIS highly recommended. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Tattie Kerbal",
+    "depends": [
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/oddiseo-ksp/oddiseo/releases/download/v0.1/oddiseo-0.1.zip?auth_key=1748275916-bfbd39863ff94d06992c41d869b2f537-0-e955dd32b7758930f9e7f67c316fa78d&size=42958&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CC10E835FFC1945BC60B7F481EFA04E1DF110675",
+        "sha256": "822F9C6E7B7BE88DF71EF6F63F7B64ABAF4FED430C3BEF58F78A1436B47E98E6"
+    },
+    "download_size": 42958,
+    "identifier": "Oddiseo",
+    "install": [
+        {
+            "find": "Agencies",
+            "install_to": "GameData/ContractPacks/Oddiseo"
+        },
+        {
+            "find": "Missions",
+            "install_to": "GameData/ContractPacks/Oddiseo"
+        },
+        {
+            "find": "Vessels",
+            "install_to": "GameData/ContractPacks/Oddiseo"
+        },
+        {
+            "file": "Oddiseo.cfg",
+            "install_to": "GameData/ContractPacks/Oddiseo"
+        }
+    ],
+    "install_size": 210139,
+    "ksp_version": "1.10.1",
+    "license": "GPL-3.0",
+    "name": "Oddiseo Corp Contracts [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KIS"
+        }
+    ],
+    "release_date": "2020-10-04T18:25:46Z",
+    "resources": {
+        "bugtracker": "https://github.com/oddiseo-ksp/oddiseo/issues",
+        "homepage": "https://github.com/oddiseo-ksp/oddiseo",
+        "license": "https://github.com/oddiseo-ksp/oddiseo/licence.md",
+        "repository": "https://github.com/oddiseo-ksp/oddiseo"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "agency",
+        "career"
+    ],
+    "version": "v0.1",
+    "x_generated_by": "netkan"
+}

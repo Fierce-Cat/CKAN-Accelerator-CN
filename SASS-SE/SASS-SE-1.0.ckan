@@ -1,0 +1,40 @@
+{
+    "abstract": "SentarExpansion for SASS.",
+    "author": "Borisbee",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "StockalikeSolarSystem"
+        }
+    ],
+    "download": "https://spacedock.info/mod/238/Sentar%20Expansion/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ED12EF52AC25AE748C244A3EBC652CCCE566E2EB",
+        "sha256": "6D0E535DDCA85336C2C4ECC239C39E9F712772F8004ECC102F4D2A9245E2CA6D"
+    },
+    "download_size": 44528911,
+    "identifier": "SASS-SE",
+    "install": [
+        {
+            "find": "SentarExpansion",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "GPL-3.0",
+    "name": "SASS-SE",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/117355-SE/",
+        "metanetkan": "https://raw.githubusercontent.com/Sigma88/CKAN/master/Stockalike/SASS-SE.netkan"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

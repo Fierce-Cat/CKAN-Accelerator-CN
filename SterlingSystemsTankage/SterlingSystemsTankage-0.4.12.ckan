@@ -1,0 +1,65 @@
+{
+    "abstract": "Tank you very much. Do come again [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "WildBlueTools"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.4.12/SterlingSystems_Tankage_0.4.12.zip?auth_key=1748275915-c7b56ae36e9a41b89a1c970bd81e969d-0-577d939cac7105e0a14f320048c73167&size=13125271&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "E13E2DDC3DF658CCF1BA6008684F030BA5CE925BAE0B6D5358E6F6F807B4B18F"
+    },
+    "download_size": 13125271,
+    "identifier": "SterlingSystemsTankage",
+    "install": [
+        {
+            "find": "Tankage",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 99892247,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Tankage [PRO-KCMIRROR]",
+    "release_date": "2025-05-07T21:49:55Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.36",
+    "supports": [
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        },
+        {
+            "name": "FarFutureTechnologies"
+        },
+        {
+            "name": "RationalResources"
+        }
+    ],
+    "tags": [
+        "parts",
+        "resources"
+    ],
+    "version": "0.4.12",
+    "x_generated_by": "netkan"
+}

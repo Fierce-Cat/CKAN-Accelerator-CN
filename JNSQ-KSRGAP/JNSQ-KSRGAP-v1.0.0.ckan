@@ -1,0 +1,58 @@
+{
+    "abstract": "JNSQ Flight Contracts for Trans Kerbin Airlines under a bigger sky. Please check the README.md for dependencies. ",
+    "author": "Caerfinon",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "JNSQ"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2722/JNSQ-KSRGAP%20/download/v1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BFFA2E2724A21757C9AF82268BB97EE2EE20AE99",
+        "sha256": "EE35FB03E97FF4B2F533CA7A2B984C2BC6B5BE4CA6F875CC772DD12410A629C1"
+    },
+    "download_size": 4634809,
+    "identifier": "JNSQ-KSRGAP",
+    "install": [
+        {
+            "find": "ContractPacks",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.11.2",
+    "license": "MIT",
+    "name": "JNSQ-KSRGAP ",
+    "release_date": "2021-05-02T14:47:10.959513+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/caerfinon/JNSQ-KSRGAP/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/202138-jnsq-ksrgap-flight-contracts-for-trans-kerbin-airlines-under-a-bigger-sky/",
+        "repository": "https://github.com/caerfinon/JNSQ-KSRGAP",
+        "spacedock": "https://spacedock.info/mod/2722/JNSQ-KSRGAP%20",
+        "x_screenshot": "https://spacedock.info/content/Caerfinon_49341/JNSQ-KSRGAP/JNSQ-KSRGAP-1619967460.0044272.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KramaxAutopilotContinued"
+        },
+        {
+            "name": "NavUtilitiesContinued"
+        }
+    ],
+    "tags": [
+        "config",
+        "career"
+    ],
+    "version": "v1.0.0",
+    "x_generated_by": "netkan"
+}

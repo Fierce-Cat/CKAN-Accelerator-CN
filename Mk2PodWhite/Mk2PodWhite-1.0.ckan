@@ -1,0 +1,42 @@
+{
+    "abstract": "It's the mk2, but then with a new paint job to remove that ugly red stuff",
+    "author": "MacLuky",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2314/Mk2%20Pod%20White/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6E5AAED5FA6F1FCB037932B1659C832174370A8E",
+        "sha256": "1BD513958DC4B81960D1D9D2CB8FE36FC98FE141EC353A41BCB785B92344E973"
+    },
+    "download_size": 5178263,
+    "identifier": "Mk2PodWhite",
+    "install": [
+        {
+            "filter": [
+                "source.zip",
+                ".DS_Store"
+            ],
+            "find": "Mk2Pod-white",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1048803,
+    "ksp_version": "1.8.1",
+    "license": "MIT",
+    "name": "Mk2 Pod White",
+    "release_date": "2020-01-21T10:28:24.298787+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/2314/Mk2%20Pod%20White",
+        "x_screenshot": "https://spacedock.info/content/MacLuky_11628/Mk2_Pod_White/Mk2_Pod_White-1596930102.8335311.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

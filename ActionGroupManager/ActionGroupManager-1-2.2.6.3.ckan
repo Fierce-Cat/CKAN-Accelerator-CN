@@ -1,0 +1,52 @@
+{
+    "abstract": "Manage your action groups in flight [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/ActionGroupManager/releases/download/2.2.6.3/ActionGroupManager-1.12.0-2.2.6.3.zip?auth_key=1748275916-93967997110441c595f41aa7ed2488a4-0-5773f691eb3c64f1dad064f735b06200&size=91403&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "11A61E7404086860AA6997B9A20F27AE67E4457B",
+        "sha256": "76E8A79620D99EA59C31C401AC83FD6D30219CEFD395E029254C0911A7EDFD95"
+    },
+    "download_size": 91403,
+    "identifier": "ActionGroupManager",
+    "install": [
+        {
+            "find": "AquilaEnterprises",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 210352,
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "ru"
+    ],
+    "name": "Action Group Manager Renewed [PRO-KCMIRROR]",
+    "release_date": "2021-08-27T20:46:12Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/ActionGroupManager/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178733-14x-action-group-manager-renewed/",
+        "remote-avc": "http://ksp.spacetux.net/avc/ActionGroupManager",
+        "repository": "https://github.com/linuxgurugamer/ActionGroupManager/",
+        "spacedock": "https://spacedock.info/mod/1976/Action%20Group%20Manager%20Renewed",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Action_Group_Manager_Renewed/Action_Group_Manager_Renewed-1562530514.3111498.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:2.2.6.3",
+    "x_generated_by": "netkan"
+}

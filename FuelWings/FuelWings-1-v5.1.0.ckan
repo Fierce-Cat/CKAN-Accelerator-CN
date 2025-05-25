@@ -1,0 +1,70 @@
+{
+    "abstract": "Customizable fuel resources added to Stock, B9, and Procedural Wings by Tortoise. The intention of this is to improve weight & balance, reduce craft size, and increase aesthetics. Supports all stock fuel types, ability to modify in VAB/SPH.",
+    "author": [
+        "BeautiCode",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "ConfigurableContainers"
+                },
+                {
+                    "name": "InterstellarFuelSwitch"
+                },
+                {
+                    "name": "ModularFuelTanks"
+                },
+                {
+                    "name": "FirespitterCore"
+                }
+            ]
+        }
+    ],
+    "download": "https://spacedock.info/mod/1290/FuelWings/download/5.1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B2B4C2CA9BA8B6A833836DF99797B4C7C035E9A8",
+        "sha256": "B03B47CF432FBDCBA75C98330B1450C75F07B71A5CBF1240E0FB101FC8E9AA2A"
+    },
+    "download_size": 3661,
+    "identifier": "FuelWings",
+    "install": [
+        {
+            "filter": [
+                "ModularFuelTanks"
+            ],
+            "find": "GameData/FuelWings",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 23340,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.4.0",
+    "license": "restricted",
+    "name": "FuelWings",
+    "release_date": "2025-01-27T18:49:52.132616+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/FuelWings/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/87605-122fuelwings-v32-fuel-customization-in-stock-b9-proceduralwings-03092017/&",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/FuelWings/refs/heads/main/FuelWings.version",
+        "repository": "https://github.com/linuxgurugamer/FuelWings",
+        "spacedock": "https://spacedock.info/mod/1290/FuelWings",
+        "x_screenshot": "https://spacedock.info/content/BeautiCode_11821/FuelWings/FuelWings-1490978780.7555523.png"
+    },
+    "spec_version": "v1.26",
+    "supports": [
+        {
+            "name": "B9"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "1:v5.1.0",
+    "x_generated_by": "netkan"
+}

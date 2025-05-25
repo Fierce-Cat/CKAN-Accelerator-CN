@@ -1,0 +1,38 @@
+{
+    "abstract": "Model of the A330-900neo aircraft.",
+    "author": "Kartoffelkuchen",
+    "download": "https://spacedock.info/mod/2470/Airbus%20A330neo/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "268723C8FD904226D142B1281A75E9260EC34100",
+        "sha256": "AE9BBA6A1C5078F3C3D232E00CCE50B60DBD4D9A4D7E718E6C72E896E85A823A"
+    },
+    "download_size": 23075533,
+    "identifier": "AirbusA330neo",
+    "install": [
+        {
+            "find": "A330neo",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Ships/SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 33753932,
+    "ksp_version": "1.10.1",
+    "license": "restricted",
+    "name": "Airbus A330neo",
+    "release_date": "2020-07-10T00:09:18.965561+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/195378-110-airbus-a330neo/",
+        "spacedock": "https://spacedock.info/mod/2470/Airbus%20A330neo",
+        "x_screenshot": "https://spacedock.info/content/Kartoffelkuchen_1350/Airbus_A330neo/Airbus_A330neo-1594035184.7985182.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

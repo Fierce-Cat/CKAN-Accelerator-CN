@@ -1,0 +1,71 @@
+{
+    "abstract": "This is a branch of BDArmory with multiplayer support based on LMP. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "BahamutoD",
+        "Papa_Joe",
+        "jrodrigv"
+    ],
+    "comment": "Version file is badly out of date",
+    "conflicts": [
+        {
+            "name": "BDArmory"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "LunaMultiplayer"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/jrodrigv/BDAMultiplayer/releases/download/0.5/BDAMultiplayer_finalRelease.zip?auth_key=1748275916-1485c488855841309339ed75f301b119-0-9e639b287945d386baeb0a8ec91edc50&size=53051704&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "74C455F755BE95B9F73E0ED2E1770D83A254F4D2",
+        "sha256": "FE42C5B47961243261B697BDDC5E3F312D2FD75FB8E39F3094516B4CDD8FEA1D"
+    },
+    "download_size": 53051704,
+    "identifier": "BDArmoryMultiplayer",
+    "install": [
+        {
+            "filter": "craft",
+            "find": "BDArmory",
+            "install_to": "GameData"
+        },
+        {
+            "as": "SPH",
+            "find": "BDArmory/craft",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 61553850,
+    "ksp_version": "1.12",
+    "license": "CC-BY-SA-2.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "BDA Multiplayer [PRO-KCMIRROR]",
+    "provides": [
+        "BDArmory"
+    ],
+    "release_date": "2023-03-26T19:48:05Z",
+    "resources": {
+        "bugtracker": "https://github.com/jrodrigv/BDAMultiplayer/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184167-*",
+        "repository": "https://github.com/jrodrigv/BDAMultiplayer"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "plugin",
+        "parts",
+        "sound",
+        "combat"
+    ],
+    "version": "0.5",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,61 @@
+{
+    "abstract": "Kerbalism support for SystemHeat mod [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "judicator",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "SystemHeat-FissionReactors"
+        },
+        {
+            "name": "SystemHeat-FissionEngines"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/judicator/KerbalismSystemHeat/releases/download/0.5.0/KerbalismSystemHeat_0.5.0.zip?auth_key=1748275916-fc233afb1936497eaa0bdef36036e677-0-983e85dcb9c740a22869a74d5f3a399c&size=32982&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6A1576E292863E4C2445A69DE4E94A1589BF0DA7",
+        "sha256": "673D5665EAF991592B04B302EB5FF8B3C47CA9FA761405043C48410E30E80B26"
+    },
+    "download_size": 32982,
+    "identifier": "Kerbalism-SystemHeat",
+    "install": [
+        {
+            "find": "zKerbalismSystemHeat",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 85716,
+    "ksp_version_max": "1.12",
+    "ksp_version_min": "1.8",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "Kerbalism System Heat [PRO-KCMIRROR]",
+    "release_date": "2022-06-06T18:13:46Z",
+    "resources": {
+        "bugtracker": "https://github.com/judicator/KerbalismSystemHeat/issues",
+        "repository": "https://github.com/judicator/KerbalismSystemHeat"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "0.5.0",
+    "x_generated_by": "netkan"
+}

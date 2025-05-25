@@ -1,0 +1,46 @@
+{
+    "abstract": "Making the stock planets look a little bit better",
+    "author": "techo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3455/Techo's%20(Stock)%20Planet%20Revamp/download/0.03",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C1142D090121467B90B5FAE924FD2E21A31EDD5D",
+        "sha256": "9B62C8337B6DE6EE4FA02A5869C9E756B255467ECB83767FDFA41367A902A689"
+    },
+    "download_size": 174065945,
+    "identifier": "TechosStockPlanetRevamp",
+    "install": [
+        {
+            "find": "TPR",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 158052684,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA",
+    "name": "Techo's (Stock) Planet Revamp",
+    "release_date": "2023-09-08T01:43:51.639081+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219196-techos-stock-planet-revamp-v002/",
+        "spacedock": "https://spacedock.info/mod/3455/Techo's%20(Stock)%20Planet%20Revamp",
+        "x_screenshot": "https://spacedock.info/content/techo_122317/Techos_Stock_Planet_Revamp/Techos_Stock_Planet_Revamp-1693618797.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "planet-pack",
+        "config"
+    ],
+    "version": "0.03",
+    "x_generated_by": "netkan"
+}

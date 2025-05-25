@@ -1,0 +1,53 @@
+{
+    "abstract": "Shared resources for Ven's Stock Revamp and Ven's New Parts [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "VenVen",
+        "Kerbas-ad-astra"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kerbas-ad-astra/Stock-Revamp/releases/download/v1.14.1/VenStockRevamp-v1.14.1.zip?auth_key=1748275916-b348806d91b9436dbe0248c08f69bcc2-0-40764661b6793881b4bac7898e8c0868&size=142084874&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6ADD353A89648E6B619A3001D3B7209540A26988",
+        "sha256": "03FDC599CD8D36FD4A986A5BA876ADDA1EE928420759DBC6A391DE55C029CA55"
+    },
+    "download_size": 142084874,
+    "identifier": "VenStockRevamp-Core",
+    "install": [
+        {
+            "filter": [
+                "PathPatches",
+                "Squad",
+                "Part Bin"
+            ],
+            "find": "VenStockRevamp",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Ven's Stock Part Revamp Core [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "VenStockRevamp"
+        },
+        {
+            "name": "VenStockRevamp-NewParts"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189732-*",
+        "repository": "https://github.com/Kerbas-ad-astra/Stock-Revamp"
+    },
+    "spec_version": "v1.4",
+    "version": "v1.14.1",
+    "x_generated_by": "netkan"
+}

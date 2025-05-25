@@ -1,0 +1,41 @@
+{
+    "abstract": "An in-game calculator to calculate basic orbital elements from pre-determined inputs.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2816/SOC:%20Simple%20Orbit%20Calculator/download/1.6.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "062A5648E5EF9A30DB97E14417EE5457585482FC",
+        "sha256": "F9A7D6B0D6101C7E4E6FA683B938262B8F36175EFD174C126EB5292A067B1C23"
+    },
+    "download_size": 31081,
+    "identifier": "SimpleOrbitCalculator",
+    "ksp_version_max": "1.12.1",
+    "ksp_version_min": "1.8.1",
+    "license": "GPL-2.0",
+    "name": "SOC: Simple Orbit Calculator",
+    "release_date": "2021-07-27T12:25:58.636825+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204055-112-soc-simple-orbit-calculator/",
+        "remote-avc": "http://ksp.spacetux.net/avc/SimpleOrbitCalculator",
+        "repository": "https://github.com/linuxgurugamer/ksp-SimpleOrbitCalculator",
+        "spacedock": "https://spacedock.info/mod/2816/SOC:%20Simple%20Orbit%20Calculator"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "1.6.0",
+    "x_generated_by": "netkan"
+}

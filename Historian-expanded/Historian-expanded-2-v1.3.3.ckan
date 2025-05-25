@@ -1,0 +1,43 @@
+{
+    "abstract": "Adds fully configurable and dynamic captions and overlay graphics to screenshots to better describe the context of screenshots and record your Kerbal adventures. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Aelfhe1m",
+        "Zeenobit"
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Aelfhe1m/Historian-Expanded/releases/download/1.3.3/Historian-1.3.3.zip?auth_key=1748275917-5d570af890f04633b92453afb41fa2bf-0-1f1152425ff12c494210662a6f6d0c29&size=63038&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B5CEB432DA72B11F07E5563B117CFE7981B4EED1",
+        "sha256": "71710E42BB14CF1F4ACA2C6BBE1CE307E6BE2D0246C443BF274673AED2B2940B"
+    },
+    "download_size": 63038,
+    "identifier": "Historian-expanded",
+    "install": [
+        {
+            "file": "GameData/Historian",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.7.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "Historian Expanded [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/138848-*",
+        "repository": "https://github.com/Aelfhe1m/Historian-Expanded"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "AutomatedScreenshots"
+        }
+    ],
+    "version": "2:v1.3.3",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,76 @@
+{
+    "abstract": "A KSP planet pack [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RJVB09",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/RJVB09/Dreskiller-Base/releases/download/v1.2/Dreskiller.Base.v1.2.zip?auth_key=1748275916-4abd89250e5946e2a877b93c3884cdf0-0-bebf0b0c85e3f396065036556904a4c8&size=316981649&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BE7FC7EDCAF44A2C7A78DDE8D21DD2CDE3E89ECD",
+        "sha256": "548E48A2667F78D1155D257087FEDC2FE194B83A12761DD8913FB7C13EBA46BE"
+    },
+    "download_size": 316981649,
+    "identifier": "DreskillerBase",
+    "install": [
+        {
+            "filter": [
+                "MiniAVC.dll",
+                "MiniAVC.xml"
+            ],
+            "find": "DKB",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 657205792,
+    "license": "CC-BY-NC-ND-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Dreskiller Base [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "RationalResources"
+        },
+        {
+            "name": "ResearchBodies"
+        }
+    ],
+    "release_date": "2021-01-19T09:41:17Z",
+    "resources": {
+        "bugtracker": "https://github.com/RJVB09/Dreskiller-Base/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199396-*",
+        "repository": "https://github.com/RJVB09/Dreskiller-Base"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "Corelian"
+        }
+    ],
+    "tags": [
+        "planet-pack"
+    ],
+    "version": "1:v1.2",
+    "x_generated_by": "netkan"
+}

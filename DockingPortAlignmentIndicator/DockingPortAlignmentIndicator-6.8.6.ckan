@@ -1,0 +1,49 @@
+{
+    "abstract": "The Docking Port Alignment Indicator is designed to help you dock manually, by presenting target alignment and relative position in a clean and intuitive manner.",
+    "author": [
+        "NavyFish",
+        "micha"
+    ],
+    "depends": [
+        {
+            "min_version": "2.6.22",
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/543/Docking%20Port%20Alignment%20Indicator/download/6.8.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4BAE2091C71205B08B4947E6B24C9F1FA2926F17",
+        "sha256": "710BF94F92283BC59ED8B4DB0D03C088DA2800106F2340BB9747B974606B3D1A"
+    },
+    "download_size": 322237,
+    "identifier": "DockingPortAlignmentIndicator",
+    "install": [
+        {
+            "file": "GameData/NavyFish",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Docking Port Alignment Indicator",
+    "recommends": [
+        {
+            "name": "RasterPropMonitor"
+        }
+    ],
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?showtopic=40423",
+        "repository": "https://github.com/bfishman/Docking-Port-Alignment-Indicator",
+        "spacedock": "https://spacedock.info/mod/543/Docking%20Port%20Alignment%20Indicator",
+        "x_screenshot": "https://spacedock.info/content/NavyFish_3644/Docking_Port_Alignment_Indicator/Docking_Port_Alignment_Indicator-1461132930.9594877.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "6.8.6",
+    "x_generated_by": "netkan"
+}

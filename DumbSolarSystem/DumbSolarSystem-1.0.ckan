@@ -1,0 +1,43 @@
+{
+    "abstract": "The worst custom KSP solar system",
+    "author": "ThunderousEcho",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3429/Dumb%20Solar%20System/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C62CB81C04837079647FAF68BBBCBF4EBE867792",
+        "sha256": "E96A01C8EDA1011D47596972E7E8060BF497228DE4D937DCC0AA7EAA324B5EE0"
+    },
+    "download_size": 1637876,
+    "identifier": "DumbSolarSystem",
+    "install": [
+        {
+            "find": "Dumb Solar System",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1651543,
+    "ksp_version": "1.9.1",
+    "license": "MIT",
+    "name": "Dumb Solar System",
+    "release_date": "2023-07-21T03:20:27.119706+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3429/Dumb%20Solar%20System",
+        "x_screenshot": "https://spacedock.info/content/ThunderousEcho_107475/Dumb_Solar_System/Dumb_Solar_System-1689911442.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "planet-pack",
+        "config"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

@@ -1,0 +1,53 @@
+{
+    "abstract": "Countdown visualization like NASA countdown, with sound",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/LaunchCountdownEx/releases/download/1.3.11.1/NASA_CountDown-1.12.0-1.3.11.1.zip",
+        "https://spacedock.info/mod/1462/NASA%20CountDown%20Clock%20Updated/download/1.3.11.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A847BEB69FFA5A4A85F7DD8E5C7D9A167424F03D",
+        "sha256": "AE020D53D17E768412DCA8F766120BB75ABFF760BC0BD6A4076E9A122B531B19"
+    },
+    "download_size": 37637442,
+    "identifier": "NASA-CountDown",
+    "install": [
+        {
+            "find": "NASA_CountDown",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 39231579,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA",
+    "name": "NASA CountDown Clock Updated",
+    "release_date": "2023-01-04T02:49:57.513157+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/LaunchCountdownEx/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/163882-13-nasa-countdown-clock-updated/",
+        "remote-avc": "http://ksp.spacetux.net/avc/NASA_CountDown",
+        "repository": "https://github.com/linuxgurugamer/LaunchCountdownEx",
+        "spacedock": "https://spacedock.info/mod/1462/NASA%20CountDown%20Clock%20Updated",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/NASA_CountDown_Clock_Updated/NASA_CountDown_Clock_Updated-1501413635.9711888.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "sound"
+    ],
+    "version": "1.3.11.1",
+    "x_generated_by": "netkan"
+}

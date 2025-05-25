@@ -1,0 +1,43 @@
+{
+    "abstract": "A common library for a set of plugins made by Allista. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "allista"
+    ],
+    "depends": [
+        {
+            "name": "ConfigurableContainers-Core"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/allista/AT_Utils/releases/download/v1.9.3/AT_Utils-1.9.3.0.zip?auth_key=1748275915-aacf687e2bdf4e2d909d293f58336c6c-0-95fff44c1eb2a4fee5acbf0e24aa3254&size=243491&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "716AD2D00DB276B02B594D84D2E853FB0816D3C0",
+        "sha256": "5AB2D7240082590351145F6BD9F1AB1281D646AE7D64EA24302E63773EAD2B65"
+    },
+    "download_size": 243491,
+    "identifier": "AT-Utils",
+    "install": [
+        {
+            "file": "GameData/000_AT_Utils",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.9.0",
+    "license": "MIT",
+    "name": "AT Utils [PRO-KCMIRROR]",
+    "release_date": "2020-05-03T18:19:29Z",
+    "resources": {
+        "bugtracker": "https://github.com/allista/AT_Utils/issues",
+        "homepage": "https://github.com/allista/AT_Utils",
+        "metanetkan": "https://raw.githubusercontent.com/allista/AT_Utils/master/AT-Utils.netkan",
+        "repository": "https://github.com/allista/AT_Utils"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "v1.9.3",
+    "x_generated_by": "netkan"
+}

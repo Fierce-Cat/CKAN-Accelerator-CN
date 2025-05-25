@@ -1,0 +1,48 @@
+{
+    "abstract": "Ever wished you where somewhere else instantly. With the Kerbin Science Foundry faster than light (FTL) drive you can! Just spin it up to create an instant reality dysfunction that might, just might transport you instantly to another point in space.",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "FTLDrive"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/835/FTL%20Drive%20Continued/download/0.2.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C590492A0758FF3159BF37D90D88379E12AC2987",
+        "sha256": "B78A7B14EA2D3F895CBA22F2A54E4E6A2B8E3628D91E1810388EE93C14A79664"
+    },
+    "download_size": 6822929,
+    "identifier": "FTLDriveContinued",
+    "install": [
+        {
+            "find": "FTLDriveContinued",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "FTL Drive Continued",
+    "recommends": [
+        {
+            "name": "JanitorsCloset"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150178-12-ftl-drive-continued/",
+        "repository": "https://github.com/linuxgurugamer/FTLDriveContinued",
+        "spacedock": "https://spacedock.info/mod/835/FTL%20Drive%20Continued"
+    },
+    "spec_version": "v1.4",
+    "version": "0.2.3",
+    "x_generated_by": "netkan"
+}

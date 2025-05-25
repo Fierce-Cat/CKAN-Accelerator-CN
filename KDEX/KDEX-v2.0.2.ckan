@@ -1,0 +1,47 @@
+{
+    "abstract": "The Kerbal Dust Experiment by masTerTorch is a replica of LADEEs LDEX instrument. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "masTerTorch",
+        "Micha"
+    ],
+    "description": "Inspired by the NASA mission LADEE. The objective of LADEE was to investigate the mysteries of the lunar atmosphere and the question of levitated lunar dust. It carried a scientific instrument called the Lunar Dust Experiment (LDEX). This instrument was an impact ionization dust detector. In this way it was possible to measure the density of dust particles.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/mwerle/kdex/releases/download/v2.0.2/kdex_2.0.2.14.zip?auth_key=1748275918-e47bf258fcb74b9bab695e49a4e10c59-0-ee5fb6cc354b76ede0d8a41e9a314702&size=187116&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DEE044BC56022B3EEF26D877884CBC9527BFB797",
+        "sha256": "B58735CCB6914F3DC42DA512568A25D9DC836AC6923412D00C44B9DC27BC5B32"
+    },
+    "download_size": 187116,
+    "identifier": "KDEX",
+    "install": [
+        {
+            "find": "GameData/masTerTorch",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 553749,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.11.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "ru"
+    ],
+    "name": "Kerbal Dust Experiment [PRO-KCMIRROR]",
+    "release_date": "2021-07-05T09:13:41Z",
+    "resources": {
+        "bugtracker": "https://github.com/mwerle/kdex/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?showtopic=166619",
+        "remote-avc": "https://raw.githubusercontent.com/mwerle/kdex/master/GameData/masTerTorch/kdex.version",
+        "repository": "https://github.com/mwerle/kdex"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "science"
+    ],
+    "version": "v2.0.2",
+    "x_generated_by": "netkan"
+}

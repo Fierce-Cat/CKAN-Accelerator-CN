@@ -1,0 +1,40 @@
+{
+    "abstract": "NH for SASS. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "KillAshley",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "StockalikeSolarSystem"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KillAshley/New_Horizons/releases/download/2.0.1/New_Horizons.zip?auth_key=1748275918-6fc9dc2e927d4bf89f4864dab061bd49-0-5221c26fa8347753577a06cbacbe2fe6&size=75784284&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "08230098BB628EE96743489C72E3599B68B26985",
+        "sha256": "493A3E388CE92DC45362835ECA86EB3E7E36B44A0749F6161773AA5B90F9BF73"
+    },
+    "download_size": 75784284,
+    "identifier": "SASS-NH",
+    "install": [
+        {
+            "find": "New_Horizons",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "SASS-NH [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/102776-NH/",
+        "metanetkan": "https://raw.githubusercontent.com/Sigma88/CKAN/master/Stockalike/SASS-NH.netkan"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "2.0.1",
+    "x_generated_by": "netkan"
+}

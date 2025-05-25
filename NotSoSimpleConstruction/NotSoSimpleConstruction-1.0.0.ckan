@@ -1,0 +1,47 @@
+{
+    "abstract": "Simple Construction addon. Adds Mallet, Survey Stake, Recycler and turns Cupola module to Survey Station.",
+    "author": "RealGecko",
+    "depends": [
+        {
+            "name": "SimpleConstruction"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KIS"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1078/Not%20So%20Simple%20Construction/download/1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "517EEC9865110F13FAF4BD5E45954A1A75CAEB6F",
+        "sha256": "9F1C3B497E5B84C9F06401D813F50B3394721252B6B913895C2D29220F475B4E"
+    },
+    "download_size": 363914,
+    "identifier": "NotSoSimpleConstruction",
+    "install": [
+        {
+            "find": "NSSC",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "GPL-3.0",
+    "name": "Not So Simple Construction",
+    "recommends": [
+        {
+            "name": "KAS"
+        }
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/152309-ksp-any-not-so-simple-construction-simple-construction-addon/",
+        "repository": "https://github.com/Real-Gecko/KSP-NSSC",
+        "spacedock": "https://spacedock.info/mod/1078/Not%20So%20Simple%20Construction",
+        "x_screenshot": "https://spacedock.info/content/RealGecko_4471/Not_So_Simple_Construction/Not_So_Simple_Construction-1479604499.4528272.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.0.0",
+    "x_generated_by": "netkan",
+    "x_via": "Manual SpaceDock CKAN submission"
+}

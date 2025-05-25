@@ -1,0 +1,54 @@
+{
+    "abstract": "Air Turbines that generate power from flowing air",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/RATPack/releases/download/0.4.3.4/RATPack-1.12.0-0.4.3.4.zip",
+        "https://spacedock.info/mod/1963/The%20RAT%20Pack/download/0.4.3.4"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F47B0CEC63A5158DDF0456291CF797A733703010",
+        "sha256": "8694223D74A7745DC3BC87419F91BD0339BC9D8C9BEA5342EC9282E4DF093F36"
+    },
+    "download_size": 202474,
+    "identifier": "TheRATPack",
+    "install": [
+        {
+            "find": "RATPack",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Ships",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 818462,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "The RAT Pack",
+    "release_date": "2021-10-02T06:23:27.585529+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/RATPack/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178083-14x-",
+        "remote-avc": "http://ksp.spacetux.net/avc/RATPack",
+        "repository": "https://github.com/linuxgurugamer/RATPack",
+        "spacedock": "https://spacedock.info/mod/1963/The%20RAT%20Pack",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/The_RAT_Pack/The_RAT_Pack-1536178218.69219.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "0.4.3.4",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,45 @@
+{
+    "abstract": "Kaboom! Another way to not go to space today!",
+    "author": [
+        "russnash37",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/833/Kaboom%21/download/1.2.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4CE3272A878280302D7256DC11193A7B8381A606",
+        "sha256": "0862430004FC80386EF3E3CF03B2F2B3C3CC82E57F9EF27CB4DE35293BFF2217"
+    },
+    "download_size": 19195,
+    "identifier": "Kaboom",
+    "install": [
+        {
+            "file": "GameData/Kaboom",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.9999",
+    "ksp_version_min": "1.7.1",
+    "license": "unrestricted",
+    "name": "Kaboom!",
+    "release_date": "2020-04-07T00:31:04.142082+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/Kaboom/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192938-*",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/Kaboom/master/Kaboom.version",
+        "repository": "https://github.com/zer0Kerbal/Kaboom",
+        "spacedock": "https://spacedock.info/mod/833/Kaboom!",
+        "x_screenshot": "https://spacedock.info/content/russnash37_6425/Kaboom/Kaboom-1626594757.1225986.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.2.0.0",
+    "x_generated_by": "netkan"
+}

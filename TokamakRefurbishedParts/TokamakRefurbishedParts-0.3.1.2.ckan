@@ -1,0 +1,69 @@
+{
+    "abstract": "Used and Refurbished Parts;  it's not old, it's a classic",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "USITools"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts/releases/download/0.3.1.2/Tokamak_Refurbished_Parts-0.3.1.2.zip",
+        "https://spacedock.info/mod/1444/Tokamak%20Refurbished%20Parts/download/0.3.1.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "32C89F08B2D87258C4A4B8E1C9999F7BEB34A811",
+        "sha256": "E4182A826D883AC8303CCDDF77B1A25570E9EF1F38ED4706D234C41CC1B2183A"
+    },
+    "download_size": 51759296,
+    "identifier": "TokamakRefurbishedParts",
+    "install": [
+        {
+            "find": "TokamakIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 95334865,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es"
+    ],
+    "name": "Tokamak Refurbished Parts",
+    "release_date": "2022-01-29T05:24:54.14166+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/163166-13-tokamak-industries-refurbished-parts-featuring-porkjets-hab-pack/",
+        "remote-avc": "http://ksp.spacetux.net/avc/TokamakIndustries",
+        "repository": "https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts",
+        "spacedock": "https://spacedock.info/mod/1444/Tokamak%20Refurbished%20Parts",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Tokamak_Refurbished_Parts/Tokamak_Refurbished_Parts-1499823251.7804608.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "0.3.1.2",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,59 @@
+{
+    "abstract": "Revival and revamp of Malfunc and PEW for modern BD",
+    "author": "Spartwo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "BDArmory"
+        },
+        {
+            "name": "PhysicsRangeExtender"
+        }
+    ],
+    "download": [
+        "https://github.com/KerbalPowers/Refurbished-Armory/releases/download/v1.1.0/Refurbished_Armory_v1.1.0.zip",
+        "https://spacedock.info/mod/3752/Refurbished%20Armory/download/v1.1.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "18779325B053297B35D44D98B7BD373758DD4466",
+        "sha256": "1874751E0A4C1A7737A90C0AB4ACF288C86B8DB87ADF571D032143A8B58161A6"
+    },
+    "download_size": 11545236,
+    "identifier": "RefurbishedArmory",
+    "install": [
+        {
+            "find": "BDArmoryRefurbished",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 46756611,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-SA",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Refurbished Armory",
+    "release_date": "2025-02-15T06:52:30.128156+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/KerbalPowers/Refurbished-Armory/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/226188-112x-refurbished-armory-v10/",
+        "repository": "https://github.com/KerbalPowers/Refurbished-Armory",
+        "spacedock": "https://spacedock.info/mod/3752/Refurbished%20Armory",
+        "x_screenshot": "https://spacedock.info/content/Spartwo_95463/Refurbished_Armory/Refurbished_Armory-1730666686.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "VABorganizer"
+        }
+    ],
+    "tags": [
+        "parts",
+        "combat"
+    ],
+    "version": "v1.1.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,46 @@
+{
+    "abstract": "When you need to explode!",
+    "author": "jacobcargen",
+    "download": [
+        "https://github.com/jacobcargen/Self-Destruct-Mod/releases/download/v1.2/Self.Destruct.Mod.1.2.zip",
+        "https://spacedock.info/mod/3194/Self%20Destruct/download/1.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BF408C358901F3A6565A842D55AE683C12A9640C",
+        "sha256": "AC5967663B03C3DBE4D2096248AE5A20388846487B0781CE71ECF61D97AA8171"
+    },
+    "download_size": 3314,
+    "identifier": "SelfDestruct",
+    "install": [
+        {
+            "file": "Self Destruct Mod.dll",
+            "install_to": "GameData/SelfDestruct"
+        },
+        {
+            "file": "LICENSE.txt",
+            "install_to": "GameData/SelfDestruct"
+        },
+        {
+            "file": "README.md",
+            "install_to": "GameData/SelfDestruct"
+        }
+    ],
+    "install_size": 6505,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Self Destruct",
+    "release_date": "2023-01-13T01:51:56.539177+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/jacobcargen/Self-Destruct-Mod/issues",
+        "repository": "https://github.com/jacobcargen/Self-Destruct-Mod",
+        "spacedock": "https://spacedock.info/mod/3194/Self%20Destruct",
+        "x_screenshot": "https://spacedock.info/content/jacobcargen_99590/Self_Destruct/Self_Destruct-1673575249.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.2",
+    "x_generated_by": "netkan"
+}

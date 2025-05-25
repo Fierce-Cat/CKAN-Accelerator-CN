@@ -1,0 +1,42 @@
+{
+    "abstract": "Mod add gas giant. yes this is Short description",
+    "author": "klancy",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2308/Equent%20Planet%20pack/download/0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "44E88320883D889A8E9E23BD84E4497C73D5EB3C",
+        "sha256": "38D16636337211062C5FB03705C44AF4B1B8A3FAAC8017F8B0D8F17800C500DD"
+    },
+    "download_size": 25008453,
+    "identifier": "EquentPlanetpack",
+    "install": [
+        {
+            "find": "EquentRevived",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 45028524,
+    "ksp_version": "1.7.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Equent Planet pack",
+    "release_date": "2020-01-10T09:14:39.553322+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/2308/Equent%20Planet%20pack",
+        "x_screenshot": "https://spacedock.info/content/klancy_33691/Equent_Planet_pack/Equent_Planet_pack-1578647753.7563345.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "0.0",
+    "x_generated_by": "netkan"
+}

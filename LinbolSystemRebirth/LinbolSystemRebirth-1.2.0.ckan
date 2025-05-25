@@ -1,0 +1,62 @@
+{
+    "abstract": "Replaces the stock system with an expansive quaternary system at 1/4 IRL Scale.",
+    "author": [
+        "RevanX",
+        "Watermel00n"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "KopernicusExpansionContinueder"
+        },
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3434/Linbol%20System%20Rebirth/download/1.2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "450497C7E9793DBD436398F68E7CEF41825DAB57",
+        "sha256": "07236BE4BE395E071F1BA341342B679221BDC0E3A761B28B519D59329ADD679D"
+    },
+    "download_size": 770805928,
+    "identifier": "LinbolSystemRebirth",
+    "install": [
+        {
+            "find": "LSR",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 3107310199,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Linbol System Rebirth",
+    "release_date": "2023-10-09T05:36:19.691132+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/RevanX-LSR/Linbol-System-Rebirth/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219128-112x-linbol-system-rebirth-25x-scale-quaternary-system/",
+        "repository": "https://github.com/RevanX-LSR/Linbol-System-Rebirth",
+        "spacedock": "https://spacedock.info/mod/3434/Linbol%20System%20Rebirth",
+        "x_screenshot": "https://spacedock.info/content/RevanX_117585/Linbol_System_Rebirth/Linbol_System_Rebirth-1701433359.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "LinbolSystemRebirth-StockScale"
+        },
+        {
+            "name": "LinbolSystemRebirth-ScattererConfigs"
+        }
+    ],
+    "tags": [
+        "planet-pack",
+        "config"
+    ],
+    "version": "1.2.0",
+    "x_generated_by": "netkan"
+}

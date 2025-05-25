@@ -1,0 +1,319 @@
+{
+    "abstract": "This is the fulcrum for the SETI meta mod pack. Only select this mod in CKAN, then click ApplyChanges and accept all recommendations and optionally the suggestions you like, to get a more balanced and challenging KSP experience! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Y3mo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Y3mo/SETI-MetaModPack/releases/download/1.3.0.0/SETImetaModPack-1.3.0.0.zip?auth_key=1748275915-14a4819d62194606bec46e469fa589d1-0-f194d8bc251429b2f81eb3656e2d1590&size=1338&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DE7ED9BB967E247F0B97E4BF6800C68CEBD682F2",
+        "sha256": "05F003826922B8195E8DA2576EB0F72306C79891199F45E51A58779F36A265A0"
+    },
+    "download_size": 1338,
+    "identifier": "SETI-MetaModPack",
+    "install": [
+        {
+            "find": "SETImetaModPack",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.99.99",
+    "ksp_version_min": "1.2.2",
+    "license": "restricted",
+    "name": "SETI-MetaModPack [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "AlternateResourcePanel"
+        },
+        {
+            "name": "AllYAll"
+        },
+        {
+            "name": "AugmentedReality"
+        },
+        {
+            "name": "AutoAction"
+        },
+        {
+            "name": "BAMCont"
+        },
+        {
+            "name": "BetterBurnTime"
+        },
+        {
+            "name": "BetterTimeWarpCont"
+        },
+        {
+            "name": "CapCom"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ContractConfigurator-AnomalySurveyor"
+        },
+        {
+            "name": "ContractConfigurator-FieldResearch"
+        },
+        {
+            "name": "ContractConfigurator-KerbinSpaceStation"
+        },
+        {
+            "name": "ContractConfigurator-Tourism"
+        },
+        {
+            "name": "ContractsWindowPlus"
+        },
+        {
+            "name": "CorrectCoL"
+        },
+        {
+            "name": "CrowdSourcedScience"
+        },
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "DistantObject-default"
+        },
+        {
+            "name": "DMagicOrbitalScience"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "EasyVesselSwitch"
+        },
+        {
+            "name": "EditorExtensionsRedux"
+        },
+        {
+            "name": "EVAEnhancementsContinued"
+        },
+        {
+            "name": "EVAParachutes"
+        },
+        {
+            "name": "FilterExtensionsDefaultConfig"
+        },
+        {
+            "name": "FinalFrontier"
+        },
+        {
+            "name": "FlexibleDocking"
+        },
+        {
+            "name": "FMRSContinued"
+        },
+        {
+            "name": "FuseBoxContinued"
+        },
+        {
+            "name": "HullcamVDSContinued"
+        },
+        {
+            "name": "JanitorsCloset"
+        },
+        {
+            "name": "K2CommandPodCont"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "KerbalJointReinforcement"
+        },
+        {
+            "name": "KerbalNRAP"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KSP-AVC"
+        },
+        {
+            "name": "KSPRescuePodFix"
+        },
+        {
+            "name": "LandingHeight"
+        },
+        {
+            "name": "LightsOut"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "NavballDockAlignIndCE"
+        },
+        {
+            "name": "PartOverhaulsSETI"
+        },
+        {
+            "name": "PlanetShine-Config-Default"
+        },
+        {
+            "name": "PreciseManeuver"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "QuickSearch"
+        },
+        {
+            "name": "RCSBuildAid"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "RealPlume-StockConfigs"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "SAVE"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "SETI-BalanceMod"
+        },
+        {
+            "name": "SETI-CareerChallenge"
+        },
+        {
+            "name": "SETI-Contracts"
+        },
+        {
+            "name": "SETI-CustomBarnKit"
+        },
+        {
+            "name": "SETI-Greenhouse"
+        },
+        {
+            "name": "SETI-ProbeParts"
+        },
+        {
+            "name": "SETI-RebalanceMaterialsGoo"
+        },
+        {
+            "name": "SETI-RemoteTech"
+        },
+        {
+            "name": "ShipManifest"
+        },
+        {
+            "name": "SmartActuation"
+        },
+        {
+            "name": "StageRecovery"
+        },
+        {
+            "name": "StationScienceContinued"
+        },
+        {
+            "name": "TacFuelBalancer"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "TakeCommandContinued"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "Trajectories"
+        },
+        {
+            "name": "TransferWindowPlanner"
+        },
+        {
+            "name": "TweakbleEverythingCont"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "UniversalStorage"
+        },
+        {
+            "name": "UnmannedBeforeManned"
+        },
+        {
+            "name": "UnmannedBeforeMannedChallenge"
+        },
+        {
+            "name": "VenStockRevamp"
+        },
+        {
+            "name": "WaypointManager"
+        },
+        {
+            "name": "Workshop"
+        },
+        {
+            "name": "xScience"
+        }
+    ],
+    "release_date": "2017-06-28T15:34:26Z",
+    "resources": {
+        "bugtracker": "https://github.com/Y3mo/SETI-MetaModPack/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/95645-*",
+        "repository": "https://github.com/Y3mo/SETI-MetaModPack"
+    },
+    "spec_version": "v1.6",
+    "suggests": [
+        {
+            "name": "B9-PWings-Fork"
+        },
+        {
+            "name": "BackgroundProcessing"
+        },
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "KRASH"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "SETI-ProbeControlEnabler"
+        },
+        {
+            "name": "StateFundingContinued"
+        },
+        {
+            "name": "Strategia"
+        },
+        {
+            "name": "ThrottleControlledAvionics"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "1.3.0.0",
+    "x_generated_by": "netkan"
+}

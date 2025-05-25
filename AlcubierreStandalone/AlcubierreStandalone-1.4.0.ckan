@@ -1,0 +1,43 @@
+{
+    "abstract": "The Alcubierre drive works by moving space around your ship, not through acceleration. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/UmbraSpaceIndustries/WarpDrive/releases/download/1.4.0/WarpDrive_1.4.0.0.zip?auth_key=1748275914-450f9d7ee6b947398b704cd10e3c1f03-0-89918cdd92bffc2309930a2b073af480&size=2336714&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C22EC6E471C39227FBE202A5774D879CF4DC85DA",
+        "sha256": "D234D72ACEEA7C25D26EA896C8EE991907D6E1077B10906097521ED84BEF757B"
+    },
+    "download_size": 2336714,
+    "identifier": "AlcubierreStandalone",
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/WarpDrive",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "Alcubierre Warp Drive (Stand-alone) [PRO-KCMIRROR]",
+    "release_date": "2020-12-21T21:25:46Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/UmbraSpaceIndustries/WarpDrive/issues",
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "metanetkan": "https://raw.githubusercontent.com/UmbraSpaceIndustries/CKAN/master/AlcubierreStandalone.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/BobPalmer/WarpDrive/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/WarpDrive/WarpDrive.version",
+        "repository": "https://github.com/UmbraSpaceIndustries/WarpDrive"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.4.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

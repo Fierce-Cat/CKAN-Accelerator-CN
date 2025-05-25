@@ -1,0 +1,53 @@
+{
+    "abstract": "Makes antennas consume EC for supporting CommNet (consumes always when extended) [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "flart",
+    "conflicts": [
+        {
+            "name": "RemoteTech"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommNetAntennasInfo"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/yalov/CommNetAntennasInfo/releases/download/2.3.2/CommNetAntennasInfo-v2.3.2.zip?auth_key=1748275918-30e4a0a6107642df8a36a67d294a4ae0-0-40e206f5ee17c52b0b767024fbc9a57b&size=88372&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "675392EC6976D252AFDC8478A18BAF2E911C5C44",
+        "sha256": "9510B8E87B5DEDB2DA49D2502384BED5E0AEC067D4FD6B71143BB50A78094106"
+    },
+    "download_size": 88372,
+    "identifier": "CommNetAntennasConsumptor",
+    "install": [
+        {
+            "comment": "Install ModuleGeneratorAntenna.cfg",
+            "file": "GameData/Extras-Consumptor/CommNetAntennasInfo",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "CommNet Antennas Consumptor [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "CommNetAntennasExtension"
+        }
+    ],
+    "release_status": "stable",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/177292-*",
+        "repository": "https://github.com/yalov/CommNetAntennasInfo"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "comms"
+    ],
+    "version": "2.3.2",
+    "x_generated_by": "netkan"
+}

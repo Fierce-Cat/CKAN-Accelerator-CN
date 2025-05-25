@@ -1,0 +1,79 @@
+{
+    "abstract": "Adds parts inspired by NASA's Artemis missions, specifically the Orion spacecraft",
+    "author": "Benjee10",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "AnimatedDecouplers"
+        },
+        {
+            "name": "Benjee10-SharedAssets"
+        },
+        {
+            "name": "HabTechProps"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3098/Artemis%20Construction%20Kit/download/1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "003398E6E86389EF0DCF7BE640F84CB1FF90244B",
+        "sha256": "F5FD6B0C35FE6B69430DFB943B75820B748AF4A4392E406D160A747DD65A018B"
+    },
+    "download_size": 44091719,
+    "identifier": "ArtemisConstructionKit",
+    "install": [
+        {
+            "find": "Benjee10_Orion",
+            "install_to": "GameData"
+        },
+        {
+            "as": "VAB",
+            "find": "Craft Files",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 86156705,
+    "ksp_version": "1.12.3",
+    "license": "restricted",
+    "name": "Artemis Construction Kit",
+    "recommends": [
+        {
+            "name": "Shabby"
+        },
+        {
+            "name": "Shaddy"
+        },
+        {
+            "name": "BreakingGround-DLC"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "release_date": "2022-08-28T20:29:49.733484+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/benjee10/Benjee10_Orion/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209546-112x-artemis-construction-kit-stockalike-orion-spacecraft-v100/",
+        "repository": "https://github.com/benjee10/Benjee10_Orion",
+        "spacedock": "https://spacedock.info/mod/3098/Artemis%20Construction%20Kit",
+        "x_screenshot": "https://spacedock.info/content/Benjee10_2390/Artemis_Construction_Kit/Artemis_Construction_Kit-1661718611.jpg"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

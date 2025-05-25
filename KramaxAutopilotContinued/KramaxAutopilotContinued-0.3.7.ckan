@@ -1,0 +1,39 @@
+{
+    "abstract": "Autopilot for spaceplanes",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1019/Kramax%20Autopilot%20Continued/download/0.3.7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F0BC73E5E70F31636DB0410F784D8E06B9DC8BEE",
+        "sha256": "F78BF58F2B182EF29F0F6BB6985E09FC333D8DF5DB441AB110DE09FD839EB8E3"
+    },
+    "download_size": 85488,
+    "identifier": "KramaxAutopilotContinued",
+    "install": [
+        {
+            "find": "KramaxAutoPilot",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.3",
+    "ksp_version_min": "1.5.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Kramax Autopilot Continued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150846-12-kramax-autopilot-continued-course-guidance-and-auto-land-for-spaceplanes/#comment-2868100",
+        "repository": "https://github.com/linuxgurugamer/KramaxAutoPilot",
+        "spacedock": "https://spacedock.info/mod/1019/Kramax%20Autopilot%20Continued"
+    },
+    "spec_version": "v1.4",
+    "version": "0.3.7",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

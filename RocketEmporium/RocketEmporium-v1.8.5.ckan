@@ -1,0 +1,54 @@
+{
+    "abstract": "Betty & Roger's Flaming Hot-pants & Ferocious Rockets Emporium [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "johanedab",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "AnimatedAttachment"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/johanedab/RocketEmporium/releases/download/v1.8.5/RocketEmporium_v1.8.5.zip?auth_key=1748275918-b23d7ef6debb4c65aca4fb86ebfc79d4-0-65156e38aef5bc3f15bb0b73c40e6d5a&size=6345237&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5AEBC496A55A36A52859389673939323E282DEE5",
+        "sha256": "FE2B999EF31C239968161710F4809C9BAD11B8B74F091638ED84FDDD1585F809"
+    },
+    "download_size": 6345237,
+    "identifier": "RocketEmporium",
+    "install": [
+        {
+            "filter": [
+                "Assembly-CSharp.dll",
+                "Assembly-CSharp-firstpass.dll",
+                "TDx.TDxInput.dll",
+                "UnityEngine.dll",
+                "UnityEngine.UI.dll"
+            ],
+            "filter_regexp": [
+                "\\.pdb$"
+            ],
+            "find": "RocketEmporium",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 13167101,
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.4.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Rocket Emporium [PRO-KCMIRROR]",
+    "release_date": "2020-07-14T16:46:04Z",
+    "resources": {
+        "bugtracker": "https://github.com/johanedab/RocketEmporium/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174748-*",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=574",
+        "repository": "https://github.com/johanedab/RocketEmporium"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "parts"
+    ],
+    "version": "v1.8.5",
+    "x_generated_by": "netkan"
+}

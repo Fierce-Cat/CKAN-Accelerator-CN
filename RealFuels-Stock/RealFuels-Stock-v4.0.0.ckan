@@ -1,0 +1,62 @@
+{
+    "abstract": "Adds RealFuels configs to stock and many mods' engines, keeping engine role as designed to fit with stock and stock-aligned mods. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Raptor831",
+        "ValiZockt"
+    ],
+    "conflicts": [
+        {
+            "name": "RealPlume-StockConfigs"
+        },
+        {
+            "name": "RFStockalike"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealFuels"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ValiZockt/RealFuels-Stock/releases/download/v4.0.0/RealFuels-Stock-v4.0.0.zip?auth_key=1748275916-03cb3134124844518e36a162274d6de6-0-7a144af19b093ea97c81cb531b0343c4&size=320121&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "91B89182B4EC7E2093E8CAAEA7534502483C8F2C",
+        "sha256": "E392B0BB5F1918EA9AA6C4E08E33F4212729E3B2CF42C4812C9308E1CE697B3C"
+    },
+    "download_size": 320121,
+    "identifier": "RealFuels-Stock",
+    "install": [
+        {
+            "find": "RealFuels-Stock",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-SA-4.0",
+    "name": "RealFuels-Stock [PRO-KCMIRROR]",
+    "provides": [
+        "RealPlumeConfigs",
+        "RealFuels-Engine-Configs"
+    ],
+    "recommends": [
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "resources": {
+        "bugtracker": "https://github.com/ValiZockt/RealFuels-Stock/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194394-*",
+        "repository": "https://github.com/ValiZockt/RealFuels-Stock"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "resources"
+    ],
+    "version": "v4.0.0",
+    "x_generated_by": "netkan"
+}

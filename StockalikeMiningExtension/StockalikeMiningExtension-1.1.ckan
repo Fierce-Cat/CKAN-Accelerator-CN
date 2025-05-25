@@ -1,0 +1,33 @@
+{
+    "abstract": "Adds new Mining and ISRU parts in a variety of formfactors",
+    "author": "SuicidalInsanity",
+    "download": "https://spacedock.info/mod/354/Stockalike%20Mining%20Extension/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B9D4425E85A89200CDC89ECE6B7900DDFDA9C6D0",
+        "sha256": "C2D8955782835138A2422746F72873A71FBE7FA06CE667FB7AB8409E7E72ACF4"
+    },
+    "download_size": 11547656,
+    "identifier": "StockalikeMiningExtension",
+    "install": [
+        {
+            "find": "MiningExpansion",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.9.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Stockalike Mining Extension",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/130325-105-stockalike-mining-extension-092-release-21816-wip/&page=1",
+        "spacedock": "https://spacedock.info/mod/354/Stockalike%20Mining%20Extension",
+        "x_screenshot": "https://spacedock.info/content/SuicidalInsanity_1925/Stockalike_Mining_Extension/Stockalike_Mining_Extension-1457222376.5120037.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "resources"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

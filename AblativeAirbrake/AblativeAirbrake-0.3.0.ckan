@@ -1,0 +1,38 @@
+{
+    "abstract": "A derived stockalike airbrake coated with ablator. ",
+    "author": "Skalou2",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1245/Ablative-Airbrake/download/0.3.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FA445D3E2FBB8BFE7F2C18C44759C1CFB500DC82",
+        "sha256": "CFFE8DDEB606BE2C0C68C9E08B6714A33A4599B0EDDEF40CE8BFE78E23290F27"
+    },
+    "download_size": 39032,
+    "identifier": "AblativeAirbrake",
+    "install": [
+        {
+            "find": "Ablative-Airbrake",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.2.2",
+    "license": "GPL-3.0",
+    "name": "Ablative-Airbrake",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/157353-122-ablative-airbrake-v010-5-march-2017/",
+        "spacedock": "https://spacedock.info/mod/1245/Ablative-Airbrake",
+        "x_screenshot": "https://spacedock.info/content/Skalou2_8819/Ablative-Airbrake/Ablative-Airbrake-1488731501.7915866.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.3.0",
+    "x_generated_by": "netkan"
+}

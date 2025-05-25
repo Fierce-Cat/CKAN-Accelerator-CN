@@ -1,0 +1,58 @@
+{
+    "abstract": "Remake of SWE. (Srb Waterfall Effects) [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "dangaffa",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "RealPlume"
+        },
+        {
+            "name": "RealPlume-StockConfigs"
+        },
+        {
+            "name": "SmokeScreen"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/dangaffa/RSMP/releases/download/4.0.1/RSMP.v0.0.1.zip?auth_key=1748275917-2bb6af17e3354c40bc7d430c604f3e4b-0-0e859e1b6675d431de34e33275519a28&size=788989&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4E7B3AC12F79EBD6594BFC33EC05FA425B28CB17",
+        "sha256": "780E196992C6F119542550CE987043B8D2E6AE7976D57ED88EC3C54EEF8985FB"
+    },
+    "download_size": 788989,
+    "identifier": "SRBWaterfallEffects",
+    "install": [
+        {
+            "find": "RSMP",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1060256,
+    "license": "CC-BY-NC-SA",
+    "name": "RSMP [PRO-KCMIRROR]",
+    "release_date": "2024-06-02T01:51:52Z",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/207196-*",
+        "repository": "https://github.com/dangaffa/RSMP"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "AudioMufflerRedux"
+        },
+        {
+            "name": "TUFX"
+        }
+    ],
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "2:4.0.1",
+    "x_generated_by": "netkan"
+}

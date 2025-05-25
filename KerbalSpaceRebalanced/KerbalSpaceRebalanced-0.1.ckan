@@ -1,0 +1,53 @@
+{
+    "abstract": "KSRe rebalances several core game mechanics to add greater realism and new challenges.",
+    "author": "maj_MAL_funqt10n",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2767/Kerbal%20Space%20Rebalanced%20%28KSRe%29/download/0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "736CA568C9A400B51FFC073F96D98D6CA5F76133",
+        "sha256": "50FF41686706DD93CEC6C7133586BE1A4FF6D24FE84D58BAEAC8401C836340FD"
+    },
+    "download_size": 66411,
+    "identifier": "KerbalSpaceRebalanced",
+    "install": [
+        {
+            "find": "KSRe",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.11.2",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Kerbal Space Rebalanced (KSRe)",
+    "recommends": [
+        {
+            "name": "CommunityAgenciesRevivalProject"
+        },
+        {
+            "name": "PersistentRotation"
+        }
+    ],
+    "release_date": "2021-05-31T13:32:09.705746+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/maj-mal-funqt10n/KSRe/issues",
+        "homepage": "https://github.com/maj-mal-funqt10n/KSRe",
+        "repository": "https://github.com/maj-mal-funqt10n/KSRe",
+        "spacedock": "https://spacedock.info/mod/2767/Kerbal%20Space%20Rebalanced%20(KSRe)",
+        "x_screenshot": "https://spacedock.info/maj_MAL_funqt10n_53147/Kerbal_Space_Rebalanced_KSRe/Kerbal_Space_Rebalanced_KSRe-1622468104.4907112.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "science",
+        "career"
+    ],
+    "version": "0.1",
+    "x_generated_by": "netkan"
+}

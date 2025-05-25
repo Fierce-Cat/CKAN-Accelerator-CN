@@ -1,0 +1,46 @@
+{
+    "abstract": "Display positions of all planets.moons and the current vessel",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1304/Slingshotter%20Reslung/download/1.1.8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ED45D552C325E54E46ACE515EF22C1113F510EEC",
+        "sha256": "CCB9BBA76D66F7EC6566482CD30F12BDDBAA90ED5EF987D6BD372C397987D9EE"
+    },
+    "download_size": 41602,
+    "identifier": "SlingShotterReslung",
+    "install": [
+        {
+            "find": "SlingShotter",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-2.0",
+    "name": "Slingshotter Reslung",
+    "release_date": "2019-11-03T01:49:44.992463+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/KerbalSlingshotter/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158852-12-",
+        "remote-avc": "http://ksp.spacetux.net/avc/SlingShotter",
+        "repository": "https://github.com/linuxgurugamer/KerbalSlingshotter",
+        "spacedock": "https://spacedock.info/mod/1304/Slingshotter%20Reslung",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Slingshotter_Reslung/Slingshotter_Reslung-1491575309.0833483.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "1.1.8",
+    "x_generated_by": "netkan"
+}

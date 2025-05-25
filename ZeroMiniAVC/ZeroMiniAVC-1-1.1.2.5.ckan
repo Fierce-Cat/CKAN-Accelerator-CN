@@ -1,0 +1,40 @@
+{
+    "abstract": "Delete/Prune/Disable all MiniAVC",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "download": "https://spacedock.info/mod/1614/ZeroMiniAVC/download/1.1.2.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "113EB4F33AC081BF94F9800627377B4808F36AF2",
+        "sha256": "5B83CC04EA24B83F7FAB0B9960F47920F02903CDA90D0CE1F659246E57D5BCC7"
+    },
+    "download_size": 23299,
+    "identifier": "ZeroMiniAVC",
+    "install_size": 74127,
+    "ksp_version_max": "1.12.4",
+    "ksp_version_min": "1.12.2",
+    "license": "GPL-3.0",
+    "name": "Zero MiniAVC",
+    "release_date": "2022-11-13T16:17:34.085773+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/QuickMods/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-19x-malahs-quick-mods/",
+        "remote-avc": "http://ksp.spacetux.net/avc/ZeroMiniAVC",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/1614/ZeroMiniAVC"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:1.1.2.5",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,77 @@
+{
+    "abstract": "A space-navigational aide for Kerbal Space Program [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "HebaruSan",
+    "comment": "Indexed by author. Please report any problems at the repository bugtracker.",
+    "description": "Displays a table of all of the bodies reachable from the current location, along with the time till burn and delta V needed to reach them. These values can be used to time warp or generate maneuver nodes. Supports prograde and retrograde orbits, nested ejection trajectories, transfers to satellites of the current parent body, and transfers to other vessels.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/HebaruSan/Astrogator/releases/download/v0.10.5/Astrogator.zip?auth_key=1748275917-c151fccfb4a64b4db3fc6a766e0508eb-0-499889da9ea4b2421cae9a84a3f645fb&size=80970&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3954A4F3F4072042AFC8203905AC2C9F255377D9",
+        "sha256": "C737DC44DC7228FF24367CDA615DAA9C3AD102FF3A15745A45901A26EB9251CC"
+    },
+    "download_size": 80970,
+    "identifier": "Astrogator",
+    "install_size": 177739,
+    "ksp_version": "1.12",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "it-it",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Astrogator [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "LoadingTipsPlus"
+        }
+    ],
+    "release_date": "2022-11-06T01:10:49Z",
+    "resources": {
+        "bugtracker": "https://github.com/HebaruSan/Astrogator/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155998-*",
+        "remote-avc": "https://raw.githubusercontent.com/HebaruSan/Astrogator/master/GameData/Astrogator/Astrogator.version",
+        "repository": "https://github.com/HebaruSan/Astrogator"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "GravityTurn"
+        },
+        {
+            "name": "Trajectories"
+        },
+        {
+            "name": "BetterBurnTime"
+        },
+        {
+            "name": "PreciseNode"
+        },
+        {
+            "name": "NavballDockingIndicator"
+        },
+        {
+            "name": "WarpEverywhere"
+        },
+        {
+            "name": "ManeuverQueue"
+        }
+    ],
+    "supports": [
+        {
+            "name": "RasterPropMonitor"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "information",
+        "control"
+    ],
+    "version": "v0.10.5",
+    "x_generated_by": "netkan"
+}

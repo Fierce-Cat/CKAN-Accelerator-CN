@@ -1,0 +1,47 @@
+{
+    "abstract": "A continuation of the KSP story...replaces the stock solar system with a brand new one.",
+    "author": "wpetula",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2869/Precursors%20Planet%20Pack/download/1.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1159EE9060B5946F3A989D4A749729AAEA1346B7",
+        "sha256": "F7A2D72F06057EE18E7EA55557094C541D0A53A41BD16B486ADEA8469F059A40"
+    },
+    "download_size": 384065950,
+    "identifier": "PrecursorsPlanetPack",
+    "install": [
+        {
+            "find": "OR",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.9",
+    "license": "restricted",
+    "name": "Precursors Planet Pack",
+    "recommends": [
+        {
+            "name": "Scatterer"
+        }
+    ],
+    "release_date": "2022-01-16T00:34:55.469128+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/205101-19x-112x-precursors-planet-pack/",
+        "spacedock": "https://spacedock.info/mod/2869/Precursors%20Planet%20Pack",
+        "x_screenshot": "https://spacedock.info/content/wpetula_66710/Precursors_Planet_Pack/Precursors_Planet_Pack-1633200704.5815365.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.1.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,199 @@
+{
+    "abstract": "CRP mode provides an extensive set of resource converter templates and parts that make use of the Community Resource Pack (CRP). [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "conflicts": [
+        {
+            "name": "WildBlue-PlayMode"
+        }
+    ],
+    "depends": [
+        {
+            "name": "WildBlueTools"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/WildBlueTools/releases/download/v1.89.0/WildBlueTools.zip?auth_key=1748275915-6586620956d24041b3ce1458f33a04bd-0-ad11e107a12d3c3dde531acd82bac672&size=22102736&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E0790A4A87BEED705E2536C57D3284B57C9E16FF",
+        "sha256": "FB0F3694EBA8695146F158A4A14E3887933EFF9D5D3C8F0A5323AC2B2B3FA32C"
+    },
+    "download_size": 22102736,
+    "identifier": "WildBlue-PlayMode-CRP",
+    "install": [
+        {
+            "as": "MM_SAFER.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Production/MM_SAFER.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Production"
+        },
+        {
+            "as": "OmniConverters.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Production/OmniConverters.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Production"
+        },
+        {
+            "as": "Coolant.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/Coolant.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "Dirt.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/Dirt.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "ExoticMinerals.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/ExoticMinerals.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "Fertilzer.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/Fertilzer.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "FusionPellets.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/FusionPellets.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "Glykerol.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/Glykerol.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "Karborundrum.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/Karborundrum.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "Konkrete.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/Konkrete.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "KonstructionEquipment.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/KonstructionEquipment.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "KonstructionKonkrete.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/KonstructionKonkrete.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "Lead.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/Lead.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "LiquidHydrogen.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/LiquidHydrogen.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "MetallicOre.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/MetallicOre.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "Metals.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/Metals.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "Minerals.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/Minerals.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "Organics.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/Organics.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "RareMetals.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/RareMetals.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "ResearchKits.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/ResearchKits.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "Rock.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/Rock.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "Slag.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/Slag.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "Uraninite.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/Uraninite.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "as": "XenonGas.cfg",
+            "find": "000WildBlueTools/Templates/CRP/Storage/XenonGas.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates/CRP/Storage"
+        },
+        {
+            "find": "000WildBlueTools/Templates/CRP.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/000WildBlueTools/Templates"
+        }
+    ],
+    "install_size": 31979,
+    "ksp_version_min": "1.12.2",
+    "license": "GPL-3.0",
+    "name": "WildBlueIndustries CRP Play Mode [PRO-KCMIRROR]",
+    "provides": [
+        "WildBlue-PlayMode",
+        "ClassicStockResources-PlayMode"
+    ],
+    "release_date": "2023-02-18T01:02:49Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/WildBlueTools/issues",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/WildBlueTools/master/GameData/WildBlueIndustries/000WildBlueTools/WildBlueTools.version",
+        "repository": "https://github.com/Angel-125/WildBlueTools"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config"
+    ],
+    "version": "v1.89.0",
+    "x_generated_by": "netkan"
+}

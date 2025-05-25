@@ -1,0 +1,61 @@
+{
+    "abstract": "A stock-alike pack of inline fairings that allow for optional additional stacking above.",
+    "author": "NecroBones",
+    "conflicts": [
+        {
+            "name": "ZeroPointInlineFairings-Lite"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "FerramAerospaceResearch"
+        }
+    ],
+    "download": "https://spacedock.info/mod/97/Zero%20Point%20Inline%20Fairings/download/1.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "18204D4D408B10198FD1134937F9BF9776661DAC",
+        "sha256": "9600807BC3E6A935BDB4F8D0F117B82762CF2A68A753A27A8B0D6B3A75A2B8A9"
+    },
+    "download_size": 2790679,
+    "identifier": "ZeroPointInlineFairings",
+    "install": [
+        {
+            "file": "0PinlineFairings",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.0.1",
+    "license": "CC-BY-NC-SA",
+    "name": "Zero Point Inline Fairings",
+    "release_date": "2016-04-29T05:27:20.830817+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/85178-*",
+        "spacedock": "https://spacedock.info/mod/97/Zero%20Point%20Inline%20Fairings",
+        "x_screenshot": "https://spacedock.info/content/NecroBones_209/Zero_Point_Inline_Fairings/Zero_Point_Inline_Fairings-1455805531.5437584.jpg"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "ModularRocketSystem"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "ColorCodedCans"
+        },
+        {
+            "name": "FuelTanksPlus"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1.0.2",
+    "x_generated_by": "netkan"
+}

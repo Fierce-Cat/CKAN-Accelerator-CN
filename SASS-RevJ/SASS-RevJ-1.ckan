@@ -1,0 +1,40 @@
+{
+    "abstract": "RevoltingJoolRecolor for SASS.",
+    "author": "GregroxMun",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "StockalikeSolarSystem"
+        }
+    ],
+    "download": "https://spacedock.info/mod/776/GregroxMun's%20Revolting%20Jool%20Recolor/download/1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F9B71E5D41999BF2B0935D7751812A38E4DEEAD0",
+        "sha256": "541C2653771DAC5483FB96252A6D078C56F8ED44FC6611235C683F307F3A8AC7"
+    },
+    "download_size": 5172280,
+    "identifier": "SASS-RevJ",
+    "install": [
+        {
+            "find": "RevoltingJoolRecolor",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "MIT",
+    "name": "SASS-RevJ",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/142085-RevJ/",
+        "metanetkan": "https://raw.githubusercontent.com/Sigma88/CKAN/master/Stockalike/SASS-RevJ.netkan"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1",
+    "x_generated_by": "netkan"
+}

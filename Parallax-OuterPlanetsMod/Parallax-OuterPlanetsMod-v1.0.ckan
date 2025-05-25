@@ -1,0 +1,50 @@
+{
+    "abstract": "It's in the name, requires parallax, parallax_StockTextures and OPM",
+    "author": "ballisticfox0",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "Parallax-StockTextures"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2958/Parallax%20for%20OPM/download/v1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "29F1648E73D32849707BECC308F4DEA8C0E9CFEE",
+        "sha256": "0F17FA78335DD2BA88F65CDFA18AC177867420B3D999216E45DD237E266EAF20"
+    },
+    "download_size": 2072,
+    "identifier": "Parallax-OuterPlanetsMod",
+    "install": [
+        {
+            "find": "OPM_Parallax",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 18084,
+    "ksp_version": "1.12.3",
+    "license": "CC-BY",
+    "name": "Parallax for OPM",
+    "release_date": "2022-01-21T21:17:10.407986+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/2958/Parallax%20for%20OPM",
+        "x_screenshot": "https://spacedock.info/content/ballisticfox0_66581/Parallax_for_OPM/Parallax_for_OPM-1642799844.png"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "config"
+    ],
+    "version": "v1.0",
+    "x_generated_by": "netkan"
+}

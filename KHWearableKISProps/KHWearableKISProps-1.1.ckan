@@ -1,0 +1,47 @@
+{
+    "abstract": "Useful KIS props with lights and glow.",
+    "author": "Enceos",
+    "depends": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1120/Kerbal%20Hack:%20Wearable%20KIS%20Props/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0715A621D10AD7D52F8F093D97682C9271F07FD4",
+        "sha256": "5F04CC98083BFDED374118172C31FBA913F21245A171774D11BF8FB0BE1AECD2"
+    },
+    "download_size": 5120051,
+    "identifier": "KHWearableKISProps",
+    "install": [
+        {
+            "file": "GameData/KerbalHacks/KISProps",
+            "install_to": "GameData/KerbalHacks"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "restricted",
+    "name": "Kerbal Hacks: Wearable KIS Props",
+    "release_date": "2017-12-01T08:54:22.129378+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/153654-*",
+        "spacedock": "https://spacedock.info/mod/1120/Kerbal%20Hack:%20Wearable%20KIS%20Props",
+        "x_screenshot": "https://spacedock.info/content/Enceos_856/Kerbal_Hack_Wearable_KIS_Props/Kerbal_Hack_Wearable_KIS_Props-1482023206.6846926.jpg"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

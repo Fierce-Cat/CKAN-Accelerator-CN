@@ -1,0 +1,42 @@
+{
+    "abstract": "Making stuff move. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "sirkut",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "InfernalRobotics"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/MagicSmokeIndustries/InfernalRobotics/releases/download/2.0.5/IR-2.0.5-Final-Full.zip?auth_key=1748275916-6ff65de00b3445ec90a9416c7af137df-0-9664f301ab30a68a02e57738c4b63ec9&size=9213709&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "89FC0FC6194E589E09931BF6DEA0ED888329FEC6",
+        "sha256": "9C7FEE5E82F9907517360B4F1CEF891EDB3BD5DFD6430B6B44128962F8A2D2F4"
+    },
+    "download_size": 9213709,
+    "identifier": "InfernalRobotics-LegacyParts",
+    "install": [
+        {
+            "find": "MagicSmokeIndustries/Parts",
+            "install_to": "GameData/MagicSmokeIndustries"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "GPL-3.0",
+    "name": "Magic Smoke Industries Infernal Robotics - Legacy Parts [PRO-KCMIRROR]",
+    "release_date": "2016-07-09T19:01:36Z",
+    "resources": {
+        "bugtracker": "https://github.com/MagicSmokeIndustries/InfernalRobotics/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/104535-*",
+        "repository": "https://github.com/MagicSmokeIndustries/InfernalRobotics"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "v2.0.5",
+    "x_generated_by": "netkan"
+}

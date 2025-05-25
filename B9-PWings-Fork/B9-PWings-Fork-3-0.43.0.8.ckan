@@ -1,0 +1,73 @@
+{
+    "abstract": "Fork of Bac9's Procedural Wings mod for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Crzyrndm",
+        "jrodrigv",
+        "Rafterman82",
+        "CarnationRED",
+        "tetraflon",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "B9AerospaceProceduralParts"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/B9-Procedural-Wings/B9-PWings-Modified/releases/download/0.43.0.8/B9_Aerospace_ProceduralWings-1.12.0-0.43.0.8.zip?auth_key=1748275915-6bb680d77022442cbd160a289f2d2ec4-0-086e5cd6080eef1b6a3a85d92e535071&size=2430113&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "757CD6D98C2407E5CF6FF2F05C44BAF2B8E9144D",
+        "sha256": "B7BECA3619D07CBEEDF658A375B7EB2554AB815DEF001635B37F1582175320CA"
+    },
+    "download_size": 2430113,
+    "identifier": "B9-PWings-Fork",
+    "install": [
+        {
+            "find": "B9_Aerospace_ProceduralWings",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us",
+        "de-de",
+        "es-es",
+        "fr-fr",
+        "it-it",
+        "ja",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "B9 Aerospace Procedural Wings - Fork [PRO-KCMIRROR]",
+    "release_date": "2021-07-05T13:46:59Z",
+    "resources": {
+        "bugtracker": "https://github.com/B9-Procedural-Wings/B9-PWings-Modified/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/203629-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/B9_Aerospace_ProceduralWings.version",
+        "repository": "https://github.com/B9-Procedural-Wings/B9-PWings-Modified"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "ProceduralParts"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "3:0.43.0.8",
+    "x_generated_by": "netkan",
+    "x_licence_assets": "CC-BY-NC-SA-4.0",
+    "x_licence_code": "MIT"
+}

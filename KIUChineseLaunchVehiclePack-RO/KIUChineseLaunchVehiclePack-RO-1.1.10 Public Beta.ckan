@@ -1,0 +1,84 @@
+{
+    "abstract": "This mod aims to bring as many Chinese Launch vehicles to KSP as possible.",
+    "author": [
+        "Old_Copper",
+        "Armo",
+        "Launcelot"
+    ],
+    "conflicts": [
+        {
+            "name": "KIUChineseLaunchVehiclePack"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "KIUChinese-Common"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3143/KCLV%20(KIU%20Chinese%20Launch%20Vehicle%20Pack)/download/1.1.10%20Public%20Beta",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "74645B3654442988586908EBD3C03954D495E81B4E6F2D2F887795DCFAA25457"
+    },
+    "download_size": 94793184,
+    "identifier": "KIUChineseLaunchVehiclePack-RO",
+    "install": [
+        {
+            "filter": [
+                "Common",
+                "CraftFiles"
+            ],
+            "find": "KIU",
+            "install_to": "GameData"
+        },
+        {
+            "find": "KCLV_RealScalePatch.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/KIU"
+        },
+        {
+            "as": "VAB",
+            "find": "CraftFiles/RO",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 375032862,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "KIU Chinese Launch Vehicle Pack (real scale)",
+    "recommends": [
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "release_date": "2024-09-03T15:53:17.956089+00:00",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/Armo00/KIU-Pack/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208654-1123nt-chinese-aerospace-packv120/",
+        "repository": "https://github.com/Armo00/KIU-Pack",
+        "spacedock": "https://spacedock.info/mod/3143/KCLV%20(KIU%20Chinese%20Launch%20Vehicle%20Pack)",
+        "x_screenshot": "https://spacedock.info/content/Old_Copper_79837/KCLV_KIU_Chinese_Launch_Vehicle_Pack/KCLV_KIU_Chinese_Launch_Vehicle_Pack-1717653443.png"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "parts",
+        "graphics"
+    ],
+    "version": "1.1.10 Public Beta",
+    "x_generated_by": "netkan"
+}

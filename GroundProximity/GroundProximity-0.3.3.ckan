@@ -1,0 +1,49 @@
+{
+    "abstract": "Proximity ﻿gives an audio alarm and a visual display﻿ indicating distance from the planet surface (and depending on configuration, ﻿velocity towards it﻿) during landing.﻿﻿﻿",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2056/Ground%20Proximity/download/0.3.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "328458336DCEBA8548CAF25F54B92DD447340AA0",
+        "sha256": "C5E4608FAA5AAF42312FBDB872EEA48C38E88312C51DBBB6DAB0181990B3FB31"
+    },
+    "download_size": 546996,
+    "identifier": "GroundProximity",
+    "install": [
+        {
+            "find": "KSP_Proximity",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Ground Proximity",
+    "release_date": "2019-10-27T14:57:48.692503+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/KSP_Proximity/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/181317-145-151-161-ground-proximity/",
+        "remote-avc": "http://ksp.spacetux.net/avc/KSP_Proximity",
+        "repository": "https://github.com/linuxgurugamer/KSP_Proximity",
+        "spacedock": "https://spacedock.info/mod/2056/Ground%20Proximity",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Ground_Proximity/Ground_Proximity-1547257574.2616296.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "0.3.3",
+    "x_generated_by": "netkan"
+}

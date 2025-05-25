@@ -1,0 +1,54 @@
+{
+    "abstract": "Adds the possibility to brake your vessel at launch.",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/103/QuickBrake/download/1.4.0.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5F16723241F89E1E4399200DAB4E86953211E10F",
+        "sha256": "F80FD6E0D4259DE2FAA445DF4831BBE6FE262421AF2B263751148E2DE8F55AA2"
+    },
+    "download_size": 28238,
+    "identifier": "QuickBrake",
+    "install": [
+        {
+            "file": "GameData/QuickMods/QuickBrake",
+            "install_to": "GameData/QuickMods"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "fr-fr"
+    ],
+    "name": "QuickBrake",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/103/QuickBrake"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:1.4.0.6",
+    "x_generated_by": "netkan"
+}

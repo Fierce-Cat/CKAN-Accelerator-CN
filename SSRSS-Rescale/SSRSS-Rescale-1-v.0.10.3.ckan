@@ -1,0 +1,36 @@
+{
+    "abstract": "Rescales the system to stock size. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Sigma88",
+    "conflicts": [
+        {
+            "name": "SigmaDimensions"
+        }
+    ],
+    "depends": [
+        {
+            "name": "SSRSS-Cont"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Sigma88/Sigma-Dimensions/releases/download/v.0.10.3/Sigma-Dimensions.v0.10.3.zip?auth_key=1748275918-f9d8f6629ce04c2391cf1e2223e034cd-0-b35d6b3bf7a5ae5d8cca8ca8feb2ab7d&size=606067&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A357C9EC86C3CD2A4ADBB7C95BA49DD8FED3DEF1",
+        "sha256": "F7D0E4196F15AF35DC2E62F5439CA75E1A9D6F787361DA414FE0BA8D4EB64B95"
+    },
+    "download_size": 606067,
+    "identifier": "SSRSS-Rescale",
+    "install": [
+        {
+            "find": "Dimensions",
+            "install_to": "GameData/Sigma"
+        }
+    ],
+    "license": "restricted",
+    "name": "Stock Size Real Solar System - Rescale [PRO-KCMIRROR]",
+    "resources": {
+        "repository": "https://github.com/Sigma88/Sigma-Dimensions"
+    },
+    "spec_version": "v1.4",
+    "version": "1:v.0.10.3",
+    "x_generated_by": "netkan"
+}

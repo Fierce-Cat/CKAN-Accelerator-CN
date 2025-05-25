@@ -1,0 +1,59 @@
+{
+    "abstract": "Giant floating aircraft [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "conflicts": [
+        {
+            "name": "Heisenberg-PlayMode"
+        }
+    ],
+    "depends": [
+        {
+            "name": "Heisenberg"
+        },
+        {
+            "name": "WildBlue-PlayMode-ClassicStock"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/Airships/releases/download/v2.19.0/Heisenberg.zip?auth_key=1748275917-506156c6051e4d64855c9ab2f5bacc5d-0-a1c338660190f59b18e80da92904f062&size=50696235&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "28769B41F6559CC073A02FF295B92F2209B306C0",
+        "sha256": "A9F76B5B1A13698DF0431C675C4A9198679953A3749ACF79ACE786B022E255D2"
+    },
+    "download_size": 50696235,
+    "identifier": "Heisenberg-PlayMode-ClassicStock",
+    "install": [
+        {
+            "find": "WildBlueIndustries/Heisenberg/Templates/ClassicStock",
+            "install_to": "GameData/WildBlueIndustries/Heisenberg/Templates"
+        },
+        {
+            "find": "WildBlueIndustries/Heisenberg/Templates/ClassicStock.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/Heisenberg/Templates"
+        }
+    ],
+    "install_size": 17441,
+    "ksp_version_min": "1.12.2",
+    "license": "restricted",
+    "name": "Heisenberg Classic Stock Play Mode [PRO-KCMIRROR]",
+    "provides": [
+        "Heisenberg-PlayMode"
+    ],
+    "release_date": "2022-06-20T20:03:44Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/Airships/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/150702-*",
+        "remote-avc": "https://github.com/Angel-125/Airships/raw/master/GameData/WildBlueIndustries/Heisenberg/Airships.version",
+        "repository": "https://github.com/Angel-125/Airships"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "config"
+    ],
+    "version": "v2.19.0",
+    "x_generated_by": "netkan"
+}

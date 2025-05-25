@@ -1,0 +1,71 @@
+{
+    "abstract": "ResearchBodies is a mod that adds the functionality of hiding celestial bodies and requiring you to find and track celestial bodies to explore them. ",
+    "author": "Jplrepo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "REPOSoftTech-Agencies"
+        }
+    ],
+    "download": [
+        "https://github.com/JPLRepo/ResearchBodies/releases/download/V1.13.0/ResearchBodies_V1.13.0.0.zip",
+        "https://spacedock.info/mod/684/ResearchBodies/download/V1.13.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "39BDD93AA6E3CAFCAA95B040D9A8F3DA1BFE55A7",
+        "sha256": "164484B41E61ED4E1451A696E677C41B25C0EAB52BB97BBF071F317D965B633C"
+    },
+    "download_size": 12109593,
+    "identifier": "ResearchBodies",
+    "install": [
+        {
+            "find": "ResearchBodies",
+            "install_to": "GameData/REPOSoftTech"
+        },
+        {
+            "find": "ProgressiveCBMaps",
+            "install_to": "GameData/REPOSoftTech"
+        }
+    ],
+    "install_size": 16804654,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "es-mx",
+        "fr-fr",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "ResearchBodies",
+    "release_date": "2022-05-15T02:32:03.544089+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JPLRepo/ResearchBodies/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/139473-112",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=295",
+        "repository": "https://github.com/JPLRepo/ResearchBodies",
+        "spacedock": "https://spacedock.info/mod/684/ResearchBodies"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "AsteroidDay"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts",
+        "career"
+    ],
+    "version": "2:V1.13.0",
+    "x_generated_by": "netkan"
+}

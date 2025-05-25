@@ -1,0 +1,75 @@
+{
+    "abstract": "A set of TU reflection module configs for stock, Restock, BDB, Tantares, NFSuite",
+    "author": "ilikeduck",
+    "conflicts": [
+        {
+            "name": "TexturesUnlimited-UnofficialStockConfig"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2361/Magpie%20Mods/download/1.4.8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B39E6F30CB7EE98EAE060D776D48A1B5EF08DDEA",
+        "sha256": "CD62AE3ED309E739FCD23E328AD34CE1307DEFE9B482B0A2F99132B8329A24E3"
+    },
+    "download_size": 56071,
+    "identifier": "MagpieMods",
+    "ksp_version": "1.9.1",
+    "license": "GPL-3.0",
+    "name": "Magpie Mods",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192310-magpie-mods/",
+        "spacedock": "https://spacedock.info/mod/2361/Magpie%20Mods",
+        "x_screenshot": "https://spacedock.info/content/ilikeduck_37254/Magpie_Mods/Magpie_Mods-1583775029.5231147.png"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "UniversalStorage2"
+        },
+        {
+            "name": "Kerbonov"
+        },
+        {
+            "name": "USI-FTT"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "B9"
+        },
+        {
+            "name": "B9AerospaceHX"
+        },
+        {
+            "name": "HeatControl"
+        },
+        {
+            "name": "NewTantares"
+        }
+    ],
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1.4.8",
+    "x_generated_by": "netkan"
+}

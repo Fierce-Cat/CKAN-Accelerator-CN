@@ -1,0 +1,42 @@
+{
+    "abstract": "The sunflare component of scatterer",
+    "author": "blackrack",
+    "conflicts": [
+        {
+            "name": "Scatterer-sunflare"
+        }
+    ],
+    "download": "https://spacedock.info/mod/141/scatterer/download/0.055",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6846BC8EBEA81BE40C5BCCBA03CADF77E76239A2",
+        "sha256": "72E0777491F10AFDA4FC9F129BD71D83B2385109EB9C171697877C2D6B4992FE"
+    },
+    "download_size": 39307658,
+    "identifier": "Scatterer-sunflare",
+    "install": [
+        {
+            "find": "Sunflares",
+            "install_to": "GameData/scatterer/config"
+        }
+    ],
+    "ksp_version": "1.8.1",
+    "license": "GPL-3.0",
+    "name": "Scatterer Sunflare",
+    "provides": [
+        "Scatterer-sunflare-default"
+    ],
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip-scatterer-atmospheric-scattering",
+        "repository": "https://github.com/LGhassen/Scatterer",
+        "spacedock": "https://spacedock.info/mod/141/scatterer",
+        "x_screenshot": "https://spacedock.info/content/blackrack_378/scatterer/scatterer-1456285817.4561393.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "graphics",
+        "config"
+    ],
+    "version": "3:v0.055",
+    "x_generated_by": "netkan"
+}

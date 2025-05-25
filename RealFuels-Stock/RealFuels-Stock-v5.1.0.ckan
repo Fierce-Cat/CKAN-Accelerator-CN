@@ -1,0 +1,65 @@
+{
+    "abstract": "Adds RealFuels configs to stock and many mods' engines, keeping engine role as designed to fit with stock and stock-aligned mods. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Raptor831",
+        "ValentinBischof"
+    ],
+    "conflicts": [
+        {
+            "name": "RealPlume-StockConfigs"
+        },
+        {
+            "name": "RFStockalike"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RealFuels"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ValentinBischof/RealFuels-Stock/releases/download/v5.1.0/RealFuels-Stock-v5.1.0.zip?auth_key=1748275916-fd40fcc9d321411db1f88c7ca745a43f-0-e9f7793b60d43876a7e09261aad21aa7&size=435745&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9F056C616599FCFF3EA395E8ADC070F326097ED6",
+        "sha256": "5AD5DDE73FA84DCD1681E03385D9A4F9C6E65EA62248329C29E1038102412FAC"
+    },
+    "download_size": 435745,
+    "identifier": "RealFuels-Stock",
+    "install": [
+        {
+            "find": "RealFuels-Stock",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2612653,
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-SA-4.0",
+    "name": "RealFuels-Stock [PRO-KCMIRROR]",
+    "provides": [
+        "RealPlumeConfigs",
+        "RealFuels-Engine-Configs"
+    ],
+    "recommends": [
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "release_date": "2020-08-18T17:51:10Z",
+    "resources": {
+        "bugtracker": "https://github.com/ValentinBischof/RealFuels-Stock/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194394-*",
+        "remote-avc": "https://raw.githubusercontent.com:443/ValiZockt/RealFuels-Stock/master/GameData/RealFuels-Stock/RFStockalike.version",
+        "repository": "https://github.com/ValentinBischof/RealFuels-Stock"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "resources"
+    ],
+    "version": "v5.1.0",
+    "x_generated_by": "netkan"
+}

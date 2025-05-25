@@ -1,0 +1,71 @@
+{
+    "abstract": "Visual Enhancements for Real Solar System [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "SpaceODY",
+    "conflicts": [
+        {
+            "name": "EnvironmentalVisualEnhancements-Config"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Scatterer-config",
+            "version": "3:v0.0772"
+        },
+        {
+            "name": "Scatterer",
+            "version": "3:v0.0772"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "RealSolarSystem"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/SpaceODY/PRVE/releases/download/v1.7.1/PRVEv1.7.1.zip?auth_key=1748275916-cd7f6d5dcbea462ba45102280d7e1d5d-0-e18ccd14276e19a1f0497ba07ca35927&size=329160339&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "986F0CF302321939C8AADA3BF63F5EFA92322CD5",
+        "sha256": "75B98AF02C18F936D25C80FA7BB001197CC9C8651987B3057EC801265B4AAEF5"
+    },
+    "download_size": 329160339,
+    "identifier": "PhotoRealisticVisualEnhancement",
+    "install": [
+        {
+            "find": "PRVE",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.12.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "PRVE [PRO-KCMIRROR]",
+    "provides": [
+        "EnvironmentalVisualEnhancements-Config"
+    ],
+    "release_date": "2022-04-20T18:40:23Z",
+    "resources": {
+        "bugtracker": "https://github.com/SpaceODY/PRVE/issues",
+        "repository": "https://github.com/SpaceODY/PRVE"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KS3P"
+        },
+        {
+            "name": "TUFX"
+        }
+    ],
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "v1.7.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,77 @@
+{
+    "abstract": "Kerbalism configuration for Realism Overhaul and RP-1 [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Standecco",
+    "conflicts": [
+        {
+            "name": "Kerbalism-Config"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "USI-LS"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Standecco/ROKerbalism/releases/download/v0.9.1/GameData.zip?auth_key=1748275916-d62aea9ed7414dccba753179466008a9-0-d90f729888322220b2ab5f5c685a7778&size=3691770&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DEF3C7F4F79AE6D74F091A9737294FEF46EE9365",
+        "sha256": "D5CE2E18054E88448D602E36BF48869F0B3E04DA83B685CD557FFEDEAAE62173"
+    },
+    "download_size": 3691770,
+    "identifier": "Kerbalism-Config-RO",
+    "install": [
+        {
+            "find": "KerbalismConfig",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.9",
+    "ksp_version_min": "1.5.0",
+    "license": "Unlicense",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "pt-br",
+        "ru"
+    ],
+    "name": "Kerbalism - RealismOverhaul Config [PRO-KCMIRROR]",
+    "provides": [
+        "Kerbalism-Config"
+    ],
+    "recommends": [
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "release_date": "2020-05-17T23:19:04Z",
+    "resources": {
+        "bugtracker": "https://github.com/Standecco/ROKerbalism/issues",
+        "repository": "https://github.com/Standecco/ROKerbalism"
+    },
+    "spec_version": "v1.18",
+    "suggests": [
+        {
+            "name": "RP-0"
+        }
+    ],
+    "tags": [
+        "config",
+        "career",
+        "science",
+        "crewed"
+    ],
+    "version": "v0.9.1",
+    "x_generated_by": "netkan"
+}

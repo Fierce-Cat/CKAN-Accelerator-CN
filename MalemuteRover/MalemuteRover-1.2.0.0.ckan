@@ -1,0 +1,58 @@
+{
+    "abstract": "A 1.25m rover platform for exploration and science collecting! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "v7.6.0",
+            "name": "FirespitterCore"
+        },
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        },
+        {
+            "min_version": "0.7.0.0",
+            "name": "CommunityResourcePack"
+        },
+        {
+            "min_version": "2.0.0.0",
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/UmbraSpaceIndustries/Malemute/releases/download/1.2.0.0/Malemute_1.2.0.0.zip?auth_key=1748275917-540b292269534464a19c53c647a0a928-0-14e1b7353b88af121915b7b842092230&size=7278867&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FBC17BFF32689E227596E57DCE3C319AD2E1D050",
+        "sha256": "2C90F6AC55006C08FA4A3CA31349CF672F63449DB1EA5C308DF9AA1D529411DD"
+    },
+    "download_size": 7278867,
+    "identifier": "MalemuteRover",
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/Malemute",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "ksp_version_max": "1.8.9",
+    "ksp_version_min": "1.6.0",
+    "license": "restricted",
+    "name": "Malemute Rover [PRO-KCMIRROR]",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "repository": "https://github.com/UmbraSpaceIndustries/Malemute"
+    },
+    "spec_version": "v1.16",
+    "version": "1.2.0.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

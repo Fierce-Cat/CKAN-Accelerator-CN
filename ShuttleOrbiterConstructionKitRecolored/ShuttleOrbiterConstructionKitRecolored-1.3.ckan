@@ -1,0 +1,44 @@
+{
+    "abstract": "Three new color variant for the SOCK mod.",
+    "author": "Invaderchaos",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ShuttleOrbiterConstructionKit"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2461/Shuttle%20Orbiter%20Construction%20Kit%20Recolored/download/1.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "559D633573A382D08B9B5686E5FD918F74B7C59E",
+        "sha256": "3F0647B5DB811FE7957FCB885A3FA4ACE319A8CF739E5F16EAADECB511023019"
+    },
+    "download_size": 113661964,
+    "identifier": "ShuttleOrbiterConstructionKitRecolored",
+    "install": [
+        {
+            "find": "SOCKrecolored",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 187723594,
+    "ksp_version": "any",
+    "license": "MIT",
+    "name": "Shuttle Orbiter Construction Kit Recolored",
+    "release_date": "2021-02-27T23:25:25.235737+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Invaderchaos/SOCK-Recolored/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/195154-111x-shuttle-orbiter-construction-kit-recolored-version-13/",
+        "repository": "https://github.com/Invaderchaos/SOCK-Recolored",
+        "spacedock": "https://spacedock.info/mod/2461/Shuttle%20Orbiter%20Construction%20Kit%20Recolored",
+        "x_screenshot": "https://spacedock.info/content/Invaderchaos_42335/Shuttle_Orbiter_Construction_Kit_Recolored/Shuttle_Orbiter_Construction_Kit_Recolored-1593302846.4191408.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.3",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,66 @@
+{
+    "abstract": "A FAM Pathfinder mod [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "rogerwang86",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Benjee10-SharedAssets"
+        },
+        {
+            "name": "ShuttleOrbiterConstructionKit"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "DepthMask"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/rogerwang86/SPOCK/releases/download/v0.2.1/SPOCK-0.2.1.zip?auth_key=1748275915-1e104893794248b29ef4a59f6167079c-0-5195a74539905b99f6da3a9cd8b55e88&size=81978254&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2F3A7AE9CD993839AEF6F5FBACFE555DFB9C0F90",
+        "sha256": "FC311CB7FE13FC5E37625467B933AD54FCE7AD0EA685F4955344683D1F759777"
+    },
+    "download_size": 81978254,
+    "identifier": "ShuttlePathfinderOrbiterConstructionKit",
+    "install": [
+        {
+            "filter": "Plugins",
+            "find": "shuttle_OV200",
+            "install_to": "GameData"
+        },
+        {
+            "find": "ShuttleStuff_SharedAssets",
+            "install_to": "GameData"
+        },
+        {
+            "as": "SPH",
+            "find": "Craft Files",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 275171954,
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "SPOCK [PRO-KCMIRROR]",
+    "release_date": "2022-11-15T15:05:15Z",
+    "resources": {
+        "bugtracker": "https://github.com/rogerwang86/SPOCK/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/210184-112xwipspock-shuttle-pathfinder-orbiter-construction-kit-stockalike-nuclear-shuttle-pathfinder-from-fam-v010/",
+        "repository": "https://github.com/rogerwang86/SPOCK"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts"
+    ],
+    "version": "v0.2.1",
+    "x_generated_by": "netkan"
+}

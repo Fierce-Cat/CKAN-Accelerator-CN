@@ -1,0 +1,44 @@
+{
+    "abstract": "More freedom in engine design",
+    "author": "Randazzo",
+    "conflicts": [
+        {
+            "name": "CustomClusters-StockAdapterStandalone"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2980/Custom%20Clusters%20by%20Vanguard%20Astrodynamics/download/0.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "25C4BC268FFB2FCEC03B0D195DFA0F7BEE17E5E9",
+        "sha256": "D6DC1AF8FEEF708AAAF2C67CD8ABCBB66582A88DCE7AF46E385A6BBA5B1706C6"
+    },
+    "download_size": 11675743,
+    "identifier": "CustomClusters",
+    "install": [
+        {
+            "find": "VanguardAstrodynamics",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 34153574,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-ND",
+    "name": "Custom Clusters by Vanguard Astrodynamics",
+    "recommends": [
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "release_date": "2022-02-18T03:41:10.332995+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/206953-1123-custom-clusters-more-freedom-in-engine-design-re-release/",
+        "spacedock": "https://spacedock.info/mod/2980/Custom%20Clusters%20by%20Vanguard%20Astrodynamics",
+        "x_screenshot": "https://spacedock.info/content/Randazzo_381/Custom_Clusters_by_Vanguard_Astrodynamics/Custom_Clusters_by_Vanguard_Astrodynamics-1645155693.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1:0.6",
+    "x_generated_by": "netkan"
+}

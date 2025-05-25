@@ -1,0 +1,58 @@
+{
+    "abstract": "Adds the possibility to hide the stock toolbar and the mods of the stock toolbar.",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/106/QuickHide/download/3.3.0.12",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "81BB91F3F4E1CF789B9BFFA8C45E0765AE87E284",
+        "sha256": "4599162C313DC27F5C2EDC6A6FE1C2D8EEA2082AC439A4E0DF5DCC2F261907F4"
+    },
+    "download_size": 46680,
+    "identifier": "QuickHide",
+    "install": [
+        {
+            "file": "GameData/QuickMods/QuickHide",
+            "install_to": "GameData/QuickMods"
+        }
+    ],
+    "install_size": 103769,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "fr-fr",
+        "zh-cn"
+    ],
+    "name": "QuickHide",
+    "release_date": "2024-03-15T18:51:40.895748+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/QuickMods/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
+        "remote-avc": "http://ksp.spacetux.net/avc/QuickHide",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/106/QuickHide"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "tags": [
+        "plugin"
+    ],
+    "version": "2:3.3.0.12",
+    "x_generated_by": "netkan"
+}

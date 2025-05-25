@@ -1,0 +1,40 @@
+{
+    "abstract": "Plugin for modders to add more detailed sound effects to the game, featuring a robust Layering System for use of multiple sounds [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "ensou04",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ensou04/RocketSoundEnhancement/releases/download/0.5.3/RocketSoundEnhancement-v0.5.3-Plugin.zip?auth_key=1748275916-3f5e676c5cfd44b09732a16fede89f6a-0-519b653328aea45194b81c64d9050724&size=32131&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "493EFFA525C2DFBA37FA370CE7D421A5B3937DD3",
+        "sha256": "A3816C51A89478AAF72E1B451C44C8ED98A5F565C6DD895DACF6CAC3D0D6BFEF"
+    },
+    "download_size": 32131,
+    "identifier": "RocketSoundEnhancement",
+    "install": [
+        {
+            "find": "RocketSoundEnhancement",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.10.1",
+    "license": "GPL-3.0",
+    "name": "Rocket Sound Enhancement [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RocketSoundEnhancement-Config-Default"
+        }
+    ],
+    "release_date": "2020-11-23T06:04:29Z",
+    "resources": {
+        "bugtracker": "https://github.com/ensou04/RocketSoundEnhancement/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179579-wip15x-rocket-sound-enhancement-pre-v100/",
+        "repository": "https://github.com/ensou04/RocketSoundEnhancement"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "sound"
+    ],
+    "version": "0.5.3",
+    "x_generated_by": "netkan"
+}

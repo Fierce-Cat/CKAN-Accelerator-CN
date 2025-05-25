@@ -1,0 +1,48 @@
+{
+    "abstract": "Final Frontier Ribbons for JNSQ [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Galileo88",
+    "depends": [
+        {
+            "name": "JNSQ"
+        },
+        {
+            "name": "FinalFrontier"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Galileo88/JNSQ/releases/download/0.9.0/JNSQ_FinalFrontier.zip?auth_key=1748275918-1374c4622a484d4fa5768c12a385d6c8-0-aa869b74360ee3aeb7e58d2b3b0649b0&size=851068&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "00DE67EE9D4541F20A8A1495A76C2D5661826F5E",
+        "sha256": "82B53D1CB37CFAC125806D053042B73B1BF33CF9031CE6AAB89BF7B79A376C79"
+    },
+    "download_size": 851068,
+    "identifier": "JNSQ-RibbonPack",
+    "install": [
+        {
+            "find": "Nereid",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 801846,
+    "ksp_version": "any",
+    "license": "CC-BY-NC-ND-3.0",
+    "name": "JNSQ Ribbon Pack [PRO-KCMIRROR]",
+    "release_date": "2020-01-19T07:22:13Z",
+    "resources": {
+        "bugtracker": "https://github.com/Galileo88/JNSQ/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184880-*",
+        "repository": "https://github.com/Galileo88/JNSQ"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "FinalFrontier"
+        }
+    ],
+    "tags": [
+        "config",
+        "crewed"
+    ],
+    "version": "0.9.0",
+    "x_generated_by": "netkan"
+}

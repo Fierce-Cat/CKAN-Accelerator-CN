@@ -1,0 +1,40 @@
+{
+    "abstract": "A plugin used to create VTOL engines and robotic parts [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/KerbalActuators/releases/download/v1.9.0/KerbalActuators.zip?auth_key=1748275918-d90c8a42299345a289b3e900399aca46-0-69d6b6001771b13f6dc72c17b31f506e&size=1949841&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9E95250667FBB0A36915673736CEDAAA727E0BAB",
+        "sha256": "FF5AB1D099158440A5259DA56B8E31D778A977C5469BE3F3DEFCA2439A6B7FF7"
+    },
+    "download_size": 1949841,
+    "identifier": "KerbalActuators",
+    "install": [
+        {
+            "find": "WildBlueIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 5499941,
+    "ksp_version_min": "1.12.2",
+    "license": "GPL-3.0",
+    "name": "Kerbal Actuators [PRO-KCMIRROR]",
+    "release_date": "2024-07-06T01:47:37Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/KerbalActuators/issues",
+        "remote-avc": "https://github.com/Angel-125/KerbalActuators/raw/master/GameData/WildBlueIndustries/001KerbalActuators/KerbalActuators.version",
+        "repository": "https://github.com/Angel-125/KerbalActuators"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "v1.9.0",
+    "x_generated_by": "netkan"
+}

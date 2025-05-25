@@ -1,0 +1,43 @@
+{
+    "abstract": "a NavBall inspired Heads Up Display [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Ninenium",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/NavHud/releases/download/1.4.0.2/NavHud-1.8.0-1.4.0.2.zip?auth_key=1748275916-dccca3814bf44b2abbdc129d68682f3f-0-78bd594821ec4d848faa6731d6dea58d&size=50924&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A42251EA251C680139F12116E409665B342B9B17",
+        "sha256": "2DC260325FDA421E780D0ABB8A3C12C5D09DFB9F01165B6E568A8CA073605534"
+    },
+    "download_size": 50924,
+    "identifier": "NavHudRenewed",
+    "install": [
+        {
+            "file": "GameData/NavHud",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "NavHud [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167039-*",
+        "repository": "https://github.com/linuxgurugamer/NavHud"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "1.4.0.2",
+    "x_generated_by": "netkan"
+}

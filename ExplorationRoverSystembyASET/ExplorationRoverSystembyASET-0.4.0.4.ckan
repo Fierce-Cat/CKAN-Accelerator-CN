@@ -1,0 +1,73 @@
+{
+    "abstract": "A rover for your exploration needs",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "JSIPartUtilities"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/ASET_ERS_Rover/releases/download/0.4.0.4/ASET_ERS-1.12.0-0.4.0.4.zip",
+        "https://spacedock.info/mod/2979/Exploration%20Rover%20System%20by%20A.S.E.T./download/0.4.0.4"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "544769BF1B3A1015517CD06293461E8D86C800BE",
+        "sha256": "3B763084FEA80391D2EBF4C31B73E557C1575CC6036626792C3B7B4B51BEC231"
+    },
+    "download_size": 4510017,
+    "identifier": "ExplorationRoverSystembyASET",
+    "install": [
+        {
+            "find": "ASET",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 21236741,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.10.0",
+    "license": "CC-BY-NC-SA",
+    "name": "Exploration Rover System by A.S.E.T.",
+    "recommends": [
+        {
+            "name": "JSIAdvancedTransparentPods"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "UniversalStorage2"
+        },
+        {
+            "name": "VesselView"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator"
+        }
+    ],
+    "release_date": "2022-03-02T19:01:04.988389+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/ASET_ERS_Rover/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/206952-112x-exploration-rover-system-by-aset/",
+        "remote-avc": "http://ksp.spacetux.net/avc/ASET_ERS",
+        "repository": "https://github.com/linuxgurugamer/ASET_ERS_Rover",
+        "spacedock": "https://spacedock.info/mod/2979/Exploration%20Rover%20System%20by%20A.S.E.T.",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/xploration_Rover_System_by_A.S.E.T/xploration_Rover_System_by_A.S.E.T-1645152949.jpg"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "0.4.0.4",
+    "x_generated_by": "netkan"
+}

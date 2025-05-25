@@ -1,0 +1,72 @@
+{
+    "abstract": "Hangars are parts that can store whole ships inside. Stored ships are not docked but unloaded, which reduces part count considerably, improving framerate and memory footprint while allowing to carry out missions of great complexity.",
+    "author": [
+        "allista"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "AT-Utils"
+        },
+        {
+            "name": "ConfigurableContainers-Core"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1000/Hangar/download/3.5.0.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7AEE5D250D2677847B724C6DD4AE26CF6592AF0F",
+        "sha256": "140DC52B9A8F6EFD08051D46D7DF36AAC0F3A889F1EC1D3AAE94EB2695B6EAAF"
+    },
+    "download_size": 31735103,
+    "identifier": "Hangar",
+    "install": [
+        {
+            "file": "GameData/Hangar",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.9.0",
+    "license": "MIT",
+    "name": "Hangar",
+    "release_date": "2020-05-04T13:57:36.382116+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/allista/hangar/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/80225-12-hangar",
+        "manual": "https://github.com/allista/hangar/wiki",
+        "metanetkan": "https://raw.githubusercontent.com/allista/hangar/master/Hangar.netkan",
+        "repository": "https://github.com/allista/hangar",
+        "spacedock": "https://spacedock.info/mod/1000/Hangar",
+        "x_screenshot": "https://spacedock.info/content/allista_931/Hangar/Hangar-1476552531.0361087.png"
+    },
+    "spec_version": "v1.16",
+    "suggests": [
+        {
+            "name": "EditorExtensions"
+        },
+        {
+            "name": "ThrottleControlledAvionics"
+        },
+        {
+            "name": "ConfigurableContainers"
+        },
+        {
+            "name": "GroundConstruction"
+        },
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "3.5.0.3",
+    "x_generated_by": "netkan"
+}

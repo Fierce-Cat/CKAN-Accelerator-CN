@@ -1,0 +1,54 @@
+{
+    "abstract": "Adds PAPI arrays to the runway to aid landing [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "asarium",
+        "bssthu",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "PAPIPluginContinued"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/PAPIPlugin/releases/download/0.5.0.7/PAPIPlugin-1.12.0-0.5.0.7.zip?auth_key=1748275914-67b918d85f324aa5865652a31c7ae151-0-36a6d4ac1ff6bd3e551207352a243d24&size=40504&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B643E28B1B157C9D1D3173792E4A29E146B1005F",
+        "sha256": "268902FD6AA01F65FC2AB18113F148B9817F39628045E47B3374DEA8DDAE7041"
+    },
+    "download_size": 40504,
+    "identifier": "PAPILights",
+    "install": [
+        {
+            "file": "GameData/PAPIPlugin",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 77939,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "PAPI Lights [PRO-KCMIRROR]",
+    "release_date": "2025-03-02T12:37:06Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/PAPIPlugin/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/101446-*",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/PAPIPlugin/refs/heads/master/PAPIPlugin.version",
+        "repository": "https://github.com/linuxgurugamer/PAPIPlugin"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "0.5.0.7",
+    "x_generated_by": "netkan"
+}

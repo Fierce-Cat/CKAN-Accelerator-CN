@@ -1,0 +1,47 @@
+{
+    "abstract": "Recolors for GemstoneLV mod which adds H2 rocket.",
+    "author": "Zarbon44",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "GemstoneLV"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3054/Intercolor%20-%20GemstoneLV%20Recolors/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A9A6C84649495CCCC677A9F7845B260BF7D78DFC",
+        "sha256": "8DD57CE5C7EE6E846682F0973FBAD439B98FFA5494317167653ECB02A00B2570"
+    },
+    "download_size": 19299801,
+    "identifier": "IntercolorGemstoneLVRecolors",
+    "install": [
+        {
+            "find": "GemstoneRecolors",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 33909445,
+    "ksp_version": "1.12.3",
+    "license": "CC-BY-SA-4.0",
+    "name": "Intercolor - GemstoneLV Recolors",
+    "release_date": "2022-07-03T11:47:57.831022+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Zarbon44/Intercolor/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/199605-112x-intercolor-cre-recolors-tantares-recolors/",
+        "repository": "https://github.com/Zarbon44/Intercolor",
+        "spacedock": "https://spacedock.info/mod/3054/Intercolor%20-%20GemstoneLV%20Recolors",
+        "x_screenshot": "https://spacedock.info/content/Zarbon44_33010/Intercolor_-_GemstoneLV_Recolors/Intercolor_-_GemstoneLV_Recolors-1656848900.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

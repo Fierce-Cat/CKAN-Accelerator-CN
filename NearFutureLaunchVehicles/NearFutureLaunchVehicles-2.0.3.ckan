@@ -1,0 +1,66 @@
+{
+    "abstract": "Large launch vehicle parts in the 5 and 7.5m size categories",
+    "author": "Nertea",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "DeployableEngines"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1434/Near%20Future%20Launch%20Vehicles/download/2.0.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EDB3DADDE7D6158D6CD69982BF0F9302D1A21D32",
+        "sha256": "5E9501774963E146CA65F0804A76A5ABFCBBEA207557EE4D0D5D170D37C80D3F"
+    },
+    "download_size": 169081752,
+    "identifier": "NearFutureLaunchVehicles",
+    "install": [
+        {
+            "find": "NearFutureLaunchVehicles",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.10.1",
+    "license": "restricted",
+    "localizations": [
+        "ru",
+        "de-de",
+        "en-us",
+        "es-es"
+    ],
+    "name": "Near Future Launch Vehicles",
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "release_date": "2020-08-03T05:57:10.46952+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-16x-near-future-technologies-16x-fixes-jan-21/",
+        "metanetkan": "https://raw.githubusercontent.com/ChrisAdderley/NearFutureLaunchVehicles/master/CKAN/NearFutureLaunchVehicles.netkan",
+        "repository": "https://github.com/ChrisAdderley/NearFutureLaunchVehicles",
+        "spacedock": "https://spacedock.info/mod/1434/Near%20Future%20Launch%20Vehicles",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Launch_Vehicles/Near_Future_Launch_Vehicles-1499401603.647544.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "KerbalAtomics"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "2.0.3",
+    "x_generated_by": "netkan"
+}

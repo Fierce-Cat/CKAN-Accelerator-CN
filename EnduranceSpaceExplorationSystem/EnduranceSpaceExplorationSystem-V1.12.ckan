@@ -1,0 +1,71 @@
+{
+    "abstract": "Kerbal Space Program Endurance Mod [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JPLRepo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JPLRepo/Endurance/releases/download/V1.12/Endurance_V1.12.0.0.zip?auth_key=1748275918-2ef4d23ee5294237bf0a4704490128b7-0-879bed8e0902ead117a2f83bce2ca8a3&size=14525089&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9A39232EA0F24C9AFC69BF79BBFC4748B6AEA733",
+        "sha256": "C86EB02E985582EA9672311FBCF611A54F362D0A3AF080DC341B600C2F8A2A76"
+    },
+    "download_size": 14525089,
+    "identifier": "EnduranceSpaceExplorationSystem",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "Endurance",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.10.0",
+    "license": "CC-BY-NC-4.0",
+    "name": "Endurance [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "JSIAdvancedTransparentPods"
+        },
+        {
+            "name": "ThrottleControlledAvionics"
+        }
+    ],
+    "release_date": "2020-09-07T05:45:59Z",
+    "resources": {
+        "bugtracker": "https://github.com/JPLRepo/Endurance/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/133590-*",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=258",
+        "repository": "https://github.com/JPLRepo/Endurance"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "USI-LS"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed",
+        "science"
+    ],
+    "version": "V1.12",
+    "x_generated_by": "netkan"
+}

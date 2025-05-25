@@ -1,0 +1,46 @@
+{
+    "abstract": "Change your screen resolution on the fly",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "AnyRes"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1681/AnyRes%20Continued/download/2.0.3.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A433CD375ED54F79A5CBBA0EFA74698B48246A53",
+        "sha256": "7CEEF54ABA6A1BE85CF367D581D468EEC3EE50CD725E4D3A7411BEF6AB576D08"
+    },
+    "download_size": 39301,
+    "identifier": "AnyResContinued",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "AnyRes",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.0",
+    "license": "CC-BY-4.0",
+    "name": "AnyRes Continued",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170160-131-anyres-continued-change-your-screen-resolution-on-the-fly/",
+        "repository": "https://github.com/linuxgurugamer/AnyRes",
+        "spacedock": "https://spacedock.info/mod/1681/AnyRes%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/AnyRes_Continued/AnyRes_Continued-1517085590.1798694.png"
+    },
+    "spec_version": "v1.4",
+    "version": "2.0.3.2",
+    "x_generated_by": "netkan"
+}

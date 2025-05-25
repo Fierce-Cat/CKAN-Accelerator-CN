@@ -1,0 +1,57 @@
+{
+    "abstract": "Unmanned contracts",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SpacetuxSA"
+        }
+    ],
+    "download": "https://spacedock.info/mod/55/Contract%20Pack:%20Unmanned%20Contracts/download/0.3.27",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C3D8A318F28E6960D85DFAF0A87B40319A773030",
+        "sha256": "9FE74DC3389B83E71C3AA9106876F1CDFA81F50BF4A3BCF7531A75FBC65F249D"
+    },
+    "download_size": 202791,
+    "identifier": "ContractConfigurator-UnmannedContracts",
+    "install": [
+        {
+            "find": "UnmannedContracts",
+            "install_to": "GameData/ContractPacks/Spacetux"
+        }
+    ],
+    "install_size": 61194,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.2.1",
+    "license": "MIT",
+    "name": "Contract Pack: Unmanned Contracts",
+    "recommends": [
+        {
+            "name": "CoherentContracts"
+        },
+        {
+            "name": "ContractConfigurator-AdvancedProgression"
+        }
+    ],
+    "release_date": "2016-11-18T13:23:52.070866+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/UnmannedContracts/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/102186-spacetux-contract-pack-unmanned-contracts-rover-contracts-grand-tours-and-sprite-missions/&do=findComment&comment=1777189",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=135",
+        "repository": "https://github.com/linuxgurugamer/UnmannedContracts",
+        "spacedock": "https://spacedock.info/mod/55/Contract%20Pack:%20Unmanned%20Contracts"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "career"
+    ],
+    "version": "0.3.27",
+    "x_generated_by": "netkan"
+}

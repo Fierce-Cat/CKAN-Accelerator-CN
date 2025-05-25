@@ -1,0 +1,45 @@
+{
+    "abstract": "This is a collection of ribbons that you can assign to your Kerbals to recognise their rank for Role-Playing purposes. PLEASE NOTE: Final Frontier is required for this ribbon pack.",
+    "author": "SmarterThanMe",
+    "depends": [
+        {
+            "min_version": "0.9.1",
+            "name": "FinalFrontier"
+        }
+    ],
+    "download": "https://spacedock.info/mod/401/STM's%20Officer%20Ranks%20-%20Final%20Frontier%20Ribbon%20Pack/download/0.5.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CDE894A9F2DF9E2CA6B868B7AEB32827DBA4036E",
+        "sha256": "BF4FE10C14ECE8E19DADFEB99EF04B18038F144A5C8327619CDC7833EC10B3AE"
+    },
+    "download_size": 18811,
+    "identifier": "STMsFFRibbonPackOfficerRanks",
+    "install": [
+        {
+            "find": "GameData/STMRibbons",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 18297,
+    "ksp_version": "1.12.2",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "STM's Officer Ranks - Final Frontier Ribbon Pack",
+    "release_date": "2016-04-25T17:14:49.404292+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/129465-105-stms-final-frontier-expeditionrank-ribbon-packs-updated-21116-naval-officers-2xexpedition-ribbons/&page=1",
+        "spacedock": "https://spacedock.info/mod/401/STM's%20Officer%20Ranks%20-%20Final%20Frontier%20Ribbon%20Pack"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "FinalFrontier"
+        }
+    ],
+    "tags": [
+        "config",
+        "crewed"
+    ],
+    "version": "0.5.1",
+    "x_generated_by": "netkan"
+}

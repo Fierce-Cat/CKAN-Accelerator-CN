@@ -1,0 +1,267 @@
+{
+    "abstract": "Realistic Progression One - Career for Realism Overhaul [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RP-0 Group",
+    "conflicts": [
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "CrowdSourcedScience"
+        },
+        {
+            "name": "HideEmptyTechNodes"
+        },
+        {
+            "name": "MechJebForAll"
+        },
+        {
+            "name": "NearFutureElectrical-DecayingRTGs"
+        },
+        {
+            "name": "KRASH"
+        },
+        {
+            "min_version": "v2.0.0.0",
+            "name": "ROCapsules"
+        },
+        {
+            "min_version": "v2.0.0.0",
+            "name": "ROEngines"
+        },
+        {
+            "min_version": "v2.0.0.0",
+            "name": "ROSolar"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "max_version": "v15.99.0.0",
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "SXTContinued"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "VenStockRevamp-NewParts"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "MagiCore"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "Kerbalism-Config-RO"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RP-0/releases/download/v1.12.19.0/RP-1-v1.12.19.0.zip?auth_key=1748275918-6dc55499e1b9490185811b99944e7d29-0-a94d78284fab0db626ecfecf17c7331e&size=52234699&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0E8185D223956D66DB184B5E23CC00569E328407",
+        "sha256": "13274560215396D0D6B0568FA9FF03DE84DD60876690F9530C15B7B12214B267"
+    },
+    "download_size": 52234699,
+    "identifier": "RP-0",
+    "install_size": 130642494,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-4.0",
+    "name": "Realistic Progression One (RP-1) [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RSSDateTimeFormatter"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "ReStock"
+                },
+                {
+                    "name": "VenStockRevamp"
+                }
+            ]
+        },
+        {
+            "name": "ROEngines"
+        },
+        {
+            "name": "ROTanks"
+        },
+        {
+            "name": "ROCapsules"
+        },
+        {
+            "name": "ROSolar"
+        },
+        {
+            "name": "ROHeatshields"
+        },
+        {
+            "name": "B9-PWings-Fork"
+        },
+        {
+            "name": "KSPWheel"
+        },
+        {
+            "name": "HangerExtenderExtended"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "KerbalRenamer"
+        },
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "AtmosphereAutopilot"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "RCSBuildAid"
+        },
+        {
+            "name": "RCSBuildAidCont"
+        },
+        {
+            "name": "RealAntennas"
+        },
+        {
+            "name": "ShipManifest"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "TestFlight"
+                },
+                {
+                    "name": "TestLite"
+                }
+            ]
+        },
+        {
+            "name": "RSSVE-Textures"
+        },
+        {
+            "name": "TransferWindowPlannerFork"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "ModularLaunchPads"
+        }
+    ],
+    "release_date": "2023-04-30T23:23:39Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/RP-0/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*",
+        "manual": "https://github.com/KSP-RO/RP-0/wiki",
+        "metanetkan": "https://raw.githubusercontent.com/KSP-RO/RP-0/master/RP-0.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/RP-0/master/GameData/RP-0/RP-1.version",
+        "repository": "https://github.com/KSP-RO/RP-0"
+    },
+    "spec_version": "v1.26",
+    "suggests": [
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "FASA"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "SemiSaturatableRW"
+        },
+        {
+            "name": "JanitorsCloset"
+        },
+        {
+            "name": "HyperEdit"
+        },
+        {
+            "name": "EditorExtensionsRedux"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "RealScaleBoosters"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "InternalRCS"
+        },
+        {
+            "name": "ProbesPlus"
+        },
+        {
+            "name": "ATKPropulsionPack"
+        },
+        {
+            "name": "WaypointManager"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "NavHudRenewed"
+        },
+        {
+            "name": "ConformalDecals"
+        },
+        {
+            "name": "CanaveralPads"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "config",
+        "parts",
+        "career",
+        "science"
+    ],
+    "version": "v1.12.19.0",
+    "x_generated_by": "netkan"
+}

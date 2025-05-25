@@ -1,0 +1,37 @@
+{
+    "abstract": "Backyard rocket parts ",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1291/Bargain%20Rocket%20Parts%20Recycled/download/1.2.2.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2E6AECA1C7BE71BA66DFB2C9ED16FDB6E3BD435B",
+        "sha256": "65B62550C68C64316608B44ED6CEE375EF712E3E775A99FB1B54C56609C7C045"
+    },
+    "download_size": 5651382,
+    "identifier": "BargainRocketsCont",
+    "install": [
+        {
+            "find": "BargainRockets",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.2",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-SA-4.0",
+    "name": "Bargain Rocket Parts Recycled",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158328-12-ba",
+        "repository": "https://github.com/linuxgurugamer/BargainRockets",
+        "spacedock": "https://spacedock.info/mod/1291/Bargain%20Rocket%20Parts%20Recycled",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Bargain_Rocket_Parts_Recycled/Bargain_Rocket_Parts_Recycled-1491015493.8900354.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.2.2.6",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

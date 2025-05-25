@@ -1,0 +1,82 @@
+{
+    "abstract": "Structural components and truss segments for building deep space vessels and bases. Includes various skeletal adapters and docking ports.",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/563/Near%20Future%20Construction/download/1.3.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FC9420C3B9356438D39145E77CCB5BBA8FA5D8AB",
+        "sha256": "6B7ABA2E7C484C77CBCB6964DD1BCCD9FE8934C2250BF1FF0ED0972B49A7D9BF"
+    },
+    "download_size": 34886784,
+    "identifier": "NearFutureConstruction",
+    "install": [
+        {
+            "find": "NearFutureConstruction",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 89580363,
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Near Future Construction",
+    "release_date": "2020-12-27T06:21:01.698748+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/NearFutureConstruction/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-16x-near-future-technologies-16x-fixes-jan-21/",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/NearFutureConstruction/raw/master/CKAN/NearFutureConstruction.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureConstruction/master/GameData/NearFutureConstruction/Versioning/NearFutureConstruction.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/NearFutureConstruction",
+        "spacedock": "https://spacedock.info/mod/563/Near%20Future%20Construction",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Construction/Near_Future_Construction-1461355818.018581.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1.3.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,43 @@
+{
+    "abstract": "RSE sounds for stock engines, wheels, decouplers, and more [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "ensou04",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RocketSoundEnhancement"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ensou04/RocketSoundEnhancement/releases/download/0.5.2/RocketSoundEnhancement-v0.5.2-Configs.zip?auth_key=1748275914-dce88e183adc4c3c9ece1bf4ccf0f379-0-ce97890d31c6b5d5e160922e577aa177&size=82762756&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4FB9EC213ADA626ADCED2016A5696E1B8BEBEC4E",
+        "sha256": "EF8B7E223E071D4609FE73946C71AC3690E0C60CB7BB75A105E728710CE4160C"
+    },
+    "download_size": 82762756,
+    "identifier": "RocketSoundEnhancement-Config-Default",
+    "install": [
+        {
+            "find": "RocketSoundEnhancement",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.10.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Rocket Sound Enhancement - Default [PRO-KCMIRROR]",
+    "release_date": "2020-11-22T04:46:08Z",
+    "resources": {
+        "bugtracker": "https://github.com/ensou04/RocketSoundEnhancement/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179579-wip15x-rocket-sound-enhancement-pre-v100/",
+        "repository": "https://github.com/ensou04/RocketSoundEnhancement"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "sound"
+    ],
+    "version": "0.5.2",
+    "x_generated_by": "netkan"
+}

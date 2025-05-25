@@ -1,0 +1,54 @@
+{
+    "abstract": "Adds the possibility to keep/pay the revert function.",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "SRL"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/109/QuickRevert/download/3.2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5C7C58D306CFB52D1915ED6CA2432586BC67BA7D",
+        "sha256": "D7F1E4FA8AD133D6FDED8C2DBEA68B5892776B298016E988CA34AD5AFAD6986D"
+    },
+    "download_size": 32953,
+    "identifier": "QuickRevert",
+    "install": [
+        {
+            "file": "GameData/QuickMods/QuickRevert",
+            "install_to": "GameData/QuickMods"
+        }
+    ],
+    "ksp_version": "1.8.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "fr-fr"
+    ],
+    "name": "QuickRevert",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/109/QuickRevert"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "version": "1:3.2.0",
+    "x_generated_by": "netkan"
+}

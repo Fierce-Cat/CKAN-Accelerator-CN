@@ -1,0 +1,43 @@
+{
+    "abstract": "Count down and count up timers",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2307/BigBen/download/0.0.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AC467B8A5E7439B0F8D948A7DF55EFEEB193588E",
+        "sha256": "A3FE40A7CD21FFC67A7A499CD1E58DFC6AD4801B82DAC44F0DA3360B733E3049"
+    },
+    "download_size": 38760,
+    "identifier": "BigBen",
+    "install": [
+        {
+            "find": "BigBen",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "BigBen",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190916-18x-big-ben-stopwatch-timers-to-count-down-and-up/",
+        "repository": "https://github.com/linuxgurugamer/BigBen",
+        "spacedock": "https://spacedock.info/mod/2307/BigBen"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "0.0.1.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

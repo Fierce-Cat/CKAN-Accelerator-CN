@@ -1,0 +1,54 @@
+{
+    "abstract": "Highly recommended Extras for the Community Parts Titles. Create new categories or place parts to a more appropriate category. Though these techniques aren't overused [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "flart",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/yalov/CommunityPartsTitles/releases/download/0.8.6/CommunityPartsTitles-v0.8.6.zip?auth_key=1748275915-d98e99a236e84d7baeba49288e57c373-0-010c23c69c34211c68ca754f88667e44&size=168761&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "83ADCCBBD05F2DC5AA2BF6F2DE3F170D9CF6C3A5",
+        "sha256": "BBC670F76FF5DBE23C6F96F65CE03C6A3ED811A7658DA65702900CC31C1D2472"
+    },
+    "download_size": 168761,
+    "identifier": "CommunityPartsTitlesExtrasCategory",
+    "install": [
+        {
+            "comment": "Extras folder without the category_hide_cck_parts.cfg. There is CommunityPartsTitlesExtrasNoDup for it",
+            "file": "GameData/002_CommunityPartsTitles/Extras",
+            "filter": "CPTE_category_hide_cck_parts.cfg",
+            "install_to": "GameData/002_CommunityPartsTitles"
+        }
+    ],
+    "ksp_version_max": "1.12.9",
+    "ksp_version_min": "1.3.0",
+    "license": "GPL-3.0",
+    "name": "Community Parts Titles Extras: Categories [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "CommunityPartsTitles"
+        },
+        {
+            "name": "CommunityPartsTitlesExtrasNoCCKDup"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "release_date": "2022-01-14T10:48:44Z",
+    "resources": {
+        "bugtracker": "https://github.com/yalov/CommunityPartsTitles/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174189-*",
+        "remote-avc": "https://raw.githubusercontent.com/yalov/CommunityPartsTitles/master/GameData/002_CommunityPartsTitles/CommunityPartsTitles.version",
+        "repository": "https://github.com/yalov/CommunityPartsTitles"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "convenience"
+    ],
+    "version": "0.8.6",
+    "x_generated_by": "netkan"
+}

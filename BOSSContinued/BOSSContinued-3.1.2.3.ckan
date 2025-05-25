@@ -1,0 +1,45 @@
+{
+    "abstract": "Take high resolution screenshots [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/BOSS_Remastered/releases/download/3.1.2.3/BOSSContinued-1.12.0-3.1.2.3.zip?auth_key=1748275915-f2392662475a4a62b1d123bb408b2a11-0-c531737462f2499b756bf60376e10670&size=32229&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AEA507FF048EBB873BB78A3B11E23A7F635114F8",
+        "sha256": "944636DDB5F3D9FE09AC7D821B201B5632E13F4CDA4C58729AB1102685BF4686"
+    },
+    "download_size": 32229,
+    "identifier": "BOSSContinued",
+    "install": [
+        {
+            "find": "BOSS",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 78064,
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Bolt-On Screenshot System (BOSS) Continued [PRO-KCMIRROR]",
+    "release_date": "2022-11-30T01:38:52Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/BOSS_Remastered/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/151126-bolt-on-screenshot-system-boss-continued/",
+        "remote-avc": "http://ksp.spacetux.net/avc/BOSSContinued",
+        "repository": "https://github.com/linuxgurugamer/BOSS_Remastered",
+        "spacedock": "https://spacedock.info/mod/1029/Bolt-On%20Screenshot%20System%20(BOSS)%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Bolt-On_Screenshot_System_BOSS_Continued/Bolt-On_Screenshot_System_BOSS_Continued-1477796345.425954.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "3.1.2.3",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,54 @@
+{
+    "abstract": "A parts pack geared toward making heavy spaceplanes using the Mk3 fuselage systems",
+    "author": "nestor_d",
+    "depends": [
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/562/Mk3%20Hypersonic%20Systems/download/1.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EA01D5701552CD0F8703F67C22E4119E8448100D",
+        "sha256": "32FB43A0AD226BF3E1285E76F6B4C27B7209C7A7C8BB6C65F6C36130F189B957"
+    },
+    "download_size": 10471388,
+    "identifier": "Mk3HypersonicSystems",
+    "install": [
+        {
+            "filter": "Thumbs.db",
+            "find": "GameData/Mk3HypersonicSystems",
+            "install_to": "GameData"
+        },
+        {
+            "find": "SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 38572347,
+    "ksp_version": "1.8.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Mk3 Hypersonic Systems",
+    "recommends": [
+        {
+            "name": "B9-PWings-Fork"
+        }
+    ],
+    "release_date": "2019-11-13T17:46:34.823437+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189773-18x-mk3-hypersonic-systems/",
+        "spacedock": "https://spacedock.info/mod/562/Mk3%20Hypersonic%20Systems"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1:1.2",
+    "x_generated_by": "netkan"
+}

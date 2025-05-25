@@ -1,0 +1,44 @@
+{
+    "abstract": "A Kerbal Space Program mod that opens the map view in another window/monitor [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "DanielKinsman",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "samv-client"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/stand-alone-map-view/releases/download/1.0.0.1/StandAloneMapView-1.12.0-1.0.0.1-server.zip?auth_key=1748275918-9a69988d28e14abb9c59199f65abeec4-0-a85ad3501839d0dbbe8a5e7d3da90762&size=126559&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "11A67EC7832575745B153E483862379E5F8824B6",
+        "sha256": "D1D8AD18DF072EFC66ED5152178A609AF72F0CE59D8C8DC4B60C831EE5A2A014"
+    },
+    "download_size": 126559,
+    "identifier": "samv-server",
+    "install": [
+        {
+            "find": "samv_server",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 291181,
+    "ksp_version_min": "1.12.3",
+    "license": "GPL-3.0",
+    "name": "Stand alone map view server [PRO-KCMIRROR]",
+    "release_date": "2022-12-25T19:17:31Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/stand-alone-map-view/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/211182-*/",
+        "remote-avc": "http://ksp.spacetux.net/avc/StandAloneMapView",
+        "repository": "https://github.com/linuxgurugamer/stand-alone-map-view"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "app"
+    ],
+    "version": "2:1.0.0.1",
+    "x_generated_by": "netkan"
+}

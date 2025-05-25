@@ -1,0 +1,49 @@
+{
+    "abstract": "Cargo parts, that can be placed inside Inventories in deflated state, and in the inflated state they are Inventories themselves, where other parts could be placed. Depends on SSPX [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "flart",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/yalov/DeployableInventory/releases/download/0.9.5/DeployableInventory-v0.9.5.zip?auth_key=1748275917-72d9e366e5894bf881deb96dcedbc7b8-0-2c174425da09f901fb7dbf7586900a3d&size=486102&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "13AEFC280E0A2C727E832F3F0BD86D3F204F5983",
+        "sha256": "A05B2726B013DCC4A889E56A7E219A7A42BB1321A9233DD4B169D4663F65999B"
+    },
+    "download_size": 486102,
+    "identifier": "DeployableInventory",
+    "install_size": 506601,
+    "ksp_version_max": "1.12.9",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Deployable Inventory [PRO-KCMIRROR]",
+    "release_date": "2022-08-06T00:18:53Z",
+    "resources": {
+        "bugtracker": "https://github.com/yalov/DeployableInventory/issues",
+        "discussions": "https://github.com/yalov/DeployableInventory/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209148-*",
+        "remote-avc": "https://raw.githubusercontent.com/yalov/DeployableInventory/master/DeployableInventory.version",
+        "repository": "https://github.com/yalov/DeployableInventory"
+    },
+    "spec_version": "v1.2",
+    "supports": [
+        {
+            "name": "KSP-PartVolume"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "config",
+        "stock-inventory"
+    ],
+    "version": "0.9.5",
+    "x_generated_by": "netkan"
+}

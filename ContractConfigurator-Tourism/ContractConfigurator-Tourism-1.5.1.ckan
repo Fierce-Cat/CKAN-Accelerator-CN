@@ -1,0 +1,44 @@
+{
+    "abstract": "Better tourism! A richer tourism experience than stock.  Take tourists to space and to visit the stations and bases that you've already created. Build new tourist attractions like the space casino mega-project.  15 new contracts for tourism. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "nightingale",
+    "depends": [
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/jrossignol/ContractPack-Tourism/releases/download/1.5.1/ContractPack-Tourism_1.5.1.zip?auth_key=1748275915-a42b34901714409c990891f55d0df055-0-4d22b6d2b58b3c1d732126b5bbba47c4&size=31502&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1D52D9A0BE2FA2034C024A4F85CA641183A086D1",
+        "sha256": "2B3DEF1DA9F72248A30A2CF6D112FA38B0916CFC6EB5858FD34BA84C34DBCF3B"
+    },
+    "download_size": 31502,
+    "identifier": "ContractConfigurator-Tourism",
+    "install": [
+        {
+            "find": "Tourism",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "ksp_version_min": "1.1.3",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Contract Pack: Tourism Plus [PRO-KCMIRROR]",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/jrossignol/ContractPack-Tourism/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/102372-*",
+        "license": "https://raw.githubusercontent.com/jrossignol/ContractPack-Tourism/master/GameData/ContractPacks/Tourism/LICENSE.txt",
+        "repository": "https://github.com/jrossignol/ContractPack-Tourism"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "WaypointManager"
+        }
+    ],
+    "version": "1.5.1",
+    "x_generated_by": "netkan"
+}

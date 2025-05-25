@@ -1,0 +1,62 @@
+{
+    "abstract": "Beyond launch clamps: Mix-and-match components to build all kinds of launch infrastructure",
+    "author": "AlphaMensae",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "StagedAnimation"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1767/AlphaMensae's%20Modular%20Launch%20Pads/download/2.6.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "747E53D2A390C7E5A7B0B364902DD33E1C797B39",
+        "sha256": "1128E9FE5767ED5A7383974E21691543ED70680AF9C6224A74B1515C8C3EAF2A"
+    },
+    "download_size": 51036608,
+    "identifier": "ModularLaunchPads",
+    "install": [
+        {
+            "find": "ModularLaunchPads",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Ships/VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 308076948,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "AlphaMensae's Modular Launch Pads",
+    "recommends": [
+        {
+            "name": "KSCExtended"
+        },
+        {
+            "name": "BluedogDB"
+        }
+    ],
+    "release_date": "2023-07-13T23:56:46.34485+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/AlphaMensae/Modular-Launch-Pads/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173008-12x13x14x-alphamensaes-modular-launch-pads-101-soyuz-and-saturn-style-pads-for-almost-any-rocket/",
+        "repository": "https://github.com/AlphaMensae/Modular-Launch-Pads",
+        "spacedock": "https://spacedock.info/mod/1767/AlphaMensae's%20Modular%20Launch%20Pads",
+        "x_screenshot": "https://spacedock.info/content/AlphaMensae_884/AlphaMensaes_Modular_Launch_Pads/AlphaMensaes_Modular_Launch_Pads-1564546048.6527388.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "2.6.1",
+    "x_generated_by": "netkan"
+}

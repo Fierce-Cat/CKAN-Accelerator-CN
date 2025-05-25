@@ -1,0 +1,36 @@
+{
+    "abstract": "This is a mod that adds satellite parts like Rosetta/Philae, New Horizons, and more!",
+    "author": "damon",
+    "depends": [
+        {
+            "name": "TundraExploration"
+        }
+    ],
+    "download": "https://spacedock.info/mod/223/Tundra%20Exploration%20-%20Stockalike%20Dragon%20V2%20and%20Falcon%209/download/1.5.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4618A0BECAE12701C76CD3199CF1F6FE03B2B00A",
+        "sha256": "6BE0FEE909E0DBD02D0D0E743DD09CA1E02FC2DF313111E4A960384F8879B68D"
+    },
+    "download_size": 135762377,
+    "identifier": "TundraTechnologies",
+    "install": [
+        {
+            "filter": "Thumbs.db",
+            "find": "TundraTechnologies",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.99",
+    "ksp_version_min": "1.5.1",
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "Tundra Technologies",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/166915-131-tundra-exploration-v093-stockalike-falcon-9-and-dragon-v2/",
+        "spacedock": "https://spacedock.info/mod/223/Tundra%20Exploration%20-%20Stockalike%20Dragon%20V2%20and%20Falcon%209",
+        "x_screenshot": "https://spacedock.info/content/tygoo7_912/Tundra_Exploration_-_Stockalike_Dragon_V2_and_Falcon_9/Tundra_Exploration_-_Stockalike_Dragon_V2_and_Falcon_9-1551828333.3935726.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.5.0.2",
+    "x_generated_by": "netkan"
+}

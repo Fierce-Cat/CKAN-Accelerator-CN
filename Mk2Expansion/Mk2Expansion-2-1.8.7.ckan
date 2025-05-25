@@ -1,0 +1,57 @@
+{
+    "abstract": "Adds a wide variety of parts for the Mk2 formfactor",
+    "author": "SuicidalInsanity",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://spacedock.info/mod/473/Mk2%20Stockalike%20Expansion/download/1.8.7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "24EC11D417E14561D33B0A95AC9B03E790F00D97",
+        "sha256": "798F8DEFB54B3597D087A27C101DC934A63DB3EE2DBD027D92F511821F53742D"
+    },
+    "download_size": 27821384,
+    "identifier": "Mk2Expansion",
+    "install": [
+        {
+            "find": "GameData/Mk2Expansion",
+            "install_to": "GameData"
+        },
+        {
+            "find": "VAB",
+            "install_to": "Ships"
+        },
+        {
+            "find": "SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "ksp_version": "1.9.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "Mk2 Stockalike Expansion",
+    "release_date": "2020-03-20T01:55:35.461374+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/109145-105-mk2-expansion-v1611-update-11132015/&page=1",
+        "repository": "https://github.com/SuicidalInsanity/Mk2Expansion",
+        "spacedock": "https://spacedock.info/mod/473/Mk2%20Stockalike%20Expansion",
+        "x_screenshot": "https://spacedock.info/content/SuicidalInsanity_1925/Mk2_Stockalike_Expansion/Mk2_Stockalike_Expansion-1459796616.997534.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "2:1.8.7",
+    "x_generated_by": "netkan"
+}

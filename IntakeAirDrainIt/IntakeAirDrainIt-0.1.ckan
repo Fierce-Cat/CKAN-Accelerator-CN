@@ -1,0 +1,40 @@
+{
+    "abstract": "It is a mod to re-enable the feature of draining intake air which was disabled in KSP 1.9.1 this mod requires Module Manager",
+    "author": "Nigel_Cardozo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2366/Intake%20Air-Drain%20it!/download/0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "862E78ECC8F08A4696EB79FEAE9B1781DDD89ACA",
+        "sha256": "F16A86F1C41A0D8944BFB182976D624BB601880527D90D08FA56D4778E03F64C"
+    },
+    "download_size": 282,
+    "identifier": "IntakeAirDrainIt",
+    "install": [
+        {
+            "find": "Air Intake Drain.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/IntakeAirDrainIt"
+        }
+    ],
+    "install_size": 233,
+    "ksp_version": "1.9.1",
+    "license": "GPL-3.0",
+    "name": "Intake Air-Drain it!",
+    "release_date": "2020-03-16T07:13:28.711265+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192451-191-intake-air-drain-it/",
+        "spacedock": "https://spacedock.info/mod/2366/Intake%20Air-Drain%20it!",
+        "x_screenshot": "https://spacedock.info/content/Nigel_Cardozo_26312/Intake_Air-Drain_it/Intake_Air-Drain_it-1584343201.8252232.png"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "config"
+    ],
+    "version": "0.1",
+    "x_generated_by": "netkan"
+}

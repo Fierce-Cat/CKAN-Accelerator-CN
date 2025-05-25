@@ -1,0 +1,39 @@
+{
+    "abstract": "An in-game console for KSP provides in-game access to Windows CMD for running kRPC programs in FullScreen mode [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "RAT-L",
+        "RafertyLee"
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/RafertyLee/Kraken/releases/download/Kraken_Console_v0.1.0.2_23-08-04_beta/KrakenConsole.zip?auth_key=1748275915-27a07e2dfe734c188967a569694e2ab4-0-891e1a6e93a537da2304eb960162ebe2&size=3886&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D955E76524ECE5367BFC02608D1C9BD38DAFA065",
+        "sha256": "CB4068BCE6EF5B7F6302161F2C3B0413D693E7560523C54D6BEB5D882EEDB393"
+    },
+    "download_size": 3886,
+    "identifier": "KrakenConsole",
+    "install": [
+        {
+            "find": "KrakenConsole.dll",
+            "find_matches_files": true,
+            "install_to": "GameData/KrakenConsole"
+        }
+    ],
+    "install_size": 8704,
+    "ksp_version": "any",
+    "license": "AGPL-3.0",
+    "name": "Kraken Console [PRO-KCMIRROR]",
+    "release_date": "2023-09-01T02:34:26Z",
+    "resources": {
+        "bugtracker": "https://github.com/RafertyLee/Kraken/issues",
+        "repository": "https://github.com/RafertyLee/Kraken"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "app",
+        "control",
+        "convenience"
+    ],
+    "version": "v0.1.0.2_23-08-04_beta",
+    "x_generated_by": "netkan"
+}

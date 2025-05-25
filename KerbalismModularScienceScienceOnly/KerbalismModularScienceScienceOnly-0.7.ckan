@@ -1,0 +1,58 @@
+{
+    "abstract": "Kerbals working to Science the OrganicSlurry out of Kerbalism.",
+    "author": "theJesuit",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3691/Kerbalism%20Modular%20Science%20(ScienceOnly)/download/0.7",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B195E5D9399BC9B0AEB35C46D602D81BCD5277CF",
+        "sha256": "DC360A16F0702B247EE2593C7F4CFACEB91481D95C79EC01BE8546C10251411F"
+    },
+    "download_size": 366223,
+    "identifier": "KerbalismModularScienceScienceOnly",
+    "install": [
+        {
+            "find": "KerbalismModularScience",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 976944,
+    "ksp_version_max": "1.12.9",
+    "ksp_version_min": "1.8.0",
+    "license": "Unlicense",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "ko-kr",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Kerbalism Modular Science (ScienceOnly)",
+    "provides": [
+        "Kerbalism-Config"
+    ],
+    "release_date": "2024-10-06T17:14:47.283917+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/theJesuit/KerbalismModularScience/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/225703-1125-kerbalism-modular-science-05-science-only-config-initial-release/",
+        "remote-avc": "https://raw.githubusercontent.com/Kerbalism/Kerbalism/master/GameData/Kerbalism/Kerbalism.version",
+        "repository": "https://github.com/theJesuit/KerbalismModularScience",
+        "spacedock": "https://spacedock.info/mod/3691/Kerbalism%20Modular%20Science%20(ScienceOnly)"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.7",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

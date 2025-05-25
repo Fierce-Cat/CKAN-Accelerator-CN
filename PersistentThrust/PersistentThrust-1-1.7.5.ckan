@@ -1,0 +1,55 @@
+{
+    "abstract": "PersistentThrust is a plugin that allows propulsion systems to operate during timewarp. The plugin includes a new solar sail part and module that allows a spacecraft to be propelled only by sunlight. It also adds a module with a patch to the stock ion engine that allows engines to thrust during timewarp.",
+    "author": [
+        "mrsolarsail",
+        "FreeThinker"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2450/Persistent%20Thrust/download/1.7.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "90E1A2EF5D8C2334B996164D9A2EB930038AF7DE",
+        "sha256": "0CECAAE6E6BE0E88EEE5E53406C79E54572A38F4717EE2D1F7EB52FB58AD542A"
+    },
+    "download_size": 80998,
+    "identifier": "PersistentThrust",
+    "install": [
+        {
+            "find": "PersistentThrust",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 48320,
+    "ksp_version_max": "1.10.1",
+    "ksp_version_min": "1.8.1",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Persistent Thrust",
+    "recommends": [
+        {
+            "name": "SolarSailNavigator"
+        }
+    ],
+    "release_date": "2020-08-03T12:31:08.685403+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/sswelm/PersistentThrust/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194707-181191-persistent-thrust-100/",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=666",
+        "repository": "https://github.com/sswelm/PersistentThrust",
+        "spacedock": "https://spacedock.info/mod/2450/Persistent%20Thrust",
+        "x_screenshot": "https://spacedock.info/content/FreeThinker_517/Persistent_Thrust/Persistent_Thrust-1592050958.2043908.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "1:1.7.5",
+    "x_generated_by": "netkan"
+}

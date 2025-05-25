@@ -1,0 +1,63 @@
+{
+    "abstract": "Weldable docking ports, cranes, magnets, and other construction equipment! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        },
+        {
+            "min_version": "0.7.0.0",
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/UmbraSpaceIndustries/Konstruction/releases/download/v112.0.1/Konstruction_112.0.1.zip?auth_key=1748275916-df1392450e4741bf9ac698f72e28d735-0-bbdfc8ef1f0e5a227cd5dbc1b6b2924c&size=61256117&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "458A88D2649FA8BB8FDBB7490F6D9D85C005E93E",
+        "sha256": "2B18042BB826FDB5412E73DF78C6C7C9B2C7DF2D0168C86DE05B388326EE0133"
+    },
+    "download_size": 61256117,
+    "identifier": "Konstruction",
+    "install": [
+        {
+            "file": "GameData/UmbraSpaceIndustries/Akita",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        },
+        {
+            "file": "GameData/UmbraSpaceIndustries/Konstruction",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "install_size": 31198482,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Konstruction [PRO-KCMIRROR]",
+    "release_date": "2022-05-29T21:30:58Z",
+    "resources": {
+        "bugtracker": "https://github.com/UmbraSpaceIndustries/Konstruction/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/149233-*",
+        "manual": "https://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "remote-avc": "https://raw.githubusercontent.com/UmbraSpaceIndustries/Konstruction/main/FOR_RELEASE/GameData/UmbraSpaceIndustries/Konstruction/Konstruction.version",
+        "repository": "https://github.com/UmbraSpaceIndustries/Konstruction"
+    },
+    "spec_version": "v1.2",
+    "tags": [
+        "parts"
+    ],
+    "version": "v112.0.1",
+    "x_generated_by": "netkan"
+}

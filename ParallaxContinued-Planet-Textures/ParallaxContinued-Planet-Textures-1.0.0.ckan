@@ -1,0 +1,55 @@
+{
+    "abstract": "The overhauled planet textures for by Parallax Continued [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Linx",
+    "conflicts": [
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "Parallax-StockTextures"
+        },
+        {
+            "name": "Parallax-StockScatterTextures"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ParallaxContinued"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Gameslinx/Parallax-Continued/releases/download/1.0.0/ParallaxContinued_StockPlanetTextures-1.0.0.zip?auth_key=1748275917-55ef242c29374e67af710e2da1e028fc-0-f0f223a09d0e85abfca937b172c7b280&size=241059231&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E7F872DB47CEB548C21653F05A9C6FE17C5CEBCF",
+        "sha256": "2F08A215E55D7814FEFCF4346DE223CE578FA6B2E1111477A031BF946CA5D362"
+    },
+    "download_size": 241059231,
+    "identifier": "ParallaxContinued-Planet-Textures",
+    "install": [
+        {
+            "find": "Parallax_StockPlanetTextures",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 436690113,
+    "ksp_version": "1.12",
+    "license": "restricted",
+    "name": "Parallax Continued Planet Textures [PRO-KCMIRROR]",
+    "release_date": "2025-03-28T18:40:47Z",
+    "resources": {
+        "bugtracker": "https://github.com/Gameslinx/Parallax-Continued/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227476-*",
+        "repository": "https://github.com/Gameslinx/Parallax-Continued"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library",
+        "graphics"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,61 @@
+{
+    "abstract": "Rebalances the mass of parts and the density of propellants to give rockets more life-like mass ratios",
+    "author": [
+        "Galileo88",
+        "OhioBob"
+    ],
+    "conflicts": [
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "SMURFF"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "JNSQ-Rescale-10x"
+        }
+    ],
+    "download": "https://github.com/Galileo88/JNSQ/releases/download/0.10.2/JNSQ.0.10.2.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "174A112588399590A22E1AA4EC2FED04E2691871",
+        "sha256": "7384D08FAB73F4952E37085090039340A31E3481BBB9EFC5E0AE5C737B5E5BE2"
+    },
+    "download_size": 2046110130,
+    "identifier": "JNSQ-PartRebalancer-10x",
+    "install": [
+        {
+            "find": "JNSQ_Rescale/PartRebalancer10x/GameData/PartRebalancer10x",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1973,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-ND-3.0",
+    "name": "JNSQ Part Rebalancer 10x",
+    "recommends": [
+        {
+            "name": "BetterSRBs"
+        }
+    ],
+    "release_date": "2021-11-25T17:42:45Z",
+    "resources": {
+        "bugtracker": "https://github.com/Galileo88/JNSQ/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184880-*",
+        "remote-avc": "https://raw.githubusercontent.com/Galileo88/JNSQ/master/GameData/JNSQ/Version/JNSQ.version",
+        "repository": "https://github.com/Galileo88/JNSQ"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "0.10.2",
+    "x_generated_by": "netkan"
+}

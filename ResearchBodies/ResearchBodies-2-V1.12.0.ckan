@@ -1,0 +1,67 @@
+{
+    "abstract": "ResearchBodies is a mod that adds the functionality of hiding celestial bodies and requiring you to find and track celestial bodies to explore them. ",
+    "author": "Jplrepo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "REPOSoftTech-Agencies"
+        }
+    ],
+    "download": "https://spacedock.info/mod/684/ResearchBodies/download/V1.12.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E48AA83EFC280EAF34D492613B23D100DED5A716",
+        "sha256": "99CF7CC1A64D44503DE30973A4B30DCBB4F0E84B18B23EEE0703FC47C49883D0"
+    },
+    "download_size": 12104299,
+    "identifier": "ResearchBodies",
+    "install": [
+        {
+            "find": "ResearchBodies",
+            "install_to": "GameData/REPOSoftTech"
+        },
+        {
+            "find": "ProgressiveCBMaps",
+            "install_to": "GameData/REPOSoftTech"
+        }
+    ],
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.10.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "es-mx",
+        "fr-fr",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "ResearchBodies",
+    "release_date": "2020-10-16T21:43:13.355966+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JPLRepo/ResearchBodies/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/139473-112",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=295",
+        "repository": "https://github.com/JPLRepo/ResearchBodies",
+        "spacedock": "https://spacedock.info/mod/684/ResearchBodies"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "AsteroidDay"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts",
+        "career"
+    ],
+    "version": "2:V1.12.0",
+    "x_generated_by": "netkan"
+}

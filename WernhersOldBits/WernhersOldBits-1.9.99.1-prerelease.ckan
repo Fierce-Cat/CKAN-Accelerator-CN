@@ -1,0 +1,54 @@
+{
+    "abstract": "Old rocket parts from the dawn of the rocket age, back during kerbals Komplete Konflict II.  Wernher von Kerben's legacy. Old Aggregate rockets including those that were never built. For Kerbal Space Program.",
+    "author": [
+        "TiktaalikDreaming",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/42/Wernher's%20Old%20Stuff%20(WOS)%20by%20TiktaalikDreaming/download/1.9.99.1-prerelease",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E18BFA4A67E3C37BCBC212255E39E04B00674FC1",
+        "sha256": "39E4AED0A94A2ED105B149FD9E96065BB95D6B1D88E9566D41CBBE17781C0A38"
+    },
+    "download_size": 55358637,
+    "identifier": "WernhersOldBits",
+    "install": [
+        {
+            "find": "WernhersOldStuff",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 183994868,
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.7.1",
+    "license": "MIT",
+    "name": "Wernher's Old Stuff (WOS) by TiktaalikDreaming",
+    "recommends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "release_date": "2022-12-11T20:07:11.137715+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/WernhersOldStuff/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/207233-*/",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/WernhersOldStuff/master/WernhersOldStuff.version",
+        "repository": "https://github.com/zer0Kerbal/WernhersOldStuff",
+        "spacedock": "https://spacedock.info/mod/42/Wernher's%20Old%20Stuff%20(WOS)%20by%20TiktaalikDreaming",
+        "x_screenshot": "https://spacedock.info/content/TiktaalikDreaming_235/Wernhers_Old_Stuff_WOS/Wernhers_Old_Stuff_WOS-1667528746.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.9.99.1-prerelease",
+    "x_generated_by": "netkan"
+}

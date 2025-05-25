@@ -1,0 +1,45 @@
+{
+    "abstract": "Autopilot for spaceplanes",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1019/Kramax%20Autopilot%20Continued/download/0.4.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "07425B63451F39C075237385C56E6AF297D4250C",
+        "sha256": "997E874EFA44EB3CC237EB83C5D033CB7DDE3CCE715AD767ACF37699A6AA1DB8"
+    },
+    "download_size": 87615,
+    "identifier": "KramaxAutopilotContinued",
+    "install": [
+        {
+            "find": "KramaxAutoPilot",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.0",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Kramax Autopilot Continued",
+    "release_date": "2019-11-03T02:01:39.002436+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/KramaxAutoPilot/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150846-12-kramax-autopilot-continued-course-guidance-and-auto-land-for-spaceplanes/#comment-2868100",
+        "remote-avc": "http://ksp.spacetux.net/avc/KramaxAutoPilot",
+        "repository": "https://github.com/linuxgurugamer/KramaxAutoPilot",
+        "spacedock": "https://spacedock.info/mod/1019/Kramax%20Autopilot%20Continued"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "0.4.0",
+    "x_generated_by": "netkan"
+}

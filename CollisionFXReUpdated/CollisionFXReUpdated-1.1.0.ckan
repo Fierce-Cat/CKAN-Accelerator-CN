@@ -1,0 +1,51 @@
+{
+    "abstract": "Add some drama to your rough landings! CollisionFX-ReUpdated adds sparks and dust, with sound and lighting effects when you collide or scrape your craft. Landing gear also has a rubbery screech on contacting the ground.",
+    "author": [
+        "pizzaoverhead",
+        "SlimJimDodger",
+        "VoidCosmos"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/VoidCosmo/CollisionFX-ReUpdated/releases/download/1.1.0/CollisionFXReUpdated.zip",
+        "https://spacedock.info/mod/2426/CollisionFX-ReUpdated/download/1.1.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "937483652A0BEF50EB083F5808CB1356B057818F",
+        "sha256": "F934DFC8E47A911FE61BB6549287C8891F907D00F08352EDA84D0EDD4B2B4D4A"
+    },
+    "download_size": 7648492,
+    "identifier": "CollisionFXReUpdated",
+    "install": [
+        {
+            "find": "GameData/CollisionFXReUpdated",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 8982127,
+    "ksp_version_max": "1.9.99",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-2.0",
+    "name": "CollisionFX-ReUpdated",
+    "release_date": "2020-05-29T08:40:39.61928+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/VoidCosmo/CollisionFX-ReUpdated/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193803-19x-collisionfx-reupdated/",
+        "remote-avc": "https://github.com/VoidCosmo/CollisionFX-ReUpdated/raw/master/GameData/CollisionFXReUpdated/Versioning/CollisionFX-ReUpdated.version",
+        "repository": "https://github.com/VoidCosmo/CollisionFX-ReUpdated",
+        "spacedock": "https://spacedock.info/mod/2426/CollisionFX-ReUpdated",
+        "x_screenshot": "https://spacedock.info/content/Nigel_Cardozo_26312/CollisionFX-ReUpdated/CollisionFX-ReUpdated-1589277290.0571742.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "version": "1.1.0",
+    "x_generated_by": "netkan"
+}

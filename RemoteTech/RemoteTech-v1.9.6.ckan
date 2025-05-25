@@ -1,0 +1,49 @@
+{
+    "abstract": "Community developed continuation of Kerbal Space Program's RemoteTech mod.",
+    "author": "Remote Technologies Group",
+    "depends": [
+        {
+            "comment": "Earlier versions of MM have forward compatibility problems, according to the MM release notes.",
+            "min_version": "2.3.1",
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/520/RemoteTech/download/1.9.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EA2F88D68773ECE1E5A728BFF46600EB6C3B7CF8",
+        "sha256": "5704305F8ACEB9BD1D64611726D28E5F10401ACFA51D7E8A0A1399D1CE571572"
+    },
+    "download_size": 3584674,
+    "identifier": "RemoteTech",
+    "install": [
+        {
+            "file": "GameData/RemoteTech",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.9.0",
+    "license": "GPL-2.0",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "RemoteTech",
+    "release_date": "2020-02-15T14:45:59.633719+00:00",
+    "release_status": "stable",
+    "resources": {
+        "homepage": "http://remotetechnologiesgroup.github.io/RemoteTech/",
+        "repository": "https://github.com/RemoteTechnologiesGroup/RemoteTech",
+        "spacedock": "https://spacedock.info/mod/520/RemoteTech",
+        "x_screenshot": "https://spacedock.info/content/tomekpiotrowski_3389/RemoteTech/RemoteTech-1461479298.0183873.png"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "control",
+        "uncrewed",
+        "comms"
+    ],
+    "version": "v1.9.6",
+    "x_generated_by": "netkan"
+}

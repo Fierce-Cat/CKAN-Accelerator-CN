@@ -1,0 +1,52 @@
+{
+    "abstract": "This mod uses Module Manager patches to add an assortment of B9fuelswitch tank types to stock and DLC fuel tanks.",
+    "author": "zer0Kerbal",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": [
+        "https://github.com/zer0Kerbal/B9StockPatches/releases/download/1.0.0.0/B9StockPatches-1.0.0.0.zip",
+        "https://spacedock.info/mod/2374/B9%20Stock%20Patches%20(B9SP)/download/1.0.0.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A2D4550353300C4632351AC70CB548505A3BCAB4",
+        "sha256": "CE682BA97015816FC76D3B9BBA25BD9DFD07799A2BBA0B9D0C7D9F945FF4C496"
+    },
+    "download_size": 16845,
+    "identifier": "B9StockPatches",
+    "install_size": 45694,
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.7.1",
+    "license": "MIT",
+    "name": "B9 Stock Patches (B9SP)",
+    "recommends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "KGEx"
+        }
+    ],
+    "release_date": "2020-03-27T03:24:52.497418+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/B9StockPatches/issues",
+        "discussions": "https://github.com/zer0Kerbal/B9StockPatches/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*/",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/B9StockPatches/master/B9StockPatches.version",
+        "repository": "https://github.com/zer0Kerbal/B9StockPatches",
+        "spacedock": "https://spacedock.info/mod/2374/B9%20Stock%20Patches%20(B9SP)",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/B9_Stock_Patches/B9_Stock_Patches-1585289714.5641556.jpg"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config"
+    ],
+    "version": "1.0.0.0",
+    "x_generated_by": "netkan"
+}

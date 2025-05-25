@@ -1,0 +1,57 @@
+{
+    "abstract": "Makes docking less crazy, more subtle and challenging",
+    "author": "Kurgut",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/kurgut/KerbealisticDocking/releases/download/1.0.1/KerbealisticDocking_1.0.1.zip",
+        "https://spacedock.info/mod/3392/Kerbealistic%20Docking/download/1.0.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "893C58F520DA05DA7F50823F94F4AF68F8117A61",
+        "sha256": "93AB4F42861705D541FC32840AE8B8614EAD79CAAE12E0060C3B007578A7F6EA"
+    },
+    "download_size": 4242,
+    "identifier": "KerbealisticDocking",
+    "install_size": 3031,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.10.1",
+    "license": "MIT",
+    "name": "Kerbealistic Docking",
+    "release_date": "2023-12-22T15:36:54.952549+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/kurgut/KerbealisticDocking/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/217276-112-kerbealistic-docking-10/",
+        "remote-avc": "https://raw.githubusercontent.com/kurgut/KerbealisticDocking/main/KerbealisticDocking.version",
+        "repository": "https://github.com/kurgut/KerbealisticDocking",
+        "spacedock": "https://spacedock.info/mod/3392/Kerbealistic%20Docking",
+        "x_screenshot": "https://spacedock.info/content/Kurgut_20777/Kerbealistic_Docking/Kerbealistic_Docking-1684573520.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "NavballDockAlignIndCE"
+        },
+        {
+            "name": "DockingCamKURS"
+        },
+        {
+            "name": "DockingPortDescriptions"
+        },
+        {
+            "name": "DockingPortSoundFX"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "1.0.1",
+    "x_generated_by": "netkan"
+}

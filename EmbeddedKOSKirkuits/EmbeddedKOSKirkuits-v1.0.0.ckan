@@ -1,0 +1,51 @@
+{
+    "abstract": "Adds kOS processors to selected probe cores and command modules",
+    "author": "rkunze",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "kOS"
+        }
+    ],
+    "download": "https://api.github.com/repos/rkunze/EmbeddedKOSKirkuits/zipball/v1.0.0",
+    "download_content_type": "application/vnd.github+json",
+    "download_hash": {
+        "sha1": "FC083737B1138499433F422DCA6F985F790C1783",
+        "sha256": "ED0A8BA2CFB7A052F1C71B5FCFDB05EF03BF5AF32D8DB6C6C5E1AA445D3510BA"
+    },
+    "download_size": 18445,
+    "identifier": "EmbeddedKOSKirkuits",
+    "install": [
+        {
+            "as": "EmbeddedKOSKirkuits",
+            "find_regexp": "EmbeddedKOSKirkuits-.*",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 65828,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-4.0",
+    "name": "Embedded kOS Kirkuits",
+    "recommends": [
+        {
+            "name": "SkyhawkScienceSystem"
+        }
+    ],
+    "release_date": "2023-08-12T19:15:49Z",
+    "resources": {
+        "bugtracker": "https://github.com/rkunze/EmbeddedKOSKirkuits/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/218872-*",
+        "remote-avc": "https://github.com/rkunze/EmbeddedKOSKirkuits/raw/main/EmbeddedKOSKirkuits.version",
+        "repository": "https://github.com/rkunze/EmbeddedKOSKirkuits"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config",
+        "control"
+    ],
+    "version": "v1.0.0",
+    "x_generated_by": "netkan"
+}

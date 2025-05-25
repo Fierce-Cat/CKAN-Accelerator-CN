@@ -1,0 +1,56 @@
+{
+    "abstract": "Space Camping @ Geoscience [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "WildBlue-PlayMode-Pristine"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Pathfinder"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/Pathfinder/releases/download/v1.40.2/Pathfinder.zip?auth_key=1748275915-5c81313270d3454bb8eb60171ed6f900-0-2530d8d8523ff21aa2d59c8a7d30f365&size=51226433&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "96D5C26538581BEFB5162A47840E6CEFEFC8170C",
+        "sha256": "5D5ADD60C36A1A66FB75C84F6570B835E9827AF02FCEED432A987A082F55B755"
+    },
+    "download_size": 51226433,
+    "identifier": "Pathfinder-PlayMode-Pristine",
+    "install": [
+        {
+            "find": "Pathfinder/Templates/Pristine.cfg",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/Pathfinder/Templates"
+        },
+        {
+            "as": "Pristine Mode.cfg",
+            "find": "Pathfinder/Templates/Pristine/Pristine Mode.txt",
+            "find_matches_files": true,
+            "install_to": "GameData/WildBlueIndustries/Pathfinder/Templates/Pristine"
+        }
+    ],
+    "install_size": 2478,
+    "ksp_version_min": "1.12.2",
+    "license": "GPL-3.0",
+    "name": "Pathfinder Pristine Play Mode [PRO-KCMIRROR]",
+    "provides": [
+        "Pathfinder-PlayMode"
+    ],
+    "release_date": "2023-01-24T19:09:20Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/Pathfinder/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/121397-*",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/Pathfinder/master/GameData/WildBlueIndustries/Pathfinder/Pathfinder.version",
+        "repository": "https://github.com/Angel-125/Pathfinder"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config"
+    ],
+    "version": "v1.40.2",
+    "x_generated_by": "netkan"
+}

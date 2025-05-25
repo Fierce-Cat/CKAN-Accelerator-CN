@@ -1,0 +1,52 @@
+{
+    "abstract": "The stock game doesn't offer a consistent model of the camera positioning when the active vessel is switched. The EVS does. Now, your camera won't jump randomly as you switch between the vessels. Additionally to that you get some more features (see the forum).",
+    "author": [
+        "IgorZ"
+    ],
+    "download": "https://spacedock.info/mod/1906/Easy%20Vessel%20Switch/download/2.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6055CF227566541B85B082E4A7C9844F24C0796A",
+        "sha256": "9BAE4BD79CAABC627EE56D194E1775F106BFDCAE87E379AA8B66EC55BB7AD31A"
+    },
+    "download_size": 175936,
+    "identifier": "EasyVesselSwitch",
+    "ksp_version_max": "1.99",
+    "ksp_version_min": "1.11",
+    "license": "Unlicense",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "it-it",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Easy Vessel Switch (EVS)",
+    "release_date": "2021-01-20T06:39:12.203282+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/ihsoft/EasyVesselSwitch/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/141180-easy-vessel-switch-evs/",
+        "metanetkan": "https://raw.githubusercontent.com/ihsoft/EasyVesselSwitch/master/EasyVesselSwitch.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/ihsoft/EasyVesselSwitch/master/EasyVesselSwitch.version",
+        "repository": "https://github.com/ihsoft/EasyVesselSwitch",
+        "spacedock": "https://spacedock.info/mod/1906/Easy%20Vessel%20Switch",
+        "x_screenshot": "https://spacedock.info/content/ihsoft_20222/Easy_Vessel_Switch/Easy_Vessel_Switch-1531455729.3416126.jpg"
+    },
+    "spec_version": "v1.18",
+    "suggests": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "convenience",
+        "information"
+    ],
+    "version": "2.2",
+    "x_generated_by": "netkan"
+}

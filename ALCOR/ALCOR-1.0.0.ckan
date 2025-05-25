@@ -1,0 +1,74 @@
+{
+    "abstract": "Bringing the amazing ALCOR pod into the modern era",
+    "author": [
+        "alexustas",
+        "JonnyOThan"
+    ],
+    "conflicts": [
+        {
+            "name": "ALCORIVAPatch"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ASETAgency"
+        },
+        {
+            "name": "ASETProps"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3499/ALCOR%20Adopted/download/1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8AAC6C1592E2E28466CB7C15B56C60507FECFD32",
+        "sha256": "48F95CA5224C9CDAF1422145D2B3B7B842E547ACFF9BC61138ED8C848CE90563"
+    },
+    "download_size": 4677650,
+    "identifier": "ALCOR",
+    "install": [
+        {
+            "find": "ASET",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 7495350,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-3.0",
+    "name": "ALCOR Adopted",
+    "recommends": [
+        {
+            "name": "FreeIva"
+        }
+    ],
+    "release_date": "2023-11-08T17:16:06.48398+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JonnyOThan/KSP-ALCOR/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/220718-112-alcor-pod-adopted",
+        "remote-avc": "https://raw.githubusercontent.com/JonnyOThan/KSP-ALCOR/main/GameData/ASET/ALCOR/ALCOR.version",
+        "repository": "https://github.com/JonnyOThan/KSP-ALCOR",
+        "spacedock": "https://spacedock.info/mod/3499/ALCOR%20Adopted",
+        "x_screenshot": "https://spacedock.info/content/JonnyOThan_33590/ALCOR_Adopted/ALCOR_Adopted-1699464201.png"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KeepFit"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        }
+    ],
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

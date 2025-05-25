@@ -1,0 +1,30 @@
+{
+    "abstract": "Flags shared across PanzerLabs' mods",
+    "author": "PanzerLabs",
+    "comment": "flagmod",
+    "download": "https://spacedock.info/mod/471/PanzerLabs%20AeroSpace%20K-Sat%20Series/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7F26FBF7CA449A90795B8B46CCECF69FEC2435BB",
+        "sha256": "DF56FA5227BBF3B48246C805F80C28C3BAEC52FE26C4E942EFE849F1E8AA657E"
+    },
+    "download_size": 3097694,
+    "identifier": "PL-Common",
+    "install": [
+        {
+            "find": "Flags",
+            "install_to": "GameData/PanzerLabs"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-SA-4.0",
+    "name": "Panzer Labs Flags",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/135984-131-v11-panzerlabs-aerospace-k-sat-series/&",
+        "spacedock": "https://spacedock.info/mod/471/PanzerLabs%20AeroSpace%20K-Sat%20Series",
+        "x_screenshot": "https://spacedock.info/content/PanzerLabs_2970/PanzerLabs_AeroSpace_K-Sat_Series/PanzerLabs_AeroSpace_K-Sat_Series-1459714619.808555.jpg"
+    },
+    "spec_version": "v1.4",
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

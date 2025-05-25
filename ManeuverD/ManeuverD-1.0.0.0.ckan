@@ -1,0 +1,39 @@
+{
+    "abstract": "Fix a precision problem with maneuver node math [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Sarbian",
+    "download": "https://hk-github.mirror.kerbcat.cn/sarbian/jenkins/job/ManeuverD/1/artifact/ManeuverD-1.0.0.0.zip?auth_key=1748275914-f53693b9ffc14193bd7a5adfd6728540-0-daa2f5c4598f64dd7195e4ec766b476a&size=55782&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "72A681B8DC8E0DF4057E8617292A415D94C071CC",
+        "sha256": "AD1C74B9307FA1EEC0A84FFD822CFF6FE29BD61F976057B5FA4C767CA1B80775"
+    },
+    "download_size": 55782,
+    "identifier": "ManeuverD",
+    "install": [
+        {
+            "find": "ManeuverD",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 124928,
+    "ksp_version_max": "1.8.3",
+    "ksp_version_min": "1.8.0",
+    "license": "BSD-2-clause",
+    "name": "ManeuverD [PRO-KCMIRROR]",
+    "provides": [
+        "Harmony1"
+    ],
+    "release_date": "2020-01-18T20:38:13.886Z",
+    "resources": {
+        "ci": "https://ksp.sarbian.com/jenkins/job/ManeuverD/",
+        "homepage": "https://github.com/sarbian/ManeuverD",
+        "repository": "https://github.com/sarbian/ManeuverD"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "1.0.0.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,45 @@
+{
+    "abstract": "Stock + OPM configs to make the Kerbol system more closely match our real solar system",
+    "author": "rattata21216",
+    "comment": "Syntax error in version file, no repo to submit fixes",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3426/Realistic%20Stock+OPM%20System/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "06C3D474F53EC1D797A24F244EE67F91509E687E",
+        "sha256": "B592CB45CA7C7772524A0F8B2D7E61ED6988F54CBF12CC67F195D3B63EE732D2"
+    },
+    "download_size": 11198,
+    "identifier": "RealisticStockOPMSystem",
+    "install": [
+        {
+            "find": "RealisticStockSystem",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 6692,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Realistic Stock+OPM System",
+    "release_date": "2023-07-18T19:13:08.493012+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3426/Realistic%20Stock+OPM%20System"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "planet-pack",
+        "config"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

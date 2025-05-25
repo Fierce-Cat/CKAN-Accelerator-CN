@@ -1,0 +1,32 @@
+{
+    "abstract": "Small QOL KSP mod for modders that allows them to provide in-game changelogs for their mods [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "BenjaminCronin",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/BenjaminCronin/KerbalChangelog/releases/download/v1.1.6/KerbalChangeLog1-1-6.zip?auth_key=1748275917-447b75ae871948c3b61ba1678c17aa8a-0-a5b89fa00c349848a776cb98708963fd&size=8245&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E72BBC04D4EF4B1CE4208790A79242392D9919EA",
+        "sha256": "38EDC90A3E6B18E8D503F4B4A386D61846136FA47DD407B0E408AB006C9B8234"
+    },
+    "download_size": 8245,
+    "identifier": "KerbalChangelog",
+    "install": [
+        {
+            "find_regexp": "KerbalChangeLog.*",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Kerbal Changelog [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*",
+        "repository": "https://github.com/BenjaminCronin/KerbalChangelog"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "plugin"
+    ],
+    "version": "v1.1.6",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,43 @@
+{
+    "abstract": "Allows Kerbals to board vessels through Docking Ports [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "severedsolo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/severedsolo/AllAboard/releases/download/1.0.1.1/AllAboard.zip?auth_key=1748275915-89d7d00dd51e427f84c89203b7912b66-0-57a130d1248d94a0fe941b9f41a95476&size=5336&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6EEDE2AAD671D6FFA337949D4C0A72A4927B3FC2",
+        "sha256": "762F32EC9369C8981FE53885C7749DAD41E578FA32C9AA4BD7DFDEB8F8E77B57"
+    },
+    "download_size": 5336,
+    "identifier": "AllAboard",
+    "install": [
+        {
+            "find": "AllAboard",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 9896,
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "All Aboard! [PRO-KCMIRROR]",
+    "release_date": "2020-02-19T15:02:34Z",
+    "resources": {
+        "bugtracker": "https://github.com/severedsolo/AllAboard/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190983-18x-*",
+        "remote-avc": "https://github.com/severedsolo/AllAboard/raw/master/GameData/AllAboard/AllAboard.version",
+        "repository": "https://github.com/severedsolo/AllAboard"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "crewed",
+        "convenience"
+    ],
+    "version": "1.0.1.1",
+    "x_generated_by": "netkan"
+}

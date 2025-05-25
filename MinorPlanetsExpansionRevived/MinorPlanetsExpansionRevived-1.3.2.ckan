@@ -1,0 +1,50 @@
+{
+    "abstract": "This is only for archival purposes.",
+    "author": "InterplanetJanet",
+    "conflicts": [
+        {
+            "name": "MinorPlanetsExpansion"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2854/%5Bdeprecated%5D/download/1.3.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "28D2CE13AD0A8461EB8369CB601846C2C889814C",
+        "sha256": "3C3A0CD35A7339A703BBDA727260623A0BC009B2D2F0CACED6AA5D9155A1ED87"
+    },
+    "download_size": 115281628,
+    "identifier": "MinorPlanetsExpansionRevived",
+    "install": [
+        {
+            "find": "MPE",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 385526900,
+    "ksp_version": "1.12.2",
+    "license": "MIT",
+    "name": "[deprecated]",
+    "release_date": "2021-11-06T21:23:10.918971+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/2854/[deprecated]",
+        "x_screenshot": "https://spacedock.info/content/InterplanetJanet_65659/Minor_Planets_Expansion_Revived/Minor_Planets_Expansion_Revived-1635029230.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.3.2",
+    "x_generated_by": "netkan"
+}

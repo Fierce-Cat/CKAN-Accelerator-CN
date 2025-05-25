@@ -1,0 +1,113 @@
+{
+    "abstract": "KSPI-E is a plugin designed to encourage bootstrapping toward ever more advanced levels of technology as well as utilizing In-Situ resources to expand the reach of Kerbal civilization",
+    "author": "FreeThinker",
+    "depends": [
+        {
+            "name": "InterstellarRedistributable"
+        },
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        },
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "download": "https://spacedock.info/mod/172/KSP%20Interstellar%20Extended/download/1.29.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6D166065511C7CE430A03706407E0F9F01971D5E",
+        "sha256": "41F29B99C60D60114A5297100DA8EE49F3803F6A0BAE130AE1C99B2E7C90F805"
+    },
+    "download_size": 284061182,
+    "identifier": "KSPInterstellarExtended",
+    "install": [
+        {
+            "find": "GameData/WarpPlugin",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.1",
+    "ksp_version_min": "1.8.1",
+    "license": "unknown",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "pt-br",
+        "ru",
+        "zh-cn",
+        "de-de"
+    ],
+    "name": "KSP Interstellar Extended",
+    "recommends": [
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "InterstellarFuelSwitch"
+        },
+        {
+            "name": "PersistentRotation"
+        },
+        {
+            "name": "FilterExtensions"
+        },
+        {
+            "name": "PhotonSailor"
+        },
+        {
+            "name": "HideEmptyTechNodes"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ImprovedTreeEnginePlacement"
+        }
+    ],
+    "release_date": "2021-07-05T09:03:45.625422+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/sswelm/KSP-Interstellar-Extended/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172026-*",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=152",
+        "repository": "https://github.com/sswelm/KSP-Interstellar-Extended",
+        "spacedock": "https://spacedock.info/mod/172/KSP%20Interstellar%20Extended",
+        "x_screenshot": "https://spacedock.info/content/FreeThinker_517/KSP_Interstellar_Extended/KSP_Interstellar_Extended-1470128568.7429862.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "HeatControl"
+        },
+        {
+            "name": "BetterBurnTime"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "UniversalStorage"
+        },
+        {
+            "name": "KerbalJointReinforcement"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts",
+        "resources",
+        "graphics",
+        "crewed",
+        "sound"
+    ],
+    "version": "1.29.1",
+    "x_generated_by": "netkan"
+}

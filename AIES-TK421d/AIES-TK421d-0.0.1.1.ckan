@@ -1,0 +1,45 @@
+{
+    "abstract": "These are antenna patches from @TK421d needed to update the AIES Aerospace mod for KSP 1.8.x and beyond [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "AIES-Antenna-Patches"
+        }
+    ],
+    "depends": [
+        {
+            "name": "AIES-Patches"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/AIES_Patches/releases/download/0.0.1.1/AIES_Patches-1.8.0-0.0.1.1.zip?auth_key=1748275918-f773711b24c3409d96c92bb86197d0e6-0-0bbd325a9c386999701263abaec9e47a&size=94063&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FCF45CC97AA30F2D3A3A602161947F2C37BAC47B",
+        "sha256": "0149BFF2DF1134F882445D40923103E6B2DFF40584DFE50EAC5B29DA8DB15BF9"
+    },
+    "download_size": 94063,
+    "identifier": "AIES-TK421d",
+    "install": [
+        {
+            "find": "AIES_Patches/TK421d",
+            "install_to": "GameData/AIES_Patches"
+        }
+    ],
+    "ksp_version": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Antenna Patches from @TK421d for the AIES-Patches mod [PRO-KCMIRROR]",
+    "provides": [
+        "AIES-Antenna-Patches"
+    ],
+    "resources": {
+        "repository": "https://github.com/linuxgurugamer/AIES_Patches"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "config"
+    ],
+    "version": "0.0.1.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

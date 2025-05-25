@@ -1,0 +1,49 @@
+{
+    "abstract": "a NavBall inspired Heads Up Display",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/NavHud/releases/download/1.4.0.5/NavHud_Renewed-1.4.0.5.zip",
+        "https://spacedock.info/mod/1574/NavHud%20Renewed/download/1.4.0.5"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "691301540189A113115E5F74DCF9C35BDFD973C0",
+        "sha256": "94AFE3C523D452C7404A1D6367C6CE14C3CA866EB0DDDC44206EFB0A6DD53AFA"
+    },
+    "download_size": 31469,
+    "identifier": "NavHudRenewed",
+    "install": [
+        {
+            "file": "GameData/NavHud",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 70390,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "NavHud",
+    "release_date": "2021-08-06T21:16:11.580174+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167039-131-navhud-renewed/",
+        "remote-avc": "http://ksp.spacetux.net/avc/NavHud",
+        "repository": "https://github.com/linuxgurugamer/NavHud",
+        "spacedock": "https://spacedock.info/mod/1574/NavHud%20Renewed",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/NavHud_Renewed/NavHud_Renewed-1509365565.6163976.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "1.4.0.5",
+    "x_generated_by": "netkan"
+}

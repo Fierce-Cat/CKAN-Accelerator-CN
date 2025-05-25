@@ -1,0 +1,44 @@
+{
+    "abstract": "Makes re-entry much more dangerous [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "NathanKell",
+        "Starwaster"
+    ],
+    "depends": [
+        {
+            "min_version": "2.6.5",
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Starwaster/DeadlyReentry/releases/download/v7.7.4/DeadlyReentry_v7.7.4.zip?auth_key=1748275917-4675ac8c00cf427b8a688e93ec246eaa-0-744740dd2e8222c1707787b7b97ac843&size=865113&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "907AF4289E3C1D773314BA3202C196049B87D5C0",
+        "sha256": "F2888AA60D74C46900A39179522549799670FCC6B4738C72847180A81EA334CE"
+    },
+    "download_size": 865113,
+    "identifier": "DeadlyReentry",
+    "install": [
+        {
+            "find": "DeadlyReentry",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-SA",
+    "name": "Deadly Reentry Continued [PRO-KCMIRROR]",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/50296-*",
+        "repository": "https://github.com/Starwaster/DeadlyReentry"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts",
+        "physics",
+        "sound"
+    ],
+    "version": "v7.7.4",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,70 @@
+{
+    "abstract": "A (re)stockalike Dragonfly Quad-copter",
+    "author": "Rodg88",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "KerbalActuators"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DMagicScienceAnimate"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2428/Bumblebee/download/0.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E1A951DBEA8E09910B73D585B03CC6FA66DE5756",
+        "sha256": "921BFAD514AFF2AE169E4556FDD4B73EE03974B41EE1C2A8490B51888671B718"
+    },
+    "download_size": 12646510,
+    "identifier": "Bumblebee",
+    "ksp_version_max": "1.12.2",
+    "ksp_version_min": "1.8.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Bumblebee",
+    "release_date": "2021-10-18T10:50:48.573089+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Rodg88/BumbleBee/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193843-bumblebee/",
+        "repository": "https://github.com/Rodg88/BumbleBee",
+        "spacedock": "https://spacedock.info/mod/2428/Bumblebee",
+        "x_screenshot": "https://spacedock.info/content/Rodg88_364/Bumblebee/Bumblebee-1589382881.8068674.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "IndicatorLights"
+        },
+        {
+            "name": "NearFutureElectrical"
+        }
+    ],
+    "supports": [
+        {
+            "name": "HullcamVDSContinued"
+        },
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "ProbesPlus"
+        }
+    ],
+    "tags": [
+        "parts",
+        "uncrewed"
+    ],
+    "version": "0.6",
+    "x_generated_by": "netkan"
+}

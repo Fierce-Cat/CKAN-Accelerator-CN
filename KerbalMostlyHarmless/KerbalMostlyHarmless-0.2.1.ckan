@@ -1,0 +1,43 @@
+{
+    "abstract": "Adds a FTL Drive (Nexus Realm Explorer) inspired by the Elite: Dangerous Frameshift Drive",
+    "author": "kAerospace",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3423/Kerbal:%20Mostly%20Harmless/download/0.2.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B3FA2B220CD720FA88D04E07B7E75C8E8FBD7963",
+        "sha256": "67C8EAC877937211AA1BDA06535B18A775016FC9A1E177C70190D77CC8E34981"
+    },
+    "download_size": 1148210,
+    "identifier": "KerbalMostlyHarmless",
+    "install": [
+        {
+            "find": "kAerospace",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1174279,
+    "ksp_version": "1.12",
+    "license": "restricted",
+    "name": "Kerbal: Mostly Harmless",
+    "release_date": "2023-07-29T16:40:13.300862+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/kaerospace/KerbalMostlyHarmless/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/218468-112x-kerbal-mostly-harmless-ftl/",
+        "repository": "https://github.com/kaerospace/KerbalMostlyHarmless",
+        "spacedock": "https://spacedock.info/mod/3423/Kerbal:%20Mostly%20Harmless",
+        "x_screenshot": "https://spacedock.info/content/kAerospace_65633/Kerbal_Mostly_Harmless/Kerbal_Mostly_Harmless-1689603308.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "plugin",
+        "parts",
+        "physics"
+    ],
+    "version": "0.2.1",
+    "x_generated_by": "netkan"
+}

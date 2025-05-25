@@ -1,0 +1,71 @@
+{
+    "abstract": "Momentum and Rotation in KSP are quite unrealistic.  This mod will maintain rotation through timewarping and changing vessels, etc.",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "PersistentRotation"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/PersistentRotation/releases/download/1.9.1.10/PersistentRotationUpgraded-1.12.0-1.9.1.10.zip",
+        "https://spacedock.info/mod/2660/PersistentRotation%20Upgraded/download/1.9.1.10"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F462FE6519583D42AD56911C344BE424816FB5DC",
+        "sha256": "9AD87B85F3D2917F584F709357FC42008CA2D11F5D4C6EC18E5B285BEDC94820"
+    },
+    "download_size": 33469,
+    "identifier": "PersistentRotationUpgraded",
+    "install": [
+        {
+            "file": "GameData/PersistentRotation",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 62444,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "zh-cn"
+    ],
+    "name": "PersistentRotation Upgraded",
+    "provides": [
+        "PersistentRotation"
+    ],
+    "release_date": "2024-03-26T23:44:55.581165+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/PersistentRotation/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201121-19x",
+        "remote-avc": "http://ksp.spacetux.net/avc/PersistentRotationUpgraded",
+        "repository": "https://github.com/linuxgurugamer/PersistentRotation",
+        "spacedock": "https://spacedock.info/mod/2660/PersistentRotation%20Upgraded",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/PersistentRotation_Upgraded/PersistentRotation_Upgraded-1616212727.442817.jpg"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "1.9.1.10",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,38 @@
+{
+    "abstract": "Addon for kOS that allows interaction with SCANSat.",
+    "author": "JonnyOThan",
+    "depends": [
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "SCANsat"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2532/kOS-SCANSat/download/1.2.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E581826A3949E33DEC3403B5AA37507CAAC3F336",
+        "sha256": "1E9755C804E207AD3FD0799A6E016C25769690AFC9492EDBA329392D3E07BC63"
+    },
+    "download_size": 11832,
+    "identifier": "kOS-SCANSat",
+    "install_size": 18665,
+    "ksp_version": "1.10.1",
+    "license": "MIT",
+    "name": "kOS-SCANSat",
+    "release_date": "2020-09-19T04:01:21.804991+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JonnyOThan/Kos-Scansat/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196981-18x-110x-kos-addons-stockcamera-eva-scansat-career/",
+        "remote-avc": "https://raw.githubusercontent.com/JonnyOThan/Kos-Scansat/master/GameData/kOS-SCANsat/kOS-SCANsat.version",
+        "repository": "https://github.com/JonnyOThan/Kos-Scansat",
+        "spacedock": "https://spacedock.info/mod/2532/kOS-SCANSat"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.2.0.0",
+    "x_generated_by": "netkan"
+}

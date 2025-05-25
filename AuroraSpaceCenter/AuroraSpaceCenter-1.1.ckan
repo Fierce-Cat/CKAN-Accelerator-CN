@@ -1,0 +1,47 @@
+{
+    "abstract": "Aurora Space Center is a mod that adds IRL/fictives buildings and launchpads!",
+    "author": "Zoeille",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KerbalKonstructs"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2352/Aurora%20Space%20Center/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "82551CB2C8A07BF6E0DEEA357BA0052D3EF9F3C9",
+        "sha256": "26B1F0CCA3228A271302A240F6D94BD2C21D62ABED4828174F6D9E3EFBCA2A13"
+    },
+    "download_size": 2595504,
+    "identifier": "AuroraSpaceCenter",
+    "install": [
+        {
+            "filter": [
+                ".git"
+            ],
+            "find": "AuroraSpaceCenter",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.10.1",
+    "license": "restricted",
+    "name": "Aurora Space Center",
+    "release_date": "2020-09-16T14:53:50.672492+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Zoeille/Aurora-Space-Center/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/191996-18x-19x-aurora-space-center-v10-groundbreaking/",
+        "repository": "https://github.com/Zoeille/Aurora-Space-Center",
+        "spacedock": "https://spacedock.info/mod/2352/Aurora%20Space%20Center",
+        "x_screenshot": "https://spacedock.info/content/Zoeille_36699/Aurora_Space_Center/Aurora_Space_Center-1600268142.0720482.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "buildings"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,79 @@
+{
+    "abstract": "Expands probe selection with new cores, new probe bus parts, mini satellite parts and a large quantity of antennas. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/NearFutureExploration/releases/download/1.1.3/NearFutureExploration_1_1_3.zip?auth_key=1748275917-1606868ca7764eef9fe85225be42aac6-0-7da4b8eabe9da97669bec9a06a12a188&size=42382741&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "16DA107195516EF405A9E72C34AE5816C5976A55",
+        "sha256": "B4560CBEB7B9E2695BDE45F5E27B193AF066A82F155857E85948D2FFB60A03B1"
+    },
+    "download_size": 42382741,
+    "identifier": "NearFutureExploration",
+    "install": [
+        {
+            "find": "NearFutureExploration",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 125265015,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "Near Future Exploration [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        }
+    ],
+    "release_date": "2024-08-15T03:51:13Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/NearFutureExploration/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-18x-near-future-technologies-18-updates-november-6th/",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/NearFutureExploration/raw/master/CKAN/NearFutureExploration.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/NearFutureExploration/master/GameData/NearFutureExploration/Versioning/NearFutureExploration.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/NearFutureExploration"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        }
+    ],
+    "tags": [
+        "parts",
+        "uncrewed",
+        "comms"
+    ],
+    "version": "1.1.3",
+    "x_generated_by": "netkan"
+}

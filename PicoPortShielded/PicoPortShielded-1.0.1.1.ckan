@@ -1,0 +1,69 @@
+{
+    "abstract": "Adds shielded PicoPorts for Kerbal Space Program. Requires PicoPorts part addon (not included).",
+    "author": "zer0Kerbal",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "PicoPort"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2245/Shielded%20PicoPorts%20(SPP)/download/1.0.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "44E816756353D577396270FBADFDC0B7462E4B6D",
+        "sha256": "8DD8272AADC7E625A5D2DD95EA03C7D505908D63F4E12DAC5890DB6DC474716B"
+    },
+    "download_size": 16608,
+    "identifier": "PicoPortShielded",
+    "install": [
+        {
+            "find": "KGEx",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 37137,
+    "ksp_version_max": "1.9.9999",
+    "ksp_version_min": "1.4.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Shielded PicoPorts (SPP)",
+    "release_date": "2020-03-07T08:13:55.247942+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/ShieldedPicoPorts/issues",
+        "discussions": "https://github.com/zer0Kerbal/ShieldedPicoPorts/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192187-*/",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/ShieldedPicoPorts/master/ShieldedPicoPorts.version",
+        "repository": "https://github.com/zer0Kerbal/ShieldedPicoPorts",
+        "spacedock": "https://spacedock.info/mod/2245/Shielded%20PicoPorts%20(SPP)",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/Shielded_PicoPort_SPP/Shielded_PicoPort_SPP-1657699554.jpg"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ODFC-Refueled"
+        },
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "PicoPort4AllSizes"
+        },
+        {
+            "name": "DockingPortDescriptions"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1.0.1.1",
+    "x_generated_by": "netkan"
+}

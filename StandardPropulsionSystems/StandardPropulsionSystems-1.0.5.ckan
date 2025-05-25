@@ -1,0 +1,33 @@
+{
+    "abstract": "Stockalike launcher pack with a standardized set of components. ",
+    "author": "Starbuckminsterfullerton",
+    "download": "https://spacedock.info/mod/226/Standard%20Propulsion%20Systems/download/1.0.5",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D30B7DCCC9666054B50EA42AC9CAF1BEE38A56C8",
+        "sha256": "3432E87AEE1973334937BC7DAC18C11CDFF8C5EA8E4B0FDC12AA52BB421E72C7"
+    },
+    "download_size": 4244288,
+    "identifier": "StandardPropulsionSystems",
+    "install": [
+        {
+            "filter": ".DS_Store",
+            "find": "SPS",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Standard Propulsion Systems",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/119605-105-standard-propulsion-systems-v012-20112015/",
+        "spacedock": "https://spacedock.info/mod/226/Standard%20Propulsion%20Systems",
+        "x_screenshot": "https://spacedock.info/content/Starbuckminsterfullerton_1223/Standard_Propulsion_Systems/Standard_Propulsion_Systems-1459126034.607687.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.0.5",
+    "x_generated_by": "netkan"
+}

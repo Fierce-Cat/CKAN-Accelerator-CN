@@ -1,0 +1,48 @@
+{
+    "abstract": "Optional patch to make the engines burn KSP's normal liquid fuel and oxidizer mixture instead of the custom liquid hydrogen and oxidizer mixture that they use by default, at the cost of efficiency",
+    "author": "Nertea (Chris Adderley)",
+    "conflicts": [
+        {
+            "name": "CryoEngines-NFAero"
+        }
+    ],
+    "depends": [
+        {
+            "name": "CryoEngines"
+        }
+    ],
+    "download": "https://spacedock.info/mod/709/Cryogenic%20Engines/download/2.0.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B050F132FE604B3A283F15E3A5A182D20DF70A2B",
+        "sha256": "6B266F4C5BD7E6C04F7C63C32F4F8EEE16B8E81163FD8F85E374A0E52DCFA2B7"
+    },
+    "download_size": 94709162,
+    "identifier": "CryoEngines-LFO",
+    "install": [
+        {
+            "find": "CryoEnginesLFO",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 6455,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.10.0",
+    "license": "MIT",
+    "name": "Cryogenic Engines - Liquid Fuel/Oxidizer",
+    "release_date": "2022-01-22T19:58:32.264074+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/CryoEngines/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/106089-16x-cryogenic-engines-high-isp-chemical-rockets-january-21/",
+        "metanetkan": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/CryoEngines/master/CKAN/CryoEngines-LFO.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/CryoEngines/master/GameData/CryoEngines/Versioning/CryoEngines.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/CryoEngines",
+        "spacedock": "https://spacedock.info/mod/709/Cryogenic%20Engines"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "1:2.0.6",
+    "x_generated_by": "netkan"
+}

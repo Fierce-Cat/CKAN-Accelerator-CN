@@ -1,0 +1,70 @@
+{
+    "abstract": "Gives jets, propellers, and rotors realistic performance. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "blowfish",
+        "NathanKell",
+        "camlost"
+    ],
+    "depends": [
+        {
+            "name": "FAR"
+        },
+        {
+            "name": "SolverEngines"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/AJE/releases/download/v2.20.0/Advanced_Jet_Engine_v2.20.0.zip?auth_key=1748275914-f50704b548764bba8a87f57d940f4825-0-20f2f88ebc30284583c0ec8b7e626eb9&size=670146&expireAt=1748275914",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "034C9D6AB6EE6073BDA0B52DF83C4BECBD071BAB",
+        "sha256": "68FA9BDB853D9E0494CCBB37E6362C31F47842224F35718D956B5FF55305702B"
+    },
+    "download_size": 670146,
+    "identifier": "AdvancedJetEngine",
+    "install": [
+        {
+            "find": "GameData/AJE",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1330425,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.10.0",
+    "license": "LGPL-2.0",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "Advanced Jet Engine [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "AJEExtendedConfigs"
+        }
+    ],
+    "release_date": "2022-02-14T05:04:18Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/AJE/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?showtopic=139868",
+        "metanetkan": "https://raw.githubusercontent.com/KSP-RO/AJE/master/NetKAN/AdvancedJetEngine.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/AJE/master/GameData/AJE/AJE.version",
+        "repository": "https://github.com/KSP-RO/AJE"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "RealPlume"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "v2.20.0",
+    "x_generated_by": "netkan"
+}

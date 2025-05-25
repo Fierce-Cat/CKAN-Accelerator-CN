@@ -1,0 +1,39 @@
+{
+    "abstract": "Make Career Mode more like Science Mode",
+    "author": "theJesuit",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2849/ANGLECAN%20Progression/download/1.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B6E245534968065504C8D6EA7B8623D73786B684",
+        "sha256": "C682530ED6FF3067D29B20FEFFE63D22AADDBAF1601882A737EE9BAE6409312E"
+    },
+    "download_size": 10253,
+    "identifier": "ANGLECANProgression",
+    "install": [
+        {
+            "find": "AngleCanMods",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 29701,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA",
+    "name": "ANGLECAN Progression",
+    "release_date": "2024-05-09T16:30:35.475419+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204809-122-anglecan-progression-10/",
+        "spacedock": "https://spacedock.info/mod/2849/ANGLECAN%20Progression"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "career"
+    ],
+    "version": "1.6",
+    "x_generated_by": "netkan"
+}

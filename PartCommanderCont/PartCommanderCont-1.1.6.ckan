@@ -1,0 +1,40 @@
+{
+    "abstract": "Quick access to part right-click action menus",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1004/Part%20Commander%20Continued/download/1.1.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B8E5D8F4C7E88903755B15EE85249F744FCD281E",
+        "sha256": "F3F2026690ABAB17278056EF48E24B24E46F64D6AD5A7726A72C013AA1EABBDD"
+    },
+    "download_size": 91525,
+    "identifier": "PartCommanderCont",
+    "install": [
+        {
+            "find": "PartCommanderContinued",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Part Commander Continued",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150122-12-part-commander-continued/",
+        "repository": "https://github.com/linuxgurugamer/PartCommander",
+        "spacedock": "https://spacedock.info/mod/1004/Part%20Commander%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Part_Commander_Continued/Part_Commander_Continued-1476577154.79337.png"
+    },
+    "spec_version": "v1.4",
+    "version": "1.1.6",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

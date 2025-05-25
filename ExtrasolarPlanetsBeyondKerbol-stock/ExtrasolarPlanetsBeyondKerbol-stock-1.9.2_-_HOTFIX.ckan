@@ -1,0 +1,76 @@
+{
+    "abstract": "Adds a new star system in orbit around the Kerbol System",
+    "author": "AndyDrawsPrettyPictures",
+    "depends": [
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/202/Extrasolar:%20Planets%20Beyond%20Kerbol/download/1.9.2_-_HOTFIX",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1EEDEF354F61FF7AF510B40200E8087442C0DC2E",
+        "sha256": "BC8F23FA6E552B713A9108F84C9DF649951940FDEE5470D07F30C6815EFFF2D5"
+    },
+    "download_size": 491558400,
+    "identifier": "ExtrasolarPlanetsBeyondKerbol-stock",
+    "install": [
+        {
+            "find": "Extrasolar",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Extrasolar_Textures",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 745826659,
+    "ksp_version": "1.7.3",
+    "license": "BSD-3-clause",
+    "name": "Extrasolar Planets Byond Kerbol - Stock configuration",
+    "provides": [
+        "CustomAsteroids-Pops"
+    ],
+    "recommends": [
+        {
+            "name": "KSPInterstellarExtended"
+        },
+        {
+            "name": "BetterTimeWarp"
+        },
+        {
+            "name": "USI-NuclearRockets"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "StockVisualEnhancements"
+        }
+    ],
+    "release_date": "2020-01-27T23:41:31.169525+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188764-173-extrasolar-v191-102819/",
+        "spacedock": "https://spacedock.info/mod/202/Extrasolar:%20Planets%20Beyond%20Kerbol",
+        "x_screenshot": "https://spacedock.info/content/AndyDrawsPrettyPictures_749/Extrasolar_Planets_Beyond_Kerbol/Extrasolar_Planets_Beyond_Kerbol-1596931319.0994403.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "FinalFrontier"
+        },
+        {
+            "name": "DistantObject"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack",
+        "graphics"
+    ],
+    "version": "1.9.2_-_HOTFIX",
+    "x_generated_by": "netkan"
+}

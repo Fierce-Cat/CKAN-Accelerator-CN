@@ -1,0 +1,44 @@
+{
+    "abstract": "EZ PZ 123, make your own kopernicus gas planet!",
+    "author": "Watermel00n",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2908/Watermel00n%27s%20Simple%20Gas%20Planet%20Maker%20%28With%20Kopernicus%29%20%28repost%29/download/0.21",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "55DAF1C609BDA4C7EB984586DA5970DFE984CA4E",
+        "sha256": "1F15D065B3A97CCDF8F2F60591820881A25AF32A4F8A07734664A24E8ECD3DD7"
+    },
+    "download_size": 954875,
+    "identifier": "SimpleGasPlanetMaker",
+    "install": [
+        {
+            "find": "WSGPM",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.12.2",
+    "license": "MIT",
+    "name": "Watermel00n's Simple Gas Planet Maker (With Kopernicus) (repost)",
+    "release_date": "2021-12-04T11:51:44.280961+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Watermel00n/WSGPM_repo/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/205849-watermel00ns-simple-gas-planet-maker-kopernicus-planet-kit/",
+        "repository": "https://github.com/Watermel00n/WSGPM_repo",
+        "spacedock": "https://spacedock.info/mod/2908/Watermel00n's%20Simple%20Gas%20Planet%20Maker%20(With%20Kopernicus)%20(repost)",
+        "x_screenshot": "https://spacedock.info/content/Watermel00n_69435/Watermel00ns_Simple_Gas_Planet_Maker_With_Kopernicus_repost/Watermel00ns_Simple_Gas_Planet_Maker_With_Kopernicus_repost-1638452567.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "0.21",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,71 @@
+{
+    "abstract": "Large fuselage system for spaceplanes. Based on an iconic 60s TV show ",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "NearFutureProps"
+        }
+    ],
+    "download": "https://spacedock.info/mod/809/Mark%20IV%20Spaceplane%20System/download/3.2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "035C45DE3613783BB3A830BF5C835859AFE6D250",
+        "sha256": "DACF96835166E90040EABFAF9186DDF3F91AA03212CE9C08648D15180575147F"
+    },
+    "download_size": 51083269,
+    "identifier": "MarkIVSpaceplaneSystem",
+    "install": [
+        {
+            "find": "MarkIVSystem",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 70546898,
+    "ksp_version_max": "1.10.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "Mark IV Spaceplane System",
+    "release_date": "2020-12-27T17:01:20.780275+00:00",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/MkIVSystem/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/91713-16x-mark-iv-spaceplane-system-january-21-2019/",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/MkIVSystem/raw/master/CKAN/MarkIVSpaceplaneSystem.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/ChrisAdderley/MkIVSystem/master/GameData/MarkIVSystem/Versioning/MarkIVSystem.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/MkIVSystem",
+        "spacedock": "https://spacedock.info/mod/809/Mark%20IV%20Spaceplane%20System",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Mark_IV_Spaceplane_System/Mark_IV_Spaceplane_System-1467302860.809514.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "FerramAerospaceResearch"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "3.2.0",
+    "x_generated_by": "netkan"
+}

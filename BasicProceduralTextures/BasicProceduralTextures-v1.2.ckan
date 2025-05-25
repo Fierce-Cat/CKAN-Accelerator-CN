@@ -1,0 +1,42 @@
+{
+    "abstract": "Stock-Alike textures for use with Procedural Parts and Decoupler Shroud mods",
+    "author": "TykoTek",
+    "download": "https://spacedock.info/mod/1845/Basic%20Procedural%20Textures/download/v1.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BF30ACF8F0D446EFE9DA71BD9D59F0848AFAC5F9",
+        "sha256": "FCD13760FE793E4F7000AB356B6DAB9D6E0C7F3899AAF73BAB1CA0E9C3C57015"
+    },
+    "download_size": 4631411,
+    "identifier": "BasicProceduralTextures",
+    "install": [
+        {
+            "find": "GameData/BasicProceduralTextures",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.7.0",
+    "license": "MIT",
+    "name": "Basic Procedural Textures",
+    "recommends": [
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "DecouplerShroud"
+        }
+    ],
+    "release_date": "2018-05-04T01:16:30.548073+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174103-142-basic-procedural-textures-v11/",
+        "spacedock": "https://spacedock.info/mod/1845/Basic%20Procedural%20Textures",
+        "x_screenshot": "https://spacedock.info/content/TykoTek_19965/Basic_Procedural_Textures/Basic_Procedural_Textures-1525353669.4133651.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "v1.2",
+    "x_generated_by": "netkan"
+}

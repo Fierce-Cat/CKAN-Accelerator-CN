@@ -1,0 +1,39 @@
+{
+    "abstract": "Parts to construct ships inspired by the Discovery One in 2001: A Space Odyssey.",
+    "author": "NecroBones",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/95/Joolian%20Discovery/download/0.8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "63644249E9B375511878177FE51DEBD15A98CED1",
+        "sha256": "87E8E6BF446F2BC61B61E076E2F789C7CD86810C549D5B624F3804A0A2540D7A"
+    },
+    "download_size": 5188605,
+    "identifier": "JoolianDiscovery",
+    "install": [
+        {
+            "find": "JoolianDiscovery",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.0.4",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Joolian Discovery",
+    "release_date": "2016-02-17T16:12:28.886838+00:00",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/86030-*",
+        "spacedock": "https://spacedock.info/mod/95/Joolian%20Discovery",
+        "x_screenshot": "https://spacedock.info/content/NecroBones_209/Joolian_Discovery/Joolian_Discovery-1455805516.0731683.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.8",
+    "x_generated_by": "netkan"
+}

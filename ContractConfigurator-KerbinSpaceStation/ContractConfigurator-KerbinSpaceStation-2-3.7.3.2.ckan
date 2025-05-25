@@ -1,0 +1,55 @@
+{
+    "abstract": "A contract pack to replace the default Squad build a Space Station missions [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "severedsolo",
+        "Aelfhe1m",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "ContractConfigurator-UsefulSpaceStations"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "0.7.12",
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/KerbinSpaceStation/releases/download/3.7.3.2/BasesandStations-1.12.0-3.7.3.2.zip?auth_key=1748275916-960f8960422f429ba536f40297fa8b0d-0-e1ce683f01753a7f5846b486833c0827&size=70066&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0032FB664D759479926CCDA61609BAD19CFA1110",
+        "sha256": "DB1A1C67C16FB005CB76A79A1078E7EFDEFD1CE4051D3A5CB99743823CB9586C"
+    },
+    "download_size": 70066,
+    "identifier": "ContractConfigurator-KerbinSpaceStation",
+    "install": [
+        {
+            "find": "KerbinSpaceStation",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "install_size": 156107,
+    "ksp_version_min": "1.9.1",
+    "license": "MIT",
+    "name": "Contract Pack: Bases and Stations Reborn [PRO-KCMIRROR]",
+    "release_date": "2024-02-07T13:27:59Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/KerbinSpaceStation/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/175822-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/BasesandStations",
+        "repository": "https://github.com/linuxgurugamer/KerbinSpaceStation"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "career",
+        "crewed"
+    ],
+    "version": "2:3.7.3.2",
+    "x_generated_by": "netkan"
+}

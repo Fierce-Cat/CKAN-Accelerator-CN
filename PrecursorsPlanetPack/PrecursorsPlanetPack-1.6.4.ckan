@@ -1,0 +1,48 @@
+{
+    "abstract": "A continuation of the Kerbal Space Program story. Launch from an unforgivingly cold world into a massive new star system and uncover the secrets of the Precursor civilization.",
+    "author": "wpetula",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2869/Precursors%20Planet%20Pack%20(outdated%20--%20see%20Github%20for%201.7)/download/1.6.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "47DDD18CFEAE376EA2E2A93ABCC70EBCD307959A",
+        "sha256": "5EAC79B0E4B0255F7D0315FC53AE1EAB783A717FF3400F79AE621959EA3E29F8"
+    },
+    "download_size": 738986506,
+    "identifier": "PrecursorsPlanetPack",
+    "install": [
+        {
+            "find": "OR",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1832009845,
+    "ksp_version_min": "1.9",
+    "license": "restricted",
+    "name": "Precursors Planet Pack (outdated -- see Github for 1.7)",
+    "recommends": [
+        {
+            "name": "Scatterer"
+        }
+    ],
+    "release_date": "2023-10-29T00:00:08.761698+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/205101-19x-112x-precursors-planet-pack/",
+        "spacedock": "https://spacedock.info/mod/2869/Precursors%20Planet%20Pack%20(outdated%20--%20see%20Github%20for%201.7)",
+        "x_screenshot": "https://spacedock.info/content/wpetula_66710/Precursors_Planet_Pack/Precursors_Planet_Pack-1673321101.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.6.4",
+    "x_generated_by": "netkan"
+}

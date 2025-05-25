@@ -1,0 +1,44 @@
+{
+    "abstract": "GPP and GEP both have Grannus ribbons; these are the ones from GPP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Galileo88",
+        "OhioBob"
+    ],
+    "conflicts": [
+        {
+            "name": "Grannus-RibbonPack"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Galileo88/Galileos-Planet-Pack/releases/download/1.6.4.2/Galileos-Planet-Pack-1.6.4.2.zip?auth_key=1748275918-e15893b3ba51474dbf90948c67a0be27-0-62c41916eaba9f2103e1ee81b5e16ead&size=393796885&expireAt=1748275918",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CA543996A662AC3B55C09AB4428DE26FC7D3A9F7",
+        "sha256": "4A065E7375ECE7A0899538A5FFAA25E03A7E7FFEC781E60119BA81D2951CAFAE"
+    },
+    "download_size": 393796885,
+    "identifier": "Grannus-RibbonPack-FromGPP",
+    "install": [
+        {
+            "find": "GameData/Nereid/FinalFrontier/Ribbons/Grannus",
+            "install_to": "GameData/Nereid/FinalFrontier/Ribbons"
+        }
+    ],
+    "ksp_version": "any",
+    "license": "CC-BY-NC-ND",
+    "name": "Grannus Ribbons from GPP [PRO-KCMIRROR]",
+    "provides": [
+        "Grannus-RibbonPack"
+    ],
+    "release_date": "2020-07-26T07:17:39Z",
+    "resources": {
+        "bugtracker": "https://github.com/Galileo88/Galileos-Planet-Pack/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/152136-*",
+        "repository": "https://github.com/Galileo88/Galileos-Planet-Pack"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "1.6.4.2",
+    "x_generated_by": "netkan"
+}

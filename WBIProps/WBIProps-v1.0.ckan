@@ -1,0 +1,41 @@
+{
+    "abstract": "A set of props for Wild Blue Mods [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/WBIProps/releases/download/v1.0/WBIProps.zip?auth_key=1748275915-ae7e68dd71894cf4829b8668aef17f60-0-dc82c1d24cdae9bd78d2ec4d18e9071f&size=16424863&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "414E507AEBCA72AD0EBBD065D0AE40C1B5A27F97",
+        "sha256": "864818350AB9944FDFE25C462D04A19F0E0752910E6F3CB884236C2535D9C6BD"
+    },
+    "download_size": 16424863,
+    "identifier": "WBIProps",
+    "install": [
+        {
+            "find": "0WBIProps",
+            "install_to": "GameData/WildBlueIndustries"
+        }
+    ],
+    "install_size": 28179594,
+    "ksp_version_min": "1.12.5",
+    "license": "GPL-3.0",
+    "name": "WBIProps [PRO-KCMIRROR]",
+    "release_date": "2025-04-11T21:04:42Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/WBIProps/issues",
+        "manual": "https://github.com/Angel-125/WBIProps/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/WBIProps/main/ReleaseFolder/GameData/WildBlueIndustries/WBIProps/WBIProps.version",
+        "repository": "https://github.com/Angel-125/WBIProps"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "v1.0",
+    "x_generated_by": "netkan"
+}

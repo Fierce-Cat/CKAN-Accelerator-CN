@@ -1,0 +1,55 @@
+{
+    "abstract": "Configuration files using Filter Extensions to create a large array of new part categories in the Editor",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "FilterExtensions"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/FilterExtension/releases/download/3.2.9/FilterExtension-1.12.0-3.2.9.zip",
+        "https://spacedock.info/mod/1972/Filter%20Extensions/download/3.2.9"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7CFD672FA50143F1AB1D49621C8C16C9D2E03DCE",
+        "sha256": "526493C922BC1B22501B68348F796F66F8B82FCA3C957DE1997E87C939254D59"
+    },
+    "download_size": 763511,
+    "identifier": "FilterExtensionsDefaultConfig",
+    "install": [
+        {
+            "file": "GameData/000_FilterExtensions_Configs/Default",
+            "install_to": "GameData/000_FilterExtensions_Configs"
+        },
+        {
+            "file": "GameData/zFinal_FilterExtensions",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 86369,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Filter Extensions - Default Configuration",
+    "release_date": "2023-03-24T13:49:56.05729+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/FilterExtension/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/168456-14-filter-extensions-no-localization/",
+        "remote-avc": "http://ksp.spacetux.net/avc/FilterExtension",
+        "repository": "https://github.com/linuxgurugamer/FilterExtension",
+        "spacedock": "https://spacedock.info/mod/1972/Filter%20Extensions",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Filter_Extensions/Filter_Extensions-1537624808.6939957.jpg"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "convenience",
+        "editor"
+    ],
+    "version": "3.2.9",
+    "x_generated_by": "netkan"
+}

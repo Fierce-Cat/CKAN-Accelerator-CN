@@ -1,0 +1,62 @@
+{
+    "abstract": "Parts for making parts and whole ships [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "SterlingSystemsUtilities"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.4.12/SterlingSystems_Utilities_0.4.12.zip?auth_key=1748275915-a0b540fc6da040dfb6e5e3e3636acc71-0-2ee39ad518eb36724ac838adc2e107d4&size=26294993&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "9910EAE36FBD26FA6EEF447D1384E6350AFA4CEC2911CCEAE6B386758E8BF9FB"
+    },
+    "download_size": 26294993,
+    "identifier": "SterlingSystemsUtilitiesConstruction",
+    "install": [
+        {
+            "find": "UtilitiesConstruction",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 72276647,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Utilities - Construction [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "Sandcastle"
+        }
+    ],
+    "release_date": "2025-05-07T21:49:38Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.36",
+    "supports": [
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        }
+    ],
+    "tags": [
+        "config",
+        "parts",
+        "resources"
+    ],
+    "version": "0.4.12",
+    "x_generated_by": "netkan"
+}

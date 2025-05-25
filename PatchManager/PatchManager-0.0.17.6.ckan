@@ -1,0 +1,53 @@
+{
+    "abstract": "In-game patch manager, makes adding/removing patches more friendly. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/PatchManager/releases/download/0.0.17.6/PatchManager-1.12.0-0.0.17.6.zip?auth_key=1748275915-6c64929fe09b4535922c886b5aeab6f2-0-f05fd7b4a33a876e809c082f12f66a43&size=33830&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "37257256914BBFF9D83314C9A40EEE49AE7980DA",
+        "sha256": "FBEFE8C2C3F27FE2759C36F48E8BA945914A6448DD01DD5CC994B2EB16858023"
+    },
+    "download_size": 33830,
+    "identifier": "PatchManager",
+    "install": [
+        {
+            "find": "PatchManager",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 68705,
+    "ksp_version_min": "1.9.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "ja",
+        "pt-br",
+        "ru"
+    ],
+    "name": "Patch Manager [PRO-KCMIRROR]",
+    "release_date": "2022-09-28T13:13:20Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/PatchManager/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/163072-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/PatchManager",
+        "repository": "https://github.com/linuxgurugamer/PatchManager"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "0.0.17.6",
+    "x_generated_by": "netkan"
+}

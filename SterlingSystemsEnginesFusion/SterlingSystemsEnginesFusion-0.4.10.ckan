@@ -1,0 +1,50 @@
+{
+    "abstract": "Engines that burn fusion fuels [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "SterlingSystemsEngines"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.4.10/SterlingSystems_Engines_0.4.10.zip?auth_key=1748275917-c1d05ca62e314b408c7e7eed87ee1e8f-0-4103cbcc41c5b6894e68645f901636e5&size=41982858&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0EBF8DF3C36D330619DA365F6235CD94A770986C",
+        "sha256": "A9E3ACD102247B1F750C8AFB66DC71AEB2E8292E0CD76AE533DD33BFCB95CF2E"
+    },
+    "download_size": 41982858,
+    "identifier": "SterlingSystemsEnginesFusion",
+    "install": [
+        {
+            "find": "EnginesFusion",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 104344824,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Engines - Fusion [PRO-KCMIRROR]",
+    "release_date": "2025-02-03T00:43:28Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.4.10",
+    "x_generated_by": "netkan"
+}

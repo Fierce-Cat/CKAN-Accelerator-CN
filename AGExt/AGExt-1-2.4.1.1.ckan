@@ -1,0 +1,66 @@
+{
+    "abstract": "Increases the number of action groups to 250 and allows in-flight editing. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Diazo",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/AGExt/releases/download/2.4.1.1/AGExt-1.12.0-2.4.1.1.zip?auth_key=1748275917-21f40c6cfab54a21ab34df79b32f9634-0-96fc6c6bee67618f9177b6c7030a3e89&size=113835&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DEB9DA23AF49D57B98099C03474ECB456F0F707D",
+        "sha256": "B131AA9A8759070F9D834F6F721DECA44565974A101ACBAD08E3D7C01365B381"
+    },
+    "download_size": 113835,
+    "identifier": "AGExt",
+    "install": [
+        {
+            "file": "GameData/Diazo",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 271111,
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "jp",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Action Groups Extended [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "release_date": "2021-09-04T20:13:23Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/AGExt/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/167269-1",
+        "remote-avc": "http://ksp.spacetux.net/avc/AGExt",
+        "repository": "https://github.com/linuxgurugamer/AGExt",
+        "spacedock": "https://spacedock.info/mod/1685/Action%20Groups%20Extended",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Action_Groups_Extended/Action_Groups_Extended-1517453673.540609.jpg"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:2.4.1.1",
+    "x_generated_by": "netkan"
+}

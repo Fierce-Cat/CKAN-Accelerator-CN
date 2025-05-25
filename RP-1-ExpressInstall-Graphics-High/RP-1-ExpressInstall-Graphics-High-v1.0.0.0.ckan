@@ -1,0 +1,102 @@
+{
+    "abstract": "Express Installation for RP-1 Graphics - High Res version [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "KSP-RO Group",
+    "conflicts": [
+        {
+            "name": "RP-1-ExpressInstall-Graphics"
+        },
+        {
+            "name": "Ecumenopolis"
+        },
+        {
+            "name": "DistantObject-RealSolarSystem"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Parallax-StockTextures",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Parallax",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer-sunflare-default",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer-config",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RSSTextures16K",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RSSVE-HR",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DistantObject",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PlanetShine",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CanaveralPads",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RP-1-ExpressInstall"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RP-1-ExpressInstall-Graphics/releases/download/v1.0.0.0/High.zip?auth_key=1748275916-9eaa8e9233b44a89b4ad6a7c148e88a8-0-f3255e69958796484b27d1ad1cdacfb1&size=1248&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FEA017AF2674888F1BC542B10C917EACB43C4D0E",
+        "sha256": "25ABF8164FBC5C21727637626B9906BB943E24CC784725BF414DA37082EF47A0"
+    },
+    "download_size": 1248,
+    "identifier": "RP-1-ExpressInstall-Graphics-High",
+    "install": [
+        {
+            "find": "RP-1-ExpressInstall-Graphics",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 778,
+    "ksp_version_max": "1.12.3",
+    "ksp_version_min": "1.10.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "High Graphics [PRO-KCMIRROR]",
+    "provides": [
+        "RP-1-ExpressInstall-Graphics"
+    ],
+    "release_date": "2021-08-09T22:27:02Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*",
+        "metanetkan": "https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics/raw/main/RP-1-ExpressInstall-Graphics-High.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/RP-1-ExpressInstall-Graphics/main/RP-1-ExpressInstall-Graphics.version",
+        "repository": "https://github.com/KSP-RO/RP-1-ExpressInstall-Graphics"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack",
+        "resources",
+        "graphics"
+    ],
+    "version": "v1.0.0.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,65 @@
+{
+    "abstract": "Grannus Expansion Pack as a primary star system, with Grannus as the central star and Nodens the home world [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "OhioBob",
+    "conflicts": [
+        {
+            "name": "GPP"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "GrannusExpansionPack"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/OhioBob/Grannus-Expansion-Pack/releases/download/1.2.5/GrannusExpansionPack_1.2.5.zip?auth_key=1748275916-0a203d7d6b70451a8cc9f18fa1b3ba37-0-a1c1c72b514dc4c95265655724f1eb19&size=339713357&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ABC7CD86454CB386EDD06BEDB90370CCA012427C",
+        "sha256": "9FADCE56A4A3AD3265A1E495F0B0A79C42855DFA2FE6C2723FC3F293C3986061"
+    },
+    "download_size": 339713357,
+    "identifier": "GrannusExpansionPack-Primary",
+    "install": [
+        {
+            "find": "GEP_Primary/GameData/GEP_Primary",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-ND",
+    "name": "Grannus Expansion Pack Primary [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "Kronometer"
+        }
+    ],
+    "release_date": "2021-10-21T16:36:26Z",
+    "resources": {
+        "bugtracker": "https://github.com/OhioBob/Grannus-Expansion-Pack/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169664-*",
+        "remote-avc": "https://raw.githubusercontent.com/OhioBob/Grannus-Expansion-Pack/master/GameData/GEP/Version/GrannusExpansionPack.version",
+        "repository": "https://github.com/OhioBob/Grannus-Expansion-Pack"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "GPPSecondary"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.2.5",
+    "x_generated_by": "netkan"
+}

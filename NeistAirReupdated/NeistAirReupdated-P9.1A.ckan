@@ -1,0 +1,49 @@
+{
+    "abstract": "The NeistAir Plane Part Pack but UPDATED!",
+    "author": "KerbMario",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3034/NeistAir%20Reupdated/download/P9.1A",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "121DDE5B6671D9AFC8763CF80C5B315274EF16F3",
+        "sha256": "C81EC035C1E3553CFAD416823F740DB5A3A64D0F685091BB28D8DB4D0C90E1A8"
+    },
+    "download_size": 39071105,
+    "identifier": "NeistAirReupdated",
+    "install": [
+        {
+            "find": "NeistAir",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 60744339,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-SA",
+    "localizations": [
+        "de-de",
+        "en-us"
+    ],
+    "name": "NeistAir Reupdated",
+    "recommends": [
+        {
+            "name": "FilterExtensions"
+        }
+    ],
+    "release_date": "2023-05-24T20:55:27.057491+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/208435-neistair-reupdated-updated-by-kerbmario-112x/",
+        "spacedock": "https://spacedock.info/mod/3034/NeistAir%20Reupdated",
+        "x_screenshot": "https://spacedock.info/content/KerbMario_82788/NeistAir_Reupdated/NeistAir_Reupdated-1654212283.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "P9.1A",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,42 @@
+{
+    "abstract": "SIMPLEX Assembly gives every part the opportunity to be manipulated in Construction Mode",
+    "author": "theJesuit",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2827/SIMPLEX%20Assembly/download/1.5.20240708",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F252BB97DC1013ED958519E10884D617F5A262B0",
+        "sha256": "171E5D038E841EDDA8F428F9609B50034946D4D069E0AD7FB47925E14CED3189"
+    },
+    "download_size": 96915,
+    "identifier": "SIMPLEXAssembly",
+    "install": [
+        {
+            "find": "AngleCanMods",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 190423,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "SIMPLEX Assembly",
+    "release_date": "2024-07-08T02:13:06.151082+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204395-1122-simplex-assembly/",
+        "spacedock": "https://spacedock.info/mod/2827/SIMPLEX%20Assembly"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "crewed"
+    ],
+    "version": "1.5",
+    "x_generated_by": "netkan"
+}

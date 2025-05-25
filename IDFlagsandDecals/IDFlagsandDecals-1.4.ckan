@@ -1,0 +1,49 @@
+{
+    "abstract": "Identify your ships and parts.",
+    "author": "Vexillar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1591/ID%20Flags%20and%20Decals/download/1.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D4FB506E05EB2292557AF326EF7F545861671723",
+        "sha256": "0F88A5B3FCFC2A28F47D18C0D9293D3F8DC210F864B3916B0B172DFB71DF1DD7"
+    },
+    "download_size": 7053239,
+    "identifier": "IDFlagsandDecals",
+    "install": [
+        {
+            "find": "IDFlags",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.11.2",
+    "license": "CC-BY-NC-ND",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "ID Flags and Decals",
+    "recommends": [
+        {
+            "name": "DecalStickers"
+        },
+        {
+            "name": "NEBULADecalsContinued"
+        }
+    ],
+    "release_date": "2020-08-01T15:20:33.58378+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/1591/ID%20Flags%20and%20Decals",
+        "x_screenshot": "https://spacedock.info/content/Vexillar_16801/ID_Flags_and_Decals/ID_Flags_and_Decals-1511023913.8390462.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "graphics",
+        "flags"
+    ],
+    "version": "1.4",
+    "x_generated_by": "netkan"
+}

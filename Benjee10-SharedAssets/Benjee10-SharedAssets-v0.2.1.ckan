@@ -1,0 +1,40 @@
+{
+    "abstract": "Shared assets for Benjee10 KSP mods. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "benjee10",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/benjee10/Benjee10_sharedAssets/releases/download/v0.2.1/Benjee10_sharedAssets_v0.2.1.zip?auth_key=1748275915-dffe2089192e4393af3b620e7e548336-0-b06b857d371fc1236e178465e44f7414&size=3633310&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BFC3D62A6C669540602AF699DCBB82AC032867D6",
+        "sha256": "C870EB3E6AE790BE8CCE8E1858EDEF2038DF6F6677DF165AFDC138D949517079"
+    },
+    "download_size": 3633310,
+    "identifier": "Benjee10-SharedAssets",
+    "install": [
+        {
+            "find": "GameData/Benjee10_sharedAssets",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 8398456,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "Benjee10 sharedAssets [PRO-KCMIRROR]",
+    "release_date": "2022-08-29T19:10:47Z",
+    "resources": {
+        "bugtracker": "https://github.com/benjee10/Benjee10_sharedAssets/issues",
+        "remote-avc": "https://raw.githubusercontent.com/benjee10/Benjee10_sharedAssets/master/GameData/Benjee10_sharedAssets/Version/Benjee10_sharedAssets.version",
+        "repository": "https://github.com/benjee10/Benjee10_sharedAssets"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "v0.2.1",
+    "x_generated_by": "netkan"
+}

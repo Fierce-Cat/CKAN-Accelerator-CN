@@ -1,0 +1,78 @@
+{
+    "abstract": "Get out of your seat in IVA and float around your ship",
+    "author": [
+        "pizzaoverhead",
+        "Icecovery",
+        "JonnyOThan"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3151/FreeIva/download/0.2.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "606B7CBF5C7BD2B3A498B353FC4E791A8F41EB57",
+        "sha256": "A54398F7FA53C0EBA13A8D0AD3D93CD97699AF9CC6C52EDFA612ABBFF020A5AA"
+    },
+    "download_size": 8377563,
+    "identifier": "FreeIva",
+    "install_size": 12640420,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-2.0",
+    "name": "FreeIva",
+    "recommends": [
+        {
+            "name": "ThroughTheEyesOfaKerbal"
+        }
+    ],
+    "release_date": "2023-01-03T06:42:54.734331+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/pizzaoverhead/FreeIva/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/210548-112-freeiva/",
+        "remote-avc": "https://github.com/pizzaoverhead/FreeIva/raw/main/GameData/FreeIva/FreeIva.version",
+        "repository": "https://github.com/pizzaoverhead/FreeIva",
+        "spacedock": "https://spacedock.info/mod/3151/FreeIva",
+        "x_screenshot": "https://spacedock.info/content/JonnyOThan_33590/FreeIva/FreeIva-1668095034.png"
+    },
+    "spec_version": "v1.18",
+    "suggests": [
+        {
+            "name": "Reviva"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "DE-IVAExtension"
+        },
+        {
+            "name": "AvionicsSystems"
+        }
+    ],
+    "supports": [
+        {
+            "name": "PlanetsideExplorationTechnologies"
+        },
+        {
+            "name": "StationPartsExpansionRedux-IVAs"
+        },
+        {
+            "name": "Buffalo2"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "Kerbalism-Config-Default"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "0.2.4",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,40 @@
+{
+    "abstract": "Better chase camera behaviour",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "ImprovedChaseCamera"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2249/Improved%20and%20Updated%20Chase%20Camera/download/1.6.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "453A0EB65EA7FB4FEB2389C637FDBCFD54144579",
+        "sha256": "629FA05E0C57D968EEF9A1402B4D2526F8F7D306DDA42158704BD9A301261DAE"
+    },
+    "download_size": 31928,
+    "identifier": "ImprovedUpdatedChaseCam",
+    "install": [
+        {
+            "find": "ImprovedChaseCamera",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Improved and Updated Chase Camera",
+    "release_date": "2019-11-12T01:20:51.168256+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/188979-*",
+        "remote-avc": "http://ksp.spacetux.net/avc/ImprovedChaseCamera",
+        "repository": "https://github.com/linuxgurugamer/ImprovedChaseCamera/",
+        "spacedock": "https://spacedock.info/mod/2249/Improved%20and%20Updated%20Chase%20Camera"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.6.4",
+    "x_generated_by": "netkan"
+}

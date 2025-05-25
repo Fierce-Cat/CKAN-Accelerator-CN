@@ -1,0 +1,90 @@
+{
+    "abstract": "52 more of the \"best\" bodies from CharonSSS's amazing RSS-Origin Celestial Pack [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "CharonSSS",
+        "Qazerowl"
+    ],
+    "conflicts": [
+        {
+            "name": "RSSOrigin-CelestialsPack-Centaurs"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-Comets"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-InterstellarObjects"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-JupiterMoons"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-JupiterTrojans"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-MainBeltAsteroids"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-MarsCrossers"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-NearEarthObjects"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-NeptuneMoons"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-PlutoMoons"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-SaturnMoons"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-TransNeptunianObjects"
+        },
+        {
+            "name": "RSSOrigin-CelestialsPack-UranusMoons"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "RSSOrigin"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Qazerowl/RSS-Origin-Less/releases/download/v1.1.3/RSS-Origin-Less-Secondary-1.1.3.zip?auth_key=1748275917-e0c5e591e80440678ef55c628c32c404-0-e2f420dfa0b2f3ad1ac3b7b49d2d22d4&size=564281776&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B56F4FE352231E71066043656FEF5DC5A0A637A0",
+        "sha256": "39B28CAFEE3DE01B0A36F6A005B94769146E8E3B76FFC9DA2A5F7D96F38C6F06"
+    },
+    "download_size": 564281776,
+    "identifier": "RSSOrigin-Less-Secondary",
+    "install": [
+        {
+            "find": "RSSOrigin",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1136958707,
+    "ksp_version_min": "1.12",
+    "license": "CC-BY-NC-SA",
+    "name": "RSS-Origin Less - Secondary [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RSSOrigin-Less-Primary"
+        }
+    ],
+    "release_date": "2024-11-28T16:42:00Z",
+    "resources": {
+        "repository": "https://github.com/Qazerowl/RSS-Origin-Less"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "v1.1.3",
+    "x_generated_by": "netkan"
+}

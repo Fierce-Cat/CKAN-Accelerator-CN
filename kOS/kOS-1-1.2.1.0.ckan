@@ -1,0 +1,58 @@
+{
+    "abstract": "kOS is a scriptable autopilot Mod for Kerbal Space Program. It allows you write small programs that automate specific tasks. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "many KSP-KOS contributers, currently dunbaratu and hvacengi",
+    "conflicts": [
+        {
+            "name": "kOS-Classic"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-KOS/KOS/releases/download/v1.2.1.0/kOS-v1.2.1.0.zip?auth_key=1748275915-1fe329ed92f340369f8ffed02ffeaa86-0-96b85a4bcf10adb4fbe610d1723b6929&size=3072815&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A6AD6084C034F4F7C1D6F074B506E331C2F3B4CF",
+        "sha256": "42BBF25BD96E76B66BB25736119BF2CCD19233686C409610E0C74C033EC93C78"
+    },
+    "download_size": 3072815,
+    "identifier": "kOS",
+    "install": [
+        {
+            "file": "GameData/kOS",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.9.1",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "kOS: Scriptable Autopilot System [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "comment": "Earlier versions of MM have forward compatibility problems, according to the MM release notes.",
+            "min_version": "2.5.6",
+            "name": "ModuleManager"
+        }
+    ],
+    "release_date": "2020-05-24T20:12:39Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-KOS/KOS/issues",
+        "homepage": "http://ksp-kos.github.io/KOS_DOC/",
+        "manual": "http://ksp-kos.github.io/KOS_DOC/",
+        "metanetkan": "https://raw.githubusercontent.com/KSP-KOS/KOS/master/kOS.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-KOS/KOS/master/Resources/GameData/kOS/kOS.version",
+        "repository": "https://github.com/KSP-KOS/KOS"
+    },
+    "spec_version": "v1.16",
+    "suggests": [
+        {
+            "comment": "RT gives incentive to having local control of craft, even unmanned ones",
+            "min_version": "1.5.1",
+            "name": "RemoteTech"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "1:1.2.1.0",
+    "x_generated_by": "netkan"
+}

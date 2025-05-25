@@ -1,0 +1,51 @@
+{
+    "abstract": "Vessel Orbital Informational Display",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToadicusToolsContinued"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1413/VOID%20unVoided/download/1.1.10",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F7105AE3611136AC4FCC54CD667305E7BB2B646E",
+        "sha256": "B187CA4AF2497A62BC79600067CE0D6BE6E5BF0B53919634BFA09C33FF9444D9"
+    },
+    "download_size": 156951,
+    "identifier": "VOID",
+    "install": [
+        {
+            "find": "VOID",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.8.1",
+    "ksp_version_min": "1.8.0",
+    "license": "BSD-3-clause",
+    "name": "VOID unVoided",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/150280-13-void-continued-vessel-orbital-informational-display/",
+        "repository": "https://github.com/linuxgurugamer/VOID/",
+        "spacedock": "https://spacedock.info/mod/1413/VOID%20unVoided",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/VOID_unVoided/VOID_unVoided-1497180207.7749028.png"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "1.1.10",
+    "x_generated_by": "netkan"
+}

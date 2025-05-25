@@ -1,0 +1,84 @@
+{
+    "abstract": "An payload parts mod that adds three 2.5m round cargobays in 1m, 2m, and 4m lengths with fold-flat door design",
+    "author": [
+        "Bezzier",
+        "DaMichel",
+        "zer0Kerbal"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2339/DaMichel's%20CargoBays%20(DCB)/download/1.1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "00C7105A9BB6F35E239D69E1CEF4DF000DC474FA",
+        "sha256": "7AB52A325C2D06B248864135C57769410A1708A88382E0B6A0D8B5FD7CD06805"
+    },
+    "download_size": 339828,
+    "identifier": "DMTanks-CargoBays",
+    "install": [
+        {
+            "find": "DaMichel",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1529483,
+    "ksp_version_max": "1.9.9999",
+    "ksp_version_min": "1.7.1",
+    "license": "CC-BY-SA-3.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "it-it"
+    ],
+    "name": "DaMichel's CargoBays (DCB)",
+    "recommends": [
+        {
+            "name": "DMTanks-AeroRTG"
+        },
+        {
+            "name": "DMTanks-SphericalTanks"
+        },
+        {
+            "name": "DMTanks-Fuselage"
+        }
+    ],
+    "release_date": "2020-03-09T04:43:54.621729+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/zer0Kerbal/CargoBays/issues",
+        "discussions": "https://github.com/zer0Kerbal/CargoBays/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207351-*/",
+        "remote-avc": "https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/CargoBays.version",
+        "repository": "https://github.com/zer0Kerbal/CargoBays",
+        "spacedock": "https://spacedock.info/mod/2339/DaMichel's%20CargoBays%20(DCB)",
+        "x_screenshot": "https://spacedock.info/content/zer0Kerbal_21147/DaMichels_Cargo_Bays_DCB/DaMichels_Cargo_Bays_DCB-1652589748.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SimpleConstruction"
+        },
+        {
+            "name": "NotSoSimpleConstruction"
+        },
+        {
+            "name": "SimpleLogistics"
+        },
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "supports": [
+        {
+            "name": "TweakScale"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1:1.1.0.1",
+    "x_generated_by": "netkan"
+}

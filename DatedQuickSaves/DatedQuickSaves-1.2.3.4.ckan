@@ -1,0 +1,38 @@
+{
+    "abstract": "Automatically rename quicksaves to contain unique and descriptive names",
+    "author": [
+        "magico13",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "MagiCore"
+        }
+    ],
+    "download": "https://spacedock.info/mod/643/Dated%20QuickSaves/download/1.2.3.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "38A6B86EE6227CC175206CE4595324B8AAA720F6",
+        "sha256": "B6B386D4657AA2DD936B363FCC2BD0370756C9876A580A935658D830E241EAE3"
+    },
+    "download_size": 36516,
+    "identifier": "DatedQuickSaves",
+    "install": [
+        {
+            "file": "GameData/DatedQuickSaves",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.7.0",
+    "ksp_version_min": "1.5.1",
+    "license": "GPL-3.0",
+    "name": "Dated QuickSaves",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178484-14x-",
+        "repository": "https://github.com/linuxgurugamer/Magico13_Modlets",
+        "spacedock": "https://spacedock.info/mod/643/Dated%20QuickSaves"
+    },
+    "spec_version": 1,
+    "version": "1.2.3.4",
+    "x_generated_by": "netkan"
+}

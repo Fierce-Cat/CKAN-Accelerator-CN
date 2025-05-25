@@ -1,0 +1,47 @@
+{
+    "abstract": "Draft, tour with, or rescue your twitch viewers as in-game Kerbals!",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1985/Draft%20Twitch%20Viewers%20Redrafted/download/2.7.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "56C8C6421852FEB0EB3BF11CBED06EA910644925",
+        "sha256": "6B5B4A2A352F6ACE85CAB718044EAAEA42DC8F7C947A498D5043113052251BB3"
+    },
+    "download_size": 223251,
+    "identifier": "DTV2",
+    "install": [
+        {
+            "find": "DraftTwitchViewers",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version_max": "1.11.2",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Draft Twitch Viewers Redrafted",
+    "release_date": "2021-06-24T14:47:36.155905+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/DraftTwitchViewers/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/164357-141-draft-twitch-viewers-redrafted-draft-tour-with-or-rescue-your-twitch-viewers-as-in-game-kerbals/",
+        "remote-avc": "http://ksp.spacetux.net/avc/DraftTwitchViewers",
+        "repository": "https://github.com/linuxgurugamer/DraftTwitchViewers",
+        "spacedock": "https://spacedock.info/mod/1985/Draft%20Twitch%20Viewers%20Redrafted",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Draft_Twitch_Viewers_Redrafted/Draft_Twitch_Viewers_Redrafted-1540129063.9716632.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "crewed",
+        "app"
+    ],
+    "version": "2.7.1.1",
+    "x_generated_by": "netkan"
+}

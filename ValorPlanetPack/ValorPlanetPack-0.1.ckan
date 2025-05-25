@@ -1,0 +1,45 @@
+{
+    "abstract": "Valor is a mod that adds a second Gas Giant for the stock Kerbin system.",
+    "author": "Misguided_Kerbal",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2495/Valor%20Planet%20Pack/download/0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4BF518361370CEC66D71ECAF3A21D5571FF4D25F",
+        "sha256": "89DF1F1C5D914213E73BC8E84A775E87DC1145CF9D70AABB9EE776B90B78F274"
+    },
+    "download_size": 4854616,
+    "identifier": "ValorPlanetPack",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "GameData/Valor",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.9.1",
+    "license": "GPL-3.0",
+    "name": "Valor Planet Pack",
+    "release_date": "2020-08-10T01:40:38.961766+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/195983-wip-valor-gp2-analog",
+        "spacedock": "https://spacedock.info/mod/2495/Valor%20Planet%20Pack",
+        "x_screenshot": "https://spacedock.info/content/Misguided_Kerbal_43869/Valor_Planet_Pack/Valor_Planet_Pack-1597199784.7130368.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "0.1",
+    "x_generated_by": "netkan"
+}

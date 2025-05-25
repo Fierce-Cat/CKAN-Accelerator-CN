@@ -1,0 +1,35 @@
+{
+    "abstract": "Redistributable that is used by KSPIE Interstellar and Photon Sailor",
+    "author": "FreeThinker",
+    "download": "https://spacedock.info/mod/2800/Interstellar%20Redistributable%20/download/1.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D40760E3FB50489DA4289A10622DAC2BFFAAED03",
+        "sha256": "E1399DC56791CADC927E6A98359E61A451752D40CBFAD4EFD8F006C275F3552E"
+    },
+    "download_size": 21573,
+    "identifier": "InterstellarRedistributable",
+    "install": [
+        {
+            "file": "Interstellar_Redist.dll",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 54272,
+    "ksp_version_min": "1.8.1",
+    "license": "MIT",
+    "name": "Interstellar Redistributable ",
+    "release_date": "2021-06-30T13:12:42.159624+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/sswelm/KSP-Interstellar-Extended/issues",
+        "repository": "https://github.com/sswelm/KSP-Interstellar-Extended",
+        "spacedock": "https://spacedock.info/mod/2800/Interstellar%20Redistributable%20"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "1.4",
+    "x_generated_by": "netkan"
+}

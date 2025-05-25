@@ -1,0 +1,29 @@
+{
+    "abstract": "A common set of utilities for magico13's mods",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/2094/MagiCore/download/1.3.2.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BA6C6D34A54444D930E6FC6E202141BE07B2C8FF",
+        "sha256": "636690D8BE91F30EDB49C92735F575CF7985402F399298D3AFDDC258805EF805"
+    },
+    "download_size": 33620,
+    "identifier": "MagiCore",
+    "install": [
+        {
+            "find": "MagiCore",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.8.0",
+    "license": "MIT",
+    "name": "MagiCore",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/97033-10x",
+        "repository": "https://github.com/linuxgurugamer/MagiCore/",
+        "spacedock": "https://spacedock.info/mod/2094/MagiCore"
+    },
+    "spec_version": "v1.16",
+    "version": "1.3.2.2",
+    "x_generated_by": "netkan"
+}

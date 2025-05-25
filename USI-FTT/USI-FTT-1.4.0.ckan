@@ -1,0 +1,61 @@
+{
+    "abstract": "A series of modular parts for all of your hauling, mining, and exploration needs! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RoverDude",
+    "conflicts": [
+        {
+            "name": "SETI-CommunityTechTree"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "v7.6.0",
+            "name": "FirespitterCore"
+        },
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "0.9.0.0",
+            "name": "USITools"
+        },
+        {
+            "min_version": "0.7.0.0",
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/UmbraSpaceIndustries/FTT/releases/download/1.4.0/FTT_1.4.0.0.zip?auth_key=1748275915-8624db47036d4018a6e3d7ced3c3341c-0-ea9cc815c73132b548d1f8d7c065db2e&size=24782503&expireAt=1748275915",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FDBDA4FF48528E824676564F51EF83E85E2E658F",
+        "sha256": "97FF4DA5BD0E1F508A5A3F1ED502CFDC25C895D6FB35BA41DED06752A4CD7DCE"
+    },
+    "download_size": 24782503,
+    "identifier": "USI-FTT",
+    "install": [
+        {
+            "find": "UmbraSpaceIndustries/FTT",
+            "install_to": "GameData/UmbraSpaceIndustries"
+        }
+    ],
+    "ksp_version_max": "1.11.99",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "USI Freight Transport Technologies [PRO-KCMIRROR]",
+    "release_date": "2020-12-21T21:26:44Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/UmbraSpaceIndustries/FTT/issues",
+        "homepage": "http://umbraspaceindustries.github.io/UmbraSpaceIndustries/",
+        "metanetkan": "https://raw.githubusercontent.com/UmbraSpaceIndustries/CKAN/master/USI-FTT.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/BobPalmer/FTT/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/FTT/FTT.version",
+        "repository": "https://github.com/UmbraSpaceIndustries/FTT"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.4.0",
+    "x_generated_by": "netkan",
+    "x_last_revision_by": "DoktorKrogg"
+}

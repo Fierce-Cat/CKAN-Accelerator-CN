@@ -1,0 +1,41 @@
+{
+    "abstract": "64k Earth ground textures for PhotoRealisticVisualEnhancement [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "SpaceODY",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "PhotoRealisticVisualEnhancement"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/SpaceODY/PRVE/releases/download/v1.7/PRVE64k-1.7.zip?auth_key=1748275917-ca90e336506a4ba9a4d163aea0d3a66b-0-2a804645a16accbeedeacf3287e62f50&size=291068862&expireAt=1748275917",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C26EB6395681E449DED48EAA6F5DDD7DBF66C769",
+        "sha256": "4A52ABB9D10501EEFCB06EFED4DE137D9D7D1895C4B35259C1C4473750D66A54"
+    },
+    "download_size": 291068862,
+    "identifier": "PhotoRealisticVisualEnhancement-64k",
+    "install": [
+        {
+            "find": "PRVE-64k",
+            "install_to": "GameData"
+        }
+    ],
+    "ksp_version": "1.10.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "PRVE 64k [PRO-KCMIRROR]",
+    "release_date": "2022-04-11T00:25:22Z",
+    "resources": {
+        "bugtracker": "https://github.com/SpaceODY/PRVE/issues",
+        "repository": "https://github.com/SpaceODY/PRVE"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "v1.7",
+    "x_generated_by": "netkan"
+}

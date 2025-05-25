@@ -1,0 +1,73 @@
+{
+    "abstract": "Techtree mod that adds an additional propulsion line",
+    "author": "KawaiiLucy",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2646/Improved%20Tree%20Engine%20Placement/download/v1.4.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "606AE35BE14B733C684A9937BD33CF83CCCED854",
+        "sha256": "7AEBE02A18B422F47B4B0C54C7F219EB1E77FB40CCFC931D9A18D2EC4A87E23D"
+    },
+    "download_size": 24328,
+    "identifier": "ImprovedTreeEnginePlacement",
+    "install": [
+        {
+            "find": "ImprovedTreeEnginePlacement",
+            "install_to": "GameData"
+        },
+        {
+            "find": "ImprovedTreeEnginePlacement/Extras",
+            "install_to": "GameData/ImprovedTreeEnginePlacement"
+        }
+    ],
+    "install_size": 29885,
+    "ksp_version": "1.11.2",
+    "license": "CC-BY-NC-4.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "fr-fr"
+    ],
+    "name": "Improved Tree Engine Placement",
+    "recommends": [
+        {
+            "name": "BetterEarlyTree"
+        }
+    ],
+    "release_date": "2021-05-08T19:47:28.316257+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/TakashiSenpai/ImprovedTreeEnginePlacement/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200651-1111-improved-tree-engine-placement-26th-feb-21/",
+        "repository": "https://github.com/TakashiSenpai/ImprovedTreeEnginePlacement",
+        "spacedock": "https://spacedock.info/mod/2646/Improved%20Tree%20Engine%20Placement",
+        "x_screenshot": "https://spacedock.info/content/KawaiiLucy_56411/Improved_Tree_Engine_Placement/Improved_Tree_Engine_Placement-1614294144.7948964.png"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        }
+    ],
+    "tags": [
+        "config",
+        "tech-tree"
+    ],
+    "version": "v1.4.0",
+    "x_generated_by": "netkan"
+}

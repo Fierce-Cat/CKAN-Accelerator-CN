@@ -1,0 +1,52 @@
+{
+    "abstract": "The 2.5m base pod too small?  Extend it with these modular extensions from 2.5m to 3.75m and beyond.",
+    "author": [
+        "TiktaalikDreaming",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TDProps"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/ModPods/releases/download/1.0.12/ModularPods-1.12.0-1.0.12.zip",
+        "https://spacedock.info/mod/1017/ModularPods/download/1.0.12"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C235B266244463464A0FA1AA6ADCC2731290959D",
+        "sha256": "90B647CC98D492A866284115238AF81BED5E1FE60B7E95A2023F143398B2E22B"
+    },
+    "download_size": 8421410,
+    "identifier": "ModularPods",
+    "install": [
+        {
+            "find": "ModPods",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 50429435,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.6.0",
+    "license": "CC-BY-SA-4.0",
+    "name": "ModularPods",
+    "release_date": "2022-03-08T03:23:30.6333+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207178-112x-modpods/",
+        "remote-avc": "http://ksp.spacetux.net/avc/ModularPods",
+        "repository": "https://github.com/linuxgurugamer/ModPods",
+        "spacedock": "https://spacedock.info/mod/1017/ModularPods",
+        "x_screenshot": "https://spacedock.info/content/TiktaalikDreaming_235/ModularPods/ModularPods-1550274176.3319652.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1.0.12",
+    "x_generated_by": "netkan"
+}

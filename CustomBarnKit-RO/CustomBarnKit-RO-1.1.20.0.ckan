@@ -1,0 +1,45 @@
+{
+    "abstract": "A small plugin to change a bunch of parameters related to career, science, the buildings upgrade cost and when various features are unlocked. Build for Realism Overhaul [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Sarbian",
+    "conflicts": [
+        {
+            "name": "CustomBarnKit"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/sarbian/jenkins/job/CustomBarnKit-RO/8/artifact/CustomBarnKit-RO-1.1.20.0.zip?auth_key=1748275916-82ec12eb60c24090b59cdc5a8b4bbc18-0-ecd6549af930e84afccd2824b2148487&size=16067&expireAt=1748275916",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FC76E0FA058DFFDD0EE7D6E638A01B40CB9DFD94",
+        "sha256": "17454747EC8514394462011C19F55CFE3C25E32ABDF965D785790A1276E755C6"
+    },
+    "download_size": 16067,
+    "identifier": "CustomBarnKit-RO",
+    "install": [
+        {
+            "find": "CustomBarnKit",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 41758,
+    "ksp_version": "1.7.3",
+    "license": "MIT",
+    "name": "Custom Barn Kit - RO build [PRO-KCMIRROR]",
+    "provides": [
+        "CustomBarnKit"
+    ],
+    "release_date": "2020-04-25T09:06:46.649Z",
+    "resources": {
+        "ci": "https://ksp.sarbian.com/jenkins/job/CustomBarnKit-RO/",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/109027-*",
+        "remote-avc": "https://ksp.sarbian.com/jenkins/job/CustomBarnKit-RO/lastSuccessfulBuild/artifact/CustomBarnKit/CustomBarnKit-RO.version",
+        "repository": "https://github.com/sarbian/CustomBarnKit"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library",
+        "buildings"
+    ],
+    "version": "1.1.20.0",
+    "x_generated_by": "netkan"
+}

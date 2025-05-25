@@ -1,0 +1,48 @@
+{
+    "abstract": "Telemetry addon for Kerbal Space Program.",
+    "author": "yagiziskirik",
+    "download": "https://spacedock.info/mod/2643/Kerbal%20Telemetry%20-%20Now%20Standalone!/download/v2.3.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6A4B5DDFA0732E5656F7CB21505FDE6E9A047A7F",
+        "sha256": "583A2C4FBE680B276D05D9C17B60ADEDD524E0645DDA431A47777E3EE94DD010"
+    },
+    "download_size": 9699782,
+    "identifier": "KerbalTelemetry",
+    "install": [
+        {
+            "filter": ".DS_Store",
+            "find": "Textures",
+            "install_to": "GameData"
+        },
+        {
+            "filter": ".DS_Store",
+            "find": "WebServer",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Kerbal Telemetry.dll",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 13429000,
+    "ksp_version": "1.12.3",
+    "license": "MIT",
+    "name": "Kerbal Telemetry - Now Standalone!",
+    "release_date": "2022-06-12T17:02:39.665032+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/yagiziskirik/Kerbal-Telemetry/issues",
+        "homepage": "https://yagiziskirik.github.io/Kerbal-Telemetry/",
+        "repository": "https://github.com/yagiziskirik/Kerbal-Telemetry",
+        "spacedock": "https://spacedock.info/mod/2643/Kerbal%20Telemetry%20-%20Now%20Standalone!",
+        "x_screenshot": "https://spacedock.info/content/yagiziskirik_56187/Kerbal_Telemetry/Kerbal_Telemetry-1613904743.7807353.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "app",
+        "information"
+    ],
+    "version": "v2.3.0",
+    "x_generated_by": "netkan"
+}

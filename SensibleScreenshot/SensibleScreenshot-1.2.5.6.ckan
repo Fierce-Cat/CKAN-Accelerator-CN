@@ -1,0 +1,49 @@
+{
+    "abstract": "Give your screenshots sensible names",
+    "author": [
+        "magico13",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "MagiCore"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/Magico13_Modlets/releases/download/1.5.4/SensibleScreenshot-1.12.0-1.2.5.6.zip",
+        "https://spacedock.info/mod/642/Sensible%20Screenshot/download/1.2.5.6"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "69CDA25B36D7E5CA0CC8E665BB9D3E3BD4C81789",
+        "sha256": "106CF7227823640984104ED8F90A8C0CA27ECDD62337AD928DADB317D6EE5455"
+    },
+    "download_size": 20416,
+    "identifier": "SensibleScreenshot",
+    "install": [
+        {
+            "find": "SensibleScreenshot",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 50079,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "Sensible Screenshot",
+    "release_date": "2025-03-31T17:15:03.76364+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/Magico13_Modlets/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/178484-14x-",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/Magico13_Modlets/refs/heads/master/SensibleScreenshot.version",
+        "repository": "https://github.com/linuxgurugamer/Magico13_Modlets",
+        "spacedock": "https://spacedock.info/mod/642/Sensible%20Screenshot"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1.2.5.6",
+    "x_generated_by": "netkan"
+}

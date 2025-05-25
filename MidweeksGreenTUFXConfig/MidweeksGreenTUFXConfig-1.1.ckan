@@ -1,0 +1,39 @@
+{
+    "abstract": "A config that will make your game look better without dramatic side effects",
+    "author": "Midweekmouse505",
+    "depends": [
+        {
+            "name": "TUFX"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2859/Midweeks%20Green%20TUFX%20Config/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "80DD10EA01A3649F5940CE095140E9D05F771634",
+        "sha256": "3337D4178189E9DDFD22EACB1695A5C9EDE5094E78D315311EBCBE4F474F0E03"
+    },
+    "download_size": 1070,
+    "identifier": "MidweeksGreenTUFXConfig",
+    "install": [
+        {
+            "file": "Midweeks_Green.cfg",
+            "install_to": "GameData/Midweek"
+        }
+    ],
+    "install_size": 2950,
+    "ksp_version": "1.12.3",
+    "license": "MIT",
+    "name": "Midweeks Green TUFX Config",
+    "release_date": "2021-09-19T15:17:28.063879+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/2859/Midweeks%20Green%20TUFX%20Config",
+        "x_screenshot": "https://spacedock.info/content/Midweekmouse505_48512/Midweeks_Green/Midweeks_Green-1632062017.3036585.png"
+    },
+    "spec_version": "v1.2",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}
