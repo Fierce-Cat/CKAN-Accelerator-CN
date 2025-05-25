@@ -1,0 +1,79 @@
+name: Process CKAN Metadata (Public)
+
+on:
+  push:
+    branches:
+      - main # Or your default branch, e.g., master
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC, adjust as needed
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+
+jobs:
+  process_and_commit_ckan_data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Essential for the action to commit to your repository
+
+    steps:
+      - name: Checkout Target Repository (Fierce-Cat/CKAN-Accelerator)
+        uses: actions/checkout@v4
+        # This checks out the Fierce-Cat/CKAN-Accelerator repository
+        # where this workflow file and process_ckan_files.py are located.
+
+      - name: Checkout Source CKAN Metadata (e.g., CKAN-meta)
+        uses: actions/checkout@v4
+        with:
+          # IMPORTANT: Replace with the actual repository URL for the CKAN metadata source
+          # For example, if you are using the official CKAN-meta:
+          repository: KSP-CKAN/CKAN-meta
+          # Or if you have your own fork or a different source:
+          # repository: YourGitHubUsername/Your-CKAN-meta-Fork
+          path: ckan_meta_source # Clones the source metadata into a subdirectory
+          # Optionally, specify a branch if not the default:
+          # ref: 'master'
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11' # Specify your desired Python version
+
+      - name: Install Python Dependencies (if any)
+        run: |
+          # If your process_ckan_files.py has dependencies like 'requests', install them here
+          # python -m pip install --upgrade pip
+          # pip install requests some-other-package
+          echo "No external Python dependencies specified for process_ckan_files.py beyond standard library."
+          # The provided script only uses standard libraries.
+
+      - name: Run CKAN Processing Script
+        run: |
+          # This command runs your Python script:
+          # 'ckan_meta_source' is the input directory (where the source metadata was cloned)
+          # '.' is the output directory (the root of Fierce-Cat/CKAN-Accelerator)
+          python ckan_process_public.py ckan_meta_source .
+        # Your process_ckan_files.py should be in the root of Fierce-Cat/CKAN-Accelerator
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
+          
+          echo "Checking for changes..."
+          # The following lines ensure that we only commit if there are actual changes.
+          git add . # Stage all changes, including new files, modified files, and deletions
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            echo "Changes detected. Committing..."
+            git commit -m "Automated CKAN metadata processing: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+            # Before pushing, you might want to pull if the branch could have been updated externally,
+            # though for a dedicated bot-like action, direct push is often fine.
+            # git pull --rebase # Optional: if external changes are common
+            git push
+            echo "Changes committed and pushed."
+          fi
+        env:
+          # GITHUB_TOKEN is automatically created by GitHub Actions
+          # and has write permissions to the repository the workflow runs in.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
