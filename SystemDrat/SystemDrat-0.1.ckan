@@ -1,0 +1,47 @@
+{
+    "abstract": "A new star system",
+    "author": "Univvurs1",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "VertexHeightOblateAdvanced"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3897/System%20Drat/download/0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0FCAAF4E69E9990D183FF714AC25679A9A548E7B",
+        "sha256": "04868302A55C36CC22F279DF19674F222DC46F6050A6A8208C799EE855296089"
+    },
+    "download_size": 54429898,
+    "identifier": "SystemDrat",
+    "install": [
+        {
+            "find": "SD",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 200909698,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "System Drat",
+    "release_date": "2025-05-25T00:33:36.618613+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227965-drat-system/",
+        "spacedock": "https://spacedock.info/mod/3897/System%20Drat",
+        "x_screenshot": "https://spacedock.info/content/Univvurs1_141361/System_Drat/System_Drat-1748133246.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "0.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
