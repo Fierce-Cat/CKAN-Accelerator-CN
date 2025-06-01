@@ -1,0 +1,79 @@
+{
+    "abstract": "A brand new star system set in the far future where Kerbals have migrated towards luxurious binary habitable worlds",
+    "author": "ProximaCentauri-star",
+    "conflicts": [
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "JNSQ"
+        },
+        {
+            "name": "BeyondHome"
+        },
+        {
+            "name": "Parallax"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "VertexHeightOblateAdvanced"
+        },
+        {
+            "name": "VertexColorMapEmissive"
+        }
+    ],
+    "download": "https://github.com/ProximaCentauri-star/Celestial-Harmony/releases/download/1.0/_Harmonia.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "295F86C2AD2025B5CA98B22C8F475C63B6F3FB13",
+        "sha256": "416D389E7466D73E10E6B1F5C142295C50AD6027597CB89A4FB1018A6A8A4393"
+    },
+    "download_size": 1271911682,
+    "identifier": "CelestialHarmony",
+    "install_size": 3327901895,
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Celestial Harmony",
+    "provides": [
+        "Scatterer-sunflare"
+    ],
+    "recommends": [
+        {
+            "name": "CelestialHarmony-Chaos"
+        }
+    ],
+    "release_date": "2025-05-31T04:09:39Z",
+    "resources": {
+        "bugtracker": "https://github.com/ProximaCentauri-star/Celestial-Harmony/issues",
+        "repository": "https://github.com/ProximaCentauri-star/Celestial-Harmony"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "ParallaxContinued"
+        }
+    ],
+    "tags": [
+        "planet-pack"
+    ],
+    "version": "1:1.0",
+    "x_generated_by": "netkan"
+}

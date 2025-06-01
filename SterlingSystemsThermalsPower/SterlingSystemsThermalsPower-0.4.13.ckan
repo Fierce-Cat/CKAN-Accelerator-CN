@@ -1,0 +1,50 @@
+{
+    "abstract": "Main power sources that are firstly heat-focused, not electric. Raw nuclear thermal, solar thermal and beamed power are here [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "SterlingSystemsThermals"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.4.13/SterlingSystems_Thermals_0.4.13.zip?auth_key=1748870383-88648f46220f40b9b20bf7b4ead059b8-0-aad0e5ce8d3c260ada6af3063d8ac1cd&size=46198550&expireAt=1748870383",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "A7DBB9B7E1732B9B118C4C3895B657EDA21C8054D282C6258BDCE59366340ADA"
+    },
+    "download_size": 46198550,
+    "identifier": "SterlingSystemsThermalsPower",
+    "install": [
+        {
+            "find": "ThermalsPower",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 72499097,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Thermals - Power [PRO-KCMIRROR]",
+    "release_date": "2025-05-31T23:02:46Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.4.13",
+    "x_generated_by": "netkan"
+}

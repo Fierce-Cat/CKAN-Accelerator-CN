@@ -1,0 +1,67 @@
+{
+    "abstract": "Core things including localization and resources. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.4.13/SterlingSystems_Core_0.4.13.zip?auth_key=1748870383-4b30b56a17c74685a78edd6f1f7ae76d-0-6071918e0a692755a6fe4b3492319706&size=635103&expireAt=1748870383",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "7119072A50784A6440FE9CC87309968EBAF4963F3E5C6E4456EDE3722F47ED3B"
+    },
+    "download_size": 635103,
+    "identifier": "SterlingSystemsAgency",
+    "install": [
+        {
+            "find": "Agency",
+            "install_to": "GameData/SterlingSystems"
+        },
+        {
+            "find": "Version",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 3161885,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Sterling Systems Agency [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "VABOrganizer"
+        },
+        {
+            "name": "VABOrganizer-Jade"
+        }
+    ],
+    "release_date": "2025-05-31T23:02:25Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "agency",
+        "config",
+        "resources"
+    ],
+    "version": "0.4.13",
+    "x_generated_by": "netkan"
+}
