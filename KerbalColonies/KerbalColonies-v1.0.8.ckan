@@ -1,0 +1,59 @@
+{
+    "abstract": "Create colonies using KK statics",
+    "author": [
+        "AMPW",
+        "Halengar"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "CustomPreLaunchChecks"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/KerbalColonies/KerbalColoniesCore/releases/download/v1.0.8/KerbalColonies.zip",
+        "https://spacedock.info/mod/3896/Kerbal%20Colonies%20Core/download/v1.0.8"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2F8AF92B5AD81A140A3293F96F198C5972DBA17E",
+        "sha256": "92625F0A712EAE9BED695CE83730BABB0F81E7E7E5376A4224B4A66FE40E28E4"
+    },
+    "download_size": 96239,
+    "identifier": "KerbalColonies",
+    "install_size": 224419,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8",
+    "license": "GPL-3.0",
+    "name": "Kerbal Colonies Core",
+    "recommends": [
+        {
+            "name": "KerbalColoniesExtraplanetaryLaunchpadsConfig"
+        }
+    ],
+    "release_date": "2025-06-06T16:24:45.017814+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/KerbalColonies/KerbalColoniesCore/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227961-kerbal-colonies-v100-112x/",
+        "remote-avc": "https://raw.githubusercontent.com/KerbalColonies/KerbalColoniesCore/refs/heads/master/GameData/KerbalColonies/KerbalColonies.version",
+        "repository": "https://github.com/KerbalColonies/KerbalColoniesCore",
+        "spacedock": "https://spacedock.info/mod/3896/Kerbal%20Colonies%20Core",
+        "x_screenshot": "https://spacedock.info/content/AMPW_135698/Kerbal_Colonies/Kerbal_Colonies-1748068431.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "buildings",
+        "config",
+        "plugin"
+    ],
+    "version": "v1.0.8",
+    "x_generated_by": "netkan"
+}
