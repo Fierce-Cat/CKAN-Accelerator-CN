@@ -1,0 +1,57 @@
+{
+    "abstract": "A lightweight modular system to build walkable tubes to connect your vessels.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3182/Bavarian%20Aerospace:%20Tubes!%20/download/0.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3142891E6FEA898FD52C428339C860F3074A36A1",
+        "sha256": "950F2C47BB523B3983CC10884D530C4B302870E9997AFF12F473A52B953FA3CC"
+    },
+    "download_size": 12644382,
+    "identifier": "BavarianAerospaceTubes",
+    "install": [
+        {
+            "find": "Bavaria",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 54573165,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.9.0",
+    "license": "CC-BY-SA",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Bavarian Aerospace: Tubes! ",
+    "recommends": [
+        {
+            "name": "KAS"
+        }
+    ],
+    "release_date": "2025-06-11T16:26:23.104075+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/Bavaria/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209353-112x-bavarian-aerospace-tubes/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/Bavaria/refs/heads/main/Bavaria.version",
+        "repository": "https://github.com/linuxgurugamer/Bavaria",
+        "spacedock": "https://spacedock.info/mod/3182/Bavarian%20Aerospace:%20Tubes!%20"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "Firespitter"
+        }
+    ],
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "0.1.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

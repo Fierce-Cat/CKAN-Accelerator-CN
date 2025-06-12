@@ -1,0 +1,53 @@
+{
+    "abstract": "Countdown visualization like NASA countdown, with sound",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/LaunchCountdownEx/releases/download/1.3.12/NASA_CountDown-1.12.0-1.3.12.zip",
+        "https://spacedock.info/mod/1462/NASA%20CountDown%20Clock%20Updated/download/1.3.12"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "061BD7C5E2346DDCFE2E05FAD940B0B54198E8E6",
+        "sha256": "69CC55CB1B21B3F02A5A03F5AAA0A458D3F60A0502D4A629FF6A619FD1A24239"
+    },
+    "download_size": 37639069,
+    "identifier": "NASA-CountDown",
+    "install": [
+        {
+            "find": "NASA_CountDown",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 39235259,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA",
+    "name": "NASA CountDown Clock Updated",
+    "release_date": "2025-06-11T19:16:16.36496+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/LaunchCountdownEx/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/163882-13-nasa-countdown-clock-updated/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/LaunchCountdownEx/refs/heads/master/NASA_CountDown.version",
+        "repository": "https://github.com/linuxgurugamer/LaunchCountdownEx",
+        "spacedock": "https://spacedock.info/mod/1462/NASA%20CountDown%20Clock%20Updated",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/NASA_CountDown_Clock_Updated/NASA_CountDown_Clock_Updated-1501413635.9711888.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "sound"
+    ],
+    "version": "1.3.12",
+    "x_generated_by": "netkan"
+}
