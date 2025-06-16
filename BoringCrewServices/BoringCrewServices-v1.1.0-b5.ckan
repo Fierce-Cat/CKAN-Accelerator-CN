@@ -1,0 +1,114 @@
+{
+    "abstract": "A stockalike CST-100 Starliner mod for Kerbal Space Program [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "DylanSemrau",
+        "zorg2044"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SimpleAdjustableFairings"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "min_version": "v0.3.0",
+            "name": "KSPCommunityPartModules"
+        },
+        {
+            "name": "AnimatedDecouplers"
+        },
+        {
+            "name": "Resurfaced"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/zorg2044/BoringCrewServices/releases/download/v1.1.0-b5/BoringCrewServices-v1.1.0-b5.zip?auth_key=1750165840-bd878db4e2904225a173136ec4a3c73e-0-a2c058447d4663daeab40d369762edeb&size=39603772&expireAt=1750165840",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "70692D4969B4151EE58E67370FB719C6A9B90B32B552634E4383A4E98895A75D"
+    },
+    "download_size": 39603772,
+    "identifier": "BoringCrewServices",
+    "install": [
+        {
+            "find": "BoringCrewServices",
+            "install_to": "GameData"
+        },
+        {
+            "as": "VAB",
+            "find": "CraftFiles",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 107719867,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Boring Crew Services [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "ConformalDecals"
+        }
+    ],
+    "release_date": "2025-06-15T18:23:21Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/zorg2044/BoringCrewServices/issues",
+        "remote-avc": "https://raw.githubusercontent.com:443/zorg2044/BoringCrewServices/main/GameData/BoringCrewServices/Versioning/BoringCrewServices.version",
+        "repository": "https://github.com/zorg2044/BoringCrewServices"
+    },
+    "spec_version": "v1.36",
+    "suggests": [
+        {
+            "name": "TundraExploration"
+        },
+        {
+            "name": "VABOrganizer"
+        },
+        {
+            "name": "HabTech2"
+        },
+        {
+            "name": "NewTantares"
+        }
+    ],
+    "supports": [
+        {
+            "name": "Benjee10-SharedAssets"
+        },
+        {
+            "name": "EngineIgniter"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin",
+        "crewed"
+    ],
+    "version": "v1.1.0-b5",
+    "x_generated_by": "netkan"
+}
