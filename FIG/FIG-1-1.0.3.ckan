@@ -1,0 +1,45 @@
+{
+    "abstract": "Fills any empty inventory slots in Command Pods at launch",
+    "author": [
+        "FruitGoose",
+        "linuxgurugamer"
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/FruitKocktail/releases/download/0.0.1/FIGS-1.0.3.zip",
+        "https://spacedock.info/mod/2791/FIG/download/1.0.3"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A8993C8C4CEB699B697AB7E9EB1684DF98FB419F",
+        "sha256": "4B07CE68A584F7180DAC4D84AF16038B5B68F309D65F0C066FB1DF8FC9F0A133"
+    },
+    "download_size": 7575,
+    "identifier": "FIG",
+    "install": [
+        {
+            "find": "FruitKocktail",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 11841,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.11.2",
+    "license": "MIT",
+    "name": "Filling Inventory Generously",
+    "release_date": "2025-06-18T18:47:12.669479+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/FruitKocktail/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/202889-1112-fruitkocktail-a-collection-of-mini-life-improvement-mods-with-fruit-based-acronyms-as-names-full-release/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/FruitKocktail/main/FIGS/FIGS.version",
+        "repository": "https://github.com/linuxgurugamer/FruitKocktail",
+        "spacedock": "https://spacedock.info/mod/2791/FIG"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "convenience",
+        "stock-inventory"
+    ],
+    "version": "1:1.0.3",
+    "x_generated_by": "netkan"
+}

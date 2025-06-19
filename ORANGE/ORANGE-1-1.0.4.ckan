@@ -1,0 +1,52 @@
+{
+    "abstract": "Adds a button to command modules to generate a random name",
+    "author": [
+        "FruitGoose",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/FruitKocktail/releases/download/0.0.1/ORANGE-1.0.4.zip",
+        "https://spacedock.info/mod/2787/ORANGE/download/1.0.4"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C8FC3ABA9A081B66F5F65796347CFFEB928348ED",
+        "sha256": "E61D8A3C112C7CAC6AC4FDCF90CEB685F330E1166A9AA75EE44860FDC631D1C8"
+    },
+    "download_size": 14729,
+    "identifier": "ORANGE",
+    "install": [
+        {
+            "find": "FruitKocktail",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 22175,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.11.2",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Oh Really, Another Name Generating Endeavour?",
+    "release_date": "2025-06-18T18:37:06.653891+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/FruitKocktail/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/202889-1112-fruitkocktail-a-collection-of-mini-life-improvement-mods-with-fruit-based-acronyms-as-names-full-release/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/FruitKocktail/main/ORANGE/ORANGE.version",
+        "repository": "https://github.com/linuxgurugamer/FruitKocktail",
+        "spacedock": "https://spacedock.info/mod/2787/ORANGE"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:1.0.4",
+    "x_generated_by": "netkan"
+}
