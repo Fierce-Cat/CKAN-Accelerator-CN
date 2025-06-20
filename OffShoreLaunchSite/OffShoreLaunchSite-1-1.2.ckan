@@ -1,0 +1,66 @@
+{
+    "abstract": "This is a collection of Kerbal Konstructs statics that forms a pretty nice looking off-shore platform to launch Rockets, Helicopters, and even small Planes from.",
+    "author": "munktron239",
+    "depends": [
+        {
+            "name": "MakingHistory-DLC"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "OffShoreLaunchPlatform"
+        },
+        {
+            "name": "KerbinSideCore"
+        },
+        {
+            "name": "KerbinSideRemastered"
+        },
+        {
+            "name": "TundraSpaceCenter"
+        },
+        {
+            "name": "AuroraSpaceCenter"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3863/OffShore%20Launch%20Site/download/1.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5F6873FA9AA510F64ACC9E6E12650975B367F131",
+        "sha256": "FEEDB6AC893E1624B22812EEBD121AFD2347F44DB2CB09798399C2640359DFAC"
+    },
+    "download_size": 6377713,
+    "identifier": "OffShoreLaunchSite",
+    "install": [
+        {
+            "as": "OffShoreLaunchSite",
+            "find_regexp": "Offshore-?LaunchSite(-main)?",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 18876930,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "OffShore Launch Site",
+    "release_date": "2025-06-19T00:05:04.683188+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/munktron239/OffShore-LaunchSite/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227703-112x-offshore-launch-site-a-platform-out-at-sea-to-land-boosters-at-launch-rockets-from-and-ever-take-off-from-an-aircraft-carrier/",
+        "remote-avc": "https://raw.githubusercontent.com/munktron239/OffShore-LaunchSite/refs/heads/main/Versioning/OffShoreLaunchSite.version",
+        "repository": "https://github.com/munktron239/OffShore-LaunchSite",
+        "spacedock": "https://spacedock.info/mod/3863/OffShore%20Launch%20Site",
+        "x_screenshot": "https://spacedock.info/content/munktron239_157380/OffShore_Launch_Site/OffShore_Launch_Site-1745015347.png"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "buildings",
+        "config"
+    ],
+    "version": "1:1.2",
+    "x_generated_by": "netkan"
+}
