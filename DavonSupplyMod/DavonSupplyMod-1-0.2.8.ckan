@@ -1,0 +1,56 @@
+{
+    "abstract": "This mod automated way for the at times repetitive chore of fuel supply missions in an acceptable and realistic manner.",
+    "author": [
+        "PrivateFlip",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ModuleAnimateGenericEffects"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/DavonSupplyMod/releases/download/0.2.8/DavonSupplyMod-1.12.0-0.2.8.zip",
+        "https://spacedock.info/mod/364/Davon%20Supply%20Mod/download/0.2.8"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C034B3619A699B1A07EE6807D1947DA33DF8396C",
+        "sha256": "D1F465D9119036E249D394E2DB84273639AD2590503C8F190771C3B8B8051A2F"
+    },
+    "download_size": 2170830,
+    "identifier": "DavonSupplyMod",
+    "install": [
+        {
+            "file": "GameData/DavonSupplyMod",
+            "filter_regexp": "license and source",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 6087186,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-2.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Davon Supply Mod",
+    "release_date": "2025-06-19T19:06:58.0652+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/192101-18x-davon-supply-mod/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/DavonSupplyMod/refs/heads/master/DavonSupplyMod.version",
+        "repository": "https://github.com/linuxgurugamer/DavonSupplyMod",
+        "spacedock": "https://spacedock.info/mod/364/Davon%20Supply%20Mod",
+        "x_screenshot": "https://spacedock.info/content/PrivateFlip_1691/Davon_Supply_Mod/Davon_Supply_Mod-1457289612.9609787.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "resources"
+    ],
+    "version": "1:0.2.8",
+    "x_generated_by": "netkan"
+}
