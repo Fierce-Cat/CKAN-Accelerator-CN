@@ -12,7 +12,10 @@
             "name": "NearFutureProps"
         }
     ],
-    "download": "https://spacedock.info/mod/3511/G.R.A.P.E.F.R.U.I.T./download/0.4.2",
+    "download": [
+        "https://github.com/KSPModStewards/GRAPEFRUIT/releases/download/0.4.2/GRAPEFRUIT.zip",
+        "https://spacedock.info/mod/3511/G.R.A.P.E.F.R.U.I.T./download/0.4.2"
+    ],
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "EACAC21F65E6326C6E4786AE6C458793694E0051",
@@ -37,7 +40,7 @@
         "spacedock": "https://spacedock.info/mod/3511/G.R.A.P.E.F.R.U.I.T.",
         "x_screenshot": "https://spacedock.info/content/Dawn0303_126011/G.R.A.P.E.F.R.U.I.T/G.R.A.P.E.F.R.U.I.T-1700659745.png"
     },
-    "spec_version": 1,
+    "spec_version": "v1.34",
     "suggests": [
         {
             "name": "ShuttleOrbiterConstructionKit"
