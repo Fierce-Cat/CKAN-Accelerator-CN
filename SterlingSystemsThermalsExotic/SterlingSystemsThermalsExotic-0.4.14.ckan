@@ -1,0 +1,55 @@
+{
+    "abstract": "Radiators that stop caring about keeping their coolant inside them [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "SterlingSystemsThermals"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.4.14/SterlingSystems_Thermals_0.4.14.zip?auth_key=1751029717-6acc99f1438241c189bef1e5e620a5fb-0-73321cd9b8e4bea6ca3b6cf153bd48e6&size=55071268&expireAt=1751029717",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "BBA429A89B2D3A960801D4F2D37BEA43CADA5F3F07862759346FA4EADE002E01"
+    },
+    "download_size": 55071268,
+    "identifier": "SterlingSystemsThermalsExotic",
+    "install": [
+        {
+            "find": "ThermalsExotic",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 34946560,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Thermals - Exotic [PRO-KCMIRROR]",
+    "release_date": "2025-06-25T16:51:02Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.36",
+    "supports": [
+        {
+            "name": "FarFutureTechnologies"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "0.4.14",
+    "x_generated_by": "netkan"
+}

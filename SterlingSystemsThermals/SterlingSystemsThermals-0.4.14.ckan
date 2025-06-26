@@ -1,0 +1,55 @@
+{
+    "abstract": "Radiators and shields (mostly conformal) and inline heatsinks [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.4.14/SterlingSystems_Thermals_0.4.14.zip?auth_key=1751029719-a36741cda43d4e1683e6deded864492f-0-4fcc0c2b0734af90af233c7e26110342&size=55071268&expireAt=1751029719",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "BBA429A89B2D3A960801D4F2D37BEA43CADA5F3F07862759346FA4EADE002E01"
+    },
+    "download_size": 55071268,
+    "identifier": "SterlingSystemsThermals",
+    "install": [
+        {
+            "find": "Thermals",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 285003166,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Thermals [PRO-KCMIRROR]",
+    "release_date": "2025-06-25T16:51:02Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.36",
+    "supports": [
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "FarFutureTechnologies"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "0.4.14",
+    "x_generated_by": "netkan"
+}
