@@ -1,0 +1,64 @@
+{
+    "abstract": "Retired parts and expansion pack [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Moobien",
+        "StoneBlue",
+        "JadeOfMaar"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "OPTReconfig"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/StoneBlue/OPT_Streamlined/releases/download/3.4.9.4/OPT.Legacy.3.4.9.4.zip?auth_key=1751202405-80883ae21043454f8cb2cfba7bce0ed1-0-c6b0b6e86492c3fbbae5313f06825151&size=86162349&expireAt=1751202405",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "A3682AE4E68C45701FB6E033FE516A4AFB5C5E2F15C598D272FD460470DCDA84"
+    },
+    "download_size": 86162349,
+    "identifier": "OPTSpacePlaneParts",
+    "install": [
+        {
+            "find": "OPT_Legacy",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 285548422,
+    "ksp_version": "1.11.1",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "OPT Legacy [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KerbalFoundriesContinued"
+        },
+        {
+            "name": "OPTSpacePlaneMain"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "KerbalActuators"
+        }
+    ],
+    "release_date": "2025-03-23T20:58:07Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/StoneBlue/OPT_Streamlined/issues",
+        "remote-avc": "https://raw.githubusercontent.com/StoneBlue/OPT_Streamlined/master/GameData/OPT_Legacy/Version/OPTLegacy.version",
+        "repository": "https://github.com/StoneBlue/OPT_Streamlined"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "1:3.4.9.4",
+    "x_generated_by": "netkan"
+}
