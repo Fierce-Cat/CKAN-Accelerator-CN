@@ -1,0 +1,53 @@
+{
+    "abstract": "A new planet in the kerboler system.",
+    "author": "Univvurs1",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3914/Olco%20System./download/0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "368AAD49DD08B8F8931B1D70792E9E88E7065F4C",
+        "sha256": "402EFF7EF85EBCC40AFFA563A8306C481EDF21B909687E25907ABF1BD50BE763"
+    },
+    "download_size": 28006951,
+    "identifier": "OlcoSystem",
+    "install": [
+        {
+            "find": "Olco",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 61657576,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Olco System.",
+    "release_date": "2025-06-23T22:51:30.362793+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3914/Olco%20System.",
+        "x_screenshot": "https://spacedock.info/content/Univvurs1_141361/Olco_System/Olco_System-1750719121.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "EnviromentalVisualEnhancements"
+        },
+        {
+            "name": "ParallaxContinued"
+        },
+        {
+            "name": "Scatterer"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "0.1",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,50 @@
+{
+    "abstract": "A set of configs for SSPX to add TU Recolor compatibility",
+    "author": [
+        "BoB",
+        "Leha44581"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3915/%7CBoB%7C%20SSPX%20TU%20Recolor/download/0.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BC3959A9E248333819A4156A3E7EFDBDD7E8A12C",
+        "sha256": "DF4F648E9C884081CB09F26D616787A454276830695D5AFA6EFE0C4AA198D9D9"
+    },
+    "download_size": 222428,
+    "identifier": "BoBSSPXTURecolor",
+    "install": [
+        {
+            "filter": ".git",
+            "find": "BoBRecolours",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 459791,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-SA",
+    "name": "|BoB| SSPX TU Recolor",
+    "release_date": "2025-06-24T20:39:12.512197+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Leha44581/BoB-SSPX-TU-Recolours/issues",
+        "repository": "https://github.com/Leha44581/BoB-SSPX-TU-Recolours",
+        "spacedock": "https://spacedock.info/mod/3915/|BoB|%20SSPX%20TU%20Recolor"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "0.0.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
