@@ -1,0 +1,41 @@
+{
+    "abstract": "A mod containing a few small tweaks to parts",
+    "author": "theJesuit",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/2870/ANGLECAN%20Part%20Tweaks/download/1.8",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2D6E578443A25CBEA782D9E02A98AFB5EAF8E381",
+        "sha256": "8163D22FEA87BCC27064AA2927ADDD702709BC30EFBEA0EB587BBB0290EC49D6"
+    },
+    "download_size": 17422,
+    "identifier": "ANGLECANPartTweaks",
+    "install": [
+        {
+            "find": "AngleCanMods",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 43498,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "ANGLECAN Part Tweaks",
+    "release_date": "2025-07-10T01:31:15.74283+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/205097-1122-anglecan-part-tweaks-10/",
+        "spacedock": "https://spacedock.info/mod/2870/ANGLECAN%20Part%20Tweaks"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "1.8",
+    "x_generated_by": "netkan"
+}
