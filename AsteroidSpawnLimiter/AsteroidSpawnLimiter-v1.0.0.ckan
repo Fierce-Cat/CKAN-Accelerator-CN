@@ -1,0 +1,40 @@
+{
+    "abstract": "Asteroid Spawn Limiter is a simple mod for Kerbal Space Program that prevents the game from spawning excessive asteroids. It ensures a cleaner solar system and helps reduce performance impact by capping the number of untracked asteroids generated over time. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "KevO",
+    "depends": [
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/kevnokeeffe/AsteroidSpawnLimiter/releases/download/v1.0.0/AsteroidSpawnLimiter-v1.0.0.zip?auth_key=1752671661-be2876ac8d1040f3a5c8315e0831790c-0-a7e9f32c71804b08022d467c573ac1f3&size=5798&expireAt=1752671661",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0D92B1FC42917E5DEFF31C0B713CFBABA24480C0",
+        "sha256": "942322A375ADE717DA225457364303AD35B34425CC8C9F1F897672625A32CDB9"
+    },
+    "download_size": 5798,
+    "identifier": "AsteroidSpawnLimiter",
+    "install_size": 6144,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Asteroid Spawn Limiter [PRO-KCMIRROR]",
+    "release_date": "2025-07-14T10:49:33Z",
+    "resources": {
+        "bugtracker": "https://github.com/kevnokeeffe/AsteroidSpawnLimiter/issues",
+        "repository": "https://github.com/kevnokeeffe/AsteroidSpawnLimiter"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "AsteroidCleaner"
+        }
+    ],
+    "tags": [
+        "plugin"
+    ],
+    "version": "v1.0.0",
+    "x_generated_by": "netkan"
+}
