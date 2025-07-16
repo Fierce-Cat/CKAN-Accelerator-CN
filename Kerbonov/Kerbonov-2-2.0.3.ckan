@@ -1,0 +1,51 @@
+{
+    "abstract": "The Kerbonov Kn-2 module is a compact 3 Kerbal cockpit for use with intermediate sized aircraft. It includes an IVA view.",
+    "author": [
+        "linuxgurugamer",
+        "Sam Hall",
+        "aristurtle",
+        "Darkona"
+    ],
+    "depends": [
+        {
+            "name": "RetractableLiftingSurface"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/Kerbonov/releases/download/2.0.3/Kerbonov-1.12.0-2.0.3.zip",
+        "https://spacedock.info/mod/2007/Kerbonov%20Kn-2%20Cockpit%20Module/download/2.0.3"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "54B6AB78439A696E1C3B95BFA8AB85149FA8384E",
+        "sha256": "CA9DCBF5E7B55BD40ED430164B81F4CC3851CF3B591A22CC906E5AB0326A7B94"
+    },
+    "download_size": 11462716,
+    "identifier": "Kerbonov",
+    "install": [
+        {
+            "find": "Kerbonov",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 40967002,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.9.0",
+    "license": "CC-BY-SA-3.0",
+    "name": "Kerbonov Kn-2 Cockpit Module",
+    "release_date": "2025-07-15T15:37:01.774848+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/Kerbonov/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179841-14x-kerbonov-kn-2-cockpit-module-continued/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/Kerbonov/refs/heads/master/Kerbonov.version",
+        "repository": "https://github.com/linuxgurugamer/Kerbonov",
+        "spacedock": "https://spacedock.info/mod/2007/Kerbonov%20Kn-2%20Cockpit%20Module"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "2:2.0.3",
+    "x_generated_by": "netkan"
+}
