@@ -6,6 +6,9 @@
     ],
     "conflicts": [
         {
+            "name": "WaterfallRestock"
+        },
+        {
             "name": "StockWaterfallEffects"
         }
     ],
@@ -31,7 +34,21 @@
     },
     "download_size": 7071599,
     "identifier": "RestockWaterfallExpansion",
-    "install_size": 8944072,
+    "install": [
+        {
+            "find": "RestockWaterfallExpansion",
+            "install_to": "GameData"
+        },
+        {
+            "find": "WaterfallRestock",
+            "install_to": "GameData"
+        },
+        {
+            "find": "StockWaterfallEffects",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 10798143,
     "ksp_version": "1.12.5",
     "license": "CC-BY-NC-SA-4.0",
     "name": "Restock Waterfall Expansion",
@@ -41,7 +58,7 @@
         "spacedock": "https://spacedock.info/mod/3149/Restock%20Waterfall%20Expansion",
         "x_screenshot": "https://spacedock.info/content/AtomicTech_61568/Restock_Waterfall_Expansion/Restock_Waterfall_Expansion-1719432825.png"
     },
-    "spec_version": 1,
+    "spec_version": "v1.4",
     "tags": [
         "config",
         "graphics"
