@@ -1,0 +1,81 @@
+{
+    "abstract": "An overhaul to the stock propellant system, replacing generic LiquidFuel, Oxidizer, MonoPropellant and SolidFuel with a handful of real chemicals.",
+    "author": "Charle_Roger",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Ignition"
+        },
+        {
+            "name": "ChemicalCore"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": [
+        "https://github.com/CharleRoger/ChemicalPropulsion/releases/download/1.4.0.2/ChemicalPropulsion-1.4.0.2.zip",
+        "https://spacedock.info/mod/3866/Chemical%20Propulsion/download/1.4.0.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E18DA8DF86C24E880F4341DE52899F7125B1C61F",
+        "sha256": "ED18EEBA61FEFD7214B6DEAEB97A7632EA3446ECD606F24FB2D30C1A6805A88F"
+    },
+    "download_size": 78568,
+    "identifier": "ChemicalPropulsion",
+    "install_size": 225027,
+    "ksp_version": "1.12.5",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Chemical Propulsion",
+    "release_date": "2025-07-17T12:45:17.411966+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/CharleRoger/ChemicalPropulsion/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227705-112x-chemical-technologies-a-chemically-based-resource-overhaul/",
+        "remote-avc": "https://raw.githubusercontent.com/CharleRoger/ChemicalPropulsion/main/GameData/ChemicalPropulsion/Versioning/ChemicalPropulsion.version",
+        "repository": "https://github.com/CharleRoger/ChemicalPropulsion",
+        "spacedock": "https://spacedock.info/mod/3866/Chemical%20Propulsion",
+        "x_screenshot": "https://spacedock.info/content/Charle_Roger_139212/Chemical_Propulsion/Chemical_Propulsion-1751976331.png"
+    },
+    "spec_version": "v1.34",
+    "supports": [
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "Labradoodle"
+        },
+        {
+            "name": "MissingHistory"
+        },
+        {
+            "name": "Mk-33"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "ReStockPlus"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "1.4.0.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
