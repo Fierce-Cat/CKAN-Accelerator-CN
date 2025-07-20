@@ -1,0 +1,50 @@
+{
+    "abstract": "Antimatter rockets. Let's go [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "SterlingSystemsEngines"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.5.0/SterlingSystems_Engines_0.5.0.zip?auth_key=1753103972-2b86267966e645259faf99df0977e185-0-3acb0e19b03fdfb9d642eba3eb43bc14&size=41978163&expireAt=1753103972",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4FCBB2216FEC2B38B6C75D9BBD6B143799702A0E",
+        "sha256": "5E82B27C2833CB26656B8EE14B868ADAF0A0F34693164BB9F65CD6CB2F23C814"
+    },
+    "download_size": 41978163,
+    "identifier": "SterlingSystemsEnginesAntimatter",
+    "install": [
+        {
+            "find": "EnginesAntimatter",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 68015010,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Engines - Antimatter [PRO-KCMIRROR]",
+    "release_date": "2025-07-19T22:22:52Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.5.0",
+    "x_generated_by": "netkan"
+}
