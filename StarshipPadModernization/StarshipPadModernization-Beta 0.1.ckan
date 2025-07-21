@@ -1,0 +1,64 @@
+{
+    "abstract": "Mod that adds Pad-B infrastructure to the game",
+    "author": "Questin",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3924/Starship%20Pad%20Modernization/download/Beta%200.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1E3CDCF7CA90651AD145E8CE1DEE694A8925E195",
+        "sha256": "6F2258103F95AB604E11265C3749713501FF1BACE993FCA6D2C8D4A3AFC5CB9E"
+    },
+    "download_size": 7477204,
+    "identifier": "StarshipPadModernization",
+    "install": [
+        {
+            "find": "PadB",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 17563853,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Starship Pad Modernization",
+    "recommends": [
+        {
+            "name": "VesselMover"
+        },
+        {
+            "name": "HangarExtender"
+        },
+        {
+            "name": "KerbalJointReinforcementContinued"
+        },
+        {
+            "name": "StarshipLaunchExpansion"
+        },
+        {
+            "name": "KerbalKonstructs"
+        }
+    ],
+    "release_date": "2025-07-14T19:59:16.682801+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3924/Starship%20Pad%20Modernization",
+        "x_screenshot": "https://spacedock.info/content/Questin_159756/Starship_Pad_Modernization/Starship_Pad_Modernization-1752523582.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "StarshipExpansionProject"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "Beta 0.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
