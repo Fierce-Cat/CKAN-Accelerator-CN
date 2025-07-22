@@ -1,0 +1,41 @@
+{
+    "abstract": "Cryo Tanks plugin stand-alone, for adding functionality to other mods. Contains no parts and does nothing by itself. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "CryoTanks"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/post-kerbin-mining-corporation/CryoTanks/releases/download/1.6.7/CryoTanks_1_6_7.zip?auth_key=1753276377-9859a93d4ec64913bb03a8141208a617-0-fa048ee2ff1dce0346ace487be2768f1&size=60345527&expireAt=1753276377",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EAA4FCF4908346A3FAD0347102C5564C7A840CB2",
+        "sha256": "3B708E3512A9F5F2A6885D0008DFDE650EECA83B01ECCB6E6829D2CC0D097024"
+    },
+    "download_size": 60345527,
+    "identifier": "CryoTanks-Core",
+    "install": [
+        {
+            "file": "GameData/CryoTanks/Plugins/SimpleBoiloff.dll",
+            "install_to": "GameData/CryoTanks/Plugins"
+        }
+    ],
+    "install_size": 20992,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Cryo Tanks Core [PRO-KCMIRROR]",
+    "release_date": "2025-07-21T14:51:02Z",
+    "resources": {
+        "bugtracker": "https://github.com/post-kerbin-mining-corporation/CryoTanks/issues",
+        "homepage": "https://github.com/post-kerbin-mining-corporation/CryoTanks/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/CryoTanks/master/GameData/CryoTanks/Versioning/CryoTanks.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/CryoTanks"
+    },
+    "spec_version": "v1.2",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.6.7",
+    "x_generated_by": "netkan"
+}
