@@ -1,0 +1,54 @@
+{
+    "abstract": "a simple mod returning gloss and shininess to the stock parts",
+    "author": "rockmeowstar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "Deferred"
+        },
+        {
+            "name": "Shabby"
+        }
+    ],
+    "download": [
+        "https://github.com/rockmeowstar/KSP_ShineFix/releases/download/v1.3.0/000_ShineFix.zip",
+        "https://spacedock.info/mod/3764/ShineFix/download/1.3.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8269F3F758834380E42DDFD2619AAABEBB5B414D",
+        "sha256": "E0B7EC7E4B8A90CF3F612DBC69C78C00E97987D4EA8710543A0A7591ECE0D33C"
+    },
+    "download_size": 13226416,
+    "identifier": "ShineFix",
+    "install": [
+        {
+            "find": "000_ShineFix",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 31277496,
+    "ksp_version": "1.12.5",
+    "license": "open-source",
+    "name": "ShineFix",
+    "release_date": "2025-07-27T22:31:22.061199+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/rockmeowstar/KSP_ShineFix/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/225969-112x-shinefix-wip/",
+        "license": "https://github.com/rockmeowstar/KSP_ShineFix/blob/main/LICENSE",
+        "repository": "https://github.com/rockmeowstar/KSP_ShineFix",
+        "spacedock": "https://spacedock.info/mod/3764/ShineFix",
+        "x_screenshot": "https://spacedock.info/content/rockmeowstar_143017/ShineFix/ShineFix-1731717511.jpg"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config"
+    ],
+    "version": "1.3.0",
+    "x_generated_by": "netkan"
+}
