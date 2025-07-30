@@ -1,0 +1,85 @@
+{
+    "abstract": "To celebrate getting 1000 hours on KSP I made a planet pack! (THIS IS ONLY THE CONFIGS, SEE DESCRIPTION)",
+    "author": "Kramken",
+    "conflicts": [
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "JNSQ"
+        }
+    ],
+    "depends": [
+        {
+            "name": "1ThousandSpecialPlanetPack-Textures"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ParallaxContinued"
+        },
+        {
+            "name": "VertexColorMapEmissive"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "ScaledDecorator"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3931/1%20Thousand%20Special%20Planet%20Pack/download/RELEASE%201.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DAD560E537E7D4A2442422BA38334CF74D117BEA",
+        "sha256": "B8394C6D4AFA6BD9A72260B086162E998B8E513D077E8DAEF8520C6DA0FA090C"
+    },
+    "download_size": 31633177,
+    "identifier": "1ThousandSpecialPlanetPack",
+    "install": [
+        {
+            "find": "Thousand_Special",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 43434375,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "1 Thousand Special Planet Pack",
+    "recommends": [
+        {
+            "name": "Deferred"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Firefly"
+        }
+    ],
+    "release_date": "2025-07-29T12:56:31.347486+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228426-1-thousand-special-planet-pack-ksp-1125/",
+        "spacedock": "https://spacedock.info/mod/3931/1%20Thousand%20Special%20Planet%20Pack",
+        "x_screenshot": "https://spacedock.info/content/Kramken_60297/1_Thousand_Special_Planet_Pack/1_Thousand_Special_Planet_Pack-1753792366.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KSPCommunityFixes"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.0.1",
+    "x_generated_by": "netkan"
+}

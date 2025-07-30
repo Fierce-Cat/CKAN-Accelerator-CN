@@ -1,0 +1,51 @@
+{
+    "abstract": "Adds a button in the Tracking Station to set a ship's orbit. If you are with 1% (configurable) of your target orbit, you can simply push the button to set the orbit's semi-major axis to exactly what you want, so it won't drift out of alignment as you time warp. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "swilbur",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/StationKeeping/releases/download/0.2.3.2/StationKeeping-1.12.0-0.2.3.2.zip?auth_key=1753967692-aca40719e8224a97b1b8fe6b51cf3767-0-2886e96212e194dcdac59555f465999e&size=42548&expireAt=1753967692",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "811572F8480EF70F62B4346599F51C15E41B7A5C",
+        "sha256": "557C629EDA195543FE0FE42C83F670F96DF4FE5528529CB9CD26214D1E28620A"
+    },
+    "download_size": 42548,
+    "identifier": "StationKeeping",
+    "install": [
+        {
+            "find": "StationKeeping",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 65589,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Station Keeping [PRO-KCMIRROR]",
+    "release_date": "2025-07-30T00:24:58Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/StationKeeping/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/173518-*",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/StationKeeping/refs/heads/master/StationKeeping.version",
+        "repository": "https://github.com/linuxgurugamer/StationKeeping"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:0.2.3.2",
+    "x_generated_by": "netkan"
+}

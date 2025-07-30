@@ -1,0 +1,43 @@
+{
+    "abstract": "All the Textures for 1 Thousand Special",
+    "author": "Kramken",
+    "depends": [
+        {
+            "name": "1ThousandSpecialPlanetPack"
+        }
+    ],
+    "download": "https://github.com/Kramken/1TS-Textures/releases/download/1.0/1TS_Textures.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1E3BF5B1CE1F462D1DC416853BD820AEF649DE00",
+        "sha256": "6DA0DB1D6FF7A2D01596D749E54269E2760969BA691449B8149972E6F51427F1"
+    },
+    "download_size": 860757605,
+    "identifier": "1ThousandSpecialPlanetPack-Textures",
+    "install": [
+        {
+            "find": "Thousand_Special",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1171568092,
+    "license": "restricted",
+    "name": "1 Thousand Special Planet Pack - Textures",
+    "provides": [
+        "ParallaxContinued-Terrain-Textures",
+        "ParallaxContinued-Scatter-Textures",
+        "ParallaxContinued-Planet-Textures"
+    ],
+    "release_date": "2025-07-29T12:23:23Z",
+    "resources": {
+        "bugtracker": "https://github.com/Kramken/1TS-Textures/issues",
+        "repository": "https://github.com/Kramken/1TS-Textures"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "planet-pack",
+        "graphics"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}
