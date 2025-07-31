@@ -1,0 +1,56 @@
+{
+    "abstract": "Simple framerate counter, enable with F8.",
+    "author": [
+        "linuxgurugamer",
+        "m4v"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/ShowFPS/releases/download/0.3.2/ShowFPS-1.12.0-0.3.2.zip",
+        "https://spacedock.info/mod/1757/ShowFPS/download/0.3.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BF6BD6403B36A7DD8CAD0A026E700C1FC0B69E61",
+        "sha256": "7C05948316A8A480539F829454E6E8E708CAA7AC9AEA326F99C183DD96972BD0"
+    },
+    "download_size": 26588,
+    "identifier": "ShowFPS",
+    "install": [
+        {
+            "find": "ShowFPS",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 47125,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.9.0",
+    "license": "LGPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Show FPS",
+    "release_date": "2025-07-30T19:59:26.25156+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/ShowFPS/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/172692-141-showfps/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/ShowFPS/refs/heads/master/ShowFPS.version",
+        "repository": "https://github.com/linuxgurugamer/ShowFPS",
+        "spacedock": "https://spacedock.info/mod/1757/ShowFPS",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/ShowFPS/ShowFPS-1521507984.337627.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "1:0.3.2",
+    "x_generated_by": "netkan"
+}
