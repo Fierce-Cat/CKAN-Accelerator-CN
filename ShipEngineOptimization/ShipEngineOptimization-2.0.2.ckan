@@ -1,0 +1,43 @@
+{
+    "abstract": "This mod helps you find the best staging and engine configuration for your vessel",
+    "author": "BComFly",
+    "download": "https://spacedock.info/mod/3849/Staging%20and%20Engine%20Configuration%20Optimization/download/2.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "62886B252F23D128094B628BFC9C509069BBCF7B",
+        "sha256": "DCA305F9DBDF3B45DD67E680A8548FC2E0FF3DDF9053042F0BA0AE432039412B"
+    },
+    "download_size": 50729,
+    "identifier": "ShipEngineOptimization",
+    "install": [
+        {
+            "find": "StagingEngineConfig",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 117858,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Staging and Engine Configuration Optimization",
+    "release_date": "2025-07-31T21:37:40.262511+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/BComFly/ShipEngineOp/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227503-1125-ship-engine-optimization/",
+        "repository": "https://github.com/BComFly/ShipEngineOp",
+        "spacedock": "https://spacedock.info/mod/3849/Staging%20and%20Engine%20Configuration%20Optimization",
+        "x_screenshot": "https://spacedock.info/content/BComFly_154574/Ship_Engine_Optimization/Ship_Engine_Optimization-1743222972.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "editor",
+        "information"
+    ],
+    "version": "2.0.2",
+    "x_generated_by": "netkan"
+}
