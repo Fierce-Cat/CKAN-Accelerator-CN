@@ -1,0 +1,66 @@
+{
+    "abstract": "BD Armory extension adding modern western systems and overhauls of core BD parts.",
+    "author": [
+        "Spartwo",
+        "MiffedStarfish"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KerbalPowersCore"
+        },
+        {
+            "name": "BDArmory"
+        },
+        {
+            "name": "PhysicsRangeExtender"
+        }
+    ],
+    "download": [
+        "https://github.com/KerbalPowers/KP-Armory/releases/download/v1.2.1/Kerbal_Powers_Armory-v1.2.1.zip",
+        "https://spacedock.info/mod/3767/Kerbal%20Powers%20Armory/download/v1.2.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DAC2DA2E8298B68B67E917F5313FA7C6C72618EE",
+        "sha256": "1428A2AC6E85EC4EBA21406FC4DBD4A94D104747C59851D5198C1640FB7F4966"
+    },
+    "download_size": 15911318,
+    "identifier": "KerbalPowersArmory",
+    "install": [
+        {
+            "find": "KerbalPowers/Armory",
+            "install_to": "GameData/KerbalPowers"
+        }
+    ],
+    "install_size": 53955731,
+    "ksp_version": "1.12.5",
+    "license": "unknown",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Kerbal Powers Armory",
+    "release_date": "2025-08-02T22:21:06.883475+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/KerbalPowers/KP-Armory/issues",
+        "discussions": "https://github.com/KerbalPowers/KP-Armory/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228421-112x-kerbal-powers-armory-v121/",
+        "repository": "https://github.com/KerbalPowers/KP-Armory",
+        "spacedock": "https://spacedock.info/mod/3767/Kerbal%20Powers%20Armory",
+        "x_screenshot": "https://spacedock.info/content/Spartwo_95463/Kerbal_Powers_Armory/Kerbal_Powers_Armory-1753693668.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "VABorganizer"
+        }
+    ],
+    "tags": [
+        "parts",
+        "combat"
+    ],
+    "version": "v1.2.1",
+    "x_generated_by": "netkan"
+}

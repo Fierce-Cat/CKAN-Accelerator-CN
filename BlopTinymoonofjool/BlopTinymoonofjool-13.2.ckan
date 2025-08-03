@@ -1,0 +1,43 @@
+{
+    "abstract": "A inclined moon that looks like a knockoff minmus from wish",
+    "author": "Mayo711",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3921/Blop,%20Tiny%20moon%20of%20jool/download/13.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "42D7CFA876451DAE96A7CD6555FC69245B4F105A",
+        "sha256": "204933A6D5F51D2AA85D628DC7FC641512C87DE39E0722E9B4A9D31D025F9CF3"
+    },
+    "download_size": 561396,
+    "identifier": "BlopTinymoonofjool",
+    "install": [
+        {
+            "find": "Blop",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 584681,
+    "ksp_version": "1.12.5",
+    "license": "unknown",
+    "name": "Blop, Tiny moon of jool",
+    "release_date": "2025-07-10T02:59:53.962934+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3921/Blop,%20Tiny%20moon%20of%20jool",
+        "x_screenshot": "https://spacedock.info/content/Mayo711_165099/Blop_Tiny_moon_of_jool/Blop_Tiny_moon_of_jool-1752116407.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "13.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
