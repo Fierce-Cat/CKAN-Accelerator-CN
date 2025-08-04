@@ -1,0 +1,118 @@
+{
+    "abstract": "Dynamic switching between multiple IVAs in editor and in-flight [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "610yesnolovely (Harvey Thompson)",
+        "JonnyOThan"
+    ],
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "RasterPropMonitor-Core"
+                },
+                {
+                    "name": "AvionicsSystems"
+                }
+            ]
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/FirstPersonKSP/reviva/releases/download/1.0.1/reviva-1.0.1.zip?auth_key=1754399988-1ea12323466b48aaa806812df66e689e-0-b4ac011e515d3993fbc5bee2a054ccf1&size=38054&expireAt=1754399988",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6D69064A15FB53345D1D710B126F9D8CC9119428",
+        "sha256": "EAC6BE1A9DC06CAAA38278BC1FA3BB45FE59E1A9F4160F7A9DC7863FDAF88ADA"
+    },
+    "download_size": 38054,
+    "identifier": "Reviva",
+    "install_size": 57747,
+    "ksp_version": "1.12",
+    "license": "MIT",
+    "name": "Reviva [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ASETProps"
+        }
+    ],
+    "release_date": "2025-08-03T13:38:02Z",
+    "resources": {
+        "bugtracker": "https://github.com/FirstPersonKSP/reviva/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/206744-*",
+        "repository": "https://github.com/FirstPersonKSP/reviva"
+    },
+    "spec_version": "v1.26",
+    "suggests": [
+        {
+            "name": "Mk1CockpitIVAReplbyASET"
+        },
+        {
+            "name": "Mk1LanderCanIVAReplbyASET"
+        },
+        {
+            "name": "MK12PodIVAReplacementbyASET"
+        },
+        {
+            "name": "AirplanePlus"
+        },
+        {
+            "name": "KSAIVAUpgrade"
+        },
+        {
+            "name": "DE-IVAExtension"
+        },
+        {
+            "name": "AvionicsSystems"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "StarilexMk1NeedleIVA"
+        }
+    ],
+    "supports": [
+        {
+            "name": "Mk1CockpitIVAReplbyASET"
+        },
+        {
+            "name": "Mk1LanderCanIVAReplbyASET"
+        },
+        {
+            "name": "MK12PodIVAReplacementbyASET"
+        },
+        {
+            "name": "AirplanePlus"
+        },
+        {
+            "name": "KSAIVAUpgrade"
+        },
+        {
+            "name": "DE-IVAExtension"
+        },
+        {
+            "name": "AvionicsSystems"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "StarilexMk1NeedleIVA"
+        },
+        {
+            "name": "BluedogDB"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "config",
+        "crewed",
+        "first-person"
+    ],
+    "version": "1.0.1",
+    "x_generated_by": "netkan"
+}
