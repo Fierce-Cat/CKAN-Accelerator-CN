@@ -1,0 +1,55 @@
+{
+    "abstract": "What lies beyond the green giant?",
+    "author": "Mr_Mun",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "VertexHeightOblateAdvanced"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3682/Beyond%20Jool/download/2.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BC7F819843EC555FBF7A0E74D31B336CDEE2F973",
+        "sha256": "B96C980EEB25DA77B4D830934182532CD82DA6D86B902EF09969BCCF443C7286"
+    },
+    "download_size": 395818820,
+    "identifier": "BeyondJool",
+    "install": [
+        {
+            "filter": [
+                "__MACOSX",
+                ".DS_Store"
+            ],
+            "find": "BeyondJool",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 881996201,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Beyond Jool",
+    "release_date": "2025-08-04T02:44:03.055726+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/225498-beyond-jool-071/",
+        "spacedock": "https://spacedock.info/mod/3682/Beyond%20Jool",
+        "x_screenshot": "https://spacedock.info/content/Mr_Mun_138203/Beyond_Jool/Beyond_Jool-1754328572.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "planet-pack"
+    ],
+    "version": "2.0.0",
+    "x_generated_by": "netkan"
+}

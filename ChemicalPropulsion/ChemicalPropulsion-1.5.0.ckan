@@ -36,6 +36,38 @@
         "en-us"
     ],
     "name": "Chemical Propulsion",
+    "recommends": [
+        {
+            "name": "AlcoholicAeronautics"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "Labradoodle"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "VABOrganizer"
+        }
+    ],
     "release_date": "2025-07-21T20:28:05.154526+00:00",
     "resources": {
         "bugtracker": "https://github.com/CharleRoger/ChemicalPropulsion/issues",
@@ -46,18 +78,65 @@
         "x_screenshot": "https://spacedock.info/content/Charle_Roger_139212/Chemical_Propulsion/Chemical_Propulsion-1753127095.png"
     },
     "spec_version": "v1.34",
+    "suggested": [
+        {
+            "name": "CommonwealthAeronauticsBlueSteel"
+        },
+        {
+            "name": "CRE"
+        },
+        {
+            "name": "CryoEnginesExtensions"
+        },
+        {
+            "name": "Knes"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "OCRAP"
+        },
+        {
+            "name": "Taerobee"
+        },
+        {
+            "name": "NewTantares"
+        },
+        {
+            "name": "NewTantaresLV"
+        },
+        {
+            "name": "TantaresSP"
+        },
+        {
+            "name": "UniversalStorage2"
+        }
+    ],
     "supports": [
         {
-            "name": "CryoTanks"
+            "name": "AirplanePlus"
         },
         {
-            "name": "CryoEngines"
+            "name": "ConfigurableContainers"
         },
         {
-            "name": "KerbalAtomics"
+            "name": "FarFutureTechnologies"
         },
         {
-            "name": "Labradoodle"
+            "name": "Firespitter"
+        },
+        {
+            "name": "Grounded"
+        },
+        {
+            "name": "SpaceXLegs"
+        },
+        {
+            "name": "Kerbalism"
         },
         {
             "name": "MissingHistory"
@@ -66,16 +145,30 @@
             "name": "Mk-33"
         },
         {
-            "name": "NearFutureAeronautics"
+            "name": "ModularFuelTanks"
         },
         {
-            "name": "ReStockPlus"
+            "name": "ProbesBeforeCrew"
+        },
+        {
+            "name": "ShuttleOrbiterConstructionKit"
+        },
+        {
+            "name": "SillyPhotonDrives"
+        },
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "TundraExploration"
+        },
+        {
+            "name": "UnKerballedStart"
         }
     ],
     "tags": [
         "config"
     ],
     "version": "1.5.0",
-    "x_generated_by": "netkan",
-    "x_via": "Automated SpaceDock CKAN submission"
+    "x_generated_by": "netkan"
 }

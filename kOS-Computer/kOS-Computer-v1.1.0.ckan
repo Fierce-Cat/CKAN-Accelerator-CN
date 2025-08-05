@@ -1,0 +1,69 @@
+{
+    "abstract": "Programmable flight management system designed to work with VR. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "sinucep",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "kOSPropMonitor"
+        },
+        {
+            "name": "DE-IVAExtension"
+        },
+        {
+            "name": "Reviva"
+        }
+    ],
+    "description": "Programmable flight management system (or guidance computer) designed to fully work with (or without) VR. 100% KerboScript and completely rewritable.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/sinucep/kOS-Computer/releases/download/v1.1.0/kOS-Computer-v1.1.0.zip?auth_key=1754486184-b02118b51edb44beae9e21b386563e97-0-c9e5321cdf11adb19d055e638b6a287e&size=79885&expireAt=1754486184",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6369F80F532C6DBFC82EB4DF6230E0F6018176C1",
+        "sha256": "E8AD0D44FFBBAE715B7B686E940080E349D5E7CBB40036E200A06F040E1EC12A"
+    },
+    "download_size": 79885,
+    "identifier": "kOS-Computer",
+    "install": [
+        {
+            "find": "GameData/kOS-Computer",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Craft/Ships",
+            "install_to": "Ships"
+        },
+        {
+            "find": "Ships/Script",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 494311,
+    "license": "MIT",
+    "name": "kOS Computer [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "kOSforAll"
+        }
+    ],
+    "release_date": "2025-08-04T06:49:11Z",
+    "resources": {
+        "bugtracker": "https://github.com/sinucep/kOS-Computer/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228209-kos-computer/",
+        "repository": "https://github.com/sinucep/kOS-Computer"
+    },
+    "spec_version": "v1.29",
+    "tags": [
+        "config",
+        "control",
+        "first-person"
+    ],
+    "version": "v1.1.0",
+    "x_generated_by": "netkan"
+}
