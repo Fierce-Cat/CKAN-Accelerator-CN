@@ -1,0 +1,57 @@
+{
+    "abstract": "An extension pack for Chemical Propulsion which adds low-tech hypergolic propellant options",
+    "author": "Charle_Roger",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ChemicalCore"
+        },
+        {
+            "name": "ChemicalPropulsion"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": [
+        "https://github.com/CharleRoger/ChemicalPropulsion/releases/download/1.5.1/ChemicalPropulsion-1.5.1.zip",
+        "https://spacedock.info/mod/3866/Chemical%20Propulsion/download/1.5.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "89146E7779341D25F1A627ADBC6A0ED146C754BD",
+        "sha256": "DB0FB5C29D06F68971494B7DDDC2B8B2666B80FBAE3FE8469F682AFF2DE93B59"
+    },
+    "download_size": 101306,
+    "identifier": "ChemicalPropulsionHypergolics",
+    "install": [
+        {
+            "find": "ChemicalPropulsionHypergolics",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1510,
+    "ksp_version": "1.12.5",
+    "license": "GPL-3.0",
+    "name": "Chemical Propulsion - Hypergolics",
+    "release_date": "2025-08-06T11:10:14.533883+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/CharleRoger/ChemicalPropulsion/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227705-112x-chemical-technologies-a-chemically-based-resource-overhaul/",
+        "remote-avc": "https://raw.githubusercontent.com/CharleRoger/ChemicalPropulsion/main/GameData/ChemicalPropulsion/Versioning/ChemicalPropulsion.version",
+        "repository": "https://github.com/CharleRoger/ChemicalPropulsion",
+        "spacedock": "https://spacedock.info/mod/3866/Chemical%20Propulsion",
+        "x_screenshot": "https://spacedock.info/content/Charle_Roger_139212/Chemical_Propulsion/Chemical_Propulsion-1754478636.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config"
+    ],
+    "version": "1.5.1",
+    "x_generated_by": "netkan"
+}
