@@ -1,0 +1,54 @@
+{
+    "abstract": "Accurately simulate resources on your vessel while it is unloaded",
+    "author": "steamroller",
+    "depends": [
+        {
+            "min_version": "4.2.3",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "2.2.1",
+            "name": "Harmony2"
+        }
+    ],
+    "download": [
+        "https://github.com/Phantomical/BackgroundResourceProcessing/releases/download/v0.1.5/BackgroundResourceProcessing.zip",
+        "https://spacedock.info/mod/3934/Background%20Resource%20Processing/download/0.1.5"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "44F6CCF21164F61AF6C72A138EB5E83180FE1CDB",
+        "sha256": "F2A26CF84201025D8D32EED743F6DA216DD1165706F0145741E74E9E1886AB7A"
+    },
+    "download_size": 366019,
+    "identifier": "BackgroundResourceProcessing",
+    "install_size": 923510,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.5",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Background Resource Processing",
+    "release_date": "2025-08-12T15:36:19.403599+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Phantomical/BackgroundResourceProcessing/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228375-1125-background-resource-processing/",
+        "remote-avc": "https://github.com/Phantomical/BackgroundResourceProcessing/releases/latest/download/BackgroundResourceProcessing.version",
+        "repository": "https://github.com/Phantomical/BackgroundResourceProcessing",
+        "spacedock": "https://spacedock.info/mod/3934/Background%20Resource%20Processing"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "min_version": "2.1.10",
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "resources"
+    ],
+    "version": "0.1.5",
+    "x_generated_by": "netkan"
+}
