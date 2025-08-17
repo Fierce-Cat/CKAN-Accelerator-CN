@@ -1,0 +1,63 @@
+{
+    "abstract": "Outer Planets Expansion's additions and modifications to the Neidon system",
+    "author": [
+        "InterplanetJanet",
+        "TheMinmusDerp"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3137/OPX:%20NeidonPlus/download/v0.8.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7301480C8BD00D996C4255E73F353D35DA3C8493",
+        "sha256": "0FF43CE497BEC56203D4867EA6E53E36538F7BE2B02CD00647CDC5AD4123104B"
+    },
+    "download_size": 99508069,
+    "identifier": "NeidonPlus",
+    "install": [
+        {
+            "filter": [
+                "__MACOSX",
+                ".DS_Store"
+            ],
+            "find": "OPX-NeidonPlus",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 172430728,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "OPX: NeidonPlus",
+    "release_date": "2025-08-15T07:57:07.686766+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/TheWhistleGang/OPX-NeidonPlus/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/225300-112x-planet-pack-outer-planets-expansion-opx/",
+        "repository": "https://github.com/TheWhistleGang/OPX-NeidonPlus",
+        "spacedock": "https://spacedock.info/mod/3137/OPX:%20NeidonPlus",
+        "x_screenshot": "https://spacedock.info/content/InterplanetJanet_65659/Neidon_Plus/Neidon_Plus-1682394343.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "config",
+        "planet-pack"
+    ],
+    "version": "v0.8.0",
+    "x_generated_by": "netkan"
+}

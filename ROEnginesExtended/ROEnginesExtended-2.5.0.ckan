@@ -1,0 +1,63 @@
+{
+    "abstract": "Duplicates and tweaks existing ROEngines parts to create placeholders for more obscure engines [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Its-Just-Luci",
+        "Capkirk123"
+    ],
+    "conflicts": [
+        {
+            "name": "TweakableEverythingCont"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ROEngines"
+        },
+        {
+            "name": "Waterfall",
+            "suppress_recommendations": true
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Capkirk123/ROEngines-Extended/releases/download/2.5.0/ROEnginesExtended-v2.5.0.zip?auth_key=1755522876-6de298a8adc24340a0f132ef5626b3d4-0-cdaf9edb24d2297255a7be46f2908658&size=24334535&expireAt=1755522876",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9EBC317CB446C23BD695169FB26DFC6008579E58",
+        "sha256": "CAA6E69F43B261E0E6CC959406B06EC4B760D813B3EFF048B5989555D6CBFFC4"
+    },
+    "download_size": 24334535,
+    "identifier": "ROEnginesExtended",
+    "install_size": 47542681,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "ROEngines Extended [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "ROCapsules"
+        },
+        {
+            "name": "ROTanks"
+        },
+        {
+            "name": "RP-1"
+        }
+    ],
+    "release_date": "2025-08-16T19:45:12Z",
+    "resources": {
+        "bugtracker": "https://github.com/Capkirk123/ROEngines-Extended/issues",
+        "remote-avc": "https://raw.githubusercontent.com/Capkirk123/ROEngines-Extended/master/Gamedata/ROEnginesExtended/ROEnginesExtended.version",
+        "repository": "https://github.com/Capkirk123/ROEngines-Extended"
+    },
+    "spec_version": 1,
+    "tags": [
+        "parts"
+    ],
+    "version": "2.5.0",
+    "x_generated_by": "netkan"
+}
