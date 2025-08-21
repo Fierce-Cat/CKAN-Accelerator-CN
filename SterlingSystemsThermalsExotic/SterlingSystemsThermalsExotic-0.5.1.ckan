@@ -1,0 +1,55 @@
+{
+    "abstract": "Radiators that stop caring about keeping their coolant inside them [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "SterlingSystemsThermals"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.5.1/SterlingSystems_Thermals_0.5.1.zip?auth_key=1755867820-c9f66f007b1440aba3ba4cae6d67e5e4-0-67a0fb193b80a4d90396c56d3198325e&size=57368049&expireAt=1755867820",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CE576050996BE0EB2720D8551D868C9FC7F32D06",
+        "sha256": "7E8B44C9BFFC1BB79FB593C99F9A8A8E254960252C1AEBF0A3033170F6CECA19"
+    },
+    "download_size": 57368049,
+    "identifier": "SterlingSystemsThermalsExotic",
+    "install": [
+        {
+            "find": "ThermalsExotic",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 34946523,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Thermals - Exotic [PRO-KCMIRROR]",
+    "release_date": "2025-08-20T20:54:56Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "FarFutureTechnologies"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "0.5.1",
+    "x_generated_by": "netkan"
+}

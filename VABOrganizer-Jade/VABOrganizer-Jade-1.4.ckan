@@ -1,0 +1,86 @@
+{
+    "abstract": "VAB Organizer configs for the Wild Blue Industries mods and mods of Maar.",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "VABOrganizer"
+        }
+    ],
+    "download": [
+        "https://github.com/JadeOfMaar/VABOrganizer-Jade/releases/download/1.4/VABOrganizer-Jade-1.4.zip",
+        "https://spacedock.info/mod/3699/VABO-Jade/download/1.4"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1358FC7FBE4FDE1DFF3F64CAD826E90FC105F9A8",
+        "sha256": "ED54B619E31BA07D474A9329DAAA0EF7E95C1C062E736B3BEC4751557C5CB0BD"
+    },
+    "download_size": 17701,
+    "identifier": "VABOrganizer-Jade",
+    "install": [
+        {
+            "find": "VABOrganizerJade",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 51664,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "VAB Organizer - Jade's Configs",
+    "release_date": "2025-08-20T20:36:28.660483+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/VABOrganizer-Jade/issues",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/VABOrganizer-Jade/main/GameData/VABOrganizer-Jade/Version/VABOrganizer-Jade.version",
+        "repository": "https://github.com/JadeOfMaar/VABOrganizer-Jade",
+        "spacedock": "https://spacedock.info/mod/3699/VABO-Jade"
+    },
+    "spec_version": "v1.34",
+    "supports": [
+        {
+            "name": "Blueshift"
+        },
+        {
+            "name": "Buffalo2"
+        },
+        {
+            "name": "DSEV"
+        },
+        {
+            "name": "FlyingSaucers"
+        },
+        {
+            "name": "Heisenberg"
+        },
+        {
+            "name": "Mk-33"
+        },
+        {
+            "name": "MOLE"
+        },
+        {
+            "name": "OPTSpacePlaneMain"
+        },
+        {
+            "name": "OPTSpacePlaneParts"
+        },
+        {
+            "name": "Pathfinder"
+        },
+        {
+            "name": "RationalResourcesParts"
+        },
+        {
+            "name": "Sandcastle"
+        }
+    ],
+    "tags": [
+        "config",
+        "convenience",
+        "editor"
+    ],
+    "version": "1.4",
+    "x_generated_by": "netkan"
+}

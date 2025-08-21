@@ -1,0 +1,55 @@
+{
+    "abstract": "Shared configs for the engine suites such as System Heat and Waterfall [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.5.1/SterlingSystems_Engines_0.5.1.zip?auth_key=1755867822-94e832fabdf847c9a975c8aea1c9575b-0-4192bcc9d0084c30adf30062d38fc3b8&size=41978877&expireAt=1755867822",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A30AE1AFE28DE277ADB06242A264AFE52E9F6A06",
+        "sha256": "777E0324A59FBDFE0D880389CCCE2C5EA782D9CFBCA7B4A0DB5217593630BE60"
+    },
+    "download_size": 41978877,
+    "identifier": "SterlingSystemsEngines",
+    "install": [
+        {
+            "find": "Engines",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 124792,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Engines [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "release_date": "2025-08-20T20:54:45Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "0.5.1",
+    "x_generated_by": "netkan"
+}

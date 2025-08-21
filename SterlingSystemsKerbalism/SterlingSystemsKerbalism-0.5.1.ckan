@@ -1,0 +1,47 @@
+{
+    "abstract": "Everything Kerbalism [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.5.1/SterlingSystems_Kerbalism_0.5.1.zip?auth_key=1755867820-431ea3bff41145cbb806d97360034fd3-0-22b0b5814a527b7d916e54f6e495d340&size=35862&expireAt=1755867820",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D7181A4CBCDE0F5E19BFCBEEC0CC1389A6069D40",
+        "sha256": "48F64131ADB33E5BEA686287593398FA4C71B1B42069805AE47AA947D0A6EB5D"
+    },
+    "download_size": 35862,
+    "identifier": "SterlingSystemsKerbalism",
+    "install": [
+        {
+            "find": "SterlingSystemsKerbalism",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 126444,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Systems Kerbalism [PRO-KCMIRROR]",
+    "release_date": "2025-08-20T20:54:45Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "0.5.1",
+    "x_generated_by": "netkan"
+}
