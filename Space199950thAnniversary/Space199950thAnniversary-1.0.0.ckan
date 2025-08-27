@@ -1,0 +1,50 @@
+{
+    "abstract": "Eagle, Hawk, MoonBuggy, an array of pods old type and new, a New MoonWagon",
+    "author": "ColdJ",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3844/Space%201999%2050th%20Anniversary/download/1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "076FE92010FC0E02A15F06EADE866CB757274605",
+        "sha256": "06F3081D46CEC72B5597F735A04F1F3B2557A3142FED0482C47B71810D208873"
+    },
+    "download_size": 117575486,
+    "identifier": "Space199950thAnniversary",
+    "install": [
+        {
+            "filter_regexp": "\\.craft$",
+            "find": "Space199950",
+            "install_to": "GameData"
+        },
+        {
+            "file": "GameData/Space199950/SPH/Eagle rescue.craft",
+            "install_to": "Ships/SPH"
+        },
+        {
+            "file": "GameData/Space199950/SPH/Hawk50.craft",
+            "install_to": "Ships/SPH"
+        }
+    ],
+    "install_size": 278348389,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Space 1999 50th Anniversary",
+    "release_date": "2025-03-22T11:58:04.450227+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227415-space-1999-50th-anniversary/",
+        "spacedock": "https://spacedock.info/mod/3844/Space%201999%2050th%20Anniversary",
+        "x_screenshot": "https://spacedock.info/content/ColdJ_60612/Space_1999_50th_Anniversary/Space_1999_50th_Anniversary-1742644738.jpg"
+    },
+    "spec_version": "v1.12",
+    "tags": [
+        "crewed",
+        "first-person",
+        "parts"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

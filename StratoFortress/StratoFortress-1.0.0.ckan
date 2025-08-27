@@ -1,0 +1,41 @@
+{
+    "abstract": "ColdJ's stockalike B-52 StratoFortress with an X-15 and a D-21",
+    "author": "ColdJ",
+    "download": "https://spacedock.info/mod/3947/StratoFortress/download/1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B4C200D1C40BDF9C4023ED04E276A673A98BB5F6",
+        "sha256": "A957F5D232F1F315CD75D76D5C48757539CFC1511E5E52AE221B7EBB33114722"
+    },
+    "download_size": 7034625,
+    "identifier": "StratoFortress",
+    "install": [
+        {
+            "filter_regexp": "\\.craft$",
+            "find": "StratoFortress",
+            "install_to": "GameData"
+        },
+        {
+            "file": "GameData/StratoFortress/Craft/B52WingsLoad.craft",
+            "install_to": "Ships/SPH"
+        }
+    ],
+    "install_size": 14733141,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "StratoFortress",
+    "release_date": "2025-08-05T13:50:05.404409+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228478-stratofortress/",
+        "spacedock": "https://spacedock.info/mod/3947/StratoFortress",
+        "x_screenshot": "https://spacedock.info/content/ColdJ_60612/StratoFortress/StratoFortress-1754404003.png"
+    },
+    "spec_version": "v1.12",
+    "tags": [
+        "crewed",
+        "first-person",
+        "parts"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}
