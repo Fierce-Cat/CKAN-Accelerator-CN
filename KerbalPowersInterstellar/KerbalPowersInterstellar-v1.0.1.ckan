@@ -15,10 +15,10 @@
     "download": "https://spacedock.info/mod/3821/Kerbal%20Powers%20Interstellar/download/v1.0.1",
     "download_content_type": "application/zip",
     "download_hash": {
-        "sha1": "57249AECF3E8310C87F319F95AAAB724DDBEF404",
-        "sha256": "76C0D3C012D6B03DB31678163CA652360BF216CD972EB3C1DC2AD54EB65F80AF"
+        "sha1": "6B4EC07A3CFC0265B140410781DEF5FB29F2E8B8",
+        "sha256": "FB54FBD3F2D21D09BB888397BDDD5443D3951CDD9177139C73A3190D45CC3DC4"
     },
-    "download_size": 18139841,
+    "download_size": 16126731,
     "identifier": "KerbalPowersInterstellar",
     "install": [
         {
@@ -30,14 +30,14 @@
             "install_to": "GameData"
         }
     ],
-    "install_size": 78753987,
+    "install_size": 56554400,
     "ksp_version": "1.12.5",
     "license": "restricted",
     "localizations": [
         "en-us"
     ],
     "name": "Kerbal Powers Interstellar",
-    "release_date": "2025-02-12T04:26:57.691703+00:00",
+    "release_date": "2025-08-29T23:08:10.28049+00:00",
     "resources": {
         "discussions": "https://github.com/KerbalPowers/KP-Dynamics/discussions",
         "homepage": "https://forum.kerbalspaceprogram.com/topic/226866-112x-kerbal-powers-interstellar-v10/",
@@ -49,6 +49,9 @@
     "suggests": [
         {
             "name": "Waterfall"
+        },
+        {
+            "name": "VABorganizer"
         }
     ],
     "tags": [

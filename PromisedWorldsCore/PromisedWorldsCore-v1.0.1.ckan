@@ -1,8 +1,6 @@
 {
-    "abstract": "The core for Promised Worlds [All download links for this mod have been accelerated by KERBCAT.COM]",
-    "author": [
-        "Promised Worlds Dev Team"
-    ],
+    "abstract": "Core dependencies for the faithful recreation of KSP 2 star systems in KSP",
+    "author": "PromisedWorldsDevTeam",
     "depends": [
         {
             "name": "Singularity"
@@ -29,7 +27,10 @@
             "name": "VertexHeightOblateAdvanced"
         }
     ],
-    "download": "https://hk-github.mirror.kerbcat.cn/github/Constructalor/PromisedWorlds/releases/download/v1.0.1/PromisedWorlds_V1.0.1_Core.zip?auth_key=1756558965-33b314763adb4d2fbd8b6281025d12cb-0-1fc6dcb1db2cdbc26ba890bc2776c666&size=35277346&expireAt=1756558965",
+    "download": [
+        "https://github.com/PromisedWorlds/PromisedWorlds/releases/download/v1.0.1/PromisedWorlds_V1.0.1_Core.zip",
+        "https://spacedock.info/mod/3974/Promised%20Worlds%20-%20Core/download/1.0.1"
+    ],
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "978366C4FBCC587B05C8344029F51A14FF2666F9",
@@ -44,14 +45,22 @@
         }
     ],
     "install_size": 55563259,
+    "ksp_version": "1.12.5",
     "license": "MIT",
-    "name": "Promised Worlds Core [PRO-KCMIRROR]",
-    "release_date": "2025-08-25T15:58:51Z",
+    "name": "Promised Worlds - Core",
+    "release_date": "2025-08-28T22:10:56.972785+00:00",
     "resources": {
-        "bugtracker": "https://github.com/Constructalor/PromisedWorlds/issues",
-        "repository": "https://github.com/Constructalor/PromisedWorlds"
+        "bugtracker": "https://github.com/PromisedWorlds/PromisedWorlds/issues",
+        "repository": "https://github.com/PromisedWorlds/PromisedWorlds",
+        "spacedock": "https://spacedock.info/mod/3974/Promised%20Worlds%20-%20Core",
+        "x_screenshot": "https://spacedock.info/content/PromisedWorldsDevTeam_171123/Promised_Worlds_-_Core/Promised_Worlds_-_Core-1756421851.jpg"
     },
-    "spec_version": "v1.4",
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "PromisedWorldsDebdeb"
+        }
+    ],
     "tags": [
         "config",
         "planet-pack"
