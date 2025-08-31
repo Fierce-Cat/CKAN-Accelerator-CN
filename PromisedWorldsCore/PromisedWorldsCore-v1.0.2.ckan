@@ -1,0 +1,74 @@
+{
+    "abstract": "Core dependencies for the faithful recreation of KSP 2 star systems in KSP",
+    "author": [
+        "PromisedWorldsDevTeam",
+        "averageksp"
+    ],
+    "depends": [
+        {
+            "name": "Singularity"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ScaledDecorator"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KopernicusExpansion"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "VertexColorMapEmissive"
+        },
+        {
+            "name": "VertexHeightOblateAdvanced"
+        }
+    ],
+    "download": [
+        "https://github.com/PromisedWorlds/PromisedWorlds/releases/download/v1.0.2/PromisedWorlds_V1.0.2_Core.zip",
+        "https://spacedock.info/mod/3974/Promised%20Worlds%20-%20Core/download/1.0.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FD5042F768BA5866634E3EB47EB8A5E2739630C8",
+        "sha256": "F7F5D1DF6A4A26104D5CCA8C5AAE85580E7F130720CF8590E7767034C231A500"
+    },
+    "download_size": 30755433,
+    "identifier": "PromisedWorldsCore",
+    "install": [
+        {
+            "find": "PromisedWorlds",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 48613235,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Promised Worlds - Core",
+    "release_date": "2025-08-30T14:12:04.700421+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/PromisedWorlds/PromisedWorlds/issues",
+        "homepage": "https://spacedock.info/mod/3974/Promised%20Worlds%20-%20Core",
+        "repository": "https://github.com/PromisedWorlds/PromisedWorlds",
+        "spacedock": "https://spacedock.info/mod/3974/Promised%20Worlds%20-%20Core",
+        "x_screenshot": "https://spacedock.info/content/PromisedWorldsDevTeam_171123/Promised_Worlds_-_Core/Promised_Worlds_-_Core-1756421851.jpg"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "PromisedWorldsDebdeb"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "v1.0.2",
+    "x_generated_by": "netkan"
+}

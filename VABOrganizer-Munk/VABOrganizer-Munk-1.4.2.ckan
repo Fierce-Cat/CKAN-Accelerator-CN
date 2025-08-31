@@ -1,0 +1,94 @@
+{
+    "abstract": "Have you ever installed a popular mod, such as KAS, KIS, or TAC Life Support, and were frustrated that every part was listed as \"Misc\" in the VAB? Not anymore!",
+    "author": "munktron239",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "VABOrganizer"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3873/VAB%20Organizer%20-%20Munk's%20Configs/download/1.4.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BBE9CE480C52C99D672F306B98C0ADC3905C61E9",
+        "sha256": "A9EEA7C9575557D8BD638C5487810E46220CC3662995C12D58FB797F14FC1D59"
+    },
+    "download_size": 847307,
+    "identifier": "VABOrganizer-Munk",
+    "install": [
+        {
+            "as": "MunksFixes",
+            "find_regexp": "Munks-?Fixes(-main)?",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 893736,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "VAB Organizer - Munk's Configs",
+    "release_date": "2025-08-30T05:01:07.874047+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/munktron239/Munks-Fixes/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227751-112x-vab-organizer-munks-configs-bulkhead-profile-fixes/",
+        "remote-avc": "https://raw.githubusercontent.com/munktron239/Munks-Fixes/refs/heads/main/Versioning/MunksFixes.version",
+        "repository": "https://github.com/munktron239/Munks-Fixes",
+        "spacedock": "https://spacedock.info/mod/3873/VAB%20Organizer%20-%20Munk's%20Configs",
+        "x_screenshot": "https://spacedock.info/content/munktron239_157380/VAB_Organizer_-_Munks_Configs/VAB_Organizer_-_Munks_Configs-1745612740.png"
+    },
+    "spec_version": "v1.18",
+    "supports": [
+        {
+            "name": "Benjee10-SharedAssets"
+        },
+        {
+            "name": "ConformalDecals"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KerbalGPS"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "PlanetsideExplorationTechnologies"
+        },
+        {
+            "name": "HullcamVDSContinued"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "RestockPlus"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "1.4.2",
+    "x_generated_by": "netkan"
+}
