@@ -1,0 +1,53 @@
+{
+    "abstract": "Faithful recreation of the Debdeb system from KSP 2 in KSP",
+    "author": "PromisedWorldsDevTeam",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "PromisedWorldsCore"
+        }
+    ],
+    "download": [
+        "https://github.com/PromisedWorlds/PromisedWorlds/releases/download/v1.0.3/PromisedWorlds_V1.0.3_Debdeb.zip",
+        "https://spacedock.info/mod/3976/Promised%20Worlds%20-%20Debdeb%20System/download/1.0.3"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F113B1D2DE2F7A87F2D352992AAD01A701904155",
+        "sha256": "4AF8152A4AF7510E9388AF25D41C75EDC9F95183ACAEDD59EDD5DA374A744FE3"
+    },
+    "download_size": 918554448,
+    "identifier": "PromisedWorldsDebdeb",
+    "install": [
+        {
+            "find": "PromisedWorlds",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2362167115,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Promised Worlds - Debdeb System",
+    "release_date": "2025-08-31T02:04:43.978247+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/PromisedWorlds/PromisedWorlds/issues",
+        "homepage": "https://spacedock.info/mod/3974/Promised%20Worlds%20-%20Core",
+        "remote-avc": "https://raw.githubusercontent.com/PromisedWorlds/PromisedWorlds/refs/heads/main/GameData/PromisedWorlds/_Systems/Debdeb/Version/PromisedWorldsDebdeb.version",
+        "repository": "https://github.com/PromisedWorlds/PromisedWorlds",
+        "spacedock": "https://spacedock.info/mod/3976/Promised%20Worlds%20-%20Debdeb%20System",
+        "x_screenshot": "https://spacedock.info/content/PromisedWorldsDevTeam_171123/Promised_Worlds_-_Debdeb_System/Promised_Worlds_-_Debdeb_System-1756426836.jpg"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "v1.0.3",
+    "x_generated_by": "netkan"
+}
