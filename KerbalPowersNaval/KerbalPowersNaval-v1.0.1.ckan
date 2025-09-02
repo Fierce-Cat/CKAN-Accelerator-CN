@@ -1,0 +1,70 @@
+{
+    "abstract": "Stockalike Boat Propellers, Turbine Generators, and Ballast Tanks",
+    "author": [
+        "Spartwo",
+        "MiffedStarfish"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KerbalPowersCore"
+        },
+        {
+            "name": "FirespitterCore"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3977/Kerbal%20Powers%20Naval/download/v1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DC1ECC67AF0BDC25C9C04D74BA83DD47477A51E2",
+        "sha256": "1668F995E8922CE79F62150FD704C5E5174D8AF6079D5CA2D1AF3DD65024C950"
+    },
+    "download_size": 25047284,
+    "identifier": "KerbalPowersNaval",
+    "install": [
+        {
+            "find": "KerbalPowers/Naval",
+            "install_to": "GameData/KerbalPowers"
+        },
+        {
+            "find": "KerbalPowers/Electrics",
+            "install_to": "GameData/KerbalPowers"
+        },
+        {
+            "find": "TURD",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 59608350,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Kerbal Powers Naval",
+    "release_date": "2025-08-31T20:00:27.732281+00:00",
+    "resources": {
+        "discussions": "https://github.com/KerbalPowers/KP-Dynamics/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228684-kerbal-powers-naval-v10/",
+        "repository": "https://github.com/KerbalPowers/KP-Dynamics",
+        "spacedock": "https://spacedock.info/mod/3977/Kerbal%20Powers%20Naval",
+        "x_screenshot": "https://spacedock.info/content/Spartwo_95463/Kerbal_Powers_Naval/Kerbal_Powers_Naval-1756485279.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "RationalHydroDynamics"
+        },
+        {
+            "name": "VABorganizer"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "v1.0.1",
+    "x_generated_by": "netkan"
+}
