@@ -1,0 +1,63 @@
+{
+    "abstract": "Create colonies using KK statics",
+    "author": [
+        "AMPW",
+        "Halengar"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "v1.11.0.0",
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "CustomPreLaunchChecks"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "KerbalColoniesConfig"
+        }
+    ],
+    "download": [
+        "https://github.com/KerbalColonies/KerbalColoniesCore/releases/download/v1.1.3/KerbalColonies.zip",
+        "https://spacedock.info/mod/3896/Kerbal%20Colonies%20Core/download/v1.1.3"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "68B4BB8BFEEE11E62E6CE6F6B20B2FF09B93F5C1",
+        "sha256": "C9B120AF141857ECF144CA71313867EAF472479239F971E8062B31871530E41B"
+    },
+    "download_size": 140404,
+    "identifier": "KerbalColonies",
+    "install_size": 362386,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8",
+    "license": "GPL-3.0",
+    "name": "Kerbal Colonies Core",
+    "release_date": "2025-09-07T18:58:56.613521+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/KerbalColonies/KerbalColoniesCore/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227961-kerbal-colonies-v100-112x/",
+        "remote-avc": "https://raw.githubusercontent.com/KerbalColonies/KerbalColoniesCore/refs/heads/master/GameData/KerbalColonies/KerbalColonies.version",
+        "repository": "https://github.com/KerbalColonies/KerbalColoniesCore",
+        "spacedock": "https://spacedock.info/mod/3896/Kerbal%20Colonies%20Core",
+        "x_screenshot": "https://spacedock.info/content/AMPW_135698/Kerbal_Colonies/Kerbal_Colonies-1748068431.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "KerbalColoniesConfigExpansion"
+        }
+    ],
+    "tags": [
+        "buildings",
+        "config",
+        "plugin"
+    ],
+    "version": "v1.1.3",
+    "x_generated_by": "netkan"
+}
