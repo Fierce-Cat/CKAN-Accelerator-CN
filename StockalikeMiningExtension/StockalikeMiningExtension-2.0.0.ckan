@@ -1,0 +1,53 @@
+{
+    "abstract": "Adds new Mining and ISRU parts in a variety of formfactors",
+    "author": [
+        "SuicidalInsanity",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/354/Stockalike%20Mining%20Extension/download/2.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E57E17E99B6CC2F07D9EF92BD1FAB4A3F03CD3A3",
+        "sha256": "287F81085B7D90E4D5CF85AEA23B08A6BF43717D07AA40663FE3195A7C6F3D04"
+    },
+    "download_size": 11753037,
+    "identifier": "StockalikeMiningExtension",
+    "install": [
+        {
+            "filter": "Thumbs.db",
+            "find": "MiningExpansion",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 26776750,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Stockalike Mining Extension",
+    "recommends": [
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "release_date": "2025-09-09T14:22:16.695258+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/Stockalike-Mining-Extension/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/130325-105-stockalike-mining-extension-092-release-21816-wip/&page=1",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/Stockalike-Mining-Extension/refs/heads/master/StockalikeMiningExtension.version",
+        "repository": "https://github.com/linuxgurugamer/Stockalike-Mining-Extension",
+        "spacedock": "https://spacedock.info/mod/354/Stockalike%20Mining%20Extension",
+        "x_screenshot": "https://spacedock.info/content/SuicidalInsanity_1925/Stockalike_Mining_Extension/Stockalike_Mining_Extension-1457222376.5120037.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "resources"
+    ],
+    "version": "2.0.0",
+    "x_generated_by": "netkan"
+}
