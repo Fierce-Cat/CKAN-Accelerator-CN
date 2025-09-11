@@ -1,0 +1,47 @@
+{
+    "abstract": "Allows different mods to work together when recovering a staged rocket.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/RecoveryController/releases/download/0.0.4.3/RecoveryController-1.12.5-0.0.4.3.zip",
+        "https://spacedock.info/mod/1311/RecoveryController/download/0.0.4.3"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D6E897A5F7D125F3E19818C063D7099030D9AD16",
+        "sha256": "EC5E8C6042A5FD003CDA2DE0056DF8CA6F53CBAB72F5FC7BA5A6F62193BB076A"
+    },
+    "download_size": 19498,
+    "identifier": "RecoveryController",
+    "install": [
+        {
+            "find": "RecoveryController",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 36926,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "RecoveryController",
+    "release_date": "2025-09-10T19:22:17.07815+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/RecoveryController/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158970-12-recoverycontroller-let-fmrs-and-stagerecovery-work-together/#comment-3015906",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/RecoveryController/refs/heads/master/RecoveryController.version",
+        "repository": "https://github.com/linuxgurugamer/RecoveryController",
+        "spacedock": "https://spacedock.info/mod/1311/RecoveryController",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/RecoveryController/RecoveryController-1491862351.1689112.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "career"
+    ],
+    "version": "0.0.4.3",
+    "x_generated_by": "netkan"
+}
