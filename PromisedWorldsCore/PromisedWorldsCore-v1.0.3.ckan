@@ -52,10 +52,21 @@
     "ksp_version_min": "1.12.0",
     "license": "MIT",
     "name": "Promised Worlds - Core",
+    "recommends": [
+        {
+            "name": "ParallaxContinued"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        }
+    ],
     "release_date": "2025-09-04T00:17:28.916043+00:00",
     "resources": {
         "bugtracker": "https://github.com/PromisedWorlds/PromisedWorlds/issues",
-        "homepage": "https://spacedock.info/mod/3974/Promised%20Worlds%20-%20Core",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228751-112x-v103-promised-worlds-a-faithful-recreation-of-ksp-2s-solar-systems-in-ksp-1/",
         "remote-avc": "https://raw.githubusercontent.com/PromisedWorlds/PromisedWorlds/refs/heads/main/GameData/PromisedWorlds/Version/PromisedWorldsCore.version",
         "repository": "https://github.com/PromisedWorlds/PromisedWorlds",
         "spacedock": "https://spacedock.info/mod/3974/Promised%20Worlds%20-%20Core",
@@ -65,6 +76,15 @@
     "suggests": [
         {
             "name": "PromisedWorldsDebdeb"
+        },
+        {
+            "name": "Firefly"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "PlanetShine"
         }
     ],
     "tags": [
