@@ -1,0 +1,67 @@
+{
+    "abstract": "Outer Planets Expansion's additions and modifications to the Jool System",
+    "author": "TheMinmusDerp",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3663/OPX:%20JoolPlus/download/v0.6.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A98F2C4277079DE9F01A95F1F8136DD7CD278766",
+        "sha256": "CA39A2D99B238C88E5C7FE173D3D823D5F3CBBA6F3BF4FBB315899F83BD81D9D"
+    },
+    "download_size": 125980276,
+    "identifier": "OPX-JoolPlus",
+    "install": [
+        {
+            "filter": [
+                "__MACOSX",
+                ".DS_Store"
+            ],
+            "find": "OPX-JoolPlus",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 190360829,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "OPX: JoolPlus",
+    "release_date": "2025-09-11T19:15:19.071518+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/TheMinmusDerp/OPX-JoolPlus/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/225300-112x-planet-pack-outer-planets-expansion-opx/",
+        "repository": "https://github.com/TheMinmusDerp/OPX-JoolPlus",
+        "spacedock": "https://spacedock.info/mod/3663/OPX:%20JoolPlus",
+        "x_screenshot": "https://spacedock.info/content/TheMinmusDerp_137781/OPX_JoolPlus/OPX_JoolPlus-1734399901.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "ResearchBodies"
+        },
+        {
+            "name": "JanetsPlanets"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "v0.6.4",
+    "x_generated_by": "netkan"
+}
