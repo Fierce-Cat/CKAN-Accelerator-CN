@@ -1,0 +1,43 @@
+{
+    "abstract": "A collection of +part configs to add missing, or otherwise scaled parts to part mods that don't include them [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "YagatePRCL",
+    "depends": [
+        {
+            "name": "HeatControl"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/YagatePRCL/ISVEmporium/releases/download/v0.1.6/ISVEmporium016.zip?auth_key=1758027951-1439841141b540b4800a4ea6806cce3b-0-8c932c02e6a245212b4033961d0e63f2&size=7667&expireAt=1758027951",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F06F16F36BBE80C1771DB085D0BB484AAF1251AD",
+        "sha256": "E5EEFAEE269810AA13693161F8ECE022EABCDA16605BE1ACF1714199042450B6"
+    },
+    "download_size": 7667,
+    "identifier": "ISVEmporium",
+    "install": [
+        {
+            "find": "ISVEmporium",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 6497,
+    "license": "MIT",
+    "name": "ISVEmporium [PRO-KCMIRROR]",
+    "release_date": "2025-09-14T19:55:00Z",
+    "resources": {
+        "bugtracker": "https://github.com/YagatePRCL/ISVEmporium/issues",
+        "repository": "https://github.com/YagatePRCL/ISVEmporium"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "v0.1.6",
+    "x_generated_by": "netkan"
+}

@@ -43,6 +43,7 @@
     "identifier": "PromisedWorldsCore",
     "install": [
         {
+            "filter": "ScaledDecorator",
             "find": "PromisedWorlds",
             "install_to": "GameData"
         }
@@ -50,7 +51,7 @@
     "install_size": 55564122,
     "ksp_version_max": "1.12.99",
     "ksp_version_min": "1.12.0",
-    "license": "MIT",
+    "license": "CC-BY-NC-SA",
     "name": "Promised Worlds - Core",
     "recommends": [
         {
