@@ -1,0 +1,62 @@
+{
+    "abstract": "A simple-to-understand, yet powerful life support mod",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ModuleAnimGenericResourceUsage"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/IFI-Life-Support/releases/download/4.0.1.1/IFILS-1.12.5-4.0.1.1.zip",
+        "https://spacedock.info/mod/3145/IFI%20Life%20Support/download/4.0.1.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AC260ADE798688C426D1E57333C1F7A620526CD9",
+        "sha256": "FD8695247C70E8DBA31C09CCC256F4C5E3D33CC794E0A42ABDD75F6DED640754"
+    },
+    "download_size": 25381868,
+    "identifier": "IFILS",
+    "install_size": 83402613,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "IFI Life Support",
+    "release_date": "2025-09-15T15:39:47.082483+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/IFI-Life-Support/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/168008-112x-interstellar-flight-inc-life-support/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/IFI-Life-Support/refs/heads/master/IFILS.version",
+        "repository": "https://github.com/linuxgurugamer/IFI-Life-Support",
+        "spacedock": "https://spacedock.info/mod/3145/IFI%20Life%20Support"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "version": "1:4.0.1.1",
+    "x_generated_by": "netkan"
+}
