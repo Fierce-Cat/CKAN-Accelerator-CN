@@ -1,0 +1,58 @@
+{
+    "abstract": "Accurately simulate resources on your vessel while it is unloaded",
+    "author": "steamroller",
+    "depends": [
+        {
+            "min_version": "4.2.3",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "2.2.1",
+            "name": "Harmony2"
+        },
+        {
+            "min_version": "1.5.5.2",
+            "name": "KSPBurst"
+        }
+    ],
+    "download": [
+        "https://github.com/Phantomical/BackgroundResourceProcessing/releases/download/v0.1.15/BackgroundResourceProcessing.zip",
+        "https://spacedock.info/mod/3934/Background%20Resource%20Processing/download/0.1.15"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B9D4A7ECEC6F54198D9B3B018D45D7F2007879F0",
+        "sha256": "762FCCC6B6573C949A63569B3B45787C51146E809499F0A359DC890FAA08115B"
+    },
+    "download_size": 535732,
+    "identifier": "BackgroundResourceProcessing",
+    "install_size": 1304655,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.5",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Background Resource Processing",
+    "release_date": "2025-09-17T07:37:26.919704+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Phantomical/BackgroundResourceProcessing/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228375-1125-background-resource-processing/",
+        "remote-avc": "https://github.com/Phantomical/BackgroundResourceProcessing/releases/latest/download/BackgroundResourceProcessing.version",
+        "repository": "https://github.com/Phantomical/BackgroundResourceProcessing",
+        "spacedock": "https://spacedock.info/mod/3934/Background%20Resource%20Processing"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "min_version": "2.1.10",
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "resources"
+    ],
+    "version": "0.1.15",
+    "x_generated_by": "netkan"
+}
