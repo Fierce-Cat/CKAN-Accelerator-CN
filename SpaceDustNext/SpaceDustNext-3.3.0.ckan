@@ -1,0 +1,52 @@
+{
+    "abstract": "This mod is an addon for SpaceDust mod that expands list of harvestable resources.",
+    "author": "NerdyBoy",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "SpaceDust"
+        }
+    ],
+    "download": [
+        "https://github.com/NerdyBoy709/SpaceDustNext/releases/download/3.3.0/SpaceDustNext.zip",
+        "https://spacedock.info/mod/3836/Space%20Dust%20Next/download/3.3.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FC32D20D44D726AAD4C239A98FBF349A67418DDB",
+        "sha256": "8722C7AFDC7852642FA5C657763A1F3DB990E919052B195AA67FBFD9D0FF0E8A"
+    },
+    "download_size": 114282,
+    "identifier": "SpaceDustNext",
+    "install_size": 374299,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "Space Dust Next",
+    "release_date": "2025-09-19T19:19:49.956209+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/NerdyBoy709/SpaceDustNext/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227734-112x-space-dust-next-v280/",
+        "repository": "https://github.com/NerdyBoy709/SpaceDustNext",
+        "spacedock": "https://spacedock.info/mod/3836/Space%20Dust%20Next",
+        "x_screenshot": "https://spacedock.info/content/NerdyBoy_153042/Space_Dust_Next/Space_Dust_Next-1741555945.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "resources"
+    ],
+    "version": "3.3.0",
+    "x_generated_by": "netkan"
+}

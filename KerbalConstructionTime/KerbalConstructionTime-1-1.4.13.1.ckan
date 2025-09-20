@@ -1,0 +1,93 @@
+{
+    "abstract": "Unrapid Planned Assembly",
+    "author": [
+        "magico13",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "KerbalConstructionTime-173"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "MagiCore"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/KCT/releases/download/1.4.13.1/KerbalConstructionTime-1.12.5-1.4.13.1.zip",
+        "https://spacedock.info/mod/222/Kerbal%20Construction%20Time/download/1.4.13.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "37581A185028CDC77055F7B9CDD0712369259BD6",
+        "sha256": "3EF85C30B082FA574367933584DE514CFB5DDE95D8794213019AC6397CCC319F"
+    },
+    "download_size": 589624,
+    "identifier": "KerbalConstructionTime",
+    "install": [
+        {
+            "file": "GameData/KerbalConstructionTime",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 946352,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "Kerbal Construction Time",
+    "recommends": [
+        {
+            "name": "ScrapYard"
+        },
+        {
+            "name": "KRASH"
+        },
+        {
+            "name": "StageRecovery"
+        },
+        {
+            "name": "CrewQueueTwo"
+        },
+        {
+            "name": "OhScrap"
+        }
+    ],
+    "release_date": "2025-09-19T15:23:05.753013+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/KCT/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/182877-151-161-kerbal-construction-time-unrapid-planned-assembly/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/KCT/refs/heads/master/KerbalConstructionTime.version",
+        "repository": "https://github.com/linuxgurugamer/KCT",
+        "spacedock": "https://spacedock.info/mod/222/Kerbal%20Construction%20Time",
+        "x_screenshot": "https://spacedock.info/content/magico13_204/Kerbal_Construction_Time/Kerbal_Construction_Time-1456094774.2806504.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "KerbalAlarmClock"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "career"
+    ],
+    "version": "1:1.4.13.1",
+    "x_generated_by": "netkan"
+}
