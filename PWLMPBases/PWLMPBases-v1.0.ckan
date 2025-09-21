@@ -1,0 +1,44 @@
+{
+    "abstract": "Kerbal Konstructs bases for the Promised Worlds LMP server [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Promised Worlds Dev Team",
+    "depends": [
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "ColonyBlocksandPlatforms"
+        },
+        {
+            "name": "StockalikeStructures"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/PromisedWorlds/PWLMP_Bases/releases/download/v1.0/PWLMP_Bases_v1.0.zip?auth_key=1758546427-c05fad500659467fa0e7b66e0efde7d3-0-478f2123f6a782f2beaaf559466ba65c&size=22557&expireAt=1758546427",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ACD410B21D3C8B0669DDB3389632EA021BEA0375",
+        "sha256": "EC59361843215EEDBA92DE6D0D8EF83D700ABB758B22BBF6DF5A406503D6EB1A"
+    },
+    "download_size": 22557,
+    "identifier": "PWLMPBases",
+    "install": [
+        {
+            "find": "PromisedWorldsBases",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 44053,
+    "license": "MIT",
+    "name": "PWLMP Bases [PRO-KCMIRROR]",
+    "release_date": "2025-09-20T16:54:29Z",
+    "resources": {
+        "bugtracker": "https://github.com/PromisedWorlds/PWLMP_Bases/issues",
+        "repository": "https://github.com/PromisedWorlds/PWLMP_Bases"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "buildings"
+    ],
+    "version": "v1.0",
+    "x_generated_by": "netkan"
+}
