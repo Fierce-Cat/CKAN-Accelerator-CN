@@ -1,0 +1,45 @@
+{
+    "abstract": "A KSP 1 planet pack that aims to revive the unimplemented star systems from KSP 2.",
+    "author": "Promised Worlds Dev Team",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "PromisedWorldsCore"
+        }
+    ],
+    "download": "https://github.com/PromisedWorlds/PromisedWorlds/releases/download/v1.1.3/PromisedWorlds-v1.1.3-Debdeb.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A21498F1B79C7F748744D4D1FB024A34B1E88844",
+        "sha256": "8F356679ACCBD0079BE81FDA4DD76F9F296D4DF9D11CF3BF5BA2547D7CD9F927"
+    },
+    "download_size": 1102104112,
+    "identifier": "PromisedWorldsDebdeb",
+    "install": [
+        {
+            "find": "PromisedWorlds",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2800774990,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA",
+    "name": "Promised Worlds Debdeb",
+    "release_date": "2025-09-24T19:22:35Z",
+    "resources": {
+        "bugtracker": "https://github.com/PromisedWorlds/PromisedWorlds/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228751-112x-v103-promised-worlds-a-faithful-recreation-of-ksp-2s-solar-systems-in-ksp-1/",
+        "remote-avc": "https://raw.githubusercontent.com/PromisedWorlds/PromisedWorlds/refs/heads/main/GameData/PromisedWorlds/_Systems/Debdeb/Version/PromisedWorldsDebdeb.version",
+        "repository": "https://github.com/PromisedWorlds/PromisedWorlds"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "v1.1.3",
+    "x_generated_by": "netkan"
+}
