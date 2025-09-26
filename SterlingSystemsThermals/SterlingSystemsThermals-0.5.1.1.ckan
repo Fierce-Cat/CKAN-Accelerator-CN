@@ -1,0 +1,55 @@
+{
+    "abstract": "Radiators and shields (mostly conformal) and inline heatsinks [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.5.1.1/SterlingSystems_Thermals_0.5.2.zip?auth_key=1758978106-e68e8ecb1af84393b027bc822e32c296-0-9b2e5485c783e4a3c90b11d3525505a7&size=57377604&expireAt=1758978106",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "D81B72F5589872C4EA3735AE9E177F76072BE326A95B6EF2472E77A21F90D61D"
+    },
+    "download_size": 57377604,
+    "identifier": "SterlingSystemsThermals",
+    "install": [
+        {
+            "find": "Thermals",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 340312674,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Thermals [PRO-KCMIRROR]",
+    "release_date": "2025-09-25T21:23:55Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.36",
+    "supports": [
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "FarFutureTechnologies"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "0.5.1.1",
+    "x_generated_by": "netkan"
+}

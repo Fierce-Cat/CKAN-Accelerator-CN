@@ -1,0 +1,62 @@
+{
+    "abstract": "Parts for making parts and whole ships [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "SterlingSystemsUtilities"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.5.1.1/SterlingSystems_Utilities_0.5.2.zip?auth_key=1758978105-f2d086831ff946e2a2c789909219ebc9-0-0e050633d7a113fc6e43402aae1c7888&size=31097069&expireAt=1758978105",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "52228320C1255A58762CDB798EEBE8B9AA8B3D843C243A694E319FFF291962FE"
+    },
+    "download_size": 31097069,
+    "identifier": "SterlingSystemsUtilitiesConstruction",
+    "install": [
+        {
+            "find": "UtilitiesConstruction",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 103728417,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Utilities - Construction [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "Sandcastle"
+        }
+    ],
+    "release_date": "2025-09-25T21:23:58Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.36",
+    "supports": [
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        }
+    ],
+    "tags": [
+        "config",
+        "parts",
+        "resources"
+    ],
+    "version": "0.5.1.1",
+    "x_generated_by": "netkan"
+}

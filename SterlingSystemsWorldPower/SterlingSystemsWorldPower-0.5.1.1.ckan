@@ -1,0 +1,50 @@
+{
+    "abstract": "Boxed parts designed to cluster easily like in RTS games and provide massive power and cooling for your colonies [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "SterlingSystemsElectrics"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.5.1.1/SterlingSystems_WorldPower_0.5.2.zip?auth_key=1758978106-6a2c5da1acbb44c58639d6c30ba2d0cb-0-9b740d1a3c32841b507ea57976ee4e80&size=34656510&expireAt=1758978106",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "4B82DC1CD1D82C0494EDC345E4CEACA536731272331F34B5610DE26542C6D73D"
+    },
+    "download_size": 34656510,
+    "identifier": "SterlingSystemsWorldPower",
+    "install": [
+        {
+            "find": "WorldPower",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 332105440,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling World Power [PRO-KCMIRROR]",
+    "release_date": "2025-09-25T21:23:32Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.5.1.1",
+    "x_generated_by": "netkan"
+}
