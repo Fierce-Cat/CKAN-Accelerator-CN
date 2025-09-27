@@ -1,0 +1,61 @@
+{
+    "abstract": "Collection of Textures Unlimited recolours for BD Armory expansion packs [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Spartwo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KerbalPowers/TURD-BDArmory/releases/download/v1.9.1/TU_BD_Associated_Recolour.zip?auth_key=1759064353-d3eb4218af754269886fda8241a6b28a-0-5e12f4a5c2997869c9b7b46a378abb6d&size=53208348&expireAt=1759064353",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5C7272F37F0B40FA1D3CB78DD2C6231B275AF13A",
+        "sha256": "1435934AAE0083F0614A5556464AD44BFB79A8F84E10FC5DD404D25CDFEDB667"
+    },
+    "download_size": 53208348,
+    "identifier": "TURD-BDAssociated",
+    "install": [
+        {
+            "find": "TURD",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 313295521,
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "TURD - BD Associated [PRO-KCMIRROR]",
+    "release_date": "2025-09-02T22:46:21Z",
+    "resources": {
+        "discussions": "https://github.com/KerbalPowers/TURD-BDArmory/discussions",
+        "repository": "https://github.com/KerbalPowers/TURD-BDArmory"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KerbalPowersArmory"
+        },
+        {
+            "name": "RefurbishedArmory"
+        },
+        {
+            "name": "NAS"
+        },
+        {
+            "name": "BDArmoryExtended"
+        },
+        {
+            "name": "Wraithforge"
+        },
+        {
+            "name": "AviatorArsenal"
+        }
+    ],
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "v1.9.1",
+    "x_generated_by": "netkan"
+}

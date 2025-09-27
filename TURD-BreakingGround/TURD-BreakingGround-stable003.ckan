@@ -1,0 +1,40 @@
+{
+    "abstract": "Collection of Textures Unlimited recolours for the Breaking Ground DLC [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "OnlyLightMatters",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KerbalPowers/TURD-MH-BG/releases/download/stable003/TURD_MH_BG_stable_003.zip?auth_key=1759064353-44c9a79976a34651a12a834a8b920865-0-7461b608be096df82cd6066b62d0f84a&size=36761401&expireAt=1759064353",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "84EB2C06912770DB2244BC65941D4E954A3D72E3",
+        "sha256": "6EE8BA497C9064B1E5AAC47938AC12301344837994B759117219C78A79E1FAE2"
+    },
+    "download_size": 36761401,
+    "identifier": "TURD-BreakingGround",
+    "install": [
+        {
+            "find": "TURD/TU_BG_AllInOne",
+            "install_to": "GameData/TURD"
+        }
+    ],
+    "install_size": 45801318,
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "TURD - Breaking Ground [PRO-KCMIRROR]",
+    "release_date": "2025-09-26T22:04:57Z",
+    "resources": {
+        "repository": "https://github.com/KerbalPowers/TURD-MH-BG"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "stable003",
+    "x_generated_by": "netkan"
+}

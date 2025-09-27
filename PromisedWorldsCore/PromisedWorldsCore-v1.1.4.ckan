@@ -1,0 +1,99 @@
+{
+    "abstract": "A KSP 1 planet pack that aims to revive the unimplemented star systems from KSP 2. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Promised Worlds Dev Team",
+    "depends": [
+        {
+            "name": "Singularity"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ScaledDecorator"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KopernicusExpansion"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "VertexColorMapEmissive"
+        },
+        {
+            "name": "VertexHeightOblateAdvanced"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/PromisedWorlds/PromisedWorlds/releases/download/v1.1.4/PromisedWorlds-v1.1.4-Core.zip?auth_key=1759064353-d952562c31f74fcbabbe617a75b9143e-0-9972645a121df1829fc095b2dcdf57cf&size=16977956&expireAt=1759064353",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B971DA3B7965DB317EA70940DCC29ACAF9BB3CCB",
+        "sha256": "16FC04383A557D3050C10D532E73CBE844DAE8449B850CE2D6B003B19916A3CA"
+    },
+    "download_size": 16977956,
+    "identifier": "PromisedWorldsCore",
+    "install": [
+        {
+            "find": "PromisedWorlds",
+            "install_to": "GameData"
+        },
+        {
+            "filter": "ScaledDecorator",
+            "find": "Sigma",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 29299882,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Promised Worlds Core [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ParallaxContinued"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        }
+    ],
+    "release_date": "2025-09-26T14:57:52Z",
+    "resources": {
+        "bugtracker": "https://github.com/PromisedWorlds/PromisedWorlds/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228751-112x-v103-promised-worlds-a-faithful-recreation-of-ksp-2s-solar-systems-in-ksp-1/",
+        "remote-avc": "https://raw.githubusercontent.com/PromisedWorlds/PromisedWorlds/refs/heads/main/GameData/PromisedWorlds/Version/PromisedWorldsCore.version",
+        "repository": "https://github.com/PromisedWorlds/PromisedWorlds"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "PromisedWorldsDebdeb"
+        },
+        {
+            "name": "Firefly"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "PlanetShine"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "v1.1.4",
+    "x_generated_by": "netkan"
+}
