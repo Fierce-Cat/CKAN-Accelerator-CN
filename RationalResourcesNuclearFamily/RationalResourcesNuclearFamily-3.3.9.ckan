@@ -1,0 +1,60 @@
+{
+    "abstract": "Enables fuel switching and Kerbalism radioactivity in supported NTRs. Enables supported NTJs to have Kerbalism radioactivity and the features expected of a nuclear reactor [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "conflicts": [
+        {
+            "name": "KerbalAtomics-NTRModSupport"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "ClassicStockResources"
+                },
+                {
+                    "name": "CommunityResourcePack"
+                }
+            ]
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/RationalResources/releases/download/3.3.9/RRNF_3.4-pre-1.zip?auth_key=1759151295-7df8a44da90a46c9a7082f1d57ed2e68-0-e2d28fa9b3acf4102adb4dfd60bdb642&size=44250&expireAt=1759151295",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "3D1A8F961C2E824D8BAE83CF1B4DB28C113586107005FE8EAFAEFFE4B7053610"
+    },
+    "download_size": 44250,
+    "identifier": "RationalResourcesNuclearFamily",
+    "install_size": 240447,
+    "license": "MIT",
+    "name": "Rational Resources Nuclear Family [PRO-KCMIRROR]",
+    "release_date": "2025-09-27T06:16:28Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/RationalResources/issues",
+        "discussions": "https://github.com/JadeOfMaar/RationalResources/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/184875-*/",
+        "repository": "https://github.com/JadeOfMaar/RationalResources"
+    },
+    "spec_version": "v1.36",
+    "suggests": [
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "RecycledPartsAtomicAge"
+        }
+    ],
+    "tags": [
+        "config",
+        "convenience"
+    ],
+    "version": "3.3.9",
+    "x_generated_by": "netkan"
+}
