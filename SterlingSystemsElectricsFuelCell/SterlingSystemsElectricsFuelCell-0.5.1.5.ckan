@@ -1,0 +1,50 @@
+{
+    "abstract": "Fuel cells [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "SterlingSystemsElectrics"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.5.1.5/SterlingSystems_Electrics_0.5.1.5.zip?auth_key=1759323755-3a8c70b27af045809d4069b8c0d2c42c-0-de52efef14ffb6c963bc450c66288ca6&size=36111779&expireAt=1759323755",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "AEB2221D4612B9230E868936E9AE2DDA0809EF75E91DBF3EA1F8538A17ED7B01"
+    },
+    "download_size": 36111779,
+    "identifier": "SterlingSystemsElectricsFuelCell",
+    "install": [
+        {
+            "find": "ElectricsFuelCell",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 72086252,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Electrics - Fuel Cells [PRO-KCMIRROR]",
+    "release_date": "2025-09-29T19:50:26Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.5.1.5",
+    "x_generated_by": "netkan"
+}

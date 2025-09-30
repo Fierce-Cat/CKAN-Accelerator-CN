@@ -1,0 +1,50 @@
+{
+    "abstract": "Main power sources that are firstly heat-focused, not electric. Raw nuclear thermal, solar thermal and beamed power are here [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "SterlingSystemsThermals"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.5.1.5/SterlingSystems_Thermals_0.5.1.5.zip?auth_key=1759323754-7fed2516e459444f88850beee6cb5eb3-0-f52e245b135f83895e4af022ed477827&size=57377604&expireAt=1759323754",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "D81B72F5589872C4EA3735AE9E177F76072BE326A95B6EF2472E77A21F90D61D"
+    },
+    "download_size": 57377604,
+    "identifier": "SterlingSystemsThermalsPower",
+    "install": [
+        {
+            "find": "ThermalsPower",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 72501547,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Thermals - Power [PRO-KCMIRROR]",
+    "release_date": "2025-09-29T19:50:26Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.5.1.5",
+    "x_generated_by": "netkan"
+}
