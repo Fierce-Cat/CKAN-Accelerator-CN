@@ -1,0 +1,41 @@
+{
+    "abstract": "More realistic body drag calculation.",
+    "author": "CensoredUsername",
+    "conflicts": [
+        {
+            "name": "FerramAerospaceResearchContinued"
+        }
+    ],
+    "depends": [
+        {
+            "name": "Harmony2",
+            "version": "2.2.1.0"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4000/BodyDragFix/download/v0.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C9E1B19FB3C3066925812F36CE1C0241FD6B7D2D",
+        "sha256": "1740B01F1B9026DF8DFA99F47D39E60FE229FF3A254183A7AD5825E6F87F137B"
+    },
+    "download_size": 12606,
+    "identifier": "BodyDragFix",
+    "install_size": 41984,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "BodyDragFix",
+    "release_date": "2025-10-05T14:10:58.484648+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/CensoredUsername/BodyDragFix/issues",
+        "repository": "https://github.com/CensoredUsername/BodyDragFix",
+        "spacedock": "https://spacedock.info/mod/4000/BodyDragFix",
+        "x_screenshot": "https://spacedock.info/content/CensoredUsername_137694/BodyDragFix/BodyDragFix-1759670322.png"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "v0.0.2",
+    "x_generated_by": "netkan"
+}

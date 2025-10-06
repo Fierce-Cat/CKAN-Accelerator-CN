@@ -1,0 +1,57 @@
+{
+    "abstract": "Shared assets for Cosmic Serenity [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "ProximaCentauri-star",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ScaledDecorator"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ProximaCentauri-star/Cosmic-Serenity/releases/download/2.1/_Core.zip?auth_key=1759842154-26694d8937bd4ea5b842536e45e801c0-0-96eaf78fbd656ba5924458a31497d5fb&size=144154722&expireAt=1759842154",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EDB709169A4A74AD78C781CB5355F3FC4E251DA7",
+        "sha256": "E21C0180239B3AF780B99393B0C38FA0175005D584B885FDA36207B4586DB386"
+    },
+    "download_size": 144154722,
+    "identifier": "CosmicSerenity-Core",
+    "install": [
+        {
+            "find": "CosmicSerenity",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 244608989,
+    "license": "restricted",
+    "name": "Cosmic Serenity - Core [PRO-KCMIRROR]",
+    "release_date": "2025-10-05T17:52:47Z",
+    "resources": {
+        "bugtracker": "https://github.com/ProximaCentauri-star/Cosmic-Serenity/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228453-112x-cosmic-serenity-v10-wip/#comment-4473675",
+        "repository": "https://github.com/ProximaCentauri-star/Cosmic-Serenity"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CosmicSerenity-Hades"
+        },
+        {
+            "name": "CosmicSerenity-Anubis"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack",
+        "library"
+    ],
+    "version": "2.1",
+    "x_generated_by": "netkan"
+}

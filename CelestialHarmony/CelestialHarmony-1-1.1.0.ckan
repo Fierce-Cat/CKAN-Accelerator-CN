@@ -1,0 +1,80 @@
+{
+    "abstract": "A brand new star system set in the far future where Kerbals have migrated towards luxurious binary habitable worlds",
+    "author": "ProximaCentauri-star",
+    "conflicts": [
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "JNSQ"
+        },
+        {
+            "name": "BeyondHome"
+        },
+        {
+            "name": "Parallax"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "VertexHeightOblateAdvanced"
+        },
+        {
+            "name": "VertexColorMapEmissive"
+        }
+    ],
+    "download": "https://github.com/ProximaCentauri-star/Celestial-Harmony/releases/download/1.1.0/_Harmonia.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D9FE7D50E62622DF7682D924CD3C448893885896",
+        "sha256": "0617A3B5EE544D0F7C06C0954DD87603D27E49C5DAFE2F4DF57D950D5B9E05BD"
+    },
+    "download_size": 1371307609,
+    "identifier": "CelestialHarmony",
+    "install_size": 3504587999,
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Celestial Harmony",
+    "provides": [
+        "Scatterer-sunflare"
+    ],
+    "recommends": [
+        {
+            "name": "CelestialHarmony-Chaos"
+        }
+    ],
+    "release_date": "2025-10-05T17:49:42Z",
+    "resources": {
+        "bugtracker": "https://github.com/ProximaCentauri-star/Celestial-Harmony/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/226204-112x-celestial-harmony-v10-wip/",
+        "repository": "https://github.com/ProximaCentauri-star/Celestial-Harmony"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "ParallaxContinued"
+        }
+    ],
+    "tags": [
+        "planet-pack"
+    ],
+    "version": "1:1.1.0",
+    "x_generated_by": "netkan"
+}
