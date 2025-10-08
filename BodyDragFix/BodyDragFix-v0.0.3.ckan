@@ -1,0 +1,42 @@
+{
+    "abstract": "More realistic body drag calculation.",
+    "author": "CensoredUsername",
+    "conflicts": [
+        {
+            "name": "FerramAerospaceResearchContinued"
+        }
+    ],
+    "depends": [
+        {
+            "name": "Harmony2",
+            "version": "2.2.1.0"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4000/BodyDragFix/download/v0.0.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B1CC044865392773AD4A0FE9B32E72CF438A962D",
+        "sha256": "6F8A5F4287E11B89687E76178BEE446DF328E5802A2033FC313B18CF2E73DBD3"
+    },
+    "download_size": 8388,
+    "identifier": "BodyDragFix",
+    "install_size": 11776,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "BodyDragFix",
+    "release_date": "2025-10-06T17:16:17.759393+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/CensoredUsername/BodyDragFix/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228923-112x-bodydragfix/",
+        "repository": "https://github.com/CensoredUsername/BodyDragFix",
+        "spacedock": "https://spacedock.info/mod/4000/BodyDragFix",
+        "x_screenshot": "https://spacedock.info/content/CensoredUsername_137694/BodyDragFix/BodyDragFix-1759670322.png"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "v0.0.3",
+    "x_generated_by": "netkan"
+}
