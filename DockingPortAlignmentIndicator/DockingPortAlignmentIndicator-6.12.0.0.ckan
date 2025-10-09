@@ -1,0 +1,60 @@
+{
+    "abstract": "The Docking Port Alignment Indicator is designed to help you dock manually, by presenting target alignment and relative position in a clean and intuitive manner.",
+    "author": [
+        "NavyFish",
+        "micha"
+    ],
+    "depends": [
+        {
+            "min_version": "2.6.22",
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/bfishman/Docking-Port-Alignment-Indicator/releases/download/6.12.0.0/DockingPortAlignmentIndicator-6.12.0.0_20250515155242.zip",
+        "https://spacedock.info/mod/543/Docking%20Port%20Alignment%20Indicator/download/6.12.0.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5D2FCCDB840357500866541C853C647D721F11CF",
+        "sha256": "B875B6880879B5993BE05325BB61FE0A3FC6021B6488B4E66C9FD0DFE892C82B"
+    },
+    "download_size": 324216,
+    "identifier": "DockingPortAlignmentIndicator",
+    "install": [
+        {
+            "file": "GameData/NavyFish",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 314180,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "localizations": [
+        "de-de",
+        "en-us"
+    ],
+    "name": "Docking Port Alignment Indicator",
+    "recommends": [
+        {
+            "name": "RasterPropMonitor"
+        }
+    ],
+    "release_date": "2025-05-15T07:28:33.544581+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/bfishman/Docking-Port-Alignment-Indicator/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?showtopic=40423",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=361",
+        "repository": "https://github.com/bfishman/Docking-Port-Alignment-Indicator",
+        "spacedock": "https://spacedock.info/mod/543/Docking%20Port%20Alignment%20Indicator",
+        "x_screenshot": "https://spacedock.info/content/NavyFish_3644/Docking_Port_Alignment_Indicator/Docking_Port_Alignment_Indicator-1461132930.9594877.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "6.12.0.0",
+    "x_generated_by": "netkan"
+}
