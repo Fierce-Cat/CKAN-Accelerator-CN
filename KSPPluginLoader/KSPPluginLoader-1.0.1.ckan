@@ -1,0 +1,42 @@
+{
+    "abstract": "Allow using KSPAssemblyDependency to depend on mods that are missing a KSPAssembly attribute",
+    "author": "steamroller",
+    "download": [
+        "https://github.com/Phantomical/KSPPluginLoader/releases/download/v1.0.1/KSPPluginLoader.zip",
+        "https://spacedock.info/mod/3992/KSPPluginLoader/download/1.0.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D6EF96B6A8CDD4EDC493C3AE722B39D37A35200B",
+        "sha256": "694939DB9299D03648213CB6095E6D0C7EF67602DA50C0B248D6C04D6DE6CCBA"
+    },
+    "download_size": 21111,
+    "identifier": "KSPPluginLoader",
+    "install": [
+        {
+            "filter_regexp": "\\.pdb$",
+            "find": "000_PluginLoader",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 22217,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "KSPPluginLoader",
+    "release_date": "2025-10-11T01:33:36.26516+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Phantomical/KSPPluginLoader/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228857-1125-ksppluginloader-use-kspassemblydependency-to-depend-on-mods-with-missing-kspassembly-attributes/",
+        "remote-avc": "https://github.com/Phantomical/KSPPluginLoader/releases/latest/download/KSPPluginLoader.version",
+        "repository": "https://github.com/Phantomical/KSPPluginLoader",
+        "spacedock": "https://spacedock.info/mod/3992/KSPPluginLoader"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.0.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

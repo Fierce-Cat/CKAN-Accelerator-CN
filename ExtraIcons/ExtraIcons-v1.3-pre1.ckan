@@ -1,0 +1,45 @@
+{
+    "abstract": "Adds OrbitIconsPack support for various modpacks [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Ether-x9",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "OrbitIconsPack"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Ether-x9/Extra-Icons/releases/download/v1.3-pre1/Extra-Icons_v1.3-pre1.zip?auth_key=1760447169-cfb97891687943009ca567e7bc7d8efb-0-1c430293f954825841290d5766fdbb5e&size=6396&expireAt=1760447169",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "7AC33E519244051DB257F03A1C39859F7877AA8E60F094B70ADDA60CD6735F80"
+    },
+    "download_size": 6396,
+    "identifier": "ExtraIcons",
+    "install": [
+        {
+            "find": "z_ExtraIcons",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 16263,
+    "license": "MIT",
+    "name": "Extra Icons [PRO-KCMIRROR]",
+    "release_date": "2025-10-12T16:15:40Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/Ether-x9/Extra-Icons/issues",
+        "homepage": "https://spacedock.info/mod/3973/Extra%20Icons",
+        "repository": "https://github.com/Ether-x9/Extra-Icons"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "v1.3-pre1",
+    "x_generated_by": "netkan"
+}
