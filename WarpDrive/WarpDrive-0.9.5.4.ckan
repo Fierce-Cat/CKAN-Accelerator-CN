@@ -1,0 +1,53 @@
+{
+    "abstract": "A stand-alone warp-drive, similiar to Interstellar [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "KSPInterstellarExtended"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/KSP-WarpDrive/releases/download/0.9.5.4/WarpDrive-1.12.5-0.9.5.4.zip?auth_key=1760792550-6d711e9099884c65a483c3f2520f4ea6-0-532dd22fd7fadfeaffe2e82c154e3816&size=6076264&expireAt=1760792550",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CAB226AFCFB8270CDC29A7968F2E9A858B9447B1",
+        "sha256": "34BDD01769828361EB6A004F8DB584708B27C6B3E943AC2343E8AF477D47CF09"
+    },
+    "download_size": 6076264,
+    "identifier": "WarpDrive",
+    "install_size": 9331775,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "KSP WarpDrive [PRO-KCMIRROR]",
+    "release_date": "2025-10-16T01:35:56Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/KSP-WarpDrive/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194174-*",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/KSP-WarpDrive/refs/heads/master/WarpDrive.version",
+        "repository": "https://github.com/linuxgurugamer/KSP-WarpDrive"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "0.9.5.4",
+    "x_generated_by": "netkan"
+}
