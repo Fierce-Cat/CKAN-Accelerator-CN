@@ -1,5 +1,5 @@
 {
-    "abstract": "Faster, more features, fewer bugs. Provides a mechanism for other mods to interact with TweakScaleRescaled. This plugin has no overhead when TweakScaleRescaled is not installed. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "abstract": "Faster, more features, fewer bugs. Provides a mechanism for other mods to interact with TweakScaleRescaled. This plugin has no overhead when TweakScaleRescaled is not installed.",
     "author": [
         "Biotronic",
         "pellinor",
@@ -10,9 +10,13 @@
             "name": "TweakScale-Redist"
         }
     ],
-    "download": "https://hk-github.mirror.kerbcat.cn/github/JonnyOThan/TweakScale/releases/download/3.3.1/TweakScale-3.3.1.zip?auth_key=1760792551-41a7dc8fef43419fbb0773ffa69ec780-0-9c5b7edd0260602b189740403f321659&size=167385&expireAt=1760792551",
+    "download": [
+        "https://github.com/JonnyOThan/TweakScale/releases/download/3.3.1/TweakScale-3.3.1.zip",
+        "https://spacedock.info/mod/3514/TweakScale%20Rescaled/download/3.3.1"
+    ],
     "download_content_type": "application/zip",
     "download_hash": {
+        "sha1": "A21D701B99A7D31287B0E7647EDD96C14743833B",
         "sha256": "B59884D8433FB1BBEEFAE52E8D65044B932EF3E61B900A3301533CFEBAA586AC"
     },
     "download_size": 167385,
@@ -28,10 +32,10 @@
         }
     ],
     "install_size": 7596,
-    "ksp_version_max": "1.12",
+    "ksp_version_max": "1.12.5",
     "ksp_version_min": "1.12.3",
     "license": "CC-BY-NC-SA",
-    "name": "TweakScale Rescaled Redistributable [PRO-KCMIRROR]",
+    "name": "TweakScale Rescaled Redistributable",
     "provides": [
         "TweakScale-Redist"
     ],
@@ -40,14 +44,16 @@
             "name": "TweakScaleRescaled"
         }
     ],
-    "release_date": "2025-10-14T01:23:20Z",
-    "release_status": "testing",
+    "release_date": "2025-10-17T11:53:11.082241+00:00",
     "resources": {
         "bugtracker": "https://github.com/JonnyOThan/TweakScale/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/223692-1125-tweakscalerescaled-scale-your-parts-in-the-editor/",
         "remote-avc": "https://github.com/JonnyOThan/TweakScale/releases/latest/download/999_Scale_Redist.version",
-        "repository": "https://github.com/JonnyOThan/TweakScale"
+        "repository": "https://github.com/JonnyOThan/TweakScale",
+        "spacedock": "https://spacedock.info/mod/3514/TweakScale%20Rescaled",
+        "x_screenshot": "https://spacedock.info/content/JonnyOThan_33590/TweakScale_Rescaled/TweakScale_Rescaled-1707076072.png"
     },
-    "spec_version": "v1.36",
+    "spec_version": "v1.34",
     "tags": [
         "plugin",
         "library"
