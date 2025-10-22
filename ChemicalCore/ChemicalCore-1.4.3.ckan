@@ -1,0 +1,54 @@
+{
+    "abstract": "Configuration definitions used throughout the Chemical Technologies suite of mods.",
+    "author": "Charle_Roger",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": [
+        "https://github.com/CharleRoger/ChemicalCore/releases/download/1.4.3/ChemicalCore-1.4.3.zip",
+        "https://spacedock.info/mod/3865/Chemical%20Core/download/1.4.3"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1CFEC051CE3939E55440A8D152931941B9164DC6",
+        "sha256": "E0FEB9E40C7ABBDCE2FC2A77A5CA2BDB1F89A220F64285743A399FED0AB3AB92"
+    },
+    "download_size": 390452,
+    "identifier": "ChemicalCore",
+    "install_size": 1974363,
+    "ksp_version": "1.12.5",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "Chemical Core",
+    "release_date": "2025-10-21T19:48:44.752763+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/CharleRoger/ChemicalCore/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227705-112x-chemical-technologies-a-chemically-based-resource-overhaul/",
+        "remote-avc": "https://raw.githubusercontent.com/CharleRoger/ChemicalCore/main/GameData/ChemicalCore/Versioning/ChemicalCore.version",
+        "repository": "https://github.com/CharleRoger/ChemicalCore",
+        "spacedock": "https://spacedock.info/mod/3865/Chemical%20Core",
+        "x_screenshot": "https://spacedock.info/content/Charle_Roger_139212/Chemical_Core/Chemical_Core-1754478624.png"
+    },
+    "spec_version": "v1.34",
+    "supports": [
+        {
+            "name": "CryoTanks"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1.4.3",
+    "x_generated_by": "netkan"
+}
