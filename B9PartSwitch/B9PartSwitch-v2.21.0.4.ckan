@@ -1,0 +1,51 @@
+{
+    "abstract": "A Kerbal Space Program plugin designed to implement switching of part meshes, resources, and nodes [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "blowfish",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSPModStewards/B9PartSwitch/releases/download/2.21.0.4/B9PartSwitch-1.12.5-2.21.0.4.zip?auth_key=1761657009-01854aace8354fb89e806e4b46ca25f9-0-b41e153895e972c67a3e45e460c0e134&size=124711&expireAt=1761657009",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6BBDDCCF9C53435BC9FEA3258D0CC3A7D5159B75",
+        "sha256": "57D5258B787E85B7FFF56F4B52B7631561FDA41012426B92BBE389E1B83F00E0"
+    },
+    "download_size": 124711,
+    "identifier": "B9PartSwitch",
+    "install_size": 293600,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "LGPL-3.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "it-it",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "B9 Part Switch [PRO-KCMIRROR]",
+    "provides": [
+        "DeadskinsMeshSwitch"
+    ],
+    "release_date": "2025-10-26T02:21:18Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSPModStewards/B9PartSwitch/issues",
+        "remote-avc": "https://raw.githubusercontent.com/KSPModStewards/B9PartSwitch/refs/heads/master/B9PartSwitch.version",
+        "repository": "https://github.com/KSPModStewards/B9PartSwitch"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "v2.21.0.4",
+    "x_generated_by": "netkan"
+}
