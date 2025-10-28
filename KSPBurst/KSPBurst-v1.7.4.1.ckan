@@ -1,0 +1,42 @@
+{
+    "abstract": "Better multithreaded performance for mods that use it. Requires Mono on Linux and macOS (you have it if you're running CKAN). [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Unity",
+    "depends": [
+        {
+            "name": "KSPBurst-Lite"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSPModdingLibs/KSPBurst/releases/download/v1.7.4.1/KSPBurst_Compiler_1.7.4.1.zip?auth_key=1761742986-d3a51d9af5a6420d9edf776c7a512df5-0-06cf310bb9cc9361f30fec92b493b4f5&size=401766853&expireAt=1761742986",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "FFDA79A5CCBD53C57DBF49DBE423FB297CF7DA031B5B6936EDADD84D1B39D59A"
+    },
+    "download_size": 401766853,
+    "identifier": "KSPBurst",
+    "install": [
+        {
+            "comment": "This package is the burst compiler, while KSPBurst-Lite is the plugins that mods interface with. the compiler is wrapped in a zip file that the plugins unpack at runtime. The compiler is rather large and doesn't change often, so it's split out. Further, an automated build system may choose to install just the plugins to save space (but Burst will not be functional).  A mod author may also choose to depend on KSPBurst-Lite to leave the choice up to the user.",
+            "find": "000_KSPBurst",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 403033621,
+    "license": "unknown",
+    "name": "KSPBurst Compiler [PRO-KCMIRROR]",
+    "provides": [
+        "KSPBurst-Full"
+    ],
+    "release_date": "2025-10-27T13:28:42Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/KSPModdingLibs/KSPBurst/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201112-*",
+        "repository": "https://github.com/KSPModdingLibs/KSPBurst"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "library"
+    ],
+    "version": "v1.7.4.1",
+    "x_generated_by": "netkan"
+}
