@@ -1,0 +1,64 @@
+{
+    "abstract": "Accurately simulate resources on your vessel while it is unloaded",
+    "author": "steamroller",
+    "depends": [
+        {
+            "min_version": "4.2.3",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "2.2.1",
+            "name": "Harmony2"
+        },
+        {
+            "min_version": "1.5.5.2",
+            "name": "KSPBurst"
+        }
+    ],
+    "download": [
+        "https://github.com/Phantomical/BackgroundResourceProcessing/releases/download/v0.2.2/BackgroundResourceProcessing.zip",
+        "https://spacedock.info/mod/3934/Background%20Resource%20Processing/download/0.2.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AD405AC2CABA7D8F676D411092F8403ADE70855B",
+        "sha256": "6299E5BF6871D764D0290096FE8A23A66E6BAF6C1AFA6736A3F13A08ECAA3E59"
+    },
+    "download_size": 553930,
+    "identifier": "BackgroundResourceProcessing",
+    "install_size": 1350741,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.5",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Background Resource Processing",
+    "recommends": [
+        {
+            "min_version": "1.5.5.2",
+            "name": "KSPBurst-Full"
+        }
+    ],
+    "release_date": "2025-10-29T05:15:30.882045+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Phantomical/BackgroundResourceProcessing/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228375-1125-background-resource-processing/",
+        "remote-avc": "https://github.com/Phantomical/BackgroundResourceProcessing/releases/latest/download/BackgroundResourceProcessing.version",
+        "repository": "https://github.com/Phantomical/BackgroundResourceProcessing",
+        "spacedock": "https://spacedock.info/mod/3934/Background%20Resource%20Processing"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "min_version": "2.1.10",
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "resources"
+    ],
+    "version": "0.2.2",
+    "x_generated_by": "netkan"
+}
