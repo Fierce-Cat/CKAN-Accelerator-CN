@@ -1,0 +1,42 @@
+{
+    "abstract": "Allows ridiculous scales, surpassing Tweakscale Unlimited. Really just for fun, or for building Megastructures/ISV's in KSP. (Forked from Unlimited) Requires Tweakscale",
+    "author": "Yagate",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TweakScaleRescaled"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4017/Tweakscale%20Mega-Scaled/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1BDCAAF4D45A9271F790BE4AB75F24C8740F5FED",
+        "sha256": "C33909B8B9E50D083B05601CF567BB79ACDBE9B96CD102D9E0F4D2DD546BC08F"
+    },
+    "download_size": 2562,
+    "identifier": "TweakscaleMegaScaled",
+    "install": [
+        {
+            "find": "TweakScaleMegascale",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1470,
+    "ksp_version": "1.12.5",
+    "license": "GPL-2.0",
+    "name": "Tweakscale Mega-Scaled",
+    "release_date": "2025-10-31T19:17:33.128537+00:00",
+    "resources": {
+        "repository": "https://spacedock.info/mod/3491/Tweakscale%20Unlimited",
+        "spacedock": "https://spacedock.info/mod/4017/Tweakscale%20Mega-Scaled",
+        "x_screenshot": "https://spacedock.info/content/Yagate_171130/Tweakscale_Mega-Scaled/Tweakscale_Mega-Scaled-1761938569.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}
