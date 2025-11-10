@@ -1,0 +1,39 @@
+{
+    "abstract": "a profile that provides good visual effects",
+    "author": "MangoTech",
+    "depends": [
+        {
+            "name": "TUFX"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3912/MangoTech's%20TUFX/download/1.1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4888BD81314796D8F880EBA97C8AB3CE138C4135",
+        "sha256": "E2CB2D09EE0601AD76F60194FC7CD7693C68EEEFBF16ACC2E42E3069B2ED2384"
+    },
+    "download_size": 1011,
+    "identifier": "MangoTechsTUFX",
+    "install": [
+        {
+            "file": "MangoDefault.cfg",
+            "install_to": "GameData/MangoTech"
+        }
+    ],
+    "install_size": 2036,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "MangoTech's TUFX",
+    "release_date": "2025-11-05T13:39:53.305591+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/3912/MangoTech's%20TUFX",
+        "x_screenshot": "https://spacedock.info/content/MangoTech_159038/MangoTechs_TUFX/MangoTechs_TUFX-1750468132.png"
+    },
+    "spec_version": "v1.2",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1.1.0",
+    "x_generated_by": "netkan"
+}
