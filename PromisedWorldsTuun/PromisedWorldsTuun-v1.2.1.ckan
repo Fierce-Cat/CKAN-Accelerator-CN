@@ -1,0 +1,45 @@
+{
+    "abstract": "A KSP 1 planet pack that aims to revive the unimplemented star systems from KSP 2. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Promised Worlds Dev Team",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "PromisedWorldsCore"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/PromisedWorlds/PromisedWorlds/releases/download/v1.2.1/PromisedWorlds-v1.2.1-Tuun.zip?auth_key=1763471249-9bf68d1162ba41a8922de738982e0011-0-974b73c093b01a2c10000947732f641c&size=208343228&expireAt=1763471249",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2EB04D70FD79747C48E886C3715C9D60329CB68E",
+        "sha256": "E12E84B9B23EADB4820D1DB8BE03DF6BF2634B1F9A4B799EC01D5D4DAC0C09AE"
+    },
+    "download_size": 208343228,
+    "identifier": "PromisedWorldsTuun",
+    "install": [
+        {
+            "find": "PromisedWorlds",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 555493721,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA",
+    "name": "Promised Worlds - Tuun System [PRO-KCMIRROR]",
+    "release_date": "2025-11-16T21:25:39Z",
+    "resources": {
+        "bugtracker": "https://github.com/PromisedWorlds/PromisedWorlds/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228751-112x-v103-promised-worlds-a-faithful-recreation-of-ksp-2s-solar-systems-in-ksp-1/",
+        "remote-avc": "https://raw.githubusercontent.com/PromisedWorlds/PromisedWorlds/refs/heads/main/GameData/PromisedWorlds/_Systems/Tuun/Version/PromisedWorldsTuun.version",
+        "repository": "https://github.com/PromisedWorlds/PromisedWorlds"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "v1.2.1",
+    "x_generated_by": "netkan"
+}
