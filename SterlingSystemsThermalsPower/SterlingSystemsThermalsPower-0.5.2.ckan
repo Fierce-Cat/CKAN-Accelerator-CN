@@ -1,0 +1,50 @@
+{
+    "abstract": "Main power sources that are firstly heat-focused, not electric. Raw nuclear thermal, solar thermal and beamed power are here [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "SterlingSystemsThermals"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.5.2/SterlingSystems_Thermals_0.5.3.zip?auth_key=1763730290-8c70ef5e48c6489889e4df51b6464ab0-0-56c962cc4903b6fb9e6b32976d3143fc&size=57378209&expireAt=1763730290",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4BBA74959D839317B6308A9B47D759AC61095CCE",
+        "sha256": "B78DBC26B43666DBA424DF55FDB9A96C2961D990E6B04AD06F157B88132B2143"
+    },
+    "download_size": 57378209,
+    "identifier": "SterlingSystemsThermalsPower",
+    "install": [
+        {
+            "find": "ThermalsPower",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 72501547,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Thermals - Power [PRO-KCMIRROR]",
+    "release_date": "2025-11-19T07:44:40Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.5.2",
+    "x_generated_by": "netkan"
+}

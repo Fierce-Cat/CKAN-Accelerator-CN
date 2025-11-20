@@ -1,0 +1,50 @@
+{
+    "abstract": "Engines that hold fissile material and are high thrust [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "SterlingSystemsEngines"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.5.2/SterlingSystems_Engines_0.5.3.zip?auth_key=1763730293-192a03a94f2d470fb59e21f71a496fc6-0-cda30a27a8a71d2a1916df1bd107748e&size=41979704&expireAt=1763730293",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "39A8D4FFB647A3BD45AB1DC91A06EBB97AC09655",
+        "sha256": "F5CB3241C5E136A339F7533CBA8F5AA8465A2F32E89EA3D68A4239F36AA43836"
+    },
+    "download_size": 41979704,
+    "identifier": "SterlingSystemsEnginesFission",
+    "install": [
+        {
+            "find": "EnginesFission",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 88284122,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Engines - Fission [PRO-KCMIRROR]",
+    "release_date": "2025-11-19T07:44:58Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.5.2",
+    "x_generated_by": "netkan"
+}
