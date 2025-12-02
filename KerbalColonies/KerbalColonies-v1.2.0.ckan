@@ -1,0 +1,66 @@
+{
+    "abstract": "Create colonies using KK statics",
+    "author": [
+        "AMPW",
+        "Halengar"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "v1.11.0.0",
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "CustomPreLaunchChecks"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "KerbalColoniesConfig"
+        },
+        {
+            "name": "BackgroundResourceProcessing"
+        }
+    ],
+    "download": [
+        "https://github.com/KerbalColonies/KerbalColoniesCore/releases/download/v1.2.0/KerbalColonies.zip",
+        "https://spacedock.info/mod/3896/Kerbal%20Colonies%20Core/download/v1.2.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "665577E385B6D45327DDEBAE84C1A13DEC7C62AC",
+        "sha256": "B43B952E99398F96324C8F72F0392637FAE94E19DBDDA79B8818FEC9CE155B1D"
+    },
+    "download_size": 505847,
+    "identifier": "KerbalColonies",
+    "install_size": 1270919,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8",
+    "license": "GPL-3.0",
+    "name": "Kerbal Colonies Core",
+    "release_date": "2025-12-01T19:42:28.485716+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/KerbalColonies/KerbalColoniesCore/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227961-kerbal-colonies-v100-112x/",
+        "remote-avc": "https://raw.githubusercontent.com/KerbalColonies/KerbalColoniesCore/refs/heads/master/GameData/KerbalColonies/KerbalColonies.version",
+        "repository": "https://github.com/KerbalColonies/KerbalColoniesCore",
+        "spacedock": "https://spacedock.info/mod/3896/Kerbal%20Colonies%20Core",
+        "x_screenshot": "https://spacedock.info/content/AMPW_135698/Kerbal_Colonies/Kerbal_Colonies-1748068431.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "KerbalColoniesConfigExpansion"
+        }
+    ],
+    "tags": [
+        "buildings",
+        "config",
+        "plugin"
+    ],
+    "version": "v1.2.0",
+    "x_generated_by": "netkan"
+}
