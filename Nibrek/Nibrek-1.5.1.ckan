@@ -5,6 +5,9 @@
     "conflicts": [
         {
             "name": "Scatterer-config"
+        },
+        {
+            "name": "Scatterer-sunflare"
         }
     ],
     "depends": [
@@ -46,7 +49,8 @@
     "license": "MIT",
     "name": "Nibrek",
     "provides": [
-        "Scatterer-config"
+        "Scatterer-config",
+        "Scatterer-sunflare"
     ],
     "release_date": "2025-07-07T18:04:09.124053+00:00",
     "resources": {
