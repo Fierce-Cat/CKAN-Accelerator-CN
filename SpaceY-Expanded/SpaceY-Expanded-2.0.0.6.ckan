@@ -1,0 +1,64 @@
+{
+    "abstract": "An optional expansion for SpaceY Heavy Lifters that adds 42 7.5m parts among other enhancements.",
+    "author": [
+        "NecroBones",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "SpaceY-Corp"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        }
+    ],
+    "download": "https://spacedock.info/mod/89/SpaceY%20Expanded%20(SYX)%20by%20NecroBones/download/2.0.0.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C9EFD258A87ECE43DD49C7C57B08D8D39CB6C0FB",
+        "sha256": "87C45938386190A959C257A2932572648B748F77EC4E4549C55B390A79C339FC"
+    },
+    "download_size": 14519238,
+    "identifier": "SpaceY-Expanded",
+    "install": [
+        {
+            "find": "SpaceY/SpaceYExpanded",
+            "install_to": "GameData/SpaceY"
+        }
+    ],
+    "install_size": 36414539,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "ru"
+    ],
+    "name": "SpaceY Expanded (SYX) by NecroBones",
+    "recommends": [
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        }
+    ],
+    "release_date": "2025-12-11T20:50:30.435387+00:00",
+    "resources": {
+        "homepage": "https://www.curseforge.com/kerbal/ksp-mods/SpaceYExpanded",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/SpaceYExpanded/master/SpaceYExpanded.version",
+        "repository": "https://zer0kerbal.github.io/SpaceYExpanded",
+        "spacedock": "https://spacedock.info/mod/89/SpaceY%20Expanded%20(SYX)%20by%20NecroBones",
+        "x_screenshot": "https://spacedock.info/content/NecroBones_209/SpaceY_Expanded_SYE_by_NecroBones/SpaceY_Expanded_SYE_by_NecroBones-1683856887.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "2.0.0.6",
+    "x_generated_by": "netkan"
+}
