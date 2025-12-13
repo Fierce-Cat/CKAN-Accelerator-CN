@@ -1,0 +1,67 @@
+{
+    "abstract": "Add life support, quality-of-life, radiation, malfunctions, signals and space weather mechanics. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Kerbalism Contributors",
+    "depends": [
+        {
+            "name": "Kerbalism-Config"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "Harmony2"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kerbalism/Kerbalism/releases/download/3.28/Kerbalism-Core_v3.28_for_KSP1.8.0-1.12.9.zip?auth_key=1765717571-08a42aba887e457ba12595fd6d6ae0d9-0-e4d4becdc6342bf47c2780dda26b344c&size=1788474&expireAt=1765717571",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8676EA0DCEF1DBB4F8FCD7A74401061332FCC955",
+        "sha256": "84C784C96BDB28E751ECEFD3F53BAC47E92418566B9820674B453B259CFF878C"
+    },
+    "download_size": 1788474,
+    "identifier": "Kerbalism",
+    "install": [
+        {
+            "find": "Kerbalism",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 4293236,
+    "ksp_version_max": "1.12.9",
+    "ksp_version_min": "1.8.0",
+    "license": "Unlicense",
+    "localizations": [
+        "de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "it-it",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Kerbalism [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "release_date": "2025-12-12T14:35:02Z",
+    "resources": {
+        "bugtracker": "https://github.com/Kerbalism/Kerbalism/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190382-*",
+        "manual": "https://kerbalism.github.io/Kerbalism",
+        "remote-avc": "https://raw.githubusercontent.com/Kerbalism/Kerbalism/master/GameData/Kerbalism/Kerbalism.version",
+        "repository": "https://github.com/Kerbalism/Kerbalism"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed",
+        "science",
+        "resources"
+    ],
+    "version": "3.28",
+    "x_generated_by": "netkan"
+}
