@@ -1,0 +1,181 @@
+{
+    "abstract": "The Martian for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "KerballOne",
+    "conflicts": [
+        {
+            "name": "HyperEdit"
+        },
+        {
+            "name": "VesselMover"
+        }
+    ],
+    "depends": [
+        {
+            "name": "BonVoyage"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "FreeIva"
+        },
+        {
+            "name": "HabTechProps"
+        },
+        {
+            "name": "KerbalJointReinforcementContinued"
+        },
+        {
+            "name": "InfernalRoboticsNext",
+            "version": "v3.1.10"
+        },
+        {
+            "name": "Kaboom"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "kOS-Career"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "ParkingBrake"
+        },
+        {
+            "name": "PhoenixIndustriesEVASuit"
+        },
+        {
+            "name": "PortraitStats"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "RationalResourcesKerbalismRF"
+        },
+        {
+            "name": "RationalResourcesParts"
+        },
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "TheMartianforKSP"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KerballOne/TheMartianKSP/releases/download/0.0.1/TheMartianKSP.zip?auth_key=1765804532-4b51364ac9d040f79b252d17d5e362a8-0-b0f5c1e05484abcd3ec84ec91d4b885c&size=44008581&expireAt=1765804532",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "A77731C6FA94ED6E582673F40A59703879D365FF9158B48AA90BC8CCAD1BB56F"
+    },
+    "download_size": 44008581,
+    "identifier": "TheMartian",
+    "install": [
+        {
+            "file": "GameData/zKB1_TheMartian",
+            "install_to": "GameData"
+        },
+        {
+            "file": "GameData/AresExploration",
+            "install_to": "GameData"
+        },
+        {
+            "file": "saves/scenarios/1_TheMartian.sfs",
+            "install_to": "Scenarios"
+        },
+        {
+            "file": "saves/scenarios/1_TheMartian",
+            "install_to": "Scenarios"
+        },
+        {
+            "file": "saves/scenarios/banners",
+            "install_to": "Scenarios"
+        },
+        {
+            "file": "Ships/Script",
+            "install_to": "Ships"
+        },
+        {
+            "file": "Ships/VAB/Resupply Probe.craft",
+            "install_to": "Ships/VAB"
+        }
+    ],
+    "install_size": 61989087,
+    "ksp_version_min": "1.10",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "The Martian KSP [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "TransferWindowPlannerFork"
+        },
+        {
+            "name": "WaypointManager"
+        }
+    ],
+    "release_date": "2025-11-23T17:26:20Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/KerballOne/TheMartianKSP/issues",
+        "repository": "https://github.com/KerballOne/TheMartianKSP"
+    },
+    "spec_version": "v1.36",
+    "suggests": [
+        {
+            "name": "ThroughTheEyesOfaKerbal"
+        }
+    ],
+    "tags": [
+        "parts",
+        "config",
+        "agency",
+        "resources",
+        "career",
+        "comms",
+        "crewed",
+        "first-person"
+    ],
+    "version": "0.0.1",
+    "x_generated_by": "netkan"
+}
