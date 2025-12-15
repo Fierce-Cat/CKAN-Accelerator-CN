@@ -1,0 +1,77 @@
+{
+    "abstract": "IVA portion of Starship Expansion Project [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Kari",
+        "Sofie",
+        "Janus92"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "min_version": "v.3.0.0-b2",
+            "name": "StarshipExpansionProject"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "Reviva"
+        },
+        {
+            "name": "FreeIva"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kari1407/Starship-Expansion-Project/releases/download/v3.0.0-b7/Starship-Expansion-Project-v3.0.0-b7.zip?auth_key=1765890776-0820be51c4044b43a0785d6c2a7a0d85-0-88b50a32f8aa1c47429ca68f205d49cf&size=450076345&expireAt=1765890776",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "2BB9B747593F125ECFC323EAE7D8CFC1A041C4CF234C9CC36DF9AFE6941C60EB"
+    },
+    "download_size": 450076345,
+    "identifier": "StarshipExpansionProjectIVA",
+    "install": [
+        {
+            "find": "Spaces",
+            "install_to": "GameData/StarshipExpansionProject"
+        },
+        {
+            "find": "Props",
+            "install_to": "GameData/StarshipExpansionProject"
+        }
+    ],
+    "install_size": 101489249,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.3",
+    "license": "restricted",
+    "name": "Starship Expansion Project IVA [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "JSIAdvancedTransparentPods"
+        }
+    ],
+    "release_date": "2025-12-15T00:16:43Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/Kari1407/Starship-Expansion-Project/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/206555-1101-112x-starship-expansion-project-sep-v100-january-23rd-2022/",
+        "repository": "https://github.com/Kari1407/Starship-Expansion-Project"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "parts",
+        "crewed",
+        "first-person"
+    ],
+    "version": "v.3.0.0-b7",
+    "x_generated_by": "netkan"
+}

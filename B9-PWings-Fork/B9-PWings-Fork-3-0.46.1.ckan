@@ -1,0 +1,82 @@
+{
+    "abstract": "Fork of Bac9's Procedural Wings mod for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Crzyrndm",
+        "jrodrigv",
+        "Rafterman82",
+        "CarnationRED",
+        "tetraflon",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "B9AerospaceProceduralParts"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/B9-Procedural-Wings/B9-PWings-Modified/releases/download/0.46.1/B9_Aerospace_ProceduralWings-1.12.5-0.46.1.zip?auth_key=1765890774-b9e64705870e479798a4bf56896d9896-0-a75d514c45e0f66cb8d63d6d79629e6e&size=2404125&expireAt=1765890774",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "00FE3E90732C1029EF5815FAC7221A04416812E2",
+        "sha256": "A6E5C36B2F4B4F097ED2186B607BA261C6DBC276809AD1478D8BC7C0F998E458"
+    },
+    "download_size": 2404125,
+    "identifier": "B9-PWings-Fork",
+    "install": [
+        {
+            "find": "B9_Aerospace_ProceduralWings",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Ships/SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 3851745,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.10.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "it-it",
+        "ja",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "B9 Aerospace Procedural Wings - Fork [PRO-KCMIRROR]",
+    "release_date": "2025-12-14T17:26:34Z",
+    "resources": {
+        "bugtracker": "https://github.com/B9-Procedural-Wings/B9-PWings-Modified/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/203629-*",
+        "remote-avc": "https://raw.githubusercontent.com/B9-Procedural-Wings/B9-PWings-Modified/refs/heads/master/B9_Aerospace_ProceduralWings.version",
+        "repository": "https://github.com/B9-Procedural-Wings/B9-PWings-Modified"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "3:0.46.1",
+    "x_generated_by": "netkan",
+    "x_licence_assets": "CC-BY-NC-SA-4.0",
+    "x_licence_code": "MIT"
+}
