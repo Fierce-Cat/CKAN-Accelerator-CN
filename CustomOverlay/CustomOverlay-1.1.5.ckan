@@ -1,0 +1,46 @@
+{
+    "abstract": "This mod lets you create your own fully functional custom UIs",
+    "author": "AMPW",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": [
+        "https://github.com/AMPW-german/CustomOverlay/releases/download/v1.1.5/CustomOverlay.zip",
+        "https://spacedock.info/mod/3847/Custom%20Overlay/download/1.1.5"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D9B91EA432E4FEB1222C007764A884C53F2BA4EE",
+        "sha256": "5565391C4159D3A2BD6721F660DD20653D236CA0E517980C65DA45821BBE8698"
+    },
+    "download_size": 53535,
+    "identifier": "CustomOverlay",
+    "install": [
+        {
+            "filter_regexp": "\\.pdb$",
+            "find": "CustomOverlay",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 78457,
+    "ksp_version": "1.12.5",
+    "license": "GPL-3.0",
+    "name": "Custom Overlay",
+    "release_date": "2025-12-19T18:46:23.313672+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/AMPW-german/CustomOverlay/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227437-custom-overlay/",
+        "repository": "https://github.com/AMPW-german/CustomOverlay",
+        "spacedock": "https://spacedock.info/mod/3847/Custom%20Overlay",
+        "x_screenshot": "https://spacedock.info/content/AMPW_135698/Custom_Overlay/Custom_Overlay-1742846738.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "1.1.5",
+    "x_generated_by": "netkan"
+}
