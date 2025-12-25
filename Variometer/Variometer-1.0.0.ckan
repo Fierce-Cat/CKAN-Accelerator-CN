@@ -1,0 +1,50 @@
+{
+    "abstract": "Adds a total energy variometer sensor with audio feedback to KSP and FAR",
+    "author": "Snorpadorp",
+    "depends": [
+        {
+            "name": "FAR"
+        },
+        {
+            "name": "WindAPI"
+        }
+    ],
+    "download": [
+        "https://github.com/Zondulus/Variometer/releases/download/1.0.0/Variometer.zip",
+        "https://spacedock.info/mod/4086/Variometer/download/1.0.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "930B1FEBEE5519136BCC70586E620B86413CB348",
+        "sha256": "409FFC206FCFFFD8884C8B809A1B3D02A08EC5099B850439CC7E0CC4A6B9ADCA"
+    },
+    "download_size": 84852,
+    "identifier": "Variometer",
+    "install_size": 109756,
+    "ksp_version": "1.12.5",
+    "license": "CC0",
+    "name": "Variometer",
+    "recommends": [
+        {
+            "name": "KerbalSoaring"
+        },
+        {
+            "name": "RidgeLift"
+        }
+    ],
+    "release_date": "2025-12-21T19:01:59.78018+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Zondulus/Variometer/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/229407-1125-variometer-adds-variometer-sound-effects-for-ridge-lift-thermal-updrafts/",
+        "repository": "https://github.com/Zondulus/Variometer",
+        "spacedock": "https://spacedock.info/mod/4086/Variometer",
+        "x_screenshot": "https://spacedock.info/content/Snorpadorp_179275/Variometer/Variometer-1766621595.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

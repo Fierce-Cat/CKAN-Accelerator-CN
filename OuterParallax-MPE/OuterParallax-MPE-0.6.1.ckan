@@ -1,0 +1,64 @@
+{
+    "abstract": "Adds Parallax Continued configs for MPE with custom assets.",
+    "author": "jthero3",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "OuterParallax"
+        },
+        {
+            "name": "MinorPlanetsExpansion"
+        }
+    ],
+    "download": [
+        "https://github.com/jthero3/OuterParallaxContinued/releases/download/0.6.1/OuterParallax-MPE_0.6.1.zip",
+        "https://spacedock.info/mod/3834/OuterParallax-MPE/download/0.6.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FB02BFFB48574E7F402CEA52B94D28DA1F760D97",
+        "sha256": "FE6852399A95244949D150BDF2E9B22443FEAFB3CC8714671CDADADE07F050F2"
+    },
+    "download_size": 503810333,
+    "identifier": "OuterParallax-MPE",
+    "install": [
+        {
+            "find": "MPE",
+            "install_to": "GameData/OuterParallax"
+        }
+    ],
+    "install_size": 621107090,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "OuterParallax-MPE",
+    "release_date": "2025-12-22T03:27:01.308508+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/jthero3/OuterParallaxContinued/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/226905-1125-aetherium-021-16-feb-2025-random-assortment-of-parallax-continued-configs/",
+        "repository": "https://github.com/jthero3/OuterParallaxContinued",
+        "spacedock": "https://spacedock.info/mod/3834/OuterParallax-MPE",
+        "x_screenshot": "https://spacedock.info/content/jthero3_151376/OuterParallax-MPE/OuterParallax-MPE-1740978724.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "Deferred"
+        }
+    ],
+    "supports": [
+        {
+            "name": "MinorPlanetsExpansion"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "0.6.1",
+    "x_generated_by": "netkan"
+}

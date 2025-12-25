@@ -1,0 +1,59 @@
+{
+    "abstract": "Adds ridge lift, mountain wave, and general terrain/wind interaction to KSP and FAR",
+    "author": "Snorpadorp",
+    "depends": [
+        {
+            "name": "FAR"
+        },
+        {
+            "name": "WindAPI"
+        },
+        {
+            "name": "FARWind"
+        }
+    ],
+    "download": [
+        "https://github.com/Zondulus/RidgeLift/releases/download/1.0.0/RidgeLift.zip",
+        "https://spacedock.info/mod/4085/RidgeLift/download/1.0.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "618DC23093F138FFAF652096DADF2E5B9446D4AF",
+        "sha256": "C804889AEB06C806F86EA629374BD2282CD88E501D517EAC1F4640165F1E5000"
+    },
+    "download_size": 8569,
+    "identifier": "RidgeLift",
+    "install_size": 17674,
+    "ksp_version": "1.12.5",
+    "license": "CC0",
+    "name": "RidgeLift",
+    "recommends": [
+        {
+            "name": "Variometer"
+        },
+        {
+            "name": "KerbalSoaring"
+        },
+        {
+            "name": "FARGE"
+        },
+        {
+            "name": "KerbalWind"
+        }
+    ],
+    "release_date": "2025-12-21T19:00:14.052201+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Zondulus/RidgeLift/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/229410-1125-ridgelift-adds-ridge-lift-mountain-waves-and-general-windterrain-interaction/",
+        "repository": "https://github.com/Zondulus/RidgeLift",
+        "spacedock": "https://spacedock.info/mod/4085/RidgeLift",
+        "x_screenshot": "https://spacedock.info/content/Snorpadorp_179275/RidgeLift/RidgeLift-1766621495.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}
