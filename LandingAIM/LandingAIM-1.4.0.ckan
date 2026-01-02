@@ -1,0 +1,48 @@
+{
+    "abstract": "This - to display trajectory predictions. This mod is designed to help with a more accurate landing. If activated in the flight scene, it will draw the trajectory and predict the point of contact.",
+    "author": [
+        "DennyTX",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1365/Landing%20AIM/download/1.4.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1DD759A16794FD8DD39FF1046A362F813E40A4BA",
+        "sha256": "6316FB7C7F2384ADFA57C747041B3EA0B09B71D9EE9CE9A2EB31A397439A422C"
+    },
+    "download_size": 23451,
+    "identifier": "LandingAIM",
+    "install": [
+        {
+            "filter_regexp": [
+                ".*\\.pdb$"
+            ],
+            "find": "LandingAim",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 53131,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-SA",
+    "name": "Landing AIM",
+    "release_date": "2026-01-01T23:47:12.918754+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/DennyTX/Landing-Aim/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160494-122landing-aiming/",
+        "repository": "https://github.com/DennyTX/Landing-Aim",
+        "spacedock": "https://spacedock.info/mod/1365/Landing%20AIM",
+        "x_screenshot": "https://spacedock.info/content/DennyTX_1511/Landing_AIM/Landing_AIM-1494497641.0420814.png"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "1.4.0",
+    "x_generated_by": "netkan"
+}

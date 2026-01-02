@@ -1,0 +1,46 @@
+{
+    "abstract": "Collection of Textures Unlimited recolours for BD Armory [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Spartwo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KerbalPowers/TURD-BDArmory/releases/download/v1.9.2/TU_BD_Recolour.zip?auth_key=1767445961-f7c83d78ab5a42a88c58b1b1745c931b-0-1a41e01bdc5a17084e56ca4a0117bf74&size=12673131&expireAt=1767445961",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "514306C940973CFAF14FA144571C163150708D71",
+        "sha256": "632C2D1504034478205D0F31EBE2E65148DF5E4AA88758AE3FA0BAA42B42078C"
+    },
+    "download_size": 12673131,
+    "identifier": "TURD-BDArmory",
+    "install": [
+        {
+            "find": "TU_BD_Recolour",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 70930403,
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "TURD - BD Armory [PRO-KCMIRROR]",
+    "release_date": "2026-01-01T17:22:31Z",
+    "resources": {
+        "discussions": "https://github.com/KerbalPowers/TURD-BDArmory/discussions",
+        "repository": "https://github.com/KerbalPowers/TURD-BDArmory"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "BDArmory"
+        }
+    ],
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "v1.9.2",
+    "x_generated_by": "netkan"
+}
