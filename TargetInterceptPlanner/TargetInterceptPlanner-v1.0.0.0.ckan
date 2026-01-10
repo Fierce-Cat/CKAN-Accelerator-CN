@@ -1,0 +1,59 @@
+{
+    "abstract": "A rendezvous/intercept planner for KSP.",
+    "author": [
+        "Clayel",
+        "RCrockford"
+    ],
+    "comment": "Indexed by author. Please report any problems at the repository bugtracker.",
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "description": "Provides a GUI for planning a transfer to a satellite (natural, artificial, or a specified orbit) while on the surface of a celestial body. (planet, moon, gas giant, star, black hole, etc.)",
+    "download": [
+        "https://github.com/Clayell/TargetInterceptPlanner/releases/download/v1.0.0.0/TargetInterceptPlanner-1.0.0.0.zip",
+        "https://spacedock.info/mod/4101/Target%20Intercept%20Planner%20(TIP)/download/v1.0.0.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D9584E04A31BE9133A4C05B1B638EDE55639E85A",
+        "sha256": "B5A2FD715907D6EFB27F97B17D9F88CEFD0601AA83E6752CC9815DE71B26B6E1"
+    },
+    "download_size": 58608,
+    "identifier": "TargetInterceptPlanner",
+    "install_size": 145710,
+    "ksp_version_max": "1.12.9",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "Target Intercept Planner (TIP)",
+    "recommends": [
+        {
+            "name": "KerbalAlarmClock"
+        }
+    ],
+    "release_date": "2026-01-09T03:45:30.294533+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Clayell/TargetInterceptPlanner/issues",
+        "discussions": "https://github.com/Clayell/TargetInterceptPlanner/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/229514-1000-target-intercept-planner-tip/",
+        "manual": "https://github.com/Clayell/TargetInterceptPlanner/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/Clayell/TargetInterceptPlanner/master/GameData/TargetInterceptPlanner/TargetInterceptPlanner.version",
+        "repository": "https://github.com/Clayell/TargetInterceptPlanner",
+        "spacedock": "https://spacedock.info/mod/4101/Target%20Intercept%20Planner%20(TIP)",
+        "x_screenshot": "https://spacedock.info/content/Clayel_166925/Target_Intercept_Planner/Target_Intercept_Planner-1767675835.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "v1.0.0.0",
+    "x_generated_by": "netkan"
+}
