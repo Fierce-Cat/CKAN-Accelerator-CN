@@ -1,6 +1,9 @@
 {
     "abstract": "A pack of stock-alike parts that fill in some gaps in the stock lineup. LITE version only has the more interesting and unique parts!",
-    "author": "NecroBones",
+    "author": [
+        "NecroBones",
+        "linuxgurugamer"
+    ],
     "conflicts": [
         {
             "name": "ModularRocketSystem"
@@ -25,17 +28,20 @@
             "install_to": "GameData"
         }
     ],
+    "install_size": 13707692,
     "ksp_version_max": "1.9.1",
     "ksp_version_min": "1.2.0",
     "license": "CC-BY-NC-SA-4.0",
     "name": "Modular Rocket Systems LITE",
     "release_date": "2018-03-12T14:54:11.510366+00:00",
     "resources": {
-        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/83959-ModularRocketSystems",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/83959-12-14-modular-rocket-systems-v1132-2018-03-12-stock-alike-parts-pack/",
+        "remote-avc": "http://ksp.necrobones.com/files/ModRocketSys/ModularRocketSystemsLite.version",
+        "repository": "https://github.com/linuxgurugamer/ModularRocketSystems",
         "spacedock": "https://spacedock.info/mod/87/Modular%20Rocket%20Systems%20LITE",
         "x_screenshot": "https://spacedock.info/content/NecroBones_209/Modular_Rocket_Systems_LITE/Modular_Rocket_Systems_LITE-1455717483.2597597.jpg"
     },
-    "spec_version": "v1.4",
+    "spec_version": "v1.2",
     "supports": [
         {
             "name": "SpaceY-Lifters"
