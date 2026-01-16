@@ -9,7 +9,10 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://spacedock.info/mod/1365/Landing%20AIM/download/1.4.0",
+    "download": [
+        "https://github.com/linuxgurugamer/Landing-Aim/releases/download/1.4.0/LandingAim-1.12.5-1.4.0.zip",
+        "https://spacedock.info/mod/1365/Landing%20AIM/download/1.4.0"
+    ],
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "1DD759A16794FD8DD39FF1046A362F813E40A4BA",
@@ -19,27 +22,25 @@
     "identifier": "LandingAIM",
     "install": [
         {
-            "filter_regexp": [
-                ".*\\.pdb$"
-            ],
+            "filter_regexp": ".*\\.pdb$",
             "find": "LandingAim",
             "install_to": "GameData"
         }
     ],
     "install_size": 53131,
-    "ksp_version": "1.12.5",
-    "license": "CC-BY-SA",
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA",
     "name": "Landing AIM",
     "release_date": "2026-01-01T23:47:12.918754+00:00",
     "resources": {
-        "bugtracker": "https://github.com/DennyTX/Landing-Aim/issues",
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/160494-122landing-aiming/",
-        "manual": "https://github.com/DennyTX/Landing-Aim/wiki",
-        "repository": "https://github.com/DennyTX/Landing-Aim",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/Landing-Aim/refs/heads/master/LandingAim.version",
+        "repository": "https://github.com/linuxgurugamer/Landing-Aim",
         "spacedock": "https://spacedock.info/mod/1365/Landing%20AIM",
         "x_screenshot": "https://spacedock.info/content/DennyTX_1511/Landing_AIM/Landing_AIM-1494497641.0420814.png"
     },
-    "spec_version": "v1.10",
+    "spec_version": "v1.34",
     "tags": [
         "plugin",
         "information"
