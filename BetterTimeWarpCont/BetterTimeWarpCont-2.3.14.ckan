@@ -1,0 +1,51 @@
+{
+    "abstract": "Improved time warping",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/BetterTimeWarpContinued/releases/download/2.3.14/BetterTimeWarp-1.12.5-2.3.14.zip",
+        "https://spacedock.info/mod/1162/BetterTimeWarpContinued/download/2.3.14"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5553418CBB51040A5C9A5ED4A6339615C2527650",
+        "sha256": "F8A1E10CAAE8FBACF242499151E8BD35BEA9229102E922938A6C165F12C920AD"
+    },
+    "download_size": 31531,
+    "identifier": "BetterTimeWarpCont",
+    "install": [
+        {
+            "find": "BetterTimeWarp",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 57599,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "BetterTimeWarpContinued",
+    "release_date": "2026-01-18T03:37:59.89653+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/BetterTimeWarpContinued/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/154935-*",
+        "manual": "https://github.com/linuxgurugamer/BetterTimeWarpContinued/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/BetterTimeWarpContinued/refs/heads/master/BetterTimeWarp.version",
+        "repository": "https://github.com/linuxgurugamer/BetterTimeWarpContinued",
+        "spacedock": "https://spacedock.info/mod/1162/BetterTimeWarpContinued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/BetterTimeWarpContinued/BetterTimeWarpContinued-1624747684.0638006.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "2.3.14",
+    "x_generated_by": "netkan"
+}
