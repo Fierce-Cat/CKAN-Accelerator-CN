@@ -1,0 +1,63 @@
+{
+    "abstract": "Add decals to any surface",
+    "author": "drewcassidy",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Shabby"
+        }
+    ],
+    "download": [
+        "https://git.offworldcolonies.nexus/drewcassidy/KSP-Conformal-Decals/releases/download/0.4.1/ConformalDecals-0.4.1.zip",
+        "https://spacedock.info/mod/2451/Conformal%20Decals/download/0.4.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EF0B2B8329DE2E9CC6CF9600A1C684F83A7D6048",
+        "sha256": "1588D1BEDAD596830C3DE1A764A6F455E91C51204E0F0B1F9B7062D545D1B687"
+    },
+    "download_size": 20245101,
+    "identifier": "ConformalDecals",
+    "install": [
+        {
+            "find": "GameData/ConformalDecals",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 25258919,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12",
+    "license": "Apache-2.0",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "Conformal Decals",
+    "release_date": "2026-01-22T02:11:34.368686+00:00",
+    "resources": {
+        "bugtracker": "https://git.offworldcolonies.nexus/drewcassidy/KSP-Conformal-Decals/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194802-*",
+        "manual": "https://git.offworldcolonies.nexus/drewcassidy/KSP-Conformal-Decals/wiki",
+        "remote-avc": "https://git.offworldcolonies.nexus/drewcassidy/KSP-Conformal-Decals/releases/download/latest/ConformalDecals.version",
+        "repository": "https://git.offworldcolonies.nexus/drewcassidy/KSP-Conformal-Decals",
+        "spacedock": "https://spacedock.info/mod/2451/Conformal%20Decals",
+        "x_screenshot": "https://spacedock.info/content/drewcassidy_10616/Conformal_Decals/Conformal_Decals-1603613809.4420319.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "WildBlueTools"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "0.4.1",
+    "x_generated_by": "netkan"
+}
