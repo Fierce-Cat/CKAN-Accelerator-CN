@@ -1,0 +1,46 @@
+{
+    "abstract": "A KSP 1 planet pack that aims to revive the unimplemented star systems from KSP 2. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Promised Worlds Dev Team",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "PromisedWorldsCore"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/PromisedWorlds/PromisedWorlds/releases/download/v2.0.1/PromisedWorlds-v2.0.1-Tuun.zip?auth_key=1769433641-2eae2106fe4d4ea9b77365ace6e5d234-0-59d54dbb12591e15d0320e9043d8341e&size=476187397&expireAt=1769433641",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B6194760D9AB256080C802400D738F678019EAED",
+        "sha256": "69A34A403851CC84F553A521959D227A62E3FB7031B55EA0BCB2FB447360FAD0"
+    },
+    "download_size": 476187397,
+    "identifier": "PromisedWorldsTuun",
+    "install": [
+        {
+            "find": "PromisedWorlds",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1186219491,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA",
+    "name": "Promised Worlds - Tuun System [PRO-KCMIRROR]",
+    "release_date": "2026-01-24T04:01:42Z",
+    "resources": {
+        "bugtracker": "https://github.com/PromisedWorlds/PromisedWorlds/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228751-112x-v103-promised-worlds-a-faithful-recreation-of-ksp-2s-solar-systems-in-ksp-1/",
+        "manual": "https://github.com/PromisedWorlds/PromisedWorlds/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/PromisedWorlds/PromisedWorlds/refs/heads/main/GameData/PromisedWorlds/_Systems/Tuun/Version/PromisedWorldsTuun.version",
+        "repository": "https://github.com/PromisedWorlds/PromisedWorlds"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "v2.0.1",
+    "x_generated_by": "netkan"
+}
