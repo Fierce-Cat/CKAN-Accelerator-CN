@@ -12,13 +12,16 @@
             "name": "Shabby"
         }
     ],
-    "download": "https://spacedock.info/mod/2451/Conformal%20Decals/download/0.2.13",
+    "download": [
+        "https://git.offworldcolonies.nexus/drewcassidy/KSP-Conformal-Decals/releases/download/0.2.13/ConformalDecals-0.2.13.zip",
+        "https://spacedock.info/mod/2451/Conformal%20Decals/download/0.2.13"
+    ],
     "download_content_type": "application/zip",
     "download_hash": {
-        "sha1": "EE021CA58AFA734473700741B4B86D6016E262AA",
-        "sha256": "E8697DECFCC1EFBA0B2243EACA0D2E3605D2AA6149E25D1C4B301EF357468781"
+        "sha1": "9DEDBB86A5F426B49D786D475414A3B6721D130F",
+        "sha256": "4E698B4B5A8C46D39D0CD0FDC08CE51A0CB5DF678B2298444D214FD66082D1E0"
     },
-    "download_size": 2844725,
+    "download_size": 5385701,
     "identifier": "ConformalDecals",
     "install": [
         {
@@ -26,7 +29,7 @@
             "install_to": "GameData"
         }
     ],
-    "install_size": 3628454,
+    "install_size": 6451138,
     "ksp_version_max": "1.12.5",
     "ksp_version_min": "1.8",
     "license": "GPL-3.0",
@@ -36,15 +39,15 @@
     "name": "Conformal Decals",
     "release_date": "2024-05-18T03:55:05.18677+00:00",
     "resources": {
-        "bugtracker": "https://github.com/drewcassidy/KSP-Conformal-Decals/issues",
+        "bugtracker": "https://git.offworldcolonies.nexus/drewcassidy/KSP-Conformal-Decals/issues",
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/194802-*",
-        "manual": "https://github.com/drewcassidy/KSP-Conformal-Decals/wiki",
+        "manual": "https://git.offworldcolonies.nexus/drewcassidy/KSP-Conformal-Decals/wiki",
         "remote-avc": "https://github.com/drewcassidy/KSP-Conformal-Decals/releases/latest/download/ConformalDecals.version",
-        "repository": "https://github.com/drewcassidy/KSP-Conformal-Decals",
+        "repository": "https://git.offworldcolonies.nexus/drewcassidy/KSP-Conformal-Decals",
         "spacedock": "https://spacedock.info/mod/2451/Conformal%20Decals",
         "x_screenshot": "https://spacedock.info/content/drewcassidy_10616/Conformal_Decals/Conformal_Decals-1603613809.4420319.png"
     },
-    "spec_version": "v1.4",
+    "spec_version": "v1.34",
     "suggests": [
         {
             "name": "WildBlueTools"
