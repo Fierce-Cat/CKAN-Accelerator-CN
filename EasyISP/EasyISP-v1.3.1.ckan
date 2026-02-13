@@ -1,0 +1,41 @@
+{
+    "abstract": "Increase the specific impulse (ISP) of all engines",
+    "author": "EasyISP",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/Tempus-superest/EasyISP/releases/download/v1.3.1/EasyISP-v1.3.1.zip",
+        "https://spacedock.info/mod/4132/EasyISP/download/v1.3.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F46B53D9DAB7819053354529CC365169C1BB54FB",
+        "sha256": "A192C6BEC5DF1D30C5659C7D144AD1814C440FDBC18137494B28E1B5EA513425"
+    },
+    "download_size": 4084,
+    "identifier": "EasyISP",
+    "install_size": 6662,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "Unlicense",
+    "name": "EasyISP",
+    "release_date": "2026-02-12T06:41:25.57965+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Tempus-superest/EasyISP/issues",
+        "homepage": "https://github.com/Tempus-superest/EasyISP",
+        "remote-avc": "https://raw.githubusercontent.com/Tempus-superest/EasyISP/main/EasyISP.version",
+        "repository": "https://github.com/Tempus-superest/EasyISP",
+        "spacedock": "https://spacedock.info/mod/4132/EasyISP"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "physics",
+        "convenience",
+        "resources"
+    ],
+    "version": "v1.3.1",
+    "x_generated_by": "netkan"
+}

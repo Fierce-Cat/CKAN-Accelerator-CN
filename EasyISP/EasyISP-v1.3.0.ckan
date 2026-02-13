@@ -1,38 +1,36 @@
 {
     "abstract": "Increase the specific impulse (ISP) of all engines",
-    "author": "Tempus-superest",
+    "author": "EasyISP",
     "depends": [
         {
             "name": "ModuleManager"
         }
     ],
-    "download": "https://api.github.com/repos/Tempus-superest/EasyISP/zipball/v1.3.0",
-    "download_content_type": "application/vnd.github+json",
-    "download_hash": {
-        "sha1": "897CC09B069780EABF9B701BF35F4D3F51044F94",
-        "sha256": "FAF41C5FE024049A83456CF3C498D828B23CBE53B517870C2F8FDE7D8463180F"
-    },
-    "download_size": 3960,
-    "identifier": "EasyISP",
-    "install": [
-        {
-            "as": "EasyISP",
-            "find_regexp": ".*EasyISP.*",
-            "install_to": "GameData"
-        }
+    "download": [
+        "https://github.com/Tempus-superest/EasyISP/releases/download/v1.3.0/EasyISP-v1.3.0.zip",
+        "https://spacedock.info/mod/4132/EasyISP/download/v1.3.0"
     ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F8B91815C493E1281C1FFA5F6036AA6397E1B7D9",
+        "sha256": "7E200A14AEF23CB50FC7461ECCFC8826185555236B2A63AAF067C068C6505559"
+    },
+    "download_size": 4086,
+    "identifier": "EasyISP",
     "install_size": 6661,
     "ksp_version_max": "1.12.5",
-    "ksp_version_min": "1.0.1",
+    "ksp_version_min": "1.12.0",
     "license": "Unlicense",
-    "name": "Easy ISP",
-    "release_date": "2026-02-11T04:13:28Z",
+    "name": "EasyISP",
+    "release_date": "2026-02-11T04:13:38.344507+00:00",
     "resources": {
         "bugtracker": "https://github.com/Tempus-superest/EasyISP/issues",
+        "homepage": "https://github.com/Tempus-superest/EasyISP",
         "remote-avc": "https://raw.githubusercontent.com/Tempus-superest/EasyISP/main/EasyISP.version",
-        "repository": "https://github.com/Tempus-superest/EasyISP"
+        "repository": "https://github.com/Tempus-superest/EasyISP",
+        "spacedock": "https://spacedock.info/mod/4132/EasyISP"
     },
-    "spec_version": "v1.18",
+    "spec_version": "v1.34",
     "tags": [
         "physics",
         "convenience",
