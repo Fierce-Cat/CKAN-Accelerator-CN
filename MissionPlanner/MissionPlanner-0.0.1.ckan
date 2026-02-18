@@ -1,0 +1,55 @@
+{
+    "abstract": "A mod to help planning complex missions",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/MissionPlanner/releases/download/0.0.1/MissionPlanner-1.12.5-0.0.1.zip",
+        "https://spacedock.info/mod/4150/Mission%20Planner/download/0.0.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "707E84DA7399430CCB8749A71995901DD66D650C",
+        "sha256": "DEBAFBCA2CC0F706B47FE3CA2A0A63A5BC0494BE2AB46457194F3CCD9E77C0F9"
+    },
+    "download_size": 1965336,
+    "identifier": "MissionPlanner",
+    "install": [
+        {
+            "filter_regexp": "\\.pdb$",
+            "find": "MissionPlanner",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2141405,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA",
+    "name": "Mission Planner",
+    "release_date": "2026-02-17T15:45:27.838266+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/MissionPlanner/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/229667-112x-*",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/MissionPlanner/refs/heads/main/MissionPlanner.version",
+        "repository": "https://github.com/linuxgurugamer/MissionPlanner",
+        "spacedock": "https://spacedock.info/mod/4150/Mission%20Planner",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Mission_Planner/Mission_Planner-1771343303.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "plugin"
+    ],
+    "version": "0.0.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
