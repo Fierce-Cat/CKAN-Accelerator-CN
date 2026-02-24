@@ -1,0 +1,44 @@
+{
+    "abstract": "Now you can monocouple your bicouplers or build circular stations without spamming struts to close the end!",
+    "author": "Booots",
+    "download": [
+        "https://github.com/DBooots/ReCoupler/releases/download/v1.4.0/ReCoupler_1.4.0.zip",
+        "https://spacedock.info/mod/1250/ReCoupler/download/1.4.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "94DA6C0AD6DAA0EF83809053589CDECE0555F5D1",
+        "sha256": "88062D3E2BF3B5F831B03FEC6E8F0EAC10230C548978D14CAD495165C81062E3"
+    },
+    "download_size": 40144,
+    "identifier": "ReCoupler",
+    "install": [
+        {
+            "filter": "Thumbs.db",
+            "find": "ReCoupler",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 82593,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "ReCoupler",
+    "release_date": "2026-02-23T18:32:17.598697+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/DBooots/ReCoupler/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/158136-122-recoupler-release-thread-monocouple-your-bicouplers-v100/",
+        "repository": "https://github.com/DBooots/ReCoupler",
+        "spacedock": "https://spacedock.info/mod/1250/ReCoupler",
+        "x_screenshot": "https://spacedock.info/content/Booots_6292/ReCoupler/ReCoupler-1488856997.1542835.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "1:1.4.0",
+    "x_generated_by": "netkan"
+}
