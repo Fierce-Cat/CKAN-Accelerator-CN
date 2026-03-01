@@ -1,0 +1,41 @@
+{
+    "abstract": "ConnectionSystem for robotic arms [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Rudolf Meier",
+    "depends": [
+        {
+            "name": "DockingFunctions"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/meirumeiru/IR-ConnectionSystem/releases/download/v1.0.6/IR-ConnectionSystem_v1.0.6.zip?auth_key=1772459185-fdfb0acd5f53479aaa7b0ca2bc2fa533-0-cb91c09d5bf284071cbd3b5ffa67c7a0&size=77044&expireAt=1772459185",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3B18A0514244C23A6551908BB5ED7AF2BB8EE21D",
+        "sha256": "664FF25D9DB8C74AB58F79B144E7B0FEA6AD7BD2D76376AF0768DA92C8199830"
+    },
+    "download_size": 77044,
+    "identifier": "IR-ConnectionSystem",
+    "install": [
+        {
+            "file": "GameData/IRConnectionSystem",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 830763,
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "Infernal Robotics Next - ConnectionSystem [PRO-KCMIRROR]",
+    "release_date": "2026-02-22T14:32:19Z",
+    "resources": {
+        "bugtracker": "https://github.com/meirumeiru/IR-ConnectionSystem/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219592-*",
+        "remote-avc": "https://github.com/meirumeiru/IR-ConnectionSystem/raw/main/Resources/GameData/IRConnectionSystem/ConnectionSystem.version",
+        "repository": "https://github.com/meirumeiru/IR-ConnectionSystem"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "v1.0.6",
+    "x_generated_by": "netkan"
+}
