@@ -1,0 +1,55 @@
+{
+    "abstract": "Adds the possibility go to the last game saved after the loading of KSP.",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/QuickMods/releases/download/1.4.0.19/QuickStart-2.2.1.5.zip",
+        "https://spacedock.info/mod/110/QuickStart/download/2.2.1.5"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8A4572DB8928E5806F874EBA20DCF2BC7480FC6C",
+        "sha256": "3CB2B66EA8374E747487F4019C12E1963C64916EA83712AAAC51F2AE82C7686D"
+    },
+    "download_size": 43712,
+    "identifier": "QuickStart",
+    "install": [
+        {
+            "file": "GameData/QuickMods/QuickStart",
+            "install_to": "GameData/QuickMods"
+        }
+    ],
+    "install_size": 99693,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "fr-fr",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "QuickStart",
+    "release_date": "2026-03-08T13:29:39.499035+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/QuickMods/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
+        "remote-avc": "https://raw.githubusercontent.com:443/linuxgurugamer/QuickMods/master/QuickStart/QuickStart.version",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/110/QuickStart"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:2.2.1.5",
+    "x_generated_by": "netkan"
+}

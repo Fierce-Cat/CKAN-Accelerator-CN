@@ -1,0 +1,68 @@
+{
+    "abstract": "Adds the possibility to keep/pay the revert function.",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "SRL"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/QuickMods/releases/download/1.4.0.19/QuickRevert-3.2.0.11.zip",
+        "https://spacedock.info/mod/109/QuickRevert/download/3.2.0.11"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A23FD03ADC25FEF9D16E53EF54EFE525E148E440",
+        "sha256": "DD7AB030C5AA848A4911C1E2501FA96B58672FFC1A71DA15FD6E4A9903BAE319"
+    },
+    "download_size": 37473,
+    "identifier": "QuickRevert",
+    "install": [
+        {
+            "file": "GameData/QuickMods/QuickRevert",
+            "install_to": "GameData/QuickMods"
+        }
+    ],
+    "install_size": 82492,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "fr-fr",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "QuickRevert",
+    "release_date": "2026-03-08T13:28:13.378371+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/QuickMods/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/QuickMods/refs/heads/master/QuickRevert/QuickRevert.version",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/109/QuickRevert"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:3.2.0.11",
+    "x_generated_by": "netkan"
+}

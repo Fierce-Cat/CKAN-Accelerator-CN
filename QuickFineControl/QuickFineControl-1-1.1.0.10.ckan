@@ -1,0 +1,44 @@
+{
+    "abstract": "Toggle the precision control at the load of a vessel.",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/QuickMods/releases/download/1.4.0.19/QuickFineControl-1.1.0.10.zip",
+        "https://spacedock.info/mod/784/QuickFineControl/download/1.1.0.10"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "52EE85F15D7F89915BFF628686B0B0314CF826EF",
+        "sha256": "73BEFAC9429A37A6D9A323383E2BBA1F9BEDF59716653F14634B49AA9B16D151"
+    },
+    "download_size": 22693,
+    "identifier": "QuickFineControl",
+    "install": [
+        {
+            "file": "GameData/QuickMods/QuickFineControl",
+            "install_to": "GameData/QuickMods"
+        }
+    ],
+    "install_size": 53194,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "QuickFineControl",
+    "release_date": "2026-03-08T13:25:25.661248+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/QuickMods/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/QuickMods/refs/heads/master/QuickFineControl/QuickFineControl.version",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/784/QuickFineControl"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1:1.1.0.10",
+    "x_generated_by": "netkan"
+}

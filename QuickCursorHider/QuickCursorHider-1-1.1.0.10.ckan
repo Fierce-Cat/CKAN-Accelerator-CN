@@ -1,0 +1,43 @@
+{
+    "abstract": "Hide the cursor when you push on F2 in flight",
+    "author": [
+        "malah",
+        "linuxgurugamer"
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/QuickMods/releases/download/1.4.0.19/QuickCursorHider-1.1.0.10.zip",
+        "https://spacedock.info/mod/783/QuickCursorHider/download/1.1.0.10"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9BC76CE90B1C9E1015B1B9CDE7648E6D0D19D7DD",
+        "sha256": "843691AFB62EA04652E24DB9B17CC75D6B1A396FA253130BB1853010A0652304"
+    },
+    "download_size": 22695,
+    "identifier": "QuickCursorHider",
+    "install": [
+        {
+            "file": "GameData/QuickMods/QuickCursorHider",
+            "install_to": "GameData/QuickMods"
+        }
+    ],
+    "install_size": 53154,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "QuickCursorHider",
+    "release_date": "2026-03-08T13:24:28.149716+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/QuickMods/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/174445-151-malahs-quick-mods/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/QuickMods/refs/heads/master/QuickCursorHider/QuickCursorHider.version",
+        "repository": "https://github.com/linuxgurugamer/QuickMods",
+        "spacedock": "https://spacedock.info/mod/783/QuickCursorHider"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1:1.1.0.10",
+    "x_generated_by": "netkan"
+}
