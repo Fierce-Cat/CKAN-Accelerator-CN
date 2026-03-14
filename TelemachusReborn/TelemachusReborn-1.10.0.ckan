@@ -1,6 +1,10 @@
 {
-    "abstract": "Telemachus is a universal Web Telemetry Mod for Kerbal Space Program. It allows you to access any aspects of game from browser. [All download links for this mod have been accelerated by KERBCAT.COM]",
-    "author": "DanGSun",
+    "abstract": "Telemetry HTTP Api & Web Interface to KSP",
+    "author": [
+        "DanGSun",
+        "StoneBlue",
+        "sidrus"
+    ],
     "conflicts": [
         {
             "name": "Telemachus"
@@ -17,7 +21,10 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk-github.mirror.kerbcat.cn/github/TeleIO/Telemachus-1/releases/download/v1.10.0/GameData.zip?auth_key=1773494764-f8ed68bc5d36464e91879b7dfc2c52c7-0-ecf37247025c2d949ad91b4b394af130&size=11419528&expireAt=1773494764",
+    "download": [
+        "https://github.com/TeleIO/Telemachus-1/releases/download/v1.10.0/GameData.zip",
+        "https://spacedock.info/mod/2012/Telemachus%20Reborn/download/1.10.0"
+    ],
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "E4941923BA928A518B9E1BC87C677C50446DC56A",
@@ -35,7 +42,7 @@
     "ksp_version_max": "1.12.5",
     "ksp_version_min": "1.8.0",
     "license": "MIT",
-    "name": "Telemachus Reborn [PRO-KCMIRROR]",
+    "name": "Telemachus Reborn",
     "provides": [
         "Telemachus"
     ],
@@ -44,16 +51,17 @@
             "name": "RasterPropMonitor"
         }
     ],
-    "release_date": "2026-03-10T20:56:33Z",
+    "release_date": "2026-03-13T18:58:16.350635+00:00",
     "resources": {
         "bugtracker": "https://github.com/TeleIO/Telemachus-1/issues",
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179887-*",
         "manual": "https://github.com/TeleIO/Telemachus-1/wiki",
         "remote-avc": "https://raw.githubusercontent.com/TeleIO/Telemachus-1/master/TelemachusReborn.version",
         "repository": "https://github.com/TeleIO/Telemachus-1",
-        "spacedock": "https://spacedock.info/mod/2012/Telemachus%20Reborn"
+        "spacedock": "https://spacedock.info/mod/2012/Telemachus%20Reborn",
+        "x_screenshot": "https://spacedock.info/content/DanGSun_23424/Telemachus_Reborn/Telemachus_Reborn-1542661995.507417.png"
     },
-    "spec_version": 1,
+    "spec_version": "v1.34",
     "tags": [
         "plugin",
         "information",
