@@ -1,0 +1,62 @@
+{
+    "abstract": "For some kind of star trek [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "FireflyAPI"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/Blueshift/releases/download/v1.16.0/Blueshift.zip?auth_key=1773668977-d3a65d80b2384baeb9a0900306db6f08-0-e93498c0e26e6e208accbe4b5bd9c6da&size=126146093&expireAt=1773668977",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C9E09C6F74F4FFBDF46B1FBDA2B985A43589FB82",
+        "sha256": "C56F0875E640FC0994075955D9C4027D7C9AF53EB548E4B6C161CF1900F97BA9"
+    },
+    "download_size": 126146093,
+    "identifier": "Blueshift",
+    "install": [
+        {
+            "find": "Blueshift",
+            "install_to": "GameData/WildBlueIndustries"
+        }
+    ],
+    "install_size": 571780527,
+    "ksp_version_min": "1.12.5",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Blueshift [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "GrannusExpansionPack"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "Firefly"
+        }
+    ],
+    "release_date": "2026-03-14T23:40:12Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/Blueshift/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/198274-*",
+        "manual": "https://github.com/Angel-125/Blueshift/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/Blueshift/master/ReleaseFolder/GameData/WildBlueIndustries/Blueshift/Blueshift.version",
+        "repository": "https://github.com/Angel-125/Blueshift"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "crewed"
+    ],
+    "version": "v1.16.0",
+    "x_generated_by": "netkan"
+}
