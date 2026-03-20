@@ -1,0 +1,60 @@
+{
+    "abstract": "2.5m flat-bottom spaceplane parts that generate a bit of lift",
+    "author": [
+        "RaginCaucasian",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ModuleSequentialAnimateGeneric"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/Mk2.5_Spaceplane_Parts/releases/download/1.5.3.4/Mk2-1.12.5-1.5.3.4.zip",
+        "https://spacedock.info/mod/194/Mk2.5%20Spaceplane%20Parts/download/1.5.3.4"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5D35E09FDFF4B70FEBE95B86572341313AD32478",
+        "sha256": "501814E2CF1DB0DBF346C3EAF20EDA9926FB0557B56E2240AA5BF8CBB3AE0B42"
+    },
+    "download_size": 3468308,
+    "identifier": "RaginCaucasian",
+    "install": [
+        {
+            "find": "GameData/RaginCaucasian",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 16566730,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "Mk2.5 Spaceplane Parts",
+    "release_date": "2026-03-19T01:51:34.930032+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/Mk2.5_Spaceplane_Parts/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/161096-12-13-beta-release-mk25-spaceplane-parts-rebuilt-expanded/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/Mk2.5_Spaceplane_Parts/refs/heads/master/Mk2.5Spaceplane.version",
+        "repository": "https://github.com/linuxgurugamer/Mk2.5_Spaceplane_Parts",
+        "spacedock": "https://spacedock.info/mod/194/Mk2.5%20Spaceplane%20Parts",
+        "x_screenshot": "https://spacedock.info/content/RaginCaucasian_947/Mk2.5_Spaceplane_Parts/Mk2.5_Spaceplane_Parts-1455934706.0523272.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1.5.3.4",
+    "x_generated_by": "netkan"
+}
