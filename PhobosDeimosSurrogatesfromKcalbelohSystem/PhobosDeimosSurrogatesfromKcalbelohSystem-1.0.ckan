@@ -1,0 +1,46 @@
+{
+    "abstract": "This Swaps Ike to Tot's orbit, sets Tot/Noi as Phobos/Deimos analogs around Duna",
+    "author": "PicoSpaceIndustries",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "KcalbelohSystem"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4012/Phobos/Deimos%20Surrogates%20from%20Kcalbeloh%20System/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C8036F463238BE1C1F2CA04A628201A51E4C9408",
+        "sha256": "C8B0D6DF75E5168B8B3F3EC1609C03F139B8B462654A18784E1F0CC11752058A"
+    },
+    "download_size": 963,
+    "identifier": "PhobosDeimosSurrogatesfromKcalbelohSystem",
+    "install": [
+        {
+            "file": "GameData/MoonSwap-TotNoi for PhobosDeimos.cfg",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1645,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Phobos/Deimos Surrogates from Kcalbeloh System",
+    "release_date": "2025-10-18T19:02:26.870317+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228452-duna-with-phobos-and-deimos-analogues/#comment-4473827",
+        "spacedock": "https://spacedock.info/mod/4012/Phobos/Deimos%20Surrogates%20from%20Kcalbeloh%20System",
+        "x_screenshot": "https://spacedock.info/content/PicoSpaceIndustries_114397/Phobos_Deimos_Surrogates_from_Kcalbeloh_System/Phobos_Deimos_Surrogates_from_Kcalbeloh_System-1760814166.png"
+    },
+    "spec_version": 1,
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,43 @@
+{
+    "abstract": "A small config that resets the HomeWorldName to Kerbin if mods that change it are unistalled",
+    "author": "Space_Fox_Oprissmian",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/Oprissmian/HomeWorldFallback/releases/download/1.0/HomeWorldFallback.zip",
+        "https://spacedock.info/mod/3990/HomeWorldFallback/download/1.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "24918DF1406449412BF3F50935D6314E69F3D6EE",
+        "sha256": "EE96CBE95999E49365F31936A98FF14BEF67AE517C23CC93DAF510DFBB588C02"
+    },
+    "download_size": 1017,
+    "identifier": "HomeWorldFallback",
+    "install": [
+        {
+            "find": "002_HomeWorldFallback",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 82,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "HomeWorldFallback",
+    "release_date": "2025-09-25T23:53:06.502964+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Oprissmian/HomeWorldFallback/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228843-1125-homeworldfallback-a-config-that-setsresets-the-homeworldname-to-kerbin/",
+        "repository": "https://github.com/Oprissmian/HomeWorldFallback",
+        "spacedock": "https://spacedock.info/mod/3990/HomeWorldFallback"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan"
+}
