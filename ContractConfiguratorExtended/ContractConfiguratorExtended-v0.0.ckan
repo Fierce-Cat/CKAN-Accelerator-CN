@@ -1,6 +1,11 @@
 {
     "abstract": "Extended version of Contract Configurator that includes more funcitonalities that can be used to make better contracts.",
     "author": "defoma",
+    "conflicts": [
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
     "depends": [
         {
             "name": "ModuleManager"
@@ -38,10 +43,10 @@
     },
     "spec_version": "v1.4",
     "tags": [
-        "config",
-        "plugin"
+        "plugin",
+        "library",
+        "career"
     ],
     "version": "v0.0",
-    "x_generated_by": "netkan",
-    "x_via": "Automated SpaceDock CKAN submission"
+    "x_generated_by": "netkan"
 }
