@@ -1,0 +1,38 @@
+{
+    "abstract": "A library for loading textures in KSP with as little overhead as possible [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "steamroller",
+    "depends": [
+        {
+            "min_version": "4.2.3",
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Phantomical/KSPTextureLoader/releases/download/v1.0.31/KSPTextureLoader.zip?auth_key=1775396544-2e1f87c92e5e40788d5b96f89d92d92d-0-b0fd4d50613d204ba8eae1e0d2fb461f&size=375502&expireAt=1775396544",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A99131AE425FFD4284F43DD502538A72EA9E70B6",
+        "sha256": "21AE8E98C4B9729D63237603475DD0887FC1AC37B8DCFBDBC42FB3DC2A209452"
+    },
+    "download_size": 375502,
+    "identifier": "KSPTextureLoader",
+    "install_size": 1004588,
+    "ksp_version_max": "1.12",
+    "ksp_version_min": "1.8",
+    "license": "MIT",
+    "name": "KSP Texture Loader [PRO-KCMIRROR]",
+    "release_date": "2026-04-03T02:43:05Z",
+    "resources": {
+        "bugtracker": "https://github.com/Phantomical/KSPTextureLoader/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/229418-112x-ksp-texture-loader-a-library-for-loading-textures-quickly-and-asynchronously/",
+        "manual": "https://github.com/Phantomical/KSPTextureLoader/wiki",
+        "remote-avc": "https://github.com/Phantomical/KSPTextureLoader/releases/latest/download/KSPTextureLoader.version",
+        "repository": "https://github.com/Phantomical/KSPTextureLoader"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "1.0.31",
+    "x_generated_by": "netkan"
+}
