@@ -1,0 +1,39 @@
+{
+    "abstract": "This is a bright-style TUFX configuration",
+    "author": "mischen",
+    "depends": [
+        {
+            "name": "TUFX"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4152/mischenTUFX2.0/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6DF6FD1F670CE7E1CA1640D73864297E0CCC46C1",
+        "sha256": "016C343DDB89A80AB4455C82E3A2DB3DFBCFCB9E41CD7B4F546ED7D6CA059815"
+    },
+    "download_size": 694,
+    "identifier": "mischenTUFX",
+    "install": [
+        {
+            "file": "mischenTUFX2.0.cfg",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1485,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "mischenTUFX2.0",
+    "release_date": "2026-02-19T14:54:53.169776+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/4152/mischenTUFX2.0",
+        "x_screenshot": "https://spacedock.info/content/mischen_168802/mischenTUFX2.0/mischenTUFX2.0-1771512915.png"
+    },
+    "spec_version": 1,
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "2:1.0",
+    "x_generated_by": "netkan"
+}
