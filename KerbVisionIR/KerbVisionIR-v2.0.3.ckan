@@ -1,0 +1,43 @@
+{
+    "abstract": "Night Vision mod for Kerbal Space Program with old-school CRT artifacts.",
+    "author": "Garyblu71",
+    "download": [
+        "https://github.com/garyblu71mods/SimpleNV/releases/download/v2.0.3/KerbVisionIR_v2_0_3.zip",
+        "https://spacedock.info/mod/4105/KerbVision%20IR/download/2.0.3"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "ACBF2C7BD89A40D280EC9E7304BB6E7CFD5F930C",
+        "sha256": "EBCCA3D28976B20CCA011182E4EF5518AA4B073CFC8227421DDA159A02429BBF"
+    },
+    "download_size": 851177,
+    "identifier": "KerbVisionIR",
+    "install": [
+        {
+            "filter_regexp": "\\.pdb$",
+            "find": "KerbVisionIR",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1141006,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.3",
+    "license": "MIT",
+    "name": "KerbVision IR",
+    "release_date": "2026-04-14T16:24:20.742745+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/garyblu71mods/SimpleNV/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/229582-kerbvision-ir-night-vision-crt-effects-for-ksp/",
+        "remote-avc": "https://raw.githubusercontent.com/garyblu71mods/SimpleNV/restart-clean/GameData/KerbVisionIR/KerbVisionIR.version",
+        "repository": "https://github.com/garyblu71mods/SimpleNV",
+        "spacedock": "https://spacedock.info/mod/4105/KerbVision%20IR",
+        "x_screenshot": "https://spacedock.info/content/Garyblu71_177296/KerbVision_IR/KerbVision_IR-1773548108.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "v2.0.3",
+    "x_generated_by": "netkan"
+}
