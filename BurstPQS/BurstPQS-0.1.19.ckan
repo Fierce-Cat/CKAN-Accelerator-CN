@@ -1,0 +1,62 @@
+{
+    "abstract": "Optimized terrain generation for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "steamroller",
+    "depends": [
+        {
+            "min_version": "4.2.3",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "2.2.1",
+            "name": "Harmony2"
+        },
+        {
+            "min_version": "release-1.12.1-241",
+            "name": "Kopernicus"
+        },
+        {
+            "min_version": "1.0.29",
+            "name": "KSPTextureLoader"
+        },
+        {
+            "min_version": "1.5.5.2",
+            "name": "KSPBurst"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Phantomical/BurstPQS/releases/download/v0.1.19/BurstPQS.zip?auth_key=1776434557-45858f9a240a4c959636e705a14a8bac-0-64d739fc11defa5b3d6a97a3d4cf987f&size=284167&expireAt=1776434557",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "453360DFDE4E1D970F3B421488C0171BCD3728C9",
+        "sha256": "D38CC1C6B3B22EE25CCA30189C45B9EF8941B483D27A1085D6020FDE8A376100"
+    },
+    "download_size": 284167,
+    "identifier": "BurstPQS",
+    "install_size": 636021,
+    "ksp_version_max": "1.12",
+    "ksp_version_min": "1.8",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Burst PQS [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "min_version": "1.5.5.2",
+            "name": "KSPBurst-Full"
+        }
+    ],
+    "release_date": "2026-04-15T02:02:29Z",
+    "resources": {
+        "bugtracker": "https://github.com/Phantomical/BurstPQS/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/229975-112x-burstpqs-optimized-terrain-generation-for-ksp/",
+        "manual": "https://github.com/Phantomical/BurstPQS/wiki",
+        "remote-avc": "https://github.com/Phantomical/BurstPQS/releases/latest/download/BurstPQS.version",
+        "repository": "https://github.com/Phantomical/BurstPQS"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin"
+    ],
+    "version": "0.1.19",
+    "x_generated_by": "netkan"
+}
