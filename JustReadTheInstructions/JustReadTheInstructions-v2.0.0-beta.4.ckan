@@ -1,0 +1,40 @@
+{
+    "abstract": "Spiritual successor to OCISLY ! Allows you to stream your HullCam cameras on a local webpage! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "RELMYMathieu",
+    "depends": [
+        {
+            "name": "HullcamVDSContinued"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/RELMYMathieu/JustReadTheInstructions/releases/download/v2.0.0-beta.4/JustReadTheInstructions-2.0.0b4.zip?auth_key=1776606588-92dce25ebed64974b4b7a07efa2317b1-0-60ded0ab8517ea0dcc962f9778893671&size=355178&expireAt=1776606588",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "02E85E53959303F37DDE94E27430B4B3088B384D954479EAC85C9F22F0CA649E"
+    },
+    "download_size": 355178,
+    "identifier": "JustReadTheInstructions",
+    "install": [
+        {
+            "filter_regexp": "\\.pdb$",
+            "find": "JustReadTheInstructions",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 424059,
+    "ksp_version": "1.12",
+    "license": "MIT",
+    "name": "Just Read The Instructions [PRO-KCMIRROR]",
+    "release_date": "2026-04-17T20:00:12Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/RELMYMathieu/JustReadTheInstructions/issues",
+        "repository": "https://github.com/RELMYMathieu/JustReadTheInstructions"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "config",
+        "plugin"
+    ],
+    "version": "v2.0.0-beta.4",
+    "x_generated_by": "netkan"
+}

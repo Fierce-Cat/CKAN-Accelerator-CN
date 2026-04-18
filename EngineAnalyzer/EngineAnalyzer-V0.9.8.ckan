@@ -1,6 +1,11 @@
 {
     "abstract": "An advanced engine screening and planning tool built for Kerbal Space Program (KSP). It uses mathematical simulations to recommend the most suitable engines for your current spacecraft.",
     "author": "Iftn",
+    "depends": [
+        {
+            "name": "RealFuels"
+        }
+    ],
     "download": [
         "https://github.com/Iftn1/KSP-EngineAnalyzer/releases/download/V0.9.8/KSP-EngineAnalyzer.zip",
         "https://spacedock.info/mod/4210/Engine%20Analyzer/download/V0.9.8"
@@ -16,11 +21,6 @@
     "ksp_version": "1.12.5",
     "license": "MIT",
     "name": "Engine Analyzer",
-    "recommends": [
-        {
-            "name": "RealFuels"
-        }
-    ],
     "release_date": "2026-04-13T15:02:26.825214+00:00",
     "resources": {
         "bugtracker": "https://github.com/Iftn1/KSP-EngineAnalyzer/issues",
