@@ -1,0 +1,43 @@
+{
+    "abstract": "Advanced Vessel Info is a utility plugin for Kerbal Space Program that allows you to manage vessel metadata, track flight history, and document payload capabilities",
+    "author": "FrittenFritz",
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": [
+        "https://github.com/FrittenFritz/AdvancedVesselInfo/releases/download/1.7.0/AdvancedVesselInfo.1.7.0.zip",
+        "https://spacedock.info/mod/4208/Advanced%20Vessel%20Info/download/1.7.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "89B44C96E6AEFF7AB1437BB406F6F3CF4C441812",
+        "sha256": "A96485F237B43C1DD3D9DD31ACA5730363B33271EF0D856001BB5C2B59D3A343"
+    },
+    "download_size": 36839,
+    "identifier": "AdvancedVesselInfo",
+    "install_size": 97346,
+    "ksp_version": "1.12",
+    "license": "MIT",
+    "name": "Advanced Vessel Info",
+    "release_date": "2026-04-18T22:08:40.230004+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/FrittenFritz/AdvancedVesselInfo/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/230210-112x-advanced-vessel-info-avi-manage-your-fleets-history-and-capabilities/",
+        "repository": "https://github.com/FrittenFritz/AdvancedVesselInfo",
+        "spacedock": "https://spacedock.info/mod/4208/Advanced%20Vessel%20Info",
+        "x_screenshot": "https://spacedock.info/content/FrittenFritz_182125/Advanced_Vessel_Info/Advanced_Vessel_Info-1776129277.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "information",
+        "editor"
+    ],
+    "version": "1.7.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,59 @@
+{
+    "abstract": "Shared KerbalFX runtime required by KerbalFX visual modules. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "bimo1d",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "description": "KerbalFX Core provides the shared runtime, settings, and helper code required by KerbalFX visual modules. It does not add a visual effect by itself.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/bimo1d/KerbalFX/releases/download/0.7/KerbalFX-Core-0.7.zip?auth_key=1776693753-b532c067ddff46f9a02537f08cddab7e-0-c47bbe22f700c8b3660c7e9fc68ec5b6&size=9892&expireAt=1776693753",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C82F0A86F4034D3E895969D33F95194C92AA6BBC",
+        "sha256": "33B92013A0392436F13BEF9E9027DA3FA91DD3148CFB219557F4A1EF2FBBC3CF"
+    },
+    "download_size": 9892,
+    "identifier": "KerbalFX-Core",
+    "install": [
+        {
+            "find": "KerbalFX",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 19446,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.5",
+    "license": "Unlicense",
+    "name": "KerbalFX Core [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KerbalFX-AeroFX"
+        },
+        {
+            "name": "KerbalFX-BlastFX"
+        },
+        {
+            "name": "KerbalFX-ImpactPuffs"
+        },
+        {
+            "name": "KerbalFX-RoverDust"
+        }
+    ],
+    "release_date": "2026-04-17T19:15:32Z",
+    "resources": {
+        "bugtracker": "https://github.com/bimo1d/KerbalFX/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/230118-wip1125-kerbalfx-lightweight-modular-fx-framework-v062-15042026/",
+        "remote-avc": "https://github.com/bimo1d/KerbalFX",
+        "repository": "https://github.com/bimo1d/KerbalFX",
+        "spacedock": "https://spacedock.info/mod/4190/KerbalFX"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "plugin",
+        "graphics",
+        "library"
+    ],
+    "version": "0.7",
+    "x_generated_by": "netkan"
+}

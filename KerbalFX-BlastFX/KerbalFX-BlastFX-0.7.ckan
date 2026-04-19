@@ -1,0 +1,48 @@
+{
+    "abstract": "KerbalFX module for separator and decoupler visual effects. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "bimo1d",
+    "depends": [
+        {
+            "name": "KerbalFX-Core"
+        }
+    ],
+    "description": "KerbalFX BlastFX adds separator and decoupler visual effects, including sparks, fragments, smoke, and softer ordinary decoupler puffs. Requires KerbalFX Core.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/bimo1d/KerbalFX/releases/download/0.7/KerbalFX-BlastFX-0.7.zip?auth_key=1776693753-6d8b975559e04af7a8d92f89e602747b-0-70d56029dd2e73d838af5127c4407e9b&size=20772&expireAt=1776693753",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9843B895B1416D2D4D950E33632620614C5D0D14",
+        "sha256": "C368F2865AC2E7A0F8CC86C0DDEF79F926E16E960EB9BB9449BE8ACA4A4CA575"
+    },
+    "download_size": 20772,
+    "identifier": "KerbalFX-BlastFX",
+    "install": [
+        {
+            "find": "KerbalFX",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 45112,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.5",
+    "license": "Unlicense",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "KerbalFX - BlastFX [PRO-KCMIRROR]",
+    "release_date": "2026-04-17T19:15:43Z",
+    "resources": {
+        "bugtracker": "https://github.com/bimo1d/KerbalFX/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/230118-wip1125-kerbalfx-lightweight-modular-fx-framework-v062-15042026/",
+        "remote-avc": "https://github.com/bimo1d/KerbalFX",
+        "repository": "https://github.com/bimo1d/KerbalFX",
+        "spacedock": "https://spacedock.info/mod/4190/KerbalFX"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "version": "0.7",
+    "x_generated_by": "netkan"
+}
