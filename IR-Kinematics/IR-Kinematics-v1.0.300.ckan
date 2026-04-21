@@ -1,0 +1,44 @@
+{
+    "abstract": "Kinematics module for Infernal Robotics Next [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Rudolf Meier",
+    "depends": [
+        {
+            "name": "InfernalRoboticsNext"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/meirumeiru/IR-Kinematics/releases/download/v1.0.300/IR-Kinematics_v1.0.300.zip?auth_key=1776866371-5c6de43a95744aabbbb078a622895f92-0-93c9dd3b50c24ed86311e9bb58557dcd&size=15508&expireAt=1776866371",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "FDC1281E9E5E43982C6F8882FCA5F888909D0C68D59ED3F3D1BF4CC4FABE777B"
+    },
+    "download_size": 15508,
+    "identifier": "IR-Kinematics",
+    "install": [
+        {
+            "file": "GameData/IRKinematics",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 34901,
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "Infernal Robotics Next - Kinematics [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "IR-Canadarm"
+        }
+    ],
+    "release_date": "2026-04-20T12:16:23Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/meirumeiru/IR-Kinematics/issues",
+        "remote-avc": "https://github.com/meirumeiru/IR-Kinematics/raw/main/Resources/GameData/IRKinematics/IRKinematics.version",
+        "repository": "https://github.com/meirumeiru/IR-Kinematics"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "plugin"
+    ],
+    "version": "v1.0.300",
+    "x_generated_by": "netkan"
+}
