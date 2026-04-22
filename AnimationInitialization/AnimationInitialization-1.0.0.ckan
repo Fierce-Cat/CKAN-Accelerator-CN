@@ -1,0 +1,42 @@
+{
+    "abstract": "This module solves incorrect startup states without fighting stock modules like ModuleAnimateGeneric or ModuleDeployableSolarPanel.",
+    "author": "linuxgurugamer",
+    "download": [
+        "https://github.com/linuxgurugamer/AnimationInitialization/releases/download/1.0.0/AnimationInitialization-1.12.5-1.0.0.zip",
+        "https://spacedock.info/mod/4222/Animation%20Initialization/download/1.0.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D3F385232439B86A294D04BD8E0613915BF06857",
+        "sha256": "97462EC8FAECEB00C39C05F6C586630EED922A57729CAF3B457B39B1C792615E"
+    },
+    "download_size": 13749,
+    "identifier": "AnimationInitialization",
+    "install": [
+        {
+            "filter_regexp": "\\.pdb$",
+            "find": "AnimationInitialization",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 18176,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "Animation Initialization",
+    "release_date": "2026-04-21T12:53:31.389557+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/AnimationInitialization/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/230344-112x-animation-initialization/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/AnimationInitialization/refs/heads/main/AnimationInitialization.version",
+        "repository": "https://github.com/linuxgurugamer/AnimationInitialization",
+        "spacedock": "https://spacedock.info/mod/4222/Animation%20Initialization",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Animation_Initialization/Animation_Initialization-1776780047.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}
