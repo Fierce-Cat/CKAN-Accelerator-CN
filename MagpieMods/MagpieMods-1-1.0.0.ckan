@@ -1,0 +1,50 @@
+{
+    "abstract": "The original Magpie Mods Textures Unlimited shiny configs, but fixed!",
+    "author": [
+        "Spukey123",
+        "ilikeduck"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "download": [
+        "https://github.com/lukeburton00/Magpie-Mods-Remodded/releases/download/1.0.0/MagpieModsRemodded.zip",
+        "https://spacedock.info/mod/3991/Magpie%20Mods%20Remodded/download/1.0.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "627D4F2A4E1106076981F6EB8C9F56D081D38BD2",
+        "sha256": "D577C2EA951918AA2D4B921CEC5744BFC57DA9F0DFA2734E0CDC0F6E42E9C066"
+    },
+    "download_size": 46920594,
+    "identifier": "MagpieMods",
+    "install": [
+        {
+            "filter": ".git",
+            "find": "GameData/MagpieMods",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 818092,
+    "ksp_version": "1.12.5",
+    "license": "GPL-3.0",
+    "name": "Magpie Mods Remodded",
+    "release_date": "2025-09-27T20:12:37.362134+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/lukeburton00/Magpie-Mods-Remodded/issues",
+        "repository": "https://github.com/lukeburton00/Magpie-Mods-Remodded",
+        "spacedock": "https://spacedock.info/mod/3991/Magpie%20Mods%20Remodded"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1:1.0.0",
+    "x_generated_by": "netkan"
+}

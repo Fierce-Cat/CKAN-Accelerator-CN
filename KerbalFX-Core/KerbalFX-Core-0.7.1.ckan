@@ -1,0 +1,59 @@
+{
+    "abstract": "Shared KerbalFX runtime required by KerbalFX visual modules. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "bimo1d",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "description": "KerbalFX Core provides the shared runtime, settings, and helper code required by KerbalFX visual modules. It does not add a visual effect by itself.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/bimo1d/KerbalFX/releases/download/0.7.1/KerbalFX-Core-0.7.1.zip?auth_key=1777039308-4491c5dee50046628af4bdf6b3842da3-0-9a2960511de81192f42dd9ebf27c9f58&size=9934&expireAt=1777039308",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E8C401F315A89F4F9F9AA43F1BCEAB2F4B83B4D1",
+        "sha256": "CB8CF42080F52EC7A0E0720072AA066D2F6541D4D9A47CFA50EEB6B55659B947"
+    },
+    "download_size": 9934,
+    "identifier": "KerbalFX-Core",
+    "install": [
+        {
+            "find": "KerbalFX",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 19493,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.5",
+    "license": "Unlicense",
+    "name": "KerbalFX Core [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KerbalFX-AeroFX"
+        },
+        {
+            "name": "KerbalFX-BlastFX"
+        },
+        {
+            "name": "KerbalFX-ImpactPuffs"
+        },
+        {
+            "name": "KerbalFX-RoverDust"
+        }
+    ],
+    "release_date": "2026-04-22T20:33:30Z",
+    "resources": {
+        "bugtracker": "https://github.com/bimo1d/KerbalFX/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/230118-wip1125-kerbalfx-lightweight-modular-fx-framework-v062-15042026/",
+        "remote-avc": "https://raw.githubusercontent.com/bimo1d/KerbalFX/main/Core/KerbalFX-Core.version",
+        "repository": "https://github.com/bimo1d/KerbalFX",
+        "spacedock": "https://spacedock.info/mod/4190/KerbalFX"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "plugin",
+        "graphics",
+        "library"
+    ],
+    "version": "0.7.1",
+    "x_generated_by": "netkan"
+}

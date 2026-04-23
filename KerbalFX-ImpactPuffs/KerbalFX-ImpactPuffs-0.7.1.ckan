@@ -1,0 +1,48 @@
+{
+    "abstract": "KerbalFX module for engine plume-ground dust puffs and touchdown bursts. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "bimo1d",
+    "depends": [
+        {
+            "name": "KerbalFX-Core"
+        }
+    ],
+    "description": "KerbalFX Impact Puffs adds engine plume-ground dust puffs for launch and landing, plus one-shot touchdown bursts on harder landings. Requires KerbalFX Core.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/bimo1d/KerbalFX/releases/download/0.7.1/KerbalFX-ImpactPuffs-0.7.1.zip?auth_key=1777039309-bd656df281544ce4a8571e08a6d13d2f-0-e3e8b7988c12be6bd66e09e1f3d43e9a&size=28715&expireAt=1777039309",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "635BD9F81FED9CBCA7C4165671503491206DCBF3",
+        "sha256": "2D27E769349694DB990F6A865EC0955E9FA050FE8483DC2FCDD758E6110A1B8C"
+    },
+    "download_size": 28715,
+    "identifier": "KerbalFX-ImpactPuffs",
+    "install": [
+        {
+            "find": "KerbalFX",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 63883,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.5",
+    "license": "Unlicense",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "KerbalFX - Impact Puffs [PRO-KCMIRROR]",
+    "release_date": "2026-04-22T20:33:35Z",
+    "resources": {
+        "bugtracker": "https://github.com/bimo1d/KerbalFX/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/230118-wip1125-kerbalfx-lightweight-modular-fx-framework-v062-15042026/",
+        "remote-avc": "https://raw.githubusercontent.com/bimo1d/KerbalFX/main/ImpactPuffs/KerbalFX-ImpactPuffs.version",
+        "repository": "https://github.com/bimo1d/KerbalFX",
+        "spacedock": "https://spacedock.info/mod/4190/KerbalFX"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "version": "0.7.1",
+    "x_generated_by": "netkan"
+}
