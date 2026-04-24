@@ -1,0 +1,39 @@
+{
+    "abstract": "An advanced engine screening and planning tool built for Kerbal Space Program (KSP). It uses mathematical simulations to recommend the most suitable engines for your current spacecraft.",
+    "author": "Iftn",
+    "depends": [
+        {
+            "name": "RealFuels"
+        }
+    ],
+    "download": [
+        "https://github.com/Iftn1/KSP-EngineAnalyzer/releases/download/V0.9.9/KSP-EngineAnalyzer.zip",
+        "https://spacedock.info/mod/4210/Engine%20Analyzer/download/V0.9.9"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "513D1E9951ECB553D22B45DE5CCB355058987C62",
+        "sha256": "FEAD8CC509E4589DFB35CE981AB77337C21E8D1A3855525F35D642A179B5A612"
+    },
+    "download_size": 13840,
+    "identifier": "EngineAnalyzer",
+    "install_size": 27772,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Engine Analyzer",
+    "release_date": "2026-04-23T19:11:06.08452+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Iftn1/KSP-EngineAnalyzer/issues",
+        "discussions": "https://github.com/Iftn1/KSP-EngineAnalyzer/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/230232-112x-engine-analyzer-advanced-engine-screening-planning-tool/",
+        "repository": "https://github.com/Iftn1/KSP-EngineAnalyzer",
+        "spacedock": "https://spacedock.info/mod/4210/Engine%20Analyzer"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "V0.9.9",
+    "x_generated_by": "netkan"
+}
