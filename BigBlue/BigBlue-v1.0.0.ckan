@@ -1,0 +1,99 @@
+{
+    "abstract": "The True Continuation of Big Blue by yours truly.",
+    "author": [
+        "Questin",
+        "Kari"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "KSPCommunityPartModules"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "SimpleAdjustableFairings"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "Resurfaced"
+        },
+        {
+            "name": "AnimatedDecouplers"
+        }
+    ],
+    "download": [
+        "https://github.com/Quest-in/Big-Blue-Refilled/releases/download/v1.0.0/Big-Blue-Refilled-Release.zip",
+        "https://spacedock.info/mod/4228/Big%20Blue%20Refilled/download/v1.0.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "99E7AFDB5BA395433F495401AF49773F7B037A65",
+        "sha256": "784B7D435AE2326D5CF38253757FBB150456B51EB8A426BEC9BCC373D2733441"
+    },
+    "download_size": 113966761,
+    "identifier": "BigBlue",
+    "install": [
+        {
+            "find_regexp": "BigBlueRefilled",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 551641375,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Big Blue Refilled",
+    "recommends": [
+        {
+            "name": "Trajectories"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "KerbalJointReinforcement"
+        },
+        {
+            "name": "StarshipExpansionProject"
+        },
+        {
+            "name": "GravityIssue"
+        }
+    ],
+    "release_date": "2026-04-26T04:50:44.703282+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Quest-in/Big-Blue-Refilled/issues",
+        "repository": "https://github.com/Quest-in/Big-Blue-Refilled",
+        "spacedock": "https://spacedock.info/mod/4228/Big%20Blue%20Refilled",
+        "x_screenshot": "https://spacedock.info/content/Questin_159756/Big_Blue_Refilled/Big_Blue_Refilled-1777178615.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "StarshipExpansionProject"
+        }
+    ],
+    "supports": [
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "tags": [
+        "graphics",
+        "parts",
+        "plugin"
+    ],
+    "version": "v1.0.0",
+    "x_generated_by": "netkan"
+}
