@@ -1,5 +1,5 @@
 {
-    "abstract": "This System Heat config package changes stock and mod Resource Harvesters to use the SystemHeat backend. WARNING: potentially vessel-breaking. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "abstract": "This System Heat config package changes stock and mod Resource Harvesters to use the System Heat backend. WARNING: potentially vessel-breaking. [All download links for this mod have been accelerated by KERBCAT.COM]",
     "author": "Nertea (Chris Adderley)",
     "depends": [
         {
@@ -9,7 +9,7 @@
             "name": "SystemHeat"
         }
     ],
-    "download": "https://hk-github.mirror.kerbcat.cn/github/KSPModStewards/SystemHeat/releases/download/0.8.2/SystemHeat_0_8_2.zip?auth_key=1777472055-36191e12d77149358cf2fc4890a1f021-0-2c75954566541a07e68953a0e5a20dbd&size=1328750&expireAt=1777472055",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSPModStewards/SystemHeat/releases/download/0.8.2/SystemHeat_0_8_2.zip?auth_key=1777559055-a99a6ab25e704dd582ed77ed4851ceb3-0-1e8bd5dd059e1f4d620c1702353510d4&size=1328750&expireAt=1777559055",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "22BB8F67D37554F49ED73F6656B188A82F91C003",
@@ -26,15 +26,15 @@
     "install_size": 9339,
     "ksp_version_max": "1.12.99",
     "ksp_version_min": "1.11.0",
-    "license": "CC-BY-NC-SA-4.0",
+    "license": "MIT",
     "name": "System Heat - Resource Harvester Configuration [PRO-KCMIRROR]",
     "release_date": "2025-07-21T14:43:04Z",
     "resources": {
         "bugtracker": "https://github.com/KSPModStewards/SystemHeat/issues",
-        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193909-1",
-        "metanetkan": "https://github.com/post-kerbin-mining-corporation/SystemHeat/raw/master/CKAN/SystemHeat-Harvesters.netkan",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/193909-112x-systemheat-a-replacement-for-the-coreheat-system-july-21/",
+        "manual": "https://github.com/KSPModStewards/SystemHeat/wiki",
         "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/SystemHeat/master/GameData/SystemHeat/Versioning/SystemHeat.version",
-        "repository": "https://github.com/post-kerbin-mining-corporation/SystemHeat"
+        "repository": "https://github.com/KSPModStewards/SystemHeat"
     },
     "spec_version": "v1.4",
     "suggests": [
@@ -49,8 +49,7 @@
         }
     ],
     "tags": [
-        "parts",
-        "plugin"
+        "config"
     ],
     "version": "0.8.2",
     "x_generated_by": "netkan"

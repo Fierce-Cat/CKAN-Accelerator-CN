@@ -1,12 +1,12 @@
 {
-    "abstract": "System Heat revamps the Core Heat system used in stock KSP to drive drills and harvesters with a new, more powerful system. This core package does not make changes to the base game - install other SystemHeat packs to change drills, converters and the like to use Systemheat [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "abstract": "System Heat revamps the Core Heat system used in stock KSP to drive drills and harvesters with a new, more powerful system. This core package does not make changes to the base game - install other SystemHeat packs to change drills, converters and the like to use System Heat [All download links for this mod have been accelerated by KERBCAT.COM]",
     "author": "Nertea (Chris Adderley)",
     "depends": [
         {
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk-github.mirror.kerbcat.cn/github/KSPModStewards/SystemHeat/releases/download/0.8.2/SystemHeat_0_8_2.zip?auth_key=1777472057-da8658c240ca43a2afc85c057b4665a1-0-d0a60036416a4f2c47b92fc81685e626&size=1328750&expireAt=1777472057",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSPModStewards/SystemHeat/releases/download/0.8.2/SystemHeat_0_8_2.zip?auth_key=1777559056-9291a70a63994d7cb690b8454b724a90-0-b321ec5d9368584c9dba4a2cf7aa2af5&size=1328750&expireAt=1777559056",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "22BB8F67D37554F49ED73F6656B188A82F91C003",
@@ -23,7 +23,7 @@
     "install_size": 3025822,
     "ksp_version_max": "1.12.99",
     "ksp_version_min": "1.11.0",
-    "license": "CC-BY-NC-SA-4.0",
+    "license": "restricted",
     "localizations": [
         "en-us",
         "ru",
@@ -38,10 +38,10 @@
     "release_date": "2025-07-21T14:43:04Z",
     "resources": {
         "bugtracker": "https://github.com/KSPModStewards/SystemHeat/issues",
-        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/193909-1",
-        "metanetkan": "https://github.com/post-kerbin-mining-corporation/SystemHeat/raw/master/CKAN/SystemHeat.netkan",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/193909-112x-systemheat-a-replacement-for-the-coreheat-system-july-21/",
+        "manual": "https://github.com/KSPModStewards/SystemHeat/wiki",
         "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/SystemHeat/master/GameData/SystemHeat/Versioning/SystemHeat.version",
-        "repository": "https://github.com/post-kerbin-mining-corporation/SystemHeat"
+        "repository": "https://github.com/KSPModStewards/SystemHeat"
     },
     "spec_version": "v1.4",
     "suggests": [
@@ -56,6 +56,12 @@
         },
         {
             "name": "SystemHeat-Harvesters"
+        },
+        {
+            "name": "SystemHeat-IonEngines"
+        },
+        {
+            "name": "SystemHeat-CryoTanks"
         }
     ],
     "tags": [

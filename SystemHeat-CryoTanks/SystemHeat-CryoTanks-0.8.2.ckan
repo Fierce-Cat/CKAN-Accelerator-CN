@@ -1,0 +1,62 @@
+{
+    "abstract": "This System Heat config package changes zero boiloff cryogenic tanks to need cooling instead of power. WARNING: potentially vessel-breaking. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSPModStewards/SystemHeat/releases/download/0.8.2/SystemHeat_0_8_2.zip?auth_key=1777559054-9580d43255034a4fbe08989b5b996e7b-0-845a5cc1e88bfe2cb05fe75e8ab9824c&size=1328750&expireAt=1777559054",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "22BB8F67D37554F49ED73F6656B188A82F91C003",
+        "sha256": "FB024D92AF83D03AAC68BF07D83BE08CCEB83C9B16A08AF36AA19291D12F96E2"
+    },
+    "download_size": 1328750,
+    "identifier": "SystemHeat-CryoTanks",
+    "install": [
+        {
+            "find": "SystemHeatBoiloff",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2323,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.11.0",
+    "license": "MIT",
+    "name": "System Heat - Cryo Tanks Configuration [PRO-KCMIRROR]",
+    "release_date": "2025-07-21T14:43:04Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSPModStewards/SystemHeat/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/193909-112x-systemheat-a-replacement-for-the-coreheat-system-july-21/",
+        "manual": "https://github.com/KSPModStewards/SystemHeat/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/SystemHeat/master/GameData/SystemHeat/Versioning/SystemHeat.version",
+        "repository": "https://github.com/KSPModStewards/SystemHeat"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SystemHeat-Converters"
+        },
+        {
+            "name": "SystemHeat-FissionReactors"
+        },
+        {
+            "name": "SystemHeat-Harvesters"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "0.8.2",
+    "x_generated_by": "netkan"
+}
