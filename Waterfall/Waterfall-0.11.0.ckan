@@ -1,0 +1,37 @@
+{
+    "abstract": "Core Waterfall plugin to drive engine effects, plus default effect templates. Does nothing on its own, other mods supply compatibility. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Chris Adderley (Nertea)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSPModStewards/Waterfall/releases/download/0.11.0/Waterfall-0.11.0.zip?auth_key=1777645506-8b9b9d79589d41bb910efd93ac9f54bc-0-0daf4af5a76ba18878f2fc08b067d686&size=6195771&expireAt=1777645506",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "6105D6E5204AF8690C505FF871102DB5ED076A64461F382324DD92FA170B1B46"
+    },
+    "download_size": 6195771,
+    "identifier": "Waterfall",
+    "install_size": 11958231,
+    "ksp_version_max": "1.12",
+    "ksp_version_min": "1.8",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Waterfall Core [PRO-KCMIRROR]",
+    "release_date": "2026-04-29T19:37:29Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/KSPModStewards/Waterfall/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196309-wip-waterfall-a-framework-for-continuous-mesh-driven-engine-effects-dec-19/",
+        "manual": "https://github.com/KSPModStewards/Waterfall/wiki",
+        "remote-avc": "https://github.com/KSPModStewards/Waterfall/releases/latest/download/Waterfall.version",
+        "repository": "https://github.com/KSPModStewards/Waterfall"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "0.11.0",
+    "x_generated_by": "netkan"
+}

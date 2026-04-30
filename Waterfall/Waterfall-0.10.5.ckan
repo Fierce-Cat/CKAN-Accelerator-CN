@@ -6,7 +6,7 @@
             "name": "ModuleManager"
         }
     ],
-    "download": "https://hk-github.mirror.kerbcat.cn/github/KSPModStewards/Waterfall/releases/download/0.10.5/Waterfall_0_10_5.zip?auth_key=1777559057-c229bc1181c34f0bb55bb22ab9037d58-0-00febb7d7802b90d6b6bc3d71110d9c3&size=6350751&expireAt=1777559057",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSPModStewards/Waterfall/releases/download/0.10.5/Waterfall_0_10_5.zip?auth_key=1777645506-cbcffd029153441080a6e53fa0d189f8-0-93e3de4ee58379f8a62eaeff16c8bce5&size=6350751&expireAt=1777645506",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "55021BF1220E259CDC359C0FA69036F48BF94177",
@@ -14,12 +14,6 @@
     },
     "download_size": 6350751,
     "identifier": "Waterfall",
-    "install": [
-        {
-            "find": "Waterfall",
-            "install_to": "GameData"
-        }
-    ],
     "install_size": 12245237,
     "ksp_version_max": "1.12.99",
     "ksp_version_min": "1.8.1",
@@ -29,11 +23,11 @@
     "resources": {
         "bugtracker": "https://github.com/KSPModStewards/Waterfall/issues",
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/196309-wip-waterfall-a-framework-for-continuous-mesh-driven-engine-effects-dec-19/",
-        "metanetkan": "https://github.com/post-kerbin-mining-corporation/Waterfall/raw/master/CKAN/Waterfall.netkan",
+        "manual": "https://github.com/KSPModStewards/Waterfall/wiki",
         "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/Waterfall/master/GameData/Waterfall/Versioning/Waterfall.version",
-        "repository": "https://github.com/post-kerbin-mining-corporation/Waterfall"
+        "repository": "https://github.com/KSPModStewards/Waterfall"
     },
-    "spec_version": "v1.4",
+    "spec_version": 1,
     "tags": [
         "plugin",
         "library"
