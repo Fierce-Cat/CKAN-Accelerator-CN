@@ -1,0 +1,55 @@
+{
+    "abstract": "Adds health, stress and general well-being management. Encourages smart vessel design and mission planning, especially for long flights. Easily configurable. Beta version. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Garwel",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/GarwelGarwel/KerbalHealth/releases/download/v1.6.9-pre/KerbalHealth_1.6.9-pre.zip?auth_key=1777817178-4c4f968991464e52beb9a654beaa93ae-0-430d7c3bb1f79984364afb2a2ad06dc6&size=135505&expireAt=1777817178",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "4B95049983C8FE35B177C5EF921E27800B3F35ED55699E3C6CBB027306231F79"
+    },
+    "download_size": 135505,
+    "identifier": "KerbalHealth",
+    "install_size": 378117,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "Kerbal Health [PRO-KCMIRROR]",
+    "release_date": "2026-05-01T07:50:19Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/GarwelGarwel/KerbalHealth/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155313-*",
+        "manual": "https://github.com/GarwelGarwel/KerbalHealth/wiki",
+        "remote-avc": "https://raw.githubusercontent.com:443/GarwelGarwel/KerbalHealth/master/GameData/KerbalHealth/KerbalHealth.version",
+        "repository": "https://github.com/GarwelGarwel/KerbalHealth"
+    },
+    "spec_version": "v1.36",
+    "suggests": [
+        {
+            "name": "KSP-AVC"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "UKS"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "v1.6.9-pre",
+    "x_generated_by": "netkan"
+}
