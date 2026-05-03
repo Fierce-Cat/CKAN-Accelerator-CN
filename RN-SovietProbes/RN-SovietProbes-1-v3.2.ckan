@@ -1,0 +1,59 @@
+{
+    "abstract": "This pack includes early Soviet probes such as Sputnik, Luna, Molniya and Polyot. Probes are meant to be used with my Soviet Rockets pack. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Raidernick",
+    "comment": "Ships installed again",
+    "depends": [
+        {
+            "name": "BDAnimationModules"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/SovietProbes/releases/download/v3.2/RN_Soviet_Probes_v3.2.zip?auth_key=1777903944-accd908962cb41b2a8909706b6af8cb8-0-6151c9a18b65e8dfb0a5ca85aed70f5c&size=40323697&expireAt=1777903944",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F3037A44C188E7DB77766EE61C78D43538CD0B6D",
+        "sha256": "54F39E4A409E00A8A0425FC53032F5D9494BD93D4F5D9686D5B1E6DD973F9BC7"
+    },
+    "download_size": 40323697,
+    "identifier": "RN-SovietProbes",
+    "install": [
+        {
+            "find": "RN_Soviet_Probes",
+            "install_to": "GameData"
+        },
+        {
+            "file": "Ships/VAB",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 97918189,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-ND-3.0",
+    "name": "Soviet Probes [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RN-SovietRockets"
+        }
+    ],
+    "release_date": "2026-05-02T23:59:38Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/SovietProbes/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/79433-*",
+        "manual": "https://github.com/KSP-RO/SovietProbes/wiki",
+        "remote-avc": "http://raw.githubusercontent.com/KSP-RO/SovietProbes/master/GameData/RN_Soviet_Probes/SovietProbes.version",
+        "repository": "https://github.com/KSP-RO/SovietProbes"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "uncrewed"
+    ],
+    "version": "1:v3.2",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,51 @@
+{
+    "abstract": "Differential-throttle second-stage engines inspired by Stoke Space Andromeda : a ring of thrust chambers around an actively-cooled heatshield.",
+    "author": "CapC0m",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "download": [
+        "https://github.com/CapC0m/aegis-dynamics/releases/download/v0.3.4/AegisDynamics-0.3.4.zip",
+        "https://spacedock.info/mod/4218/Aegis%20Dynamics/download/v0.3.4"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "78934F3BC6D3F5B23746E5DB6316EC647BD496A4",
+        "sha256": "7708F596E4517FC4A37CCCF40FC180DB96458E1CDC6BCECAD03BE46DF8A3869F"
+    },
+    "download_size": 14541,
+    "identifier": "AegisDynamics",
+    "install_size": 33537,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "Aegis Dynamics",
+    "recommends": [
+        {
+            "name": "StockWaterfallEffects"
+        }
+    ],
+    "release_date": "2026-05-02T09:37:22.272712+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/CapC0m/aegis-dynamics/issues",
+        "remote-avc": "https://raw.githubusercontent.com/CapC0m/aegis-dynamics/main/GameData/AegisDynamics/AegisDynamics.version",
+        "repository": "https://github.com/CapC0m/aegis-dynamics",
+        "spacedock": "https://spacedock.info/mod/4218/Aegis%20Dynamics",
+        "x_screenshot": "https://spacedock.info/content/CapC0m_182689/Stoke_Engine/Stoke_Engine-1776705074.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "parts"
+    ],
+    "version": "v0.3.4",
+    "x_generated_by": "netkan"
+}
