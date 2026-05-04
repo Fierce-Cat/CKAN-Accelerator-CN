@@ -1,0 +1,65 @@
+{
+    "abstract": "An optional expansion for SpaceY Heavy Lifters that adds 42 7.5m parts among other enhancements.",
+    "author": [
+        "NecroBones",
+        "linuxgurugamer"
+    ],
+    "conflicts": [
+        {
+            "name": "SpaceY-Corp"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        }
+    ],
+    "download": "https://spacedock.info/mod/89/SpaceY%20Expanded%20(SYX)%20by%20NecroBones/download/2.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B9188434A49C07D0AA8DEF12D8F57D22E105D867",
+        "sha256": "607C9231ED5984DDB253ACF5E90924AB242575BCCDA63155D1930840E5BB2E19"
+    },
+    "download_size": 14519986,
+    "identifier": "SpaceY-Expanded",
+    "install": [
+        {
+            "find": "SpaceY/SpaceYExpanded",
+            "install_to": "GameData/SpaceY"
+        }
+    ],
+    "install_size": 36415244,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "ru"
+    ],
+    "name": "SpaceY Expanded (SYX) by NecroBones",
+    "recommends": [
+        {
+            "name": "InterstellarFuelSwitch-Core"
+        }
+    ],
+    "release_date": "2026-05-04T00:07:12.460205+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/SpaceYExpanded/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/229373-112x-spacey-expanded-page-still-under-construction/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/SpaceYExpanded/master/SpaceYExpanded.version",
+        "repository": "https://github.com/linuxgurugamer/SpaceYExpanded",
+        "spacedock": "https://spacedock.info/mod/89/SpaceY%20Expanded%20(SYX)%20by%20NecroBones",
+        "x_screenshot": "https://spacedock.info/content/NecroBones_209/SpaceY_Expanded_SYE_by_NecroBones/SpaceY_Expanded_SYE_by_NecroBones-1683856887.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "2.0.2",
+    "x_generated_by": "netkan"
+}
