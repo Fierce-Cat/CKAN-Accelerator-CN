@@ -1,0 +1,64 @@
+{
+    "abstract": "Contracts to guide you to the various easter eggs in the game. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "nightingale",
+        "badgkat"
+    ],
+    "depends": [
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/jrossignol/ContractPack-AnomalySurveyor/releases/download/2.1.0/ContractPack-AnomalySurveyor_2.1.0.zip?auth_key=1778076584-c6e7ce15ce1f4c3a9357d80d0148b51b-0-b16a176cee921957806fa1bf172c2d61&size=826070&expireAt=1778076584",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5081EA9EA053E4D480C205C11FE9BEFF732859F9",
+        "sha256": "8C18E225AF48F6010A2D7DA872A04A35CB4A1468DB530977159009F28402DC55"
+    },
+    "download_size": 826070,
+    "identifier": "ContractConfigurator-AnomalySurveyor",
+    "install": [
+        {
+            "find": "AnomalySurveyor",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "install_size": 4054835,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Contract Pack: Anomaly Surveyor [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "WaypointManager"
+        }
+    ],
+    "release_date": "2026-05-04T07:50:28Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/jrossignol/ContractPack-AnomalySurveyor/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/98666--",
+        "license": "https://raw.githubusercontent.com/jrossignol/ContractPack-AnomalySurveyor/master/GameData/ContractPacks/AnomalySurveyor/LICENSE.txt",
+        "manual": "https://github.com/jrossignol/ContractPack-AnomalySurveyor/wiki",
+        "metanetkan": "https://raw.githubusercontent.com/jrossignol/ContractPack-AnomalySurveyor/master/ContractConfigurator-AnomalySurveyor.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/jrossignol/ContractPack-AnomalySurveyor/master/GameData/ContractPacks/AnomalySurveyor/ContractPack-AnomalySurveyor.version",
+        "repository": "https://github.com/jrossignol/ContractPack-AnomalySurveyor"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SCANsat"
+        }
+    ],
+    "tags": [
+        "config",
+        "plugin",
+        "information",
+        "career"
+    ],
+    "version": "2.1.0",
+    "x_generated_by": "netkan"
+}

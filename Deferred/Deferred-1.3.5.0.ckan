@@ -1,0 +1,60 @@
+{
+    "abstract": "Add deferred rendering to KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Blackrack",
+    "conflicts": [
+        {
+            "max_version": "1.5.10.25",
+            "name": "TexturesUnlimited"
+        },
+        {
+            "max_version": "v1.8.6.1",
+            "name": "KerbalKonstructs"
+        },
+        {
+            "max_version": "1:v0.31.13.4",
+            "name": "RasterPropMonitor"
+        },
+        {
+            "max_version": "3:0.45.1",
+            "name": "B9-PWings-Fork"
+        }
+    ],
+    "depends": [
+        {
+            "name": "Shabby"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/LGhassen/Deferred/releases/download/1.3.5.0/Deferred_1.3.5.0.zip?auth_key=1778076582-3cb2cb69b0984029a6ce48f9f460b4d3-0-c4b3146e622f0bb75cffd81096669317&size=1383041&expireAt=1778076582",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E89F94547F067FC0F291AF6718ECFE43508AE014",
+        "sha256": "2EDEFF1DB6BEEE70B72D8A616E54F036BD49399867F908D0A575205B4F07365B"
+    },
+    "download_size": 1383041,
+    "identifier": "Deferred",
+    "install": [
+        {
+            "find": "zzz_Deferred",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1393175,
+    "ksp_version": "1.12",
+    "license": "GPL-3.0",
+    "name": "Deferred [PRO-KCMIRROR]",
+    "release_date": "2026-05-04T09:46:38Z",
+    "resources": {
+        "bugtracker": "https://github.com/LGhassen/Deferred/issues",
+        "homepage": "https://www.patreon.com/posts/deferred-106557481",
+        "manual": "https://github.com/LGhassen/Deferred/blob/master/Readme.md",
+        "repository": "https://github.com/LGhassen/Deferred",
+        "x_screenshot": "https://i.imgur.com/kraUQIz.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "version": "1.3.5.0",
+    "x_generated_by": "netkan"
+}
