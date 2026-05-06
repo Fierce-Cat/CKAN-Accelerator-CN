@@ -1,0 +1,124 @@
+{
+    "abstract": "Keeps OPT Spaceplane Parts useful and relevant in today's KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Moobien",
+        "StoneBlue",
+        "JadeOfMaar"
+    ],
+    "conflicts": [
+        {
+            "name": "OPTWBIintegrationpatch"
+        },
+        {
+            "name": "OPTUSILifeSupportPatch"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/StoneBlue/OPT_Streamlined/releases/download/3.4.9.6/OPT.Reconfig.3.4.9.6.zip?auth_key=1778163025-18e78bee91da4a11b5155b62c23ec130-0-8974a3a7f8d6054b8eff3ca38a17a8c9&size=3108863&expireAt=1778163025",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "5C747DFBBA7C9E305F1B83104320D3CC1E221249630DD49E34A81004FEDF5C7C"
+    },
+    "download_size": 3108863,
+    "identifier": "OPTReconfig",
+    "install": [
+        {
+            "find": "OPT_Reconfig",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 7739516,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "OPT Reconfig [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "OPTSpacePlaneMain"
+        }
+    ],
+    "release_date": "2026-05-04T21:42:39Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/StoneBlue/OPT_Streamlined/issues",
+        "remote-avc": "https://raw.githubusercontent.com/StoneBlue/OPT_Streamlined/master/GameData/OPT_Reconfig/Version/OPTReconfig.version",
+        "repository": "https://github.com/StoneBlue/OPT_Streamlined"
+    },
+    "spec_version": "v1.36",
+    "supports": [
+        {
+            "name": "ClassicStockResources"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "ConfigurableContainers"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "ModularFuelTanks"
+        },
+        {
+            "name": "Pathfinder"
+        },
+        {
+            "name": "RationalResources"
+        },
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "TacLifeSupport"
+        },
+        {
+            "name": "TETRIXTechTree"
+        },
+        {
+            "name": "UnKerballedStart"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "WildBlueTools"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "3.4.9.6",
+    "x_generated_by": "netkan"
+}

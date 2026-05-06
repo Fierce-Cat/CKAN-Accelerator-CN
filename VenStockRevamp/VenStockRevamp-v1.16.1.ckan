@@ -1,0 +1,62 @@
+{
+    "abstract": "With this part pack, your rockets/planes/racecars will look at least 20% cooler as they tumble into the ground! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "VenVen",
+        "Kerbas-ad-astra"
+    ],
+    "conflicts": [
+        {
+            "name": "ReStock"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "VenStockRevamp-Core"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kerbas-ad-astra/Stock-Revamp/releases/download/v1.16.1/VenStockRevamp-v1.16.1.zip?auth_key=1778163026-7d8bc41170634e76902c2168685f9c84-0-ec1f88646a90427a4e0cfee7eed3d38d&size=145971992&expireAt=1778163026",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E86045C2C2C7C064086BB2F493B43AFD3D056ED0",
+        "sha256": "D6501EC31BA2E110415BF1E7648C0781D2EE8AFDCC8EB409E35D0DD58644DF03"
+    },
+    "download_size": 145971992,
+    "identifier": "VenStockRevamp",
+    "install": [
+        {
+            "find": "VenStockRevamp/PathPatches",
+            "install_to": "GameData/VenStockRevamp"
+        },
+        {
+            "find": "VenStockRevamp/Squad",
+            "install_to": "GameData/VenStockRevamp"
+        }
+    ],
+    "install_size": 203726507,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.10.0",
+    "license": "CC-BY-4.0",
+    "name": "Ven's Stock Part Revamp [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "VenStockRevamp-NewParts"
+        }
+    ],
+    "release_date": "2025-04-29T21:38:54Z",
+    "resources": {
+        "bugtracker": "https://github.com/Kerbas-ad-astra/Stock-Revamp/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/189732-*",
+        "remote-avc": "https://raw.githubusercontent.com/Kerbas-ad-astra/Stock-Revamp/master/GameData/VenStockRevamp/VenStockRevamp.version",
+        "repository": "https://github.com/Kerbas-ad-astra/Stock-Revamp"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "graphics"
+    ],
+    "version": "v1.16.1",
+    "x_generated_by": "netkan"
+}

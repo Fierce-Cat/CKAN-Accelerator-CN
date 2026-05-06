@@ -1,0 +1,48 @@
+{
+    "abstract": "KerbalFX module for atmospheric ribbon condensation trails. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "bimo1d",
+    "depends": [
+        {
+            "name": "KerbalFX-Core"
+        }
+    ],
+    "description": "KerbalFX AeroFX adds atmospheric ribbon condensation trails for suitable wing-like aircraft parts, driven by speed, air density, dynamic pressure, and maneuver load. Requires KerbalFX Core.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/bimo1d/KerbalFX/releases/download/0.8/KerbalFX-AeroFX-0.8.zip?auth_key=1778163022-8f1682ad27054a839adcc2e4461148d7-0-a0299e98dd6d97ddfba9e1511853330c&size=30032&expireAt=1778163022",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D7DB7CC40AB4F9B20E64B743036A797FDA396A07",
+        "sha256": "07C1ABB3D8C036411C296853B53F2B84BBEE15780C6DD59644D7A2B0CB02F37B"
+    },
+    "download_size": 30032,
+    "identifier": "KerbalFX-AeroFX",
+    "install": [
+        {
+            "find": "KerbalFX",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 69161,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.5",
+    "license": "Unlicense",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "KerbalFX - AeroFX [PRO-KCMIRROR]",
+    "release_date": "2026-05-05T13:45:26Z",
+    "resources": {
+        "bugtracker": "https://github.com/bimo1d/KerbalFX/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/230118-wip1125-kerbalfx-lightweight-modular-fx-framework-v062-15042026/",
+        "remote-avc": "https://raw.githubusercontent.com/bimo1d/KerbalFX/main/AeroFX/KerbalFX-AeroFX.version",
+        "repository": "https://github.com/bimo1d/KerbalFX",
+        "spacedock": "https://spacedock.info/mod/4190/KerbalFX"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "version": "0.8",
+    "x_generated_by": "netkan"
+}
