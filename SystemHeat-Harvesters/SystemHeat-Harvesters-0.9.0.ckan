@@ -1,0 +1,56 @@
+{
+    "abstract": "This System Heat config package changes stock and mod Resource Harvesters to use the System Heat backend. WARNING: potentially vessel-breaking. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SystemHeat"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSPModStewards/SystemHeat/releases/download/0.9.0/SystemHeat-0.9.0.zip?auth_key=1778422415-d29a4f10c19846a3a793e9117609f59c-0-f3db6546ce205da205a77945d2144e17&size=1227742&expireAt=1778422415",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "C6F2588227EC26752B5A002EDF51E27FF2D7633BE357C6D5FFB402A7AE2347BA"
+    },
+    "download_size": 1227742,
+    "identifier": "SystemHeat-Harvesters",
+    "install": [
+        {
+            "find": "SystemHeatHarvesters",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 9339,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.11.0",
+    "license": "MIT",
+    "name": "System Heat - Resource Harvester Configuration [PRO-KCMIRROR]",
+    "release_date": "2026-05-08T11:06:12Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/KSPModStewards/SystemHeat/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/193909-112x-systemheat-a-replacement-for-the-coreheat-system-july-21/",
+        "manual": "https://github.com/KSPModStewards/SystemHeat/wiki",
+        "remote-avc": "https://github.com/KSPModStewards/SystemHeat/releases/latest/download/SystemHeat.version",
+        "repository": "https://github.com/KSPModStewards/SystemHeat"
+    },
+    "spec_version": "v1.36",
+    "suggests": [
+        {
+            "name": "SystemHeat-Converters"
+        },
+        {
+            "name": "SystemHeat-FissionReactors"
+        },
+        {
+            "name": "SystemHeat-FissionEngines"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "0.9.0",
+    "x_generated_by": "netkan"
+}

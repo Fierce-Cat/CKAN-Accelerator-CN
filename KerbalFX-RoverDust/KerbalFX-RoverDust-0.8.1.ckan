@@ -1,0 +1,48 @@
+{
+    "abstract": "KerbalFX module for wheel-ground dust on rovers and wheeled craft. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "bimo1d",
+    "depends": [
+        {
+            "name": "KerbalFX-Core"
+        }
+    ],
+    "description": "KerbalFX Rover Dust adds wheel-ground dust effects driven by wheel contact, speed, slip, lighting, and surface tint.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/bimo1d/KerbalFX/releases/download/0.8.1/KerbalFX-RoverDust-0.8.1.zip?auth_key=1778422415-5e15b1ec38ca47628f99de1b46bae241-0-0d5d8a03094c5ed4befab6519e90debc&size=23482&expireAt=1778422415",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "78EC74838E8AE6278F5DCC363AFA06F8FBFA7609",
+        "sha256": "D6707D11B3F89658D3972A51823AF6E224AD51CBF2ECA7E1592AFD500F77EBC5"
+    },
+    "download_size": 23482,
+    "identifier": "KerbalFX-RoverDust",
+    "install": [
+        {
+            "find": "KerbalFX",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 53794,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.5",
+    "license": "Unlicense",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "KerbalFX - Rover Dust [PRO-KCMIRROR]",
+    "release_date": "2026-05-08T10:15:15Z",
+    "resources": {
+        "bugtracker": "https://github.com/bimo1d/KerbalFX/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/230118-wip1125-kerbalfx-lightweight-modular-fx-framework-v062-15042026/",
+        "remote-avc": "https://raw.githubusercontent.com/bimo1d/KerbalFX/main/RoverDust/KerbalFX-RoverDust.version",
+        "repository": "https://github.com/bimo1d/KerbalFX",
+        "spacedock": "https://spacedock.info/mod/4190/KerbalFX"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "plugin",
+        "graphics"
+    ],
+    "version": "0.8.1",
+    "x_generated_by": "netkan"
+}
