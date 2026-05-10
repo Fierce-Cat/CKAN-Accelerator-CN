@@ -1,0 +1,72 @@
+{
+    "abstract": "KSP Mod to add better antenna / link calculations to CommNet. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "DRVeyl",
+        "al2me6",
+        "blowfishpro",
+        "Capkirk123",
+        "NathanKell",
+        "pjf",
+        "rsparkyc",
+        "SirKeplan",
+        "StollD",
+        "StonesmileGit",
+        "stratochief66",
+        "zorg2044",
+        "siimav"
+    ],
+    "conflicts": [
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "CommNetVisualisation"
+        },
+        {
+            "name": "CommNetConstellation"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KSPBurst"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "min_version": "1.36.0",
+            "name": "KSPCommunityFixes"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RealAntennas/releases/download/v2.11.1.0/RealAntennas-v2.11.1.0.zip?auth_key=1778509475-e2318bdd393c42fc8e5588fb5d0e212a-0-f63b262a0555761f737a946f43655b74&size=151901&expireAt=1778509475",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BD64B9A2F010A50AD86AF4C8558B6F84DD183894",
+        "sha256": "1698B9876C52C3C20D202D0B0C4F875F71C5F51F625871C5A94554807FD2DE43"
+    },
+    "download_size": 151901,
+    "identifier": "RealAntennas",
+    "install_size": 383186,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-SA-4.0",
+    "name": "Real Antennas [PRO-KCMIRROR]",
+    "release_date": "2026-05-09T18:15:50Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/RealAntennas/issues",
+        "homepage": "https://github.com/KSP-RO/RealAntennas/wiki",
+        "manual": "https://github.com/KSP-RO/RealAntennas/wiki",
+        "remote-avc": "https://raw.githubusercontent.com:443/KSP-RO/RealAntennas/master/GameData/RealAntennas/RealAntennas.version",
+        "repository": "https://github.com/KSP-RO/RealAntennas"
+    },
+    "spec_version": 1,
+    "tags": [
+        "comms",
+        "plugin"
+    ],
+    "version": "v2.11.1.0",
+    "x_generated_by": "netkan"
+}
