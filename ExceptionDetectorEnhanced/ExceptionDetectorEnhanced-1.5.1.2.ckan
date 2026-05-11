@@ -1,0 +1,52 @@
+{
+    "abstract": "This add-on creates a log file by hooking into the logger callbacks in Unity and is able to extract more value from the available information. Assists in finding issues that you might not even be aware of and might be able to find any pesky add-on(s) that might be causing your issues. For Kerbal Space Program.",
+    "author": "linuxgurugamer",
+    "download": "https://spacedock.info/mod/4251/Exception%20Detector%20Enhanced/download/1.5.1.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4ED475DF5FFEB6F8EE738A80B776F5E26304EB8D",
+        "sha256": "659F80419934F369B57481B22A7CA2C8FF93FFAEAB60E86688F7D063636A4B16"
+    },
+    "download_size": 50906,
+    "identifier": "ExceptionDetectorEnhanced",
+    "install": [
+        {
+            "filter_regexp": "\\.pdb$",
+            "find": "ExceptionDetectorEnhanced",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 83758,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.1",
+    "license": "BSD-2-clause",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "Exception Detector Enhanced",
+    "recommends": [
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "release_date": "2026-05-10T21:26:47.233589+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/230538-112x-exception-detector-enhanced",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/ExceptionDetectorEnhanced/master/ExceptionDetectorEnhanced.version",
+        "repository": "https://github.com/linuxgurugamer/ExceptionDetectorEnhanced",
+        "spacedock": "https://spacedock.info/mod/4251/Exception%20Detector%20Enhanced",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Exception_Detector_Enhanced/Exception_Detector_Enhanced-1778151618.png"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "config",
+        "plugin"
+    ],
+    "version": "1.5.1.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
