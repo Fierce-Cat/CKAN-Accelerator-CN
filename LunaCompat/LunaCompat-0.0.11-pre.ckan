@@ -1,0 +1,56 @@
+{
+    "abstract": "Compatibility patches to make KSP's Luna Multiplayer support other mods. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "TheXankriegor",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "LunaMultiplayer"
+        }
+    ],
+    "description": "Complex mods are incompatible with Luna Multiplayer. LunaCompat adds compatibility patches for various mods via LMP part module configurations and Harmony patches. Patches are only applied to mods added to the modlist. Check the repository to see the full list of supported mods.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/TheXankriegor/LunaCompat/releases/download/0.0.11-pre/LunaCompat.zip?auth_key=1778682419-d92c81c6799146cfad6370076faf7ff6-0-bff9696e7b0f9f3756b51350c3dd01c4&size=210143&expireAt=1778682419",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "6125EDE7BDE24B3809F1929AB2E33443CA9E2F7C726592D087C417F8039DF45C"
+    },
+    "download_size": 210143,
+    "identifier": "LunaCompat",
+    "install": [
+        {
+            "find": "LunaCompat",
+            "install_to": "GameData"
+        },
+        {
+            "find": "LunaMultiplayer",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 299619,
+    "ksp_version": "1.12",
+    "license": "MIT",
+    "name": "Luna Compat [PRO-KCMIRROR]",
+    "release_date": "2026-05-11T16:39:15Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/TheXankriegor/LunaCompat/issues",
+        "remote-avc": "https://github.com/TheXankriegor/LunaCompat/raw/main/lunacompat.version",
+        "repository": "https://github.com/TheXankriegor/LunaCompat"
+    },
+    "spec_version": "v1.36",
+    "supports": [
+        {
+            "name": "LunaMultiplayer"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "config"
+    ],
+    "version": "0.0.11-pre",
+    "x_generated_by": "netkan"
+}

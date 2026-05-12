@@ -1,0 +1,62 @@
+{
+    "abstract": "kOS is a scriptable autopilot mod that allows you write small programs to automate specific tasks. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "many KSP-KOS contributers, currently dunbaratu and hvacengi",
+    "conflicts": [
+        {
+            "name": "kOS-Classic"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-KOS/KOS/releases/download/1.6.0/KOS-1.6.0.zip?auth_key=1778682419-69c0fe8e19334382804e9ae99fed5f77-0-d6f915dfc1eb1e0e89e64f48699e1589&size=3172828&expireAt=1778682419",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "9B834DD80554ABF2A8A5A60A5E5D158D438BC563226BC20BAE4262C19E8CA796"
+    },
+    "download_size": 3172828,
+    "identifier": "kOS",
+    "install": [
+        {
+            "file": "GameData/kOS",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 9331282,
+    "ksp_version_max": "1.12",
+    "ksp_version_min": "1.8",
+    "license": "GPL-3.0",
+    "name": "kOS: Scriptable Autopilot System [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "comment": "Earlier versions of MM have forward compatibility problems, according to the MM release notes.",
+            "min_version": "2.5.6",
+            "name": "ModuleManager"
+        }
+    ],
+    "release_date": "2026-05-11T17:58:38Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-KOS/KOS/issues",
+        "homepage": "https://ksp-kos.github.io/KOS_DOC/",
+        "manual": "https://ksp-kos.github.io/KOS_DOC/",
+        "remote-avc": "https://github.com/KSP-KOS/KOS/releases/latest/download/kOS.version",
+        "repository": "https://github.com/KSP-KOS/KOS"
+    },
+    "spec_version": "v1.36",
+    "suggests": [
+        {
+            "comment": "RT gives incentive to having local control of craft, even unmanned ones",
+            "min_version": "1.5.1",
+            "name": "RemoteTech"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "1:1.6.0",
+    "x_generated_by": "netkan"
+}
