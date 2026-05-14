@@ -1,0 +1,53 @@
+{
+    "abstract": "Faster, more features, fewer bugs. Provides a mechanism for other mods to interact with TweakScaleRescaled. This plugin has no overhead when TweakScaleRescaled is not installed. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Biotronic",
+        "pellinor",
+        "JonnyOThan"
+    ],
+    "conflicts": [
+        {
+            "name": "TweakScale-Redist"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JonnyOThan/TweakScale/releases/download/3.3.2.1/TweakScale-3.3.2.1.zip?auth_key=1778855665-f59fe8133e134ad59c96bfb0ac7a4369-0-fc3f92343c063d2d020637c623d073c5&size=168563&expireAt=1778855665",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "669199D6EC88EAB5335EE96FC0066C6AC035EDC332E079C627C636078847D38D"
+    },
+    "download_size": 168563,
+    "identifier": "TweakScaleRescaled-Redist",
+    "install": [
+        {
+            "file": "GameData/999_Scale_Redist.dll",
+            "install_to": "GameData"
+        },
+        {
+            "file": "GameData/999_Scale_Redist.version",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 7596,
+    "ksp_version_max": "1.12",
+    "ksp_version_min": "1.12.3",
+    "license": "CC-BY-NC-SA",
+    "name": "TweakScale Rescaled Redistributable [PRO-KCMIRROR]",
+    "provides": [
+        "TweakScale-Redist"
+    ],
+    "release_date": "2026-05-14T01:22:06Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/JonnyOThan/TweakScale/issues",
+        "manual": "https://github.com/JonnyOThan/TweakScale/wiki",
+        "remote-avc": "https://github.com/JonnyOThan/TweakScale/releases/latest/download/999_Scale_Redist.version",
+        "repository": "https://github.com/JonnyOThan/TweakScale"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "3.3.2.1",
+    "x_generated_by": "netkan"
+}

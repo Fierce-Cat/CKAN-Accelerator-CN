@@ -1,0 +1,55 @@
+{
+    "abstract": "This pack includes early Soviet probes such as Sputnik, Luna, Molniya and Polyot. Probes are meant to be used with my Soviet Rockets pack. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Raidernick",
+    "comment": "Ships installed again",
+    "depends": [
+        {
+            "name": "BDAnimationModules"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/SovietProbes/releases/download/v3.3/RN_Soviet_Probes_v3.3.zip?auth_key=1778855666-b17083a48f8e460d90c21aa44be5f7e8-0-75cd3b43602608a74735e8016280dbed&size=42159203&expireAt=1778855666",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6AE1B58738DAA11251614233A56DC78DD34B58A9",
+        "sha256": "1FF2B49EC00D8E60EBA362CB4830F33987DDEE507E605AA6CC58981764619E0F"
+    },
+    "download_size": 42159203,
+    "identifier": "RN-SovietProbes",
+    "install": [
+        {
+            "find": "RN_Soviet_Probes",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 99523151,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-ND-3.0",
+    "name": "Soviet Probes [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RN-SovietRockets"
+        }
+    ],
+    "release_date": "2026-05-13T22:03:29Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/SovietProbes/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/79433-*",
+        "manual": "https://github.com/KSP-RO/SovietProbes/wiki",
+        "remote-avc": "http://raw.githubusercontent.com/KSP-RO/SovietProbes/master/GameData/RN_Soviet_Probes/SovietProbes.version",
+        "repository": "https://github.com/KSP-RO/SovietProbes"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "uncrewed"
+    ],
+    "version": "1:v3.3",
+    "x_generated_by": "netkan"
+}
