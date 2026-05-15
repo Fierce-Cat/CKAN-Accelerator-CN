@@ -1,0 +1,62 @@
+{
+    "abstract": "kOS is a scriptable autopilot mod that allows you write small programs to automate specific tasks. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "many KSP-KOS contributers, currently dunbaratu and hvacengi",
+    "conflicts": [
+        {
+            "name": "kOS-Classic"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-KOS/KOS/releases/download/1.6.0.1/KOS-1.6.0.1.zip?auth_key=1778942073-31373d594c4745de9fe61e45344d86c2-0-c4599306b7417fef2e29ee944720ac2a&size=3172847&expireAt=1778942073",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "15557086E62DCBFE87C6C454EC835444575E9894",
+        "sha256": "D61EB36652FF94E793E280D5AFB49B22ABE70451638ED0AC6D2850483D8A3574"
+    },
+    "download_size": 3172847,
+    "identifier": "kOS",
+    "install": [
+        {
+            "file": "GameData/kOS",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 9331282,
+    "ksp_version_max": "1.12",
+    "ksp_version_min": "1.8",
+    "license": "GPL-3.0",
+    "name": "kOS: Scriptable Autopilot System [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "comment": "Earlier versions of MM have forward compatibility problems, according to the MM release notes.",
+            "min_version": "2.5.6",
+            "name": "ModuleManager"
+        }
+    ],
+    "release_date": "2026-05-14T11:57:30Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-KOS/KOS/issues",
+        "homepage": "https://ksp-kos.github.io/KOS_DOC/",
+        "manual": "https://ksp-kos.github.io/KOS_DOC/",
+        "remote-avc": "https://github.com/KSP-KOS/KOS/releases/latest/download/kOS.version",
+        "repository": "https://github.com/KSP-KOS/KOS"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "comment": "RT gives incentive to having local control of craft, even unmanned ones",
+            "min_version": "1.5.1",
+            "name": "RemoteTech"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "1:1.6.0.1",
+    "x_generated_by": "netkan"
+}
