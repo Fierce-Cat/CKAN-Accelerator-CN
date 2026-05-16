@@ -1,5 +1,5 @@
 {
-    "abstract": "Forked from Gaius Goodspeed's Goodspeed Aerospace Part & TweakScale plugin [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "abstract": "Rescale parts in the vessel editor.  Faster, more features, fewer bugs.",
     "author": [
         "Biotronic",
         "pellinor",
@@ -31,9 +31,13 @@
             "name": "TweakScaleRescaled-Redist"
         }
     ],
-    "download": "https://hk-github.mirror.kerbcat.cn/github/JonnyOThan/TweakScale/releases/download/3.3.2.1/TweakScale-3.3.2.1.zip?auth_key=1778942071-14b5e71abe9546599ad66984cb0f5395-0-1bfc63e1a6d227ef95e841ed4abecfdc&size=168563&expireAt=1778942071",
+    "download": [
+        "https://github.com/JonnyOThan/TweakScale/releases/download/3.3.2.1/TweakScale-3.3.2.1.zip",
+        "https://spacedock.info/mod/3514/TweakScale%20Rescaled/download/3.3.2.1"
+    ],
     "download_content_type": "application/zip",
     "download_hash": {
+        "sha1": "C3DC1A740C6B0DF9CE031886806B97CEE4D137BE",
         "sha256": "669199D6EC88EAB5335EE96FC0066C6AC035EDC332E079C627C636078847D38D"
     },
     "download_size": 168563,
@@ -45,10 +49,10 @@
         }
     ],
     "install_size": 418692,
-    "ksp_version_max": "1.12",
+    "ksp_version_max": "1.12.5",
     "ksp_version_min": "1.12.3",
     "license": "CC-BY-NC-SA",
-    "name": "TweakScale Rescaled [PRO-KCMIRROR]",
+    "name": "TweakScale Rescaled",
     "provides": [
         "TweakScale"
     ],
@@ -60,15 +64,17 @@
             "name": "KSPCommunityFixes"
         }
     ],
-    "release_date": "2026-05-14T01:22:06Z",
-    "release_status": "testing",
+    "release_date": "2026-05-15T16:50:08.072731+00:00",
     "resources": {
         "bugtracker": "https://github.com/JonnyOThan/TweakScale/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/223692-1125-tweakscalerescaled-scale-your-parts-in-the-editor/",
         "manual": "https://github.com/JonnyOThan/TweakScale/wiki",
         "remote-avc": "https://github.com/JonnyOThan/TweakScale/releases/latest/download/TweakScale.version",
-        "repository": "https://github.com/JonnyOThan/TweakScale"
+        "repository": "https://github.com/JonnyOThan/TweakScale",
+        "spacedock": "https://spacedock.info/mod/3514/TweakScale%20Rescaled",
+        "x_screenshot": "https://spacedock.info/content/JonnyOThan_33590/TweakScale_Rescaled/TweakScale_Rescaled-1707076072.png"
     },
-    "spec_version": "v1.36",
+    "spec_version": "v1.34",
     "tags": [
         "plugin",
         "convenience"
