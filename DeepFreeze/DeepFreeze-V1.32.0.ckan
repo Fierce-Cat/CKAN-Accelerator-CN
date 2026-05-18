@@ -1,0 +1,104 @@
+{
+    "abstract": "This mod provides the ability to freeze and thaw kerbals for those long space journeys.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "min_version": "2.3.5",
+            "name": "ModuleManager"
+        },
+        {
+            "name": "REPOSoftTech-Agencies"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "BackgroundResources"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/DeepFreezeUpdated/releases/download/1.32.0/DeepFreezeUpdated-1.12.5-1.32.0.zip",
+        "https://spacedock.info/mod/4262/DeepFreeze%20Updated/download/1.32.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6C0C159E97AABCD07EBD00848CD28C97ACB9E013",
+        "sha256": "D304D66B06585A55121D357FCFD83A7A0C6D2ABF28A048FA80BA68F948315053"
+    },
+    "download_size": 23321184,
+    "identifier": "DeepFreeze",
+    "install": [
+        {
+            "find": "REPOSoftTech/DeepFreeze",
+            "install_to": "GameData/REPOSoftTech"
+        }
+    ],
+    "install_size": 51468993,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "DeepFreeze Updated",
+    "recommends": [
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "BackgroundProcessing"
+        },
+        {
+            "name": "ShipManifest"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "AmpYearPowerManager"
+        }
+    ],
+    "release_date": "2026-05-17T20:11:41.537058+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/DeepFreezeUpdated/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/230664-112x-deepfreeze-updated",
+        "manual": "https://github.com/linuxgurugamer/DeepFreezeUpdated/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/DeepFreeze/refs/heads/master/DeepFreezeUpdated.version",
+        "repository": "https://github.com/linuxgurugamer/DeepFreezeUpdated",
+        "spacedock": "https://spacedock.info/mod/4262/DeepFreeze%20Updated",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/DeepFreeze_Updated/DeepFreeze_Updated-1778635352.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Snacks"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "crewed"
+    ],
+    "version": "V1.32.0",
+    "x_generated_by": "netkan",
+    "x_via": "Author JPLRepo"
+}

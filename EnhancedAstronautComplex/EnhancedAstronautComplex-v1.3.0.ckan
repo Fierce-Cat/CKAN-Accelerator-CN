@@ -1,13 +1,13 @@
 {
     "abstract": "(KSP Mod) Enhanced Astronaut Complex [All download links for this mod have been accelerated by KERBCAT.COM]",
     "author": "ItchyBrother",
-    "download": "https://hk-github.mirror.kerbcat.cn/github/ItchyBrother/EAC/releases/download/v1.3.0/EACv1.3.0.zip?auth_key=1779114704-8d421b8b6bbd4ee1b0594622e11016f2-0-c9e93640427b78bbbdce4d90f0446ff7&size=3515967&expireAt=1779114704",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ItchyBrother/EAC/releases/download/v1.3.0/EACv1.3.0.zip?auth_key=1779201716-72dce9c1254c472c851f0587db825638-0-801e6979eb6c65351ed722038d33df1f&size=3513850&expireAt=1779201716",
     "download_content_type": "application/zip",
     "download_hash": {
-        "sha1": "5330CA86B4FCECB37938F5ACB283C143D41A6650",
-        "sha256": "61657B38D0A5BEBF9A59DBDD0EB6B764EBE4F4128E8539341DA9ED8C196B1514"
+        "sha1": "730A11660FA2A25AA0A9AF0BD3FF3F572FFA0F9F",
+        "sha256": "1875F90579D080D2F6D7DC8769FF94EEA002A97B16C51AB1096666F653355F74"
     },
-    "download_size": 3515967,
+    "download_size": 3513850,
     "identifier": "EnhancedAstronautComplex",
     "install": [
         {
@@ -15,17 +15,12 @@
             "install_to": "GameData"
         }
     ],
-    "install_size": 4565667,
+    "install_size": 4567392,
     "ksp_version_max": "1.12.5",
     "ksp_version_min": "1.12.0",
     "license": "CC-BY-NC-ND-4.0",
     "name": "Enhanced Astronaut Complex [PRO-KCMIRROR]",
-    "recommends": [
-        {
-            "name": "CrewQueueTwo"
-        }
-    ],
-    "release_date": "2026-05-16T18:20:33Z",
+    "release_date": "2026-05-17T14:10:48Z",
     "resources": {
         "bugtracker": "https://github.com/ItchyBrother/EAC/issues",
         "homepage": "https://forum.kerbalspaceprogram.com/topic/229909-enhanced-astronaut-complex-eac",
@@ -33,6 +28,20 @@
         "repository": "https://github.com/ItchyBrother/EAC"
     },
     "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CrewQueueTwo"
+        },
+        {
+            "name": "EarnYourStripes"
+        },
+        {
+            "name": "FlightTracker"
+        },
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
     "tags": [
         "plugin",
         "crewed"

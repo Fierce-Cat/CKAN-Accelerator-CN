@@ -1,0 +1,56 @@
+{
+    "abstract": "Official repository of the DPAI mod for Kerbal Space Program [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "bfishman",
+        "mwerle"
+    ],
+    "depends": [
+        {
+            "min_version": "2.6.22",
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/bfishman/Docking-Port-Alignment-Indicator/releases/download/v6.13.0.0/DockingPortAlignmentIndicator-6.13.0.0_20260517221144.zip?auth_key=1779201717-dfa6003ab3ba4ccc91a156df77844379-0-2399fc4812241034d0c917eb3b532762&size=1166572&expireAt=1779201717",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "D4F83D94330E1A2E1EC3BDEB234B9E4700152AA2B4B6C1DCCFD2E71D6655C6EE"
+    },
+    "download_size": 1166572,
+    "identifier": "DockingPortAlignmentIndicator",
+    "install": [
+        {
+            "file": "GameData/NavyFish",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1170755,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "fr-fr",
+        "ru"
+    ],
+    "name": "Docking Port Alignment Indicator [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RasterPropMonitor"
+        }
+    ],
+    "release_date": "2026-05-17T13:12:05Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/bfishman/Docking-Port-Alignment-Indicator/issues",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=361",
+        "repository": "https://github.com/bfishman/Docking-Port-Alignment-Indicator"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "v6.13.0.0",
+    "x_generated_by": "netkan"
+}
