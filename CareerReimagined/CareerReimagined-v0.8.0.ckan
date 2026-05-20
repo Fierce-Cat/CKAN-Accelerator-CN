@@ -1,0 +1,50 @@
+{
+    "abstract": "A mission-driven career overhaul. Complete milestones to unlock parts, spend science from bonus missions on optional upgrades. Free parts, tight building limits, no stock strategies. Alpha — feedback welcome! Requires Module Manager, Contract Configurator, and Custom Barn Kit. ",
+    "author": "CareerReimagined",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "CustomBarnKit"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4249/Career%20Reimagined/download/v0.8.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D6FC00A213ABFF845DCBDAE9D00F876677B86E8E",
+        "sha256": "4C756ABA1ED0058C01B76CE00AEFB9190D9425F4C13F7FE0294A365CFE5A31EB"
+    },
+    "download_size": 38646,
+    "identifier": "CareerReimagined",
+    "install": [
+        {
+            "find": "CareerR",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 280746,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Career Reimagined",
+    "release_date": "2026-05-19T04:18:02.428302+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/CareerReimagined/CareerReimagined/issues",
+        "repository": "https://github.com/CareerReimagined/CareerReimagined",
+        "spacedock": "https://spacedock.info/mod/4249/Career%20Reimagined",
+        "x_screenshot": "https://spacedock.info/content/CareerReimagined_183000/Career_Reimagined/Career_Reimagined-1779084521.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "career",
+        "config",
+        "plugin",
+        "tech-tree"
+    ],
+    "version": "v0.8.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

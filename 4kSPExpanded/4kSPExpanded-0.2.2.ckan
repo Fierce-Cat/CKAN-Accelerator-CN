@@ -1,0 +1,58 @@
+{
+    "abstract": "4kSP scales the map elements corresponding to the stock UI scale setting",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "4kSP"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/4ksp_Expanded/releases/download/0.2.2/4kSP-1.12.5-0.2.2.zip",
+        "https://spacedock.info/mod/2554/4kSP_Expanded/download/0.2.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8CAA93E34BDDF1E07EA9D11D8E9926B65D0E039E",
+        "sha256": "55C4277AAEB3472FE256EEDC7D9469F44D7035C059A5F62AF3C4E198008BB89C"
+    },
+    "download_size": 42537,
+    "identifier": "4kSPExpanded",
+    "install": [
+        {
+            "find": "4ksp",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 64034,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.3",
+    "license": "MIT",
+    "name": "4kSP_Expanded",
+    "release_date": "2026-05-19T22:17:23.498923+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/4ksp_Expanded/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/197794-18x-19x-110x-4ksp-expanded/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/4ksp_Expanded/master/4kSP.version",
+        "repository": "https://github.com/linuxgurugamer/4ksp_Expanded",
+        "spacedock": "https://spacedock.info/mod/2554/4kSP_Expanded",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/4kSP_Expanded/4kSP_Expanded-1603995829.391196.jpg"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "convenience",
+        "information",
+        "graphics"
+    ],
+    "version": "0.2.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

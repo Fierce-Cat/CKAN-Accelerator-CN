@@ -1,0 +1,56 @@
+{
+    "abstract": "In-game patch manager, makes adding/removing patches more friendly. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/PatchManager/releases/download/0.0.17.8/PatchManager-1.12.5-0.0.17.8.zip?auth_key=1779374405-e31054f2b02e466595afcb2c6dbf755d-0-a35bffdf870efa8aeb8e254a22459297&size=37959&expireAt=1779374405",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BDCE2363C66A64D9C2F5029D5B90401ECF9DF245",
+        "sha256": "70B6315D92E5E0B2E3100372A08CE1E2C395192AC2AD6B988EA429E72A7712C8"
+    },
+    "download_size": 37959,
+    "identifier": "PatchManager",
+    "install": [
+        {
+            "find": "PatchManager",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 75418,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.9.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "ja",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Patch Manager [PRO-KCMIRROR]",
+    "release_date": "2026-05-19T22:09:25Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/PatchManager/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/163072-*",
+        "manual": "https://github.com/linuxgurugamer/PatchManager/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/PatchManager/refs/heads/master/PatchManager.version",
+        "repository": "https://github.com/linuxgurugamer/PatchManager"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "0.0.17.8",
+    "x_generated_by": "netkan"
+}

@@ -1,6 +1,17 @@
 {
     "abstract": "A plugin for Kerbal Space Program which provides a simple framework for simulating propellant mixtures across fuel tanks, engines and RCS thrusters.",
     "author": "Charle_Roger",
+    "conflicts": [
+        {
+            "name": "TweakScale"
+        },
+        {
+            "name": "TweakScaleCompanion"
+        },
+        {
+            "name": "TweakScaleCompanion-ReStockPlus"
+        }
+    ],
     "depends": [
         {
             "name": "ModuleManager"
@@ -37,10 +48,17 @@
         "spacedock": "https://spacedock.info/mod/3868/Ignition!"
     },
     "spec_version": "v1.34",
+    "supports": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "TweakScaleRescaled"
+        }
+    ],
     "tags": [
         "plugin"
     ],
     "version": "1.2.3.1",
-    "x_generated_by": "netkan",
-    "x_via": "Automated SpaceDock CKAN submission"
+    "x_generated_by": "netkan"
 }

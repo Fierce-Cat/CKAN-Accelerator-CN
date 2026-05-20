@@ -9,13 +9,13 @@
             "name": "B9PartSwitch"
         },
         {
-            "name": "Ignition"
+            "name": "CommunityResourcePack"
         },
         {
             "name": "ChemicalCore"
         },
         {
-            "name": "CommunityResourcePack"
+            "name": "Ignition"
         }
     ],
     "download": [
@@ -29,6 +29,12 @@
     },
     "download_size": 493072,
     "identifier": "ChemicalPropulsion",
+    "install": [
+        {
+            "find": "ChemicalPropulsion",
+            "install_to": "GameData"
+        }
+    ],
     "install_size": 1251104,
     "ksp_version": "1.12.5",
     "license": "GPL-3.0",
@@ -40,7 +46,13 @@
     "name": "Chemical Propulsion",
     "recommends": [
         {
+            "name": "ChemicalTechTree"
+        },
+        {
             "name": "AlcoholicAeronautics"
+        },
+        {
+            "name": "BluedogDesignBureau"
         },
         {
             "name": "CryoEngines"
@@ -65,6 +77,15 @@
         },
         {
             "name": "ReStockPlus"
+        },
+        {
+            "name": "SpaceDust"
+        },
+        {
+            "name": "SpaceDust"
+        },
+        {
+            "name": "SupplementaryElectricEngines"
         },
         {
             "name": "VABOrganizer"
@@ -147,16 +168,37 @@
             "name": "Mk-33"
         },
         {
+            "name": "Mk2Expansion"
+        },
+        {
+            "name": "Mk3Expansion"
+        },
+        {
             "name": "ModularFuelTanks"
         },
         {
-            "name": "ProbesBeforeCrew"
+            "name": "MoldaviteMachines"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "RocketMotorMenagerie"
         },
         {
             "name": "ShuttleOrbiterConstructionKit"
         },
         {
             "name": "SillyPhotonDrives"
+        },
+        {
+            "name": "SkyhawkScienceSystem"
+        },
+        {
+            "name": "SMURFF"
+        },
+        {
+            "name": "SXTContiued"
         },
         {
             "name": "SystemHeat"
@@ -166,6 +208,9 @@
         },
         {
             "name": "UnKerballedStart"
+        },
+        {
+            "name": "UrsaPod"
         }
     ],
     "tags": [

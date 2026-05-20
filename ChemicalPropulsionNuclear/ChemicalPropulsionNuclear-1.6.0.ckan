@@ -1,5 +1,5 @@
 {
-    "abstract": "An extension pack for Chemical Propulsion which adds high-thrust, low-isp propellant options to NTRs",
+    "abstract": "An extension pack for Chemical Propulsion which adds high-thrust, low-isp propellant options to thermal rockets",
     "author": "Charle_Roger",
     "depends": [
         {
@@ -9,13 +9,16 @@
             "name": "B9PartSwitch"
         },
         {
+            "name": "CommunityResourcePack"
+        },
+        {
             "name": "ChemicalCore"
         },
         {
             "name": "ChemicalPropulsion"
         },
         {
-            "name": "CommunityResourcePack"
+            "name": "Ignition"
         }
     ],
     "download": [

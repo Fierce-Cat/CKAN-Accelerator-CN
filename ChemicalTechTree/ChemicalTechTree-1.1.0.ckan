@@ -6,11 +6,10 @@
             "name": "ModuleManager"
         },
         {
-            "name": "CommunityResourcePack"
+            "name": "ChemicalCore"
         },
         {
-            "min_version": "1.5.0",
-            "name": "ChemicalCore"
+            "name": "CommunityResourcePack"
         },
         {
             "name": "HideEmptyTechNodes"
@@ -41,6 +40,41 @@
         "x_screenshot": "https://spacedock.info/content/Charle_Roger_139212/Chemical_Tech_Tree/Chemical_Tech_Tree-1778850797.png"
     },
     "spec_version": "v1.34",
+    "supports": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "CrusoeSpaceIndustriesTechTree"
+        },
+        {
+            "name": "GradualProgressionTechTree"
+        },
+        {
+            "name": "KiwiTechTree"
+        },
+        {
+            "name": "ProbesBeforeCrew"
+        },
+        {
+            "name": "QUARTIXTechTree"
+        },
+        {
+            "name": "SimplexTechTree"
+        },
+        {
+            "name": "SkyhawkScienceSystem"
+        },
+        {
+            "name": "TechTreeKompacted"
+        },
+        {
+            "name": "TETRIXTechTree"
+        },
+        {
+            "name": "UnKerballedStart"
+        }
+    ],
     "tags": [
         "config",
         "tech-tree"
