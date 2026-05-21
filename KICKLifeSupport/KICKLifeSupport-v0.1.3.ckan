@@ -1,0 +1,57 @@
+{
+    "abstract": "A realistic life support mod",
+    "author": "woodywood245",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4079/KICK%20Life%20Support/download/v0.1.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "374BFC64DB76D21BFBF5CE611B6E8C92683BE36A",
+        "sha256": "5E25531697EC3ED2B39ABED8FD321BF775F6789C1941187D628AAE0C13E79B4C"
+    },
+    "download_size": 325557,
+    "identifier": "KICKLifeSupport",
+    "install": [
+        {
+            "find": "KickLifeSupport",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1488031,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "KICK Life Support",
+    "release_date": "2026-05-20T07:55:30.894004+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/griderdm/KickLifeSupport/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/229389-kick-life-support/",
+        "remote-avc": "https://raw.githubusercontent.com/griderdm/KickLifeSupport/refs/heads/master/GameData/KickLifeSupport/KickLifeSupport.version",
+        "repository": "https://github.com/griderdm/KickLifeSupport",
+        "spacedock": "https://spacedock.info/mod/4079/KICK%20Life%20Support"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "UniversalStorage2"
+        },
+        {
+            "name": "SystemHeat"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "v0.1.3",
+    "x_generated_by": "netkan"
+}

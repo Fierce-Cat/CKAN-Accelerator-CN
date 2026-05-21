@@ -1,0 +1,115 @@
+{
+    "abstract": "KSP mod that adds new ways to get science from space stations. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "N3h3miah",
+        "Micha"
+    ],
+    "conflicts": [
+        {
+            "name": "KeminiResearchProgram"
+        },
+        {
+            "name": "KerbalEnvironmentalEffectsStudy"
+        },
+        {
+            "name": "KerbalLifeScience"
+        },
+        {
+            "name": "NehemiahInc-Complete"
+        },
+        {
+            "name": "NehemiahMultiPurposeParts"
+        },
+        {
+            "name": "NehemiahScienceCommon"
+        },
+        {
+            "name": "OrbitalMaterialScience"
+        },
+        {
+            "max_version": "2.99",
+            "name": "Kerbalism"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KIS"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/mwerle/OrbitalMaterialScience/releases/download/0.10.0/NehemiahEngineeringOrbitalScience_0.10.0.0_20260521094716.zip?auth_key=1779460937-41ae39d272c2411890dcf54523dee889-0-6bf6c783f80af620f254754e0f510c08&size=17715920&expireAt=1779460937",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E851D6FB552830F0EDEFC524DA050E04762A9910",
+        "sha256": "0FAC420D7CCF3F1CF28AF136514516A9EEEED5A2C69571D04F077D71ABB5035D"
+    },
+    "download_size": 17715920,
+    "identifier": "NehemiahEngineeringOrbitalScience",
+    "install": [
+        {
+            "find": "NehemiahInc",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 131011067,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.11.0",
+    "license": "GPL-3.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es"
+    ],
+    "name": "Orbital Material Science [PRO-KCMIRROR]",
+    "provides": [
+        "NehemiahInc-Complete",
+        "NehemiahScienceCommon",
+        "NehemiahMultiPurposeParts",
+        "KeminiResearchProgram",
+        "KerbalEnvironmentalEffectsStudy",
+        "KerbalLifeScience",
+        "OrbitalMaterialScience"
+    ],
+    "recommends": [
+        {
+            "name": "Corvus125mTwoKerbalPod"
+        },
+        {
+            "name": "K2CommandPodCont"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        }
+    ],
+    "release_date": "2026-05-21T00:50:31Z",
+    "resources": {
+        "bugtracker": "https://github.com/mwerle/OrbitalMaterialScience/issues",
+        "manual": "https://github.com/mwerle/OrbitalMaterialScience/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/mwerle/OrbitalMaterialScience/master/GameData/NehemiahInc/NEOS.version",
+        "repository": "https://github.com/mwerle/OrbitalMaterialScience"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "DockingPortAlignmentIndicator"
+        },
+        {
+            "name": "UniversalStorage2"
+        }
+    ],
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts",
+        "science",
+        "crewed"
+    ],
+    "version": "0.10.0",
+    "x_generated_by": "netkan"
+}
