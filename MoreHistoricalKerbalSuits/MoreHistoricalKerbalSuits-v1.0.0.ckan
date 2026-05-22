@@ -1,0 +1,42 @@
+{
+    "abstract": "Kerbal suits based on even more historical space suits equipment",
+    "author": "KerbalHub",
+    "depends": [
+        {
+            "name": "Benjee10Suits"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4269/More%20Historical%20Kerbal%20Suits/download/v1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "563A3DEE2E83127534DB524E53BB57B8E0CB6DFD",
+        "sha256": "DEC61D187209055C24FFD2AC1532CF8CF2227AC566BCDE4EA9DC36DF07FB2FA6"
+    },
+    "download_size": 38367848,
+    "identifier": "MoreHistoricalKerbalSuits",
+    "install": [
+        {
+            "find": "KH759_Suits",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 105207845,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "More Historical Kerbal Suits",
+    "release_date": "2026-05-17T04:10:54.644142+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/230658-112x-more-historical-kerbal-suits-gemini-shenzhou-more-coming/",
+        "spacedock": "https://spacedock.info/mod/4269/More%20Historical%20Kerbal%20Suits",
+        "x_screenshot": "https://spacedock.info/content/KerbalHub_121874/More_Historical_Kerbal_Suits/More_Historical_Kerbal_Suits-1778991798.jpg"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "suits",
+        "crewed",
+        "graphics"
+    ],
+    "version": "v1.0.0",
+    "x_generated_by": "netkan"
+}

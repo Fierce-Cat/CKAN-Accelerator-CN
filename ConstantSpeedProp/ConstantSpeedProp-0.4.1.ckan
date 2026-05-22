@@ -1,0 +1,39 @@
+{
+    "abstract": "Automatic constant-speed variable-pitch propeller governor for Breaking Ground rotors [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "AAA-driver-Yang",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "BreakingGround-DLC"
+        }
+    ],
+    "description": "Adds an automatic constant-speed variable-pitch propeller governor to KSP1 Breaking Ground robotic rotors. It adjusts propeller blade pitch to maintain a target RPM while providing fast response and anti-stall protection for DLC propeller aircraft, including counter-rotating and coaxial setups.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/AAA-driver-Yang/ConstantSpeedProp/releases/download/v0.4.1/ConstantSpeedProp-0.4.1.zip?auth_key=1779547399-150ee13609944084832b070aaf7a1bfb-0-4f8b9b3218a0066699533a6ad0194222&size=14533&expireAt=1779547399",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "344BB8ED373524FB0649C90DC2A2644EFDAEE011",
+        "sha256": "3121D236313514ED9EC0D7226B4B3015E9D3D3C25669B8BF0584D6DC2A26A362"
+    },
+    "download_size": 14533,
+    "identifier": "ConstantSpeedProp",
+    "install_size": 35095,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "Constant Speed Prop [PRO-KCMIRROR]",
+    "release_date": "2026-05-08T15:32:17Z",
+    "resources": {
+        "bugtracker": "https://github.com/AAA-driver-Yang/ConstantSpeedProp/issues",
+        "remote-avc": "https://raw.githubusercontent.com/AAA-driver-Yang/ConstantSpeedProp/main/GameData/ConstantSpeedProp/ConstantSpeedProp.version",
+        "repository": "https://github.com/AAA-driver-Yang/ConstantSpeedProp"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "0.4.1",
+    "x_generated_by": "netkan"
+}
