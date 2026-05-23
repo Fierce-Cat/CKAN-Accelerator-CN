@@ -6,16 +6,13 @@
             "name": "ModuleManager"
         },
         {
-            "name": "BDArmoryContinued"
+            "name": "BDArmory"
         },
         {
             "name": "ProceduralParts"
-        },
-        {
-            "name": "B9-PWings-Fork"
         }
     ],
-    "download": "https://hk-github.mirror.kerbcat.cn/github/jrodrigv/BDModularMissileParts/releases/download/v3.0/BDModularMissileParts_3.0_05072020.zip?auth_key=1779547402-82f5f708c0cd4c3c94d3a031c3421b77-0-38cc2f9a213380eb9397a6a23c882301&size=2048502&expireAt=1779547402",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/jrodrigv/BDModularMissileParts/releases/download/v3.0/BDModularMissileParts_3.0_05072020.zip?auth_key=1779632936-965cbea75bcb468aaeadb8a48d25054b-0-07d4989f6c606cd4e404eb763eb3e6b1&size=2048502&expireAt=1779632936",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "E5FE5557DE8278F58445138BDABC3435BA441278",
@@ -28,6 +25,11 @@
     "ksp_version_min": "1.9.1",
     "license": "GPL-3.0",
     "name": "BD Modular Missile Parts [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "B9-PWings-Fork"
+        }
+    ],
     "release_date": "2020-05-07T18:38:19Z",
     "resources": {
         "bugtracker": "https://github.com/jrodrigv/BDModularMissileParts/issues",
