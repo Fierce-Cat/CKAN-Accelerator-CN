@@ -1,0 +1,56 @@
+{
+    "abstract": "Baseline stuff for ISRU plus other helpful things like fancy lights [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "WildBlueCore"
+        },
+        {
+            "name": "WildBlueTools"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.6/SterlingSystems_Utilities_0.6.zip?auth_key=1779719944-8e2ed8f813d840b49405573e208c1151-0-2eec4437bb729bc97b425b8d4f503b48&size=31100527&expireAt=1779719944",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "37CF9779D80857DF59F82C5B50BF23DB08358B2C",
+        "sha256": "7B3AB491C9780AE8EF1A3BA9AEE054C54332ADC7E7984F1DDBA20DAB196AA2C7"
+    },
+    "download_size": 31100527,
+    "identifier": "SterlingSystemsUtilities",
+    "install": [
+        {
+            "find": "Utilities",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 76914223,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Utilities [PRO-KCMIRROR]",
+    "release_date": "2026-05-24T00:45:42Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "manual": "https://github.com/JadeOfMaar/SterlingSystems/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "parts",
+        "resources"
+    ],
+    "version": "0.6",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,51 @@
+{
+    "abstract": "Engines that burn fusion fuels [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "SterlingSystemsEngines"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.6/SterlingSystems_Engines_0.6.zip?auth_key=1779719946-fc31e32336054553bee79c5a7fa2153c-0-6b77504a434fff838fa7653f8a581a4d&size=43371477&expireAt=1779719946",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F95A1A12F66AE110FD9BB886B28C38223F6C1FFD",
+        "sha256": "ADB3086518A9B528437E93DF8F73AB3CC18F8D9AD1805B35ABB831DB407BAF53"
+    },
+    "download_size": 43371477,
+    "identifier": "SterlingSystemsEnginesFusion",
+    "install": [
+        {
+            "find": "EnginesFusion",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 104344847,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Engines - Fusion [PRO-KCMIRROR]",
+    "release_date": "2026-05-24T00:45:25Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "manual": "https://github.com/JadeOfMaar/SterlingSystems/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.6",
+    "x_generated_by": "netkan"
+}
