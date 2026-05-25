@@ -1,0 +1,64 @@
+{
+    "abstract": "ROLib contains the common code supporting multiple RO* modules [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "pap1723",
+        "KSP-RO"
+    ],
+    "conflicts": [
+        {
+            "name": "TweakableEverythingCont"
+        }
+    ],
+    "depends": [
+        {
+            "name": "TexturesUnlimited",
+            "suppress_recommendations": true
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/ROLibrary/releases/download/v2.1.0.0/ROLib-v2.1.0.0.zip?auth_key=1779806879-95454936091b470f95b7147289d75dc2-0-d4f87d9686da1a8765442e640d8e6c86&size=84484&expireAt=1779806879",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2A0A9B3DCBF459990B111AF38D5C41E08B503489",
+        "sha256": "4F90337CCA02B48790C8186D0FBA993190B8E35214F1549E427E607980A07BC0"
+    },
+    "download_size": 84484,
+    "identifier": "ROLib",
+    "install_size": 182034,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-SA-4.0",
+    "name": "RO Library [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ROEngines"
+        },
+        {
+            "name": "ROTanks"
+        },
+        {
+            "name": "ROSolar"
+        },
+        {
+            "name": "ROCapsules"
+        },
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "RP-1"
+        }
+    ],
+    "release_date": "2026-05-24T21:30:41Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/ROLibrary/issues",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/ROLibrary/master/GameData/ROLib/ROLib.version",
+        "repository": "https://github.com/KSP-RO/ROLibrary"
+    },
+    "spec_version": 1,
+    "tags": [
+        "library",
+        "plugin"
+    ],
+    "version": "v2.1.0.0",
+    "x_generated_by": "netkan"
+}
