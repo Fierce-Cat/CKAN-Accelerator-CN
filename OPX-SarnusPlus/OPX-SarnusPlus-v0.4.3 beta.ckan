@@ -1,0 +1,60 @@
+{
+    "abstract": "Outer Planets Expansion's additions and modifications to the Sarnus system",
+    "author": "TheMinmusDerp",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "VertexHeightOblateAdvanced"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3672/OPX:%20SarnusPlus/download/v0.4.3%20beta",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2F3FA737BDC4F1769402DF07CB56EFC09306E4A5",
+        "sha256": "A56D3E9EDB09ACC669C57673E2B1F25947044BCA3904EA588362829404638E2C"
+    },
+    "download_size": 125597067,
+    "identifier": "OPX-SarnusPlus",
+    "install_size": 216086506,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "OPX: SarnusPlus",
+    "release_date": "2026-05-26T04:18:07.092204+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/TheMinmusDerp/OPX-SarnusPlus/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/225300-112x-planet-pack-outer-planets-expansion-opx/",
+        "repository": "https://github.com/TheMinmusDerp/OPX-SarnusPlus",
+        "spacedock": "https://spacedock.info/mod/3672/OPX:%20SarnusPlus",
+        "x_screenshot": "https://spacedock.info/content/TheMinmusDerp_137781/OPX_SarnusPlus/OPX_SarnusPlus-1755721256.png"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "ResearchBodies"
+        },
+        {
+            "name": "KopernicusExpansionContinueder"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "v0.4.3 beta",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,47 @@
+{
+    "abstract": "Better looking Waterfall FX for KSP's RCS thrusters.",
+    "author": "yobeefjerky",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "download": [
+        "https://github.com/yobeefjerkyYBJ/BetterRCS_KSP/releases/download/v0.1.9a/z_BetterRCSv0.1.9a.zip",
+        "https://spacedock.info/mod/4083/BetterRCS/download/v0.1.9a"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "742B6B629681D247ECB7FE8347B07C083E163131",
+        "sha256": "8DA99703EF00623405150BCEDC0461A9EFF332CBE72768E370929D638DB8C2B8"
+    },
+    "download_size": 18185,
+    "identifier": "BetterRCS",
+    "install": [
+        {
+            "find": "z_BetterRCS",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 143630,
+    "ksp_version": "1.12.5",
+    "license": "unknown",
+    "name": "BetterRCS",
+    "release_date": "2026-05-26T23:08:33.701566+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/yobeefjerkyYBJ/BetterRCS_KSP/issues",
+        "repository": "https://github.com/yobeefjerkyYBJ/BetterRCS_KSP",
+        "spacedock": "https://spacedock.info/mod/4083/BetterRCS",
+        "x_screenshot": "https://spacedock.info/content/yobeefjerky_179441/BetterRCS/BetterRCS-1770918805.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "v0.1.9a",
+    "x_generated_by": "netkan"
+}
