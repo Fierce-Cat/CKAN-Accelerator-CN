@@ -1,6 +1,14 @@
 {
     "abstract": "A plugin that allows you to create reminder alarms at future periods to help you manage your flights and not warp past important times",
     "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
     "download": [
         "https://github.com/linuxgurugamer/KerbalAlarmClock/releases/download/3.14.2/KerbalAlarmClock-1.12.5-3.14.2.zip",
         "https://spacedock.info/mod/4287/Kerbal%20Alarm%20Clock%20Updated/download/3.14.2"
