@@ -1,0 +1,65 @@
+{
+    "abstract": "Robotic parts for your constructions [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Rudolf Meier",
+        "ZodiusInfuser",
+        "Ziw",
+        "sirkut"
+    ],
+    "conflicts": [
+        {
+            "name": "InfernalRobotics"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "IR-ConnectionSystem"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/meirumeiru/InfernalRobotics/releases/download/v3.1.22/InfernalRobotics_v3.1.22.zip?auth_key=1780412232-96c7a5ac461545628a47cfd6311fa2e2-0-014458a5651e7b2feb80ac4f5bbb57bc&size=3369302&expireAt=1780412232",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1E5F961195B5EEDFDC0FFB522C55535034F00A75",
+        "sha256": "7E5819E06909C86E7CC117FB89582727EE9B8DFE169882E12835FA1929C59052"
+    },
+    "download_size": 3369302,
+    "identifier": "InfernalRoboticsNext",
+    "install": [
+        {
+            "file": "GameData/MagicSmokeIndustries",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 10659432,
+    "ksp_version_min": "1.12.3",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Infernal Robotics - Next [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KerbalJointReinforcementNext"
+        },
+        {
+            "name": "CameraControllerNext"
+        }
+    ],
+    "release_date": "2026-05-31T12:22:15Z",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184787-*",
+        "manual": "https://github.com/meirumeiru/InfernalRobotics/wiki",
+        "remote-avc": "https://github.com/meirumeiru/InfernalRobotics/raw/develop/Resources/GameData/MagicSmokeIndustries/InfernalRobotics.version",
+        "repository": "https://github.com/meirumeiru/InfernalRobotics"
+    },
+    "spec_version": 1,
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "v3.1.22",
+    "x_generated_by": "netkan"
+}
