@@ -1,0 +1,55 @@
+{
+    "abstract": "This pack will include pretty much all probes ever launched by NASA and the US military. It is a long term project and I will be adding to it slowly over time. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Raidernick",
+    "comment": "Ships installed again",
+    "depends": [
+        {
+            "name": "BDAnimationModules"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/USProbesPack/releases/download/v0.88/RN_US_Probes_v0.88.zip?auth_key=1780586973-854cab3104eb4dbb8cb4548a972bf9f1-0-1a13295d4fadf834c23e3238fdb86bfc&size=139165935&expireAt=1780586973",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "697B76C45A06E5F43EE29D060CB3261FA428D4D9",
+        "sha256": "A964AECB118D8D83F549E11C3DE3A113AAA1C0A1E60FFDCAEF610C72028B71D4"
+    },
+    "download_size": 139165935,
+    "identifier": "RN-USProbesPack",
+    "install": [
+        {
+            "find": "RN_US_Probes",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 357836880,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-ND-3.0",
+    "name": "US Probes Pack [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RN-USRockets"
+        }
+    ],
+    "release_date": "2026-06-02T15:50:09Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/USProbesPack/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/84250-*",
+        "manual": "https://github.com/KSP-RO/USProbesPack/wiki",
+        "remote-avc": "http://raw.githubusercontent.com/KSP-RO/USProbesPack/master/GameData/RN_US_Probes/USProbesPack.version",
+        "repository": "https://github.com/KSP-RO/USProbesPack"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts",
+        "uncrewed"
+    ],
+    "version": "1:v0.88",
+    "x_generated_by": "netkan"
+}

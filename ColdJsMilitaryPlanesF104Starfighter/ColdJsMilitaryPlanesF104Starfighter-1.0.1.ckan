@@ -1,0 +1,42 @@
+{
+    "abstract": "A Kerbal version of a F-104 Starfighter",
+    "author": "ColdJ",
+    "download": "https://spacedock.info/mod/4284/ColdJ's%20Military%20Planes%20F-104%20Starfighter/download/1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "24047FD4A99654CB60A88A2D3E8459C915459633",
+        "sha256": "2BE76846E55000462C300A6DF0AAE406BB3EB21562350B84D0B9834AC276241B"
+    },
+    "download_size": 14522224,
+    "identifier": "ColdJsMilitaryPlanesF104Starfighter",
+    "install": [
+        {
+            "filter": "Craft",
+            "find": "CJMP",
+            "install_to": "GameData"
+        },
+        {
+            "as": "SPH",
+            "file": "GameData/CJMP/F104/Craft",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 28084415,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "ColdJ's Military Planes F-104 Starfighter",
+    "release_date": "2026-05-27T14:57:51.085974+00:00",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/223997-coldjs-military-planes/",
+        "spacedock": "https://spacedock.info/mod/4284/ColdJ's%20Military%20Planes%20F-104%20Starfighter",
+        "x_screenshot": "https://spacedock.info/content/ColdJ_60612/ColdJs_Military_Planes_F-104_Starfighter/ColdJs_Military_Planes_F-104_Starfighter-1779891735.jpg"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "crewed",
+        "first-person",
+        "parts"
+    ],
+    "version": "1.0.1",
+    "x_generated_by": "netkan"
+}

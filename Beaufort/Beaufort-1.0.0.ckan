@@ -1,0 +1,41 @@
+{
+    "abstract": "Unified GUI for wind & weather mods via WindAPI",
+    "author": "Snorpadorp",
+    "depends": [
+        {
+            "name": "WindAPI"
+        }
+    ],
+    "download": [
+        "https://github.com/Zondulus/Beaufort/releases/download/1.0.0/GameData.zip",
+        "https://spacedock.info/mod/4295/Beaufort/download/1.0.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "814EBA1A722375BCBF0DD6429A4F64F8D6D2E28E",
+        "sha256": "33892A727793DEE0C04B970A0550E46796D79C737E2CB80FD44C7062017CFE36"
+    },
+    "download_size": 16613,
+    "identifier": "Beaufort",
+    "install_size": 26864,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "CC0",
+    "name": "Beaufort",
+    "release_date": "2026-06-01T02:13:27.141747+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Zondulus/Beaufort/issues",
+        "homepage": "https://github.com/Zondulus/Beaufort",
+        "remote-avc": "https://github.com/Zondulus/Beaufort",
+        "repository": "https://github.com/Zondulus/Beaufort",
+        "spacedock": "https://spacedock.info/mod/4295/Beaufort",
+        "x_screenshot": "https://spacedock.info/content/Snorpadorp_179275/Beaufort/Beaufort-1780280013.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

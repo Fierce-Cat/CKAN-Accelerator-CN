@@ -1,0 +1,59 @@
+{
+    "abstract": "This mod contains various Soviet rockets derived from ICBM designs. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Raidernick",
+    "depends": [
+        {
+            "name": "BDAnimationModules"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/SovietRockets/releases/download/v3.11/RN_Soviet_Rockets_v3.11.zip?auth_key=1780586970-52b1e7d194784303b6ecc552f79d63ae-0-bf6a85cc86de9df3220bbe4b28f29a7e&size=121685636&expireAt=1780586970",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "519E319ADE1D4C76C068C3553FC9BC2A5991C133",
+        "sha256": "0BB5DEA156339883D95D6F811A12ABC9EA4971D92BA4AFB2D83A28A19CCB3DDC"
+    },
+    "download_size": 121685636,
+    "identifier": "RN-SovietRockets",
+    "install": [
+        {
+            "find": "RN_Soviet_Rockets",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 286476465,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.2.0",
+    "license": "CC-BY-NC-ND-3.0",
+    "name": "Soviet Rockets - R7/Proton/Zenit Rockets and more [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RN-SalyutStations"
+        },
+        {
+            "name": "RN-SovietSpacecraft"
+        },
+        {
+            "name": "RN-SovietProbes"
+        }
+    ],
+    "release_date": "2026-06-02T15:40:16Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/SovietRockets/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/79433-*",
+        "manual": "https://github.com/KSP-RO/SovietRockets/wiki",
+        "remote-avc": "http://raw.githubusercontent.com/KSP-RO/SovietRockets/master/GameData/RN_Soviet_Rockets/SovietRockets.version",
+        "repository": "https://github.com/KSP-RO/SovietRockets"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "2:v3.11",
+    "x_generated_by": "netkan"
+}

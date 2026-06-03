@@ -1,0 +1,66 @@
+{
+    "abstract": "A narrative campaign mod for Kerbal Space Program built on the Contract Configurator framework. Red Frontier augments KSP's open universe with a structured space program. With missions that build on each other, characters who comment on your progress, and infrastructure that persists and matters.  Chapter 1 takes you from first orbit to a self-sustaining operation in the Duna system.",
+    "author": "RedFrontier",
+    "depends": [
+        {
+            "name": "BreakingGround-DLC"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "download": [
+        "https://github.com/Red-Frontier/RedFrontier/releases/download/v0.1.9/RedFrontier.zip",
+        "https://spacedock.info/mod/4182/Red%20Frontier%20-%20Chapter%201/download/0.1.9"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F25E2D33F80CE03C3A7D2B0F69FFCE0BFC39E16C",
+        "sha256": "F98C95FE0C3C7E76766F4CF8CAD7115185E5E9A8947BF9301FBC56E5AE65731E"
+    },
+    "download_size": 106052,
+    "identifier": "RedFrontier",
+    "install": [
+        {
+            "find": "Red Frontier",
+            "install_to": "GameData/ContractPacks"
+        }
+    ],
+    "install_size": 539741,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-SA",
+    "name": "Red Frontier - Chapter 1",
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "KerbalPlanetaryBaseSystems"
+        }
+    ],
+    "release_date": "2026-06-01T16:55:22.865101+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Red-Frontier/RedFrontier/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/230042-red-frontier-chapter-1-release/",
+        "repository": "https://github.com/Red-Frontier/RedFrontier",
+        "spacedock": "https://spacedock.info/mod/4182/Red%20Frontier%20-%20Chapter%201",
+        "x_screenshot": "https://spacedock.info/content/RedFrontier_181149/Red_Frontier_-_Chapter_1/Red_Frontier_-_Chapter_1-1773892063.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "career",
+        "parts",
+        "plugin"
+    ],
+    "version": "0.1.9",
+    "x_generated_by": "netkan"
+}
