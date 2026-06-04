@@ -1,0 +1,100 @@
+{
+    "abstract": "Craft files for the various mods suggested by Realism Overhaul. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "al2me6",
+        "blowfishpro",
+        "Capkirk123",
+        "NathanKell",
+        "pjf",
+        "rsparkyc",
+        "SirKeplan",
+        "StollD",
+        "StonesmileGit",
+        "stratochief66",
+        "zorg2044",
+        "siimav"
+    ],
+    "conflicts": [
+        {
+            "name": "ROEngines"
+        },
+        {
+            "name": "ROCapsules"
+        }
+    ],
+    "depends": [
+        {
+            "name": "RealismOverhaul"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/RealismOverhaul/releases/download/v18.0.0.0/RealismOverhaul-v18.0.0.0.zip?auth_key=1780671500-12efb0f9a0cd497fabb4a8f2c0a9dec0-0-508f04a36cdc213c1f1b2607079406ec&size=19538975&expireAt=1780671500",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0AA6C92B9241461B0880B6FDB09A8E1256BEC9BB",
+        "sha256": "11DEA71F7C2DC463757AC3AF3459B17CCB835D931CC1C6C5145C5FB62A0B7494"
+    },
+    "download_size": 19538975,
+    "identifier": "RealismOverhaulCraftFiles",
+    "install": [
+        {
+            "comment": "VAB craft files",
+            "file": "Ships/VAB",
+            "install_to": "Ships"
+        },
+        {
+            "comment": "SPH craft files",
+            "file": "Ships/SPH",
+            "install_to": "Ships"
+        }
+    ],
+    "install_size": 16492900,
+    "license": "CC-BY-SA",
+    "name": "Realism Overhaul Craft Files [PRO-KCMIRROR]",
+    "release_date": "2026-06-03T14:00:36Z",
+    "release_status": "stable",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/RealismOverhaul/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155700-*",
+        "manual": "https://github.com/KSP-RO/RealismOverhaul/wiki",
+        "metanetkan": "https://raw.githubusercontent.com/KSP-RO/RealismOverhaul/master/RealismOverhaulCraftFiles.netkan",
+        "repository": "https://github.com/KSP-RO/RealismOverhaul"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "FASA"
+        },
+        {
+            "name": "AntaresCygnus"
+        },
+        {
+            "name": "RN-SovietRockets"
+        },
+        {
+            "name": "RN-SalyutStations"
+        },
+        {
+            "name": "RN-SovietSpacecraft"
+        },
+        {
+            "name": "RN-Skylab"
+        },
+        {
+            "name": "RN-SovietProbes"
+        },
+        {
+            "name": "RN-USProbesPack"
+        },
+        {
+            "name": "RN-USRockets"
+        },
+        {
+            "name": "NewTantares"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "v18.0.0.0",
+    "x_generated_by": "netkan"
+}

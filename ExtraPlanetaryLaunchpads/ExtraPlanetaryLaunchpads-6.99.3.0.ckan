@@ -51,9 +51,6 @@
         },
         {
             "name": "KerbalStats"
-        },
-        {
-            "name": "Toolbar"
         }
     ],
     "release_date": "2024-10-18T15:53:01.907455+00:00",
@@ -66,6 +63,11 @@
         "spacedock": "https://spacedock.info/mod/3735/Extraplanetary%20Launchpads"
     },
     "spec_version": 1,
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
     "tags": [
         "plugin",
         "parts",

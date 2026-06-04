@@ -1,0 +1,221 @@
+{
+    "abstract": "An overhaul to the stock propellant system, replacing generic LiquidFuel, Oxidizer, MonoPropellant and SolidFuel with a handful of real chemicals.",
+    "author": "Charle_Roger",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ChemicalCore"
+        },
+        {
+            "name": "Ignition"
+        }
+    ],
+    "download": [
+        "https://github.com/CharleRoger/ChemicalPropulsion/releases/download/1.6.1/ChemicalPropulsion-1.6.1.zip",
+        "https://spacedock.info/mod/3866/Chemical%20Propulsion/download/1.6.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "573BC96101A4CDF16F062584DC4635720DCD7246",
+        "sha256": "C1DEE88EAE074834847AF5028BCB3398EFF6D27E9D922B0D3516600E035C0E2A"
+    },
+    "download_size": 493720,
+    "identifier": "ChemicalPropulsion",
+    "install": [
+        {
+            "find": "ChemicalPropulsion",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1254298,
+    "ksp_version": "1.12.5",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Chemical Propulsion",
+    "recommends": [
+        {
+            "name": "ChemicalTechTree"
+        },
+        {
+            "name": "AlcoholicAeronautics"
+        },
+        {
+            "name": "BluedogDesignBureau"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "Labradoodle"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "SpaceDust"
+        },
+        {
+            "name": "SpaceDust"
+        },
+        {
+            "name": "SupplementaryElectricEngines"
+        },
+        {
+            "name": "VABOrganizer"
+        }
+    ],
+    "release_date": "2026-06-03T11:58:00.400266+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/CharleRoger/ChemicalPropulsion/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227705-112x-chemical-technologies-a-chemically-based-resource-overhaul/",
+        "remote-avc": "https://raw.githubusercontent.com/CharleRoger/ChemicalPropulsion/main/GameData/ChemicalPropulsion/Versioning/ChemicalPropulsion.version",
+        "repository": "https://github.com/CharleRoger/ChemicalPropulsion",
+        "spacedock": "https://spacedock.info/mod/3866/Chemical%20Propulsion",
+        "x_screenshot": "https://spacedock.info/content/Charle_Roger_139212/Chemical_Propulsion/Chemical_Propulsion-1754478636.png"
+    },
+    "spec_version": "v1.34",
+    "suggested": [
+        {
+            "name": "CommonwealthAeronauticsBlueSteel"
+        },
+        {
+            "name": "CRE"
+        },
+        {
+            "name": "CryoEnginesExtensions"
+        },
+        {
+            "name": "Knes"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "OCRAP"
+        },
+        {
+            "name": "Taerobee"
+        },
+        {
+            "name": "NewTantares"
+        },
+        {
+            "name": "NewTantaresLV"
+        },
+        {
+            "name": "TantaresSP"
+        },
+        {
+            "name": "UniversalStorage2"
+        }
+    ],
+    "supports": [
+        {
+            "name": "AirplanePlus"
+        },
+        {
+            "name": "ConfigurableContainers"
+        },
+        {
+            "name": "FarFutureTechnologies"
+        },
+        {
+            "name": "Firespitter"
+        },
+        {
+            "name": "Grounded"
+        },
+        {
+            "name": "SpaceXLegs"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "MissingHistory"
+        },
+        {
+            "name": "Mk-33"
+        },
+        {
+            "name": "Mk2Expansion"
+        },
+        {
+            "name": "Mk3Expansion"
+        },
+        {
+            "name": "ModularFuelTanks"
+        },
+        {
+            "name": "MoldaviteMachines"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "RocketMotorMenagerie"
+        },
+        {
+            "name": "ShuttleOrbiterConstructionKit"
+        },
+        {
+            "name": "SillyPhotonDrives"
+        },
+        {
+            "name": "SkyhawkScienceSystem"
+        },
+        {
+            "name": "SMURFF"
+        },
+        {
+            "name": "SXTContiued"
+        },
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "TundraExploration"
+        },
+        {
+            "name": "UnKerballedStart"
+        },
+        {
+            "name": "UrsaPod"
+        }
+    ],
+    "tags": [
+        "config"
+    ],
+    "version": "1.6.1",
+    "x_generated_by": "netkan"
+}
