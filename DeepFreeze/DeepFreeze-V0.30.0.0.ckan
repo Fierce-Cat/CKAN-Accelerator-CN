@@ -45,9 +45,6 @@
     "name": "DeepFreeze Continued...",
     "recommends": [
         {
-            "name": "Toolbar"
-        },
-        {
             "name": "RasterPropMonitor"
         },
         {
@@ -74,6 +71,9 @@
     },
     "spec_version": "v1.4",
     "suggests": [
+        {
+            "name": "Toolbar"
+        },
         {
             "name": "USI-LS"
         },

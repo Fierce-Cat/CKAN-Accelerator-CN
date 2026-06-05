@@ -40,11 +40,6 @@
         "zh-cn"
     ],
     "name": "AmpYear",
-    "recommends": [
-        {
-            "name": "Toolbar"
-        }
-    ],
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/114991-105-ampyear-main-reserve-power-manager-ion-rcs-traffic-light-icons-edition-v1200-28-feb-2016/",
         "repository": "https://github.com/JPLRepo/AmpYear",
@@ -52,6 +47,11 @@
         "x_screenshot": "https://spacedock.info/content/Jplrepo_405/AmpYear/AmpYear-1497785254.4353824.png"
     },
     "spec_version": "v1.6",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
     "tags": [
         "plugin",
         "parts",

@@ -24,11 +24,6 @@
     "ksp_version_min": "1.12.0",
     "license": "GPL-3.0",
     "name": "Toolbar Controller",
-    "recommends": [
-        {
-            "name": "Toolbar"
-        }
-    ],
     "release_date": "2021-08-07T14:37:16.584632+00:00",
     "resources": {
         "bugtracker": "https://github.com/linuxgurugamer/ToolbarControl/issues",
@@ -38,6 +33,11 @@
         "spacedock": "https://spacedock.info/mod/1931/ToolbarController"
     },
     "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
     "tags": [
         "plugin",
         "library"

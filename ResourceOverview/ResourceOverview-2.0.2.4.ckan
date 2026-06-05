@@ -28,11 +28,6 @@
     "ksp_version_min": "1.12.0",
     "license": "CC-BY-SA-4.0",
     "name": "Resource Overview",
-    "recommends": [
-        {
-            "name": "Toolbar"
-        }
-    ],
     "release_date": "2022-08-24T03:13:44.939503+00:00",
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/207937-112x-resource-overview-for-vabsph-and-flight/",
@@ -41,6 +36,11 @@
         "spacedock": "https://spacedock.info/mod/3021/Resource%20Overview"
     },
     "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
     "tags": [
         "plugin",
         "information",

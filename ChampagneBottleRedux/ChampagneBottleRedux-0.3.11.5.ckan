@@ -33,9 +33,6 @@
     "name": "Champagne Bottle Redux",
     "recommends": [
         {
-            "name": "Toolbar"
-        },
-        {
             "name": "JanitorsCloset"
         }
     ],
@@ -49,6 +46,11 @@
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Champagne_Bottle_Redux/Champagne_Bottle_Redux-1507555067.0730748.png"
     },
     "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
     "tags": [
         "plugin",
         "editor"

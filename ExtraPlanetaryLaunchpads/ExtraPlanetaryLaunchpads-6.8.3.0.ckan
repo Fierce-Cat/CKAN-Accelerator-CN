@@ -51,9 +51,6 @@
         },
         {
             "name": "Kethane"
-        },
-        {
-            "name": "Toolbar"
         }
     ],
     "release_status": "stable",
@@ -63,6 +60,11 @@
         "repository": "https://github.com/taniwha-qf/Extraplanetary-Launchpads"
     },
     "spec_version": 1,
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
     "tags": [
         "plugin",
         "parts",

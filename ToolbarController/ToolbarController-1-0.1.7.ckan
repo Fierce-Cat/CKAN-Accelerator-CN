@@ -27,17 +27,17 @@
     "ksp_version_min": "1.5.1",
     "license": "GPL-3.0",
     "name": "Toolbar Controller",
-    "recommends": [
-        {
-            "name": "Toolbar"
-        }
-    ],
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/169509-141-toolbar-controller-for-modders/",
         "repository": "https://github.com/linuxgurugamer/ToolbarControl/",
         "spacedock": "https://spacedock.info/mod/1931/ToolbarController"
     },
     "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
     "version": "1:0.1.7",
     "x_generated_by": "netkan",
     "x_via": "Automated Linuxgurugamer CKAN script"

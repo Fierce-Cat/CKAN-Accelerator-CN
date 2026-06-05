@@ -41,11 +41,6 @@
         "zh-cn"
     ],
     "name": "AmpYear",
-    "recommends": [
-        {
-            "name": "Toolbar"
-        }
-    ],
     "release_date": "2021-02-21T22:18:05.954248+00:00",
     "resources": {
         "bugtracker": "https://github.com/JPLRepo/AmpYear/issues",
@@ -56,6 +51,11 @@
         "x_screenshot": "https://spacedock.info/content/Jplrepo_405/AmpYear/AmpYear-1497785254.4353824.png"
     },
     "spec_version": "v1.6",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
     "tags": [
         "plugin",
         "parts",

@@ -39,9 +39,6 @@
     ],
     "recommends": [
         {
-            "name": "Toolbar"
-        },
-        {
             "name": "KerbalStats"
         },
         {
@@ -62,6 +59,9 @@
     },
     "spec_version": "v1.4",
     "suggests": [
+        {
+            "name": "Toolbar"
+        },
         {
             "name": "SimpleLogistics"
         },

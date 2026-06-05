@@ -42,9 +42,6 @@
         },
         {
             "name": "KIS"
-        },
-        {
-            "name": "Toolbar"
         }
     ],
     "release_date": "2020-02-28T23:18:40.462272+00:00",
@@ -55,6 +52,11 @@
         "x_screenshot": "https://spacedock.info/content/Jplrepo_405/Tarsier_Space_Technology_with_Galaxies_Continued/Tarsier_Space_Technology_with_Galaxies_Continued-1455817104.0385642.png"
     },
     "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "Toolbar"
+        }
+    ],
     "tags": [
         "plugin",
         "parts",
