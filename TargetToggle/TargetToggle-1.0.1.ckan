@@ -1,0 +1,38 @@
+{
+    "abstract": "Screen notification for F4 indicator toggling",
+    "author": "echolima",
+    "download": "https://spacedock.info/mod/4282/Target%20Toggle/download/1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "881D74251B4F14BC5D51367EC4BFFCC1D20E57F0",
+        "sha256": "C544A04754598BEEE7A1760311ACC0FEE9D360C16CAE819BF244814CCE78F83D"
+    },
+    "download_size": 7095,
+    "identifier": "TargetToggle",
+    "install": [
+        {
+            "find": "GameData/TargetToggle",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 10702,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "Target Toggle",
+    "release_date": "2026-06-09T01:49:00.195006+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/elil123qwerty/TargetToggle/issues",
+        "remote-avc": "https://raw.githubusercontent.com/elil123qwerty/TargetToggle/master/TargetToggle.version",
+        "repository": "https://github.com/elil123qwerty/TargetToggle",
+        "spacedock": "https://spacedock.info/mod/4282/Target%20Toggle",
+        "x_screenshot": "https://spacedock.info/content/echolima_184402/Target_Toggle/Target_Toggle-1780968488.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "information"
+    ],
+    "version": "1.0.1",
+    "x_generated_by": "netkan"
+}
