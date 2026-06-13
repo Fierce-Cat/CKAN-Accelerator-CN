@@ -1,0 +1,60 @@
+{
+    "abstract": "KlustellarSystem is a mod that adds a Pulsar system to KSP",
+    "author": "Surnus",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "ScaledDecorator"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "KopernicusExpansionContinueder"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4306/PulsarnovaSystem/download/1.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F63232374EE8D5C866548ECFBED8334D84D1B9CC",
+        "sha256": "43504D619CA43AF0AEE36A468B9F601EF0762089B5E1B4605BBDA28F219F4472"
+    },
+    "download_size": 261516726,
+    "identifier": "PulsarnovaSystem",
+    "install": [
+        {
+            "filter": ".gitignore",
+            "find": "PulsarnovaSystem",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 545565168,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-SA",
+    "name": "PulsarnovaSystem",
+    "release_date": "2026-06-07T13:50:21.387945+00:00",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/4306/PulsarnovaSystem",
+        "x_screenshot": "https://spacedock.info/content/Surnus_184093/KlustellarSystem/KlustellarSystem-1780664551.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ParallaxContinued"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.3",
+    "x_generated_by": "netkan"
+}

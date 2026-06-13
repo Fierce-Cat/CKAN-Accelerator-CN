@@ -1,0 +1,46 @@
+{
+    "abstract": "AutoResupply is a Kerbal Space Program plugin that adds automated orbital station resupply support.",
+    "author": "OfficialPlanet",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/RealPlanet/KSP-AutoResupply/releases/download/v1.0.2/KSP-AutoResupply.zip",
+        "https://spacedock.info/mod/4314/Auto%20Resupply/download/1.0.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "99B4CD1D49A2570C772A71E3E9729A117C75677A",
+        "sha256": "1082C37C2D7D1FC6F455B744ACF2C1E934E07C970E039D441847D6EEC06672B0"
+    },
+    "download_size": 14742,
+    "identifier": "AutoResupply",
+    "install": [
+        {
+            "filter_regexp": "\\.pdb$",
+            "find": "AutoResupply",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 15682,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Auto Resupply",
+    "release_date": "2026-06-08T23:22:41.423218+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/RealPlanet/KSP-AutoResupply/issues",
+        "homepage": "https://spacedock.info/mod/4314/Auto%20Resupply/",
+        "repository": "https://github.com/RealPlanet/KSP-AutoResupply",
+        "spacedock": "https://spacedock.info/mod/4314/Auto%20Resupply"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "plugin"
+    ],
+    "version": "1.0.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
