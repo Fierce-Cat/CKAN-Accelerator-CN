@@ -1,0 +1,41 @@
+{
+    "abstract": "moves fuel cells to earlier nodes",
+    "author": "Janbo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4260/Early%20fuel%20cells%20-%20Community%20Tech%20Tree%20patch/download/1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6CA783486CAE71E59468363B18F46EAED6188593",
+        "sha256": "7490A9801294449B960BC2E0A134467D1F561DF5A0A62C57E2FE9294A2679863"
+    },
+    "download_size": 291,
+    "identifier": "EarlyFuelCellsCommunityTechTreePatch",
+    "install": [
+        {
+            "file": "early-fuel-cells.cfg",
+            "install_to": "GameData/EarlyFuelCells"
+        }
+    ],
+    "install_size": 157,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Early fuel cells - Community Tech Tree patch",
+    "release_date": "2026-05-11T09:51:19.96777+00:00",
+    "resources": {
+        "repository": "https://pastebin.com/0Y97Ei8X",
+        "spacedock": "https://spacedock.info/mod/4260/Early%20fuel%20cells%20-%20Community%20Tech%20Tree%20patch"
+    },
+    "spec_version": "v1.2",
+    "tags": [
+        "config"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

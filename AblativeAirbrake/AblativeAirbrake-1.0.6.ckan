@@ -1,0 +1,48 @@
+{
+    "abstract": "A derived stockalike airbrake coated with ablator. ",
+    "author": "Skalou2",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1245/Ablative-Airbrake/download/1.0.6",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3A5623742228C954B24EB658B80EF545E03518B4",
+        "sha256": "6B92F940BE47DDA0D1197E2A996CEAF45DB51E63CD12F08B61032B37D3DED93E"
+    },
+    "download_size": 43651,
+    "identifier": "AblativeAirbrake",
+    "install": [
+        {
+            "find": "Ablative-Airbrake",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 95936,
+    "ksp_version": "1.12.5",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "zh-cn"
+    ],
+    "name": "Ablative-Airbrake",
+    "release_date": "2026-03-19T15:26:33.658322+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/skalou/Ablative-Airbrake/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/157353-122-ablative-airbrake-v010-5-march-2017/",
+        "remote-avc": "https://raw.githubusercontent.com/skalou/Ablative-Airbrake/master/Ablative-Aibrake_KSP-AVC",
+        "repository": "https://github.com/skalou/Ablative-Airbrake",
+        "spacedock": "https://spacedock.info/mod/1245/Ablative-Airbrake",
+        "x_screenshot": "https://spacedock.info/content/Skalou2_8819/Ablative-Airbrake/Ablative-Airbrake-1586618083.3074646.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.0.6",
+    "x_generated_by": "netkan"
+}

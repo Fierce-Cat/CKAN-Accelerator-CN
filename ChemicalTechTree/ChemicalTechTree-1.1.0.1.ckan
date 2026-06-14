@@ -1,0 +1,87 @@
+{
+    "abstract": "A tech tree extension mod which adds a progression through propellants and other chemicals, parallel to the main tech tree.",
+    "author": "Charle_Roger",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ChemicalCore"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "HideEmptyTechNodes"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        }
+    ],
+    "download": [
+        "https://github.com/CharleRoger/ChemicalTechTree/releases/download/1.1.0.1/ChemicalTechTree-1.1.0.1.zip",
+        "https://spacedock.info/mod/4214/Chemical%20Tech%20Tree/download/1.1.0.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D04153F109CA2EB15D246D536E44D0D5CE1525EA",
+        "sha256": "BF1D3CE68F8368A957342D072BA95FBA34650EE794DC0F0F1F7F03F52B79DA4E"
+    },
+    "download_size": 3326704,
+    "identifier": "ChemicalTechTree",
+    "install_size": 2063225,
+    "ksp_version": "1.12.5",
+    "license": "GPL-3.0",
+    "name": "Chemical Tech Tree",
+    "release_date": "2026-06-13T19:59:01.885961+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/CharleRoger/ChemicalTechTree/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/230298-112x-chemical-tech-tree-2026-04-18/",
+        "remote-avc": "https://raw.githubusercontent.com/CharleRoger/ChemicalTechTree/main/GameData/ChemicalTechTree/Versioning/ChemicalTechTree.version",
+        "repository": "https://github.com/CharleRoger/ChemicalTechTree",
+        "spacedock": "https://spacedock.info/mod/4214/Chemical%20Tech%20Tree",
+        "x_screenshot": "https://spacedock.info/content/Charle_Roger_139212/Chemical_Tech_Tree/Chemical_Tech_Tree-1778850797.png"
+    },
+    "spec_version": "v1.34",
+    "supports": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "CrusoeSpaceIndustriesTechTree"
+        },
+        {
+            "name": "GradualProgressionTechTree"
+        },
+        {
+            "name": "KiwiTechTree"
+        },
+        {
+            "name": "ProbesBeforeCrew"
+        },
+        {
+            "name": "QUARTIXTechTree"
+        },
+        {
+            "name": "SimplexTechTree"
+        },
+        {
+            "name": "SkyhawkScienceSystem"
+        },
+        {
+            "name": "TechTreeKompacted"
+        },
+        {
+            "name": "TETRIXTechTree"
+        },
+        {
+            "name": "UnKerballedStart"
+        }
+    ],
+    "tags": [
+        "config",
+        "tech-tree"
+    ],
+    "version": "1.1.0.1",
+    "x_generated_by": "netkan"
+}
