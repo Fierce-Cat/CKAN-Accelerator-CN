@@ -1,0 +1,64 @@
+{
+    "abstract": "Accurately simulate resources on your vessel while it is unloaded",
+    "author": "steamroller",
+    "conflicts": [
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "depends": [
+        {
+            "min_version": "4.2.3",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "2.2.1",
+            "name": "Harmony2"
+        },
+        {
+            "min_version": "1.7.4.11",
+            "name": "KSPBurst"
+        }
+    ],
+    "download": [
+        "https://github.com/Phantomical/BackgroundResourceProcessing/releases/download/v0.3.2/BackgroundResourceProcessing.zip",
+        "https://spacedock.info/mod/3934/Background%20Resource%20Processing/download/0.3.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9938165F4DF2ECC0A588A92816897784D7DC22FF",
+        "sha256": "DAB436CD5A8183674D5455666E28D1E1AC3903A85B1D7C0125397960AA7D285F"
+    },
+    "download_size": 776782,
+    "identifier": "BackgroundResourceProcessing",
+    "install_size": 1458526,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.5",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Background Resource Processing",
+    "recommends": [
+        {
+            "min_version": "1.7.4.11",
+            "name": "KSPBurst-Full"
+        }
+    ],
+    "release_date": "2026-06-15T07:35:49.82551+00:00",
+    "resources": {
+        "bugtracker": "https://github.com/Phantomical/BackgroundResourceProcessing/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228375-1125-background-resource-processing/",
+        "manual": "https://github.com/Phantomical/BackgroundResourceProcessing/wiki",
+        "remote-avc": "https://github.com/Phantomical/BackgroundResourceProcessing/releases/latest/download/BackgroundResourceProcessing.version",
+        "repository": "https://github.com/Phantomical/BackgroundResourceProcessing",
+        "spacedock": "https://spacedock.info/mod/3934/Background%20Resource%20Processing"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "resources"
+    ],
+    "version": "0.3.2",
+    "x_generated_by": "netkan"
+}
