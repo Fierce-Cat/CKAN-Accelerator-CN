@@ -2,7 +2,7 @@
     "abstract": "Play a solo or cooperative randomized version of one or more supported games [All download links for this mod have been accelerated by KERBCAT.COM]",
     "author": "Nick Davies",
     "description": "With Archipelago for KSP, you start with a small selection of random parts and must perform missions to unlock additional parts to get closer to your goal. Any time you achieve something for the first time such as orbiting a planet, taking a surface sample, planting a flag, etc., you will unlock new parts for yourself or other players in their games.\nGoals are selected by the player when they generate a new game, and things like flying to Duna and back, planting a flag on all bodies, returning a surface sample from every body are default goals players can chose from.",
-    "download": "https://hk-github.mirror.kerbcat.cn/github/nickdavies/KSP1-Archipelago-client/releases/download/v0.6.2/KSPArchipelago.zip?auth_key=1782744526-7f5680ffe31f42829b22a1986f3b78da-0-2834c0e9b4db2e04bac483fd5f385c9b&size=1146650&expireAt=1782744526",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/nickdavies/KSP1-Archipelago-client/releases/download/v0.6.2/KSPArchipelago.zip?auth_key=1782830946-b4b00b480a71494da9f125fd60e545a4-0-54e394444c7896e44600155a17ce1c25&size=1146650&expireAt=1782830946",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "3790764599DCB1F203FFA1A2EC61ADB2E06839DB",
@@ -22,6 +22,11 @@
         "repository": "https://github.com/nickdavies/KSP1-Archipelago-client"
     },
     "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KerbalKonstructs"
+        }
+    ],
     "tags": [
         "plugin"
     ],
