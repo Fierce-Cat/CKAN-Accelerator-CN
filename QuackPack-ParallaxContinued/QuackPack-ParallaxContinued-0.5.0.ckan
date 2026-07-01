@@ -1,0 +1,81 @@
+{
+    "abstract": "Parallax Continued Support for QuackPack ",
+    "author": "jthero3",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "QuackPack"
+        },
+        {
+            "name": "ParallaxContinued"
+        }
+    ],
+    "download": [
+        "https://github.com/jthero3/QuackPack-ParallaxContinued/releases/download/0.5.0/QuackPack-ParallaxContinued_0.5.0.zip",
+        "https://spacedock.info/mod/3835/QuackPack-ParallaxContinued/download/0.5.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6302D3609C1AC6EA2C1226EAB2D53A52A83AC100",
+        "sha256": "2C481F581723055580810404976C8B578E809BF8045D516DA9266248D2293188"
+    },
+    "download_size": 324511208,
+    "identifier": "QuackPack-ParallaxContinued",
+    "install": [
+        {
+            "find": "QuackPack-ParallaxContinued",
+            "install_to": "GameData"
+        },
+        {
+            "find": "Nereid",
+            "install_to": "GameData"
+        },
+        {
+            "find": "FireQuack",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 326210319,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA",
+    "name": "QuackPack-ParallaxContinued",
+    "recommends": [
+        {
+            "name": "Deferred"
+        },
+        {
+            "name": "FinalFrontier"
+        },
+        {
+            "name": "OrbitIconsPack"
+        },
+        {
+            "name": "Firefly"
+        }
+    ],
+    "release_date": "2026-06-29T05:17:13.263835Z",
+    "resources": {
+        "bugtracker": "https://github.com/jthero3/QuackPack-ParallaxContinued/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/226905-1125-aetherium-021-16-feb-2025-random-assortment-of-parallax-continued-configs/",
+        "repository": "https://github.com/jthero3/QuackPack-ParallaxContinued",
+        "spacedock": "https://spacedock.info/mod/3835/QuackPack-ParallaxContinued",
+        "x_screenshot": "https://spacedock.info/content/jthero3_151376/QuackPack-ParallaxContinued/QuackPack-ParallaxContinued-1741065593.png"
+    },
+    "spec_version": "v1.34",
+    "supports": [
+        {
+            "name": "QuackPack"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "0.5.0",
+    "x_generated_by": "netkan"
+}
