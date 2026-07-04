@@ -1,0 +1,39 @@
+{
+    "abstract": "A CFG-driven music mod framework for Kerbal Space Program.",
+    "author": "aeirvx",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://codeberg.org/xavier2910/MusicSwitcher/releases/download/0.3.2/MusicSwitcher-0.3.2.zip",
+        "https://spacedock.info/mod/4193/MusicSwitcher/download/0.3.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3D9233190FB9254C9E1205DC5785FB924D5700E2",
+        "sha256": "41890FFCBD1BDFA502FA2414B1EB927B929FB24DE7172AA5B5B2679F5FBB4C1A"
+    },
+    "download_size": 45595,
+    "identifier": "MusicSwitcher",
+    "install_size": 58898,
+    "ksp_version": "1.12.5",
+    "license": "AGPL-3.0",
+    "name": "MusicSwitcher",
+    "release_date": "2026-07-03T22:48:15.512693Z",
+    "resources": {
+        "bugtracker": "https://codeberg.org/xavier2910/MusicSwitcher/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/230125-music-wanted-112x-musicswitcher-010-a-cfg-driven-music-mod-framework-for-kerbal-space-program/",
+        "repository": "https://codeberg.org/xavier2910/MusicSwitcher/releases",
+        "spacedock": "https://spacedock.info/mod/4193/MusicSwitcher"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "sound",
+        "library"
+    ],
+    "version": "0.3.2",
+    "x_generated_by": "netkan"
+}
