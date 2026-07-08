@@ -1,0 +1,45 @@
+{
+    "abstract": "A HullcamVDS camera streaming mod, with an emphasis on performance and embedability.",
+    "author": "jpeps",
+    "depends": [
+        {
+            "name": "HullcamVDSContinued"
+        },
+        {
+            "name": "Harmony2"
+        }
+    ],
+    "download": [
+        "https://github.com/jonpepler/kerbcast/releases/download/v1.2.1/kerbcast-v1.2.1.zip",
+        "https://spacedock.info/mod/4366/Kerbcast/download/1.2.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "197BAFE11AB925571AFD31A2C5CE6EB3EB0652A4",
+        "sha256": "F88CBA71E57CF76946EDA303E54E4D2BE0673EEDB2E46196C6D6B1F2ADAB59BF"
+    },
+    "download_size": 65442741,
+    "identifier": "Kerbcast",
+    "install_size": 170311296,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA",
+    "name": "Kerbcast",
+    "release_date": "2026-07-07T16:49:56.912752Z",
+    "resources": {
+        "bugtracker": "https://github.com/jonpepler/kerbcast/issues",
+        "homepage": "https://github.com/jonpepler/kerbcast",
+        "remote-avc": "https://raw.githubusercontent.com/jonpepler/kerbcast/main/GameData/Kerbcast/Kerbcast.version",
+        "repository": "https://github.com/jonpepler/kerbcast",
+        "spacedock": "https://spacedock.info/mod/4366/Kerbcast",
+        "x_screenshot": "https://spacedock.info/content/jpeps_187577/Kerbcast/Kerbcast-1782694336.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "plugin",
+        "app"
+    ],
+    "version": "1.2.1",
+    "x_generated_by": "netkan"
+}
