@@ -1,0 +1,41 @@
+{
+    "abstract": "Collection of Textures Unlimited recolours for the vanilla game [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Manwith Noname",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KerbalPowers/TURD-StockRecolour/releases/download/v2.1/TU_Stock_Recolour_2.1.zip?auth_key=1783779727-06002b3798b54967825f2d75cbc201db-0-9d3321f0cf9f13e045230bd9a7e10169&size=226110846&expireAt=1783779727",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "84324A11AADB2C1B394536BC25735ADC88A76EF4",
+        "sha256": "D4D2E923BB40473CDB3DB52D9136442E2500D3C2FD4C79C22BDD620E3FE9D219"
+    },
+    "download_size": 226110846,
+    "identifier": "TURD-StockRecolour",
+    "install": [
+        {
+            "find": "TURD",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 614626489,
+    "license": "CC-BY-NC-SA-1.0",
+    "name": "TURD - Stock Recolour [PRO-KCMIRROR]",
+    "release_date": "2026-07-09T15:24:07Z",
+    "resources": {
+        "bugtracker": "https://github.com/KerbalPowers/TURD-StockRecolour/issues",
+        "repository": "https://github.com/KerbalPowers/TURD-StockRecolour"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "v2.1",
+    "x_generated_by": "netkan"
+}
