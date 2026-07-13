@@ -1,0 +1,62 @@
+{
+    "abstract": "A triple star system harboring mysterious planets and a strange object. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "ProximaCentauri-star",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "ScaledDecorator"
+        },
+        {
+            "name": "CosmicSerenity-Core"
+        },
+        {
+            "name": "VertexColorMapEmissive"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ProximaCentauri-star/Cosmic-Serenity/releases/download/3.1.1/_Atlas.zip?auth_key=1784037964-07d6f485c3c14878a05d371014579c8e-0-5215c0d61fa0b8ff37c84ca8d9b2006c&size=732247080&expireAt=1784037964",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E89CF7C60CFE466898651E5AB20971AEEBE09F84",
+        "sha256": "14F64494D0237F556F0227222BD4047401003FBEF5A5233DE386EABBEA6BE075"
+    },
+    "download_size": 732247080,
+    "identifier": "CosmicSerenity-Atlas",
+    "install": [
+        {
+            "find": "CosmicSerenity",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1383227637,
+    "license": "restricted",
+    "name": "Cosmic Serenity - Atlas System [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KopernicusExpansion"
+        },
+        {
+            "name": "Singularity"
+        }
+    ],
+    "release_date": "2026-07-12T21:27:04Z",
+    "resources": {
+        "bugtracker": "https://github.com/ProximaCentauri-star/Cosmic-Serenity/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228453-112x-cosmic-serenity-v10-wip/#comment-4473675",
+        "repository": "https://github.com/ProximaCentauri-star/Cosmic-Serenity"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "3.1.1",
+    "x_generated_by": "netkan"
+}
