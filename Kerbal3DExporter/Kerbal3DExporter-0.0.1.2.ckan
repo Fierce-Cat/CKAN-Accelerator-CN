@@ -1,0 +1,55 @@
+{
+    "abstract": "An editor/flight plugin for exporting the currently loaded (or active) craft as a 3D model suitable for visualization and 3D printing.",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/Kerbal-3D-Exporter/releases/download/0.0.1.2/Kerbal-3D-Exporter-1.12.5-0.0.1.2.zip",
+        "https://spacedock.info/mod/4396/Kerbal%203D%20Exporter/download/0.0.1.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "96DDEB58B930124373898D11277B4D8788079681",
+        "sha256": "5EA891FDA8FED36E5992BA3120228300AC115BA98052757AFF0337E025791CEF"
+    },
+    "download_size": 104502,
+    "identifier": "Kerbal3DExporter",
+    "install": [
+        {
+            "filter_regexp": "\\.pdb$",
+            "find": "Kerbal-3D-Exporter",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 188302,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "Kerbal 3D Exporter",
+    "release_date": "2026-07-14T04:08:35.421977Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/Kerbal-3D-Exporter/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/231352-112x-kerbal-3d-exporter-",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/Kerbal-3D-Exporter/refs/heads/main/Kerbal-3D-Exporter.version",
+        "repository": "https://github.com/linuxgurugamer/Kerbal-3D-Exporter",
+        "spacedock": "https://spacedock.info/mod/4396/Kerbal%203D%20Exporter",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Kerbal_3D_Exporter/Kerbal_3D_Exporter-1783899823.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "plugin"
+    ],
+    "version": "0.0.1.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
