@@ -4,6 +4,41 @@
         "_Zee",
         "Moonlington"
     ],
+    "conflicts": [
+        {
+            "name": "UnKerballedStart"
+        },
+        {
+            "name": "GradualProgressionTechTree"
+        },
+        {
+            "name": "KiwiTechTree"
+        },
+        {
+            "name": "SkyhawkScienceSystem"
+        },
+        {
+            "name": "ETT"
+        },
+        {
+            "name": "CrusoeSpaceIndustriesTechTree"
+        },
+        {
+            "name": "BetterEarlyTree"
+        },
+        {
+            "name": "SimplexTechTree"
+        },
+        {
+            "name": "QUARTIXTechTree"
+        },
+        {
+            "name": "TETRIXTechTree"
+        },
+        {
+            "name": "ImprovedTreeEnginePlacement"
+        }
+    ],
     "depends": [
         {
             "name": "ModuleManager"
@@ -15,7 +50,7 @@
             "name": "Kopernicus"
         }
     ],
-    "download": "https://hk-github.mirror.kerbcat.cn/github/Moonlington/ProbesBeforeCrew/releases/download/v3.3.0/Probes_Before_Crew-v3.3.0.zip?auth_key=1784296724-4296924e2210413f87b167978245c9f1-0-a76bddd8d3adfc8f01ab8887f8d35bd8&size=94019&expireAt=1784296724",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Moonlington/ProbesBeforeCrew/releases/download/v3.3.0/Probes_Before_Crew-v3.3.0.zip?auth_key=1784383338-b53e8f848f034a8d9e492992f4d7a472-0-ec304fa0667adeaf27427c955c8aea6b&size=94019&expireAt=1784383338",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "E49F77C2DE6C7C102978C7500873D7FA58AA73E5",
@@ -42,6 +77,9 @@
         },
         {
             "name": "Strategia"
+        },
+        {
+            "name": "HideEmptyTechNodes"
         }
     ],
     "supports": [
@@ -49,7 +87,19 @@
             "name": "B9"
         },
         {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "CryoEnginesExtensions"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
             "name": "DMagicOrbitalScience"
+        },
+        {
+            "name": "HeatControl"
         },
         {
             "name": "KAS"
@@ -61,6 +111,12 @@
             "name": "kOS"
         },
         {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
             "name": "Kerbalism"
         },
         {
@@ -70,10 +126,16 @@
             "name": "MarkIVSpaceplaneSystem"
         },
         {
+            "name": "NearFutureAeronautics"
+        },
+        {
             "name": "NearFutureConstruction"
         },
         {
             "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureExploration"
         },
         {
             "name": "NearFutureLaunchVehicles"
@@ -88,7 +150,19 @@
             "name": "NearFuturePropulsion"
         },
         {
+            "name": "KerbalActuators"
+        },
+        {
             "name": "MissingHistory"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "MinorPlanetsExpansion"
+        },
+        {
+            "name": "ProceduralFairings"
         },
         {
             "name": "ProbeControlRoom"
@@ -100,13 +174,31 @@
             "name": "RemoteTech"
         },
         {
+            "name": "RemoteTechRedevAntennas"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
             "name": "RLAReborn"
         },
         {
             "name": "SCANsat"
         },
         {
+            "name": "ScienceLabInfo"
+        },
+        {
+            "name": "SpaceDust"
+        },
+        {
             "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "SupplementaryElectricEngines"
+        },
+        {
+            "name": "SystemHeat"
         },
         {
             "name": "TACLS"
