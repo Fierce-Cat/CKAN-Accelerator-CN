@@ -1,5 +1,5 @@
 {
-    "abstract": "Collection of Textures Unlimited recolours for Kerbal Foundries Continued [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "abstract": "Collection of Textures Unlimited recolours for Kerbal Foundries Continued",
     "author": "Spartwo",
     "depends": [
         {
@@ -12,7 +12,10 @@
             "name": "KerbalFoundries"
         }
     ],
-    "download": "https://hk-github.mirror.kerbcat.cn/github/KerbalPowers/TURD-KerbalFoundries/releases/download/v0.2/TURD-KerbalFoundries.zip?auth_key=1784383342-5a5855edd8a14410ba096c136370e6b3-0-e6a55ceae2286ad0bb55a05c7370750f&size=825111&expireAt=1784383342",
+    "download": [
+        "https://github.com/KerbalPowers/TURD-KerbalFoundries/releases/download/v0.2/TURD-KerbalFoundries.zip",
+        "https://spacedock.info/mod/4414/Kerbal%20Foundries%20Recolour/download/v0.2"
+    ],
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "48673E45A9F600DC2B2DDA0D776E2F9CB3FCD03D",
@@ -22,19 +25,23 @@
     "identifier": "TURD-KerbalFoundries",
     "install": [
         {
-            "find": "TURD",
-            "install_to": "GameData"
+            "find": "TURD/TU_KerbalFoundries_Recolour",
+            "install_to": "GameData/TURD"
         }
     ],
     "install_size": 12068473,
+    "ksp_version": "1.12.5",
     "license": "CC-BY-NC-SA-4.0",
-    "name": "TURD - Kerbal Foundries [PRO-KCMIRROR]",
-    "release_date": "2025-08-29T23:54:42Z",
+    "name": "TURD - Kerbal Foundries",
+    "release_date": "2026-07-16T22:11:10.363281Z",
     "resources": {
         "bugtracker": "https://github.com/KerbalPowers/TURD-KerbalFoundries/issues",
-        "repository": "https://github.com/KerbalPowers/TURD-KerbalFoundries"
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/174188-112x-textures-unlimited-recolour-depot/",
+        "repository": "https://github.com/KerbalPowers/TURD-KerbalFoundries",
+        "spacedock": "https://spacedock.info/mod/4414/Kerbal%20Foundries%20Recolour",
+        "x_screenshot": "https://spacedock.info/content/Spartwo_95463/Kerbal_Foundries_Recolour/Kerbal_Foundries_Recolour-1784239900.png"
     },
-    "spec_version": "v1.4",
+    "spec_version": "v1.34",
     "tags": [
         "config",
         "graphics"
