@@ -197,7 +197,7 @@ if __name__=="__main__":
 
                 link_was_replaced = False
                 if 'download' in originalJson and 'download_size' in originalJson:
-                    if originalJson['download_size'] < 838860800: # 800MB limit
+                    if originalJson['download_size'] < 314572800: # 800MB limit
                         new_download_link = linkreplace(originalJson['download'], originalJson['download_size'])
                         if new_download_link != originalJson['download'] and detectkclink(new_download_link):
                             kcJson['download'] = new_download_link
