@@ -1,0 +1,40 @@
+{
+    "abstract": "kRPC allows you to control the game from external programs. It comes with client libraries for several popular languages including Python, C++, C#, Java and Lua. Programs communicate with the game over a TCP/IP connection, and can be configured to work on just the local machine or even over the wider internet. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "djungelorm",
+        "GaryDeco"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/krpc/krpc/releases/download/v0.6.0/krpc-0.6.0.zip?auth_key=1784902006-a59170878e5f43eeb208cc24a26c9786-0-4d6fc6ea03f1df14e807235b2f48f1c8&size=873377&expireAt=1784902006",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7FC27B58744D9AC880FE75BC1C22D90051C8708A",
+        "sha256": "6B4399A8DB57C41DD15323FCD79DC3AA440999AEFED808729A5C850BAC1A17C8"
+    },
+    "download_size": 873377,
+    "identifier": "kRPC",
+    "install_size": 3629453,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.3",
+    "license": "GPL-3.0",
+    "name": "kRPC: Remote Procedure Call Server [PRO-KCMIRROR]",
+    "release_date": "2026-07-22T20:34:05Z",
+    "resources": {
+        "bugtracker": "https://github.com/krpc/krpc/issues",
+        "homepage": "http://krpc.github.io/krpc",
+        "remote-avc": "http://ksp-avc.cybutek.net/version.php?id=254",
+        "repository": "https://github.com/krpc/krpc"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "app",
+        "control"
+    ],
+    "version": "v0.6.0",
+    "x_generated_by": "netkan"
+}

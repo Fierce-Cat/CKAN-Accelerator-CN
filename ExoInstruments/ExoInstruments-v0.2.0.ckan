@@ -1,0 +1,48 @@
+{
+    "abstract": "A ground-based exoplanet survey mod built on real observational astrophysics: transit photometry, radial velocity, and direct imaging detection pipelines against a real star catalog. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "batistitooo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "BetterTimeWarpCont"
+        }
+    ],
+    "description": "Replaces KSP's stock science-experiment loop with an actual exoplanet survey program. Select a real star from an exoplanet.eu-derived catalog, choose an instrument appropriate to its brightness and detection method, and extract a signal from simulated, photon-noise-limited data exactly the way an observational astronomer would. Includes transit timing variations (TTV), the Rossiter-McLaughlin effect, and a career-mode instrument-acquisition economy.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/batistitooo/ExoInstruments/releases/download/v0.2.0/ExoInstruments-v0.2.0.zip?auth_key=1784902008-94e6059ecdb142df9be8b905a0fd9f5a-0-63ea1c2e2eeb02a8ccca7ae7f7cfc9a7&size=1145350&expireAt=1784902008",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2A3B78F8BBF82821F648CA2A67791E2A22DD364D",
+        "sha256": "3987BA32264BAC85AD6CE68908EBE41DED51922ACC88C7DD202B7344E3E15224"
+    },
+    "download_size": 1145350,
+    "identifier": "ExoInstruments",
+    "install_size": 4368752,
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "Exo Instruments [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Spectra"
+        }
+    ],
+    "release_date": "2026-07-22T15:27:56Z",
+    "resources": {
+        "bugtracker": "https://github.com/batistitooo/ExoInstruments/issues",
+        "repository": "https://github.com/batistitooo/ExoInstruments"
+    },
+    "spec_version": 1,
+    "tags": [
+        "science",
+        "physics"
+    ],
+    "version": "v0.2.0",
+    "x_generated_by": "netkan"
+}
