@@ -1,12 +1,12 @@
 {
-    "abstract": "Better multithreaded performance for mods that use it. Requires Mono on Linux and macOS (you have it if you're running CKAN). [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "abstract": "Better multithreaded performance for mods that use it. Requires Mono on Linux and macOS (you have it if you're running CKAN).",
     "author": "Unity",
     "depends": [
         {
             "name": "KSPBurst-Lite"
         }
     ],
-    "download": "https://hk-github.mirror.kerbcat.cn/github/KSPModdingLibs/KSPBurst/releases/download/v1.5.5.2/KSPBurst_Compiler_1.5.5.2.zip?auth_key=1784902004-e32c522dcea44b2f9067100c0cd75c13-0-3d57e1b1cb356cb5cde72a7e969fdd73&size=315574068&expireAt=1784902004",
+    "download": "https://github.com/KSPModdingLibs/KSPBurst/releases/download/v1.5.5.2/KSPBurst_Compiler_1.5.5.2.zip",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "94EE549EDDB0F62F77D7EE2F3C8B52D6102F9356",
@@ -23,7 +23,7 @@
     ],
     "install_size": 316770190,
     "license": "unknown",
-    "name": "KSPBurst Compiler [PRO-KCMIRROR]",
+    "name": "KSPBurst Compiler",
     "provides": [
         "KSPBurst-Full"
     ],
