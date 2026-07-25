@@ -1,0 +1,56 @@
+{
+    "abstract": "a brand new star system that isn't needed for Celestial Harmony to function but strongly recommended if the user wants to profit off the whole mod to please some low end hardware user for RAM usage",
+    "author": "ProximaCentauri-star",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "CelestialHarmony"
+        }
+    ],
+    "download": "https://github.com/ProximaCentauri-star/Celestial-Harmony/releases/download/1.2/_Chaos.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E77DE99FEFC0E2EA92008CF32958158A992CBE09",
+        "sha256": "8BC3961BB30A823FA075963EC53DF8A838ED8AFA7A5B956E5EB9E6EB89F3BF40"
+    },
+    "download_size": 1897775352,
+    "identifier": "CelestialHarmony-Chaos",
+    "install": [
+        {
+            "find": "CelestialHarmony",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 4139206006,
+    "license": "restricted",
+    "name": "Celestial Harmony - Chaos",
+    "provides": [
+        "Scatterer-sunflare"
+    ],
+    "release_date": "2026-07-24T19:25:14Z",
+    "resources": {
+        "bugtracker": "https://github.com/ProximaCentauri-star/Celestial-Harmony/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/226204-112x-celestial-harmony-v10-wip/",
+        "manual": "https://github.com/ProximaCentauri-star/Celestial-Harmony/wiki",
+        "repository": "https://github.com/ProximaCentauri-star/Celestial-Harmony"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "Singularity"
+        },
+        {
+            "name": "KopernicusExpansion"
+        }
+    ],
+    "tags": [
+        "planet-pack"
+    ],
+    "version": "1:1.2",
+    "x_generated_by": "netkan"
+}
