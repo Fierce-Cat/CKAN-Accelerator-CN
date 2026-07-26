@@ -1,0 +1,50 @@
+{
+    "abstract": "A moon pack that adds 3 new moons to Kerbin.",
+    "author": "MontJ26",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "VertexHeightOblateAdvanced"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3998/Kebalized%20Moons/download/2.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "AC26173A96C746C5560806D61A68FA36B49355F2",
+        "sha256": "8850046E87545644E05A41523456BCFB0A48A2426613E5E3BE4B1C19DC85BF11"
+    },
+    "download_size": 47801864,
+    "identifier": "KebalizedMoons",
+    "install": [
+        {
+            "find": "Oseuq",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 170194445,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-4.0",
+    "name": "Kebalized Moons",
+    "release_date": "2026-07-25T17:20:17.766344Z",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228894-1125-kerbalized-moons-v10-a-kopernicus-moon-pack/",
+        "spacedock": "https://spacedock.info/mod/3998/Kebalized%20Moons",
+        "x_screenshot": "https://spacedock.info/content/MontJ26_174847/Kebalized_Moons/Kebalized_Moons-1785000175.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack",
+        "plugin"
+    ],
+    "version": "2.0.1",
+    "x_generated_by": "netkan"
+}
