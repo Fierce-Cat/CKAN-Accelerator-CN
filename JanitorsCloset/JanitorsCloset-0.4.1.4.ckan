@@ -1,0 +1,63 @@
+{
+    "abstract": "Get your parts list under control",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/JanitorsCloset/releases/download/0.4.1.4/JanitorsCloset-1.12.5-0.4.1.4.zip",
+        "https://spacedock.info/mod/944/The%20Janitor's%20Closet/download/0.4.1.4"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A55A3352D1F6CA050C25A88014C49B59BC52E13C",
+        "sha256": "1EC184DDD07D10089ED6955E2BB81BCE3229C5441D2AFB2CFA4B603A791EE935"
+    },
+    "download_size": 158553,
+    "identifier": "JanitorsCloset",
+    "install": [
+        {
+            "find": "JanitorsCloset",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 304649,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-4.0",
+    "name": "The Janitor's Closet",
+    "recommends": [
+        {
+            "name": "FilterExtensions"
+        }
+    ],
+    "release_date": "2026-07-26T11:38:45.044037Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/JanitorsCloset/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/147463-end-your-parts-list-nightmare-introducing-the-janitors-closet/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/JanitorsCloset/refs/heads/master/JanitorsCloset.version",
+        "repository": "https://github.com/linuxgurugamer/JanitorsCloset",
+        "spacedock": "https://spacedock.info/mod/944/The%20Janitor's%20Closet",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/The_Janitors_Closet/The_Janitors_Closet-1477536060.0319965.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "KerbalChangelog"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "0.4.1.4",
+    "x_generated_by": "netkan"
+}
