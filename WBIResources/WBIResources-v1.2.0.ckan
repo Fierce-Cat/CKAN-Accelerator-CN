@@ -1,0 +1,41 @@
+{
+    "abstract": "Omni Converter, Omni Storage, and GoldStrike [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/WBIResources/releases/download/v1.2.0/WBIResources.zip?auth_key=1785419890-f98282fd404a4ee58f680a2e6ecbb372-0-7b76fef9a13d1adedbec2b91e84b161e&size=357193&expireAt=1785419890",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "932714E35390F8643FFD8AB74CFEC394297F81AE",
+        "sha256": "6D929F2E7EAE881CBF08A67D0DA1436B4AEF68F6860771AF5A7520AA8570C7DF"
+    },
+    "download_size": 357193,
+    "identifier": "WBIResources",
+    "install": [
+        {
+            "find": "0WBIResources",
+            "install_to": "GameData/WildBlueIndustries"
+        }
+    ],
+    "install_size": 935733,
+    "ksp_version_min": "1.12.5",
+    "license": "GPL-3.0",
+    "name": "WBIResources [PRO-KCMIRROR]",
+    "release_date": "2026-07-29T00:14:40Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/WBIResources/issues",
+        "manual": "https://github.com/Angel-125/WBIResources/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/WBIProps/main/ReleaseFolder/GameData/WildBlueIndustries/0WBIResources/WBIResources.version",
+        "repository": "https://github.com/Angel-125/WBIResources"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "v1.2.0",
+    "x_generated_by": "netkan"
+}

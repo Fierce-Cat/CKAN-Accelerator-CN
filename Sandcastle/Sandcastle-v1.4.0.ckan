@@ -1,0 +1,67 @@
+{
+    "abstract": "Base building with KSP stock EVA Construction [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "WildBlueCore"
+        },
+        {
+            "name": "NearFutureProps"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/Sandcastle/releases/download/v1.4.0/Sandcastle.zip?auth_key=1785419888-2f0a4134e8e1411ab692b8cf7e994ea5-0-924a73fd786d69f21a2d90032b1882fa&size=68791414&expireAt=1785419888",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C8CE089170CF5AA8D8FE4E730BC9FFDADBD83800",
+        "sha256": "28D58C3984519CF045ECC1F4266192EEE8B87BF0CA6CE748F2F7761C6C282876"
+    },
+    "download_size": 68791414,
+    "identifier": "Sandcastle",
+    "install": [
+        {
+            "filter_regexp": "\\.pdb$",
+            "find": "GameData/WildBlueIndustries/SandCastle",
+            "install_to": "GameData/WildBlueIndustries"
+        }
+    ],
+    "install_size": 155457639,
+    "ksp_version_min": "1.12.5",
+    "license": "restricted",
+    "localizations": [
+        "en-us",
+        "it-it"
+    ],
+    "name": "Sandcastle [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        },
+        {
+            "name": "KSP-PartVolume"
+        }
+    ],
+    "release_date": "2026-07-28T22:06:46Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/Sandcastle/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/201137-*",
+        "manual": "https://github.com/Angel-125/Sandcastle/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/Sandcastle/main/ReleaseFolder/GameData/WildBlueIndustries/Sandcastle/Sandcastle.version",
+        "repository": "https://github.com/Angel-125/Sandcastle"
+    },
+    "spec_version": "v1.10",
+    "supports": [
+        {
+            "name": "WildBlueTools"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts",
+        "crewed"
+    ],
+    "version": "v1.4.0",
+    "x_generated_by": "netkan"
+}
