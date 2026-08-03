@@ -1,0 +1,57 @@
+{
+    "abstract": "KODS",
+    "author": "nolifejordan",
+    "conflicts": [
+        {
+            "name": "BrunosRocketEmporiumAndDesigns"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "SimpleAdjustableFairings"
+        }
+    ],
+    "download": "https://api.github.com/repos/nolifejordan/Kiwi-Orbital-Designs-Systems/zipball/v1.10.1",
+    "download_content_type": "application/vnd.github+json",
+    "download_hash": {
+        "sha1": "5402C01FCBB71C80FF9F5BDBC6ED7742051493B5",
+        "sha256": "BA33FE4165B1B14D19139B2C689A9B389E06058BF3CC0D3AD1A988044CE3559D"
+    },
+    "download_size": 209227241,
+    "identifier": "KiwiOrbitalDesignsServices",
+    "install": [
+        {
+            "find": "KODS",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 522869117,
+    "license": "restricted",
+    "name": "Kiwi Orbital Designs Systems",
+    "release_date": "2026-08-02T23:05:30Z",
+    "resources": {
+        "bugtracker": "https://github.com/nolifejordan/Kiwi-Orbital-Designs-Systems/issues",
+        "repository": "https://github.com/nolifejordan/Kiwi-Orbital-Designs-Systems"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "1.10.1",
+    "x_generated_by": "netkan"
+}
