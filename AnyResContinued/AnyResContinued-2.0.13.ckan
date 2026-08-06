@@ -1,0 +1,58 @@
+{
+    "abstract": "Change your screen resolution on the fly [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "AnyRes"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/linuxgurugamer/AnyRes/releases/download/2.0.13/AnyRes-1.12.5-2.0.13.zip?auth_key=1786110955-3de4a40da31b43b183dafe045c093eb2-0-aa03bd3cdd3114688c0db3ce17f45694&size=29996&expireAt=1786110955",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B4382A96ADBE5A3FB62267295EEC6EF3B6CE23CE",
+        "sha256": "C4B474FD193588E18C2C6140AE4EE209EE9135D48F4C0E07B55B88D9C654F390"
+    },
+    "download_size": 29996,
+    "identifier": "AnyResContinued",
+    "install": [
+        {
+            "filter": [
+                ".DS_Store"
+            ],
+            "find": "AnyRes",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 43106,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "AnyRes Continued [PRO-KCMIRROR]",
+    "release_date": "2026-08-05T10:51:04Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/AnyRes/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/170160-131-anyres-continued-change-your-screen-resolution-on-the-fly/",
+        "manual": "https://github.com/linuxgurugamer/AnyRes/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/AnyRes/refs/heads/master/AnyRes.version",
+        "repository": "https://github.com/linuxgurugamer/AnyRes",
+        "spacedock": "https://spacedock.info/mod/1681/AnyRes%20Continued",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/AnyRes_Continued/AnyRes_Continued-1517085590.1798694.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "2.0.13",
+    "x_generated_by": "netkan"
+}
