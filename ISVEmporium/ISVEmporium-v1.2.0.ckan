@@ -1,0 +1,45 @@
+{
+    "abstract": "Re-Upload From Github (Author Himself)",
+    "author": "Yagate",
+    "depends": [
+        {
+            "name": "HeatControl"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4109/ISV%20Emporium/download/1.2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6C208BFB2603292C6F9193F0BC4460D2618230C6",
+        "sha256": "52B63515B6752CD49BF89C1E88D44AE1E3B3C5FE13C19E0875A16E9A495B7876"
+    },
+    "download_size": 41655086,
+    "identifier": "ISVEmporium",
+    "install": [
+        {
+            "find": "zISVEmporium",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 96620800,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "ISV Emporium",
+    "release_date": "2026-08-06T09:33:26.508643Z",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228540-isv-emporium-a-collection-of-patches-to-add-scaled-parts-for-seamless-isv-construction-010/",
+        "spacedock": "https://spacedock.info/mod/4109/ISV%20Emporium",
+        "x_screenshot": "https://spacedock.info/content/Yagate_171130/ISV_Emporium/ISV_Emporium-1768846339.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "v1.2.0",
+    "x_generated_by": "netkan"
+}

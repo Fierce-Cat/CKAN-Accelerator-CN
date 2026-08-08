@@ -1,0 +1,70 @@
+{
+    "abstract": "Enables fuel switching in air-breathing engines. A very welcome companion to cryo rocket systems. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "ClassicStockResources"
+                },
+                {
+                    "name": "CommunityResourcePack"
+                }
+            ]
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/RationalResources/releases/download/3.7/RationalResources-3.7.zip?auth_key=1786280721-512198cfb8354e828c0807402d7316c7-0-2569588cb93d129a4b7de5f513697132&size=44859557&expireAt=1786280721",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7E6E301C8D0DD530AE538C0FABBC7DC6E30D1E89",
+        "sha256": "9929B7E2A8A556B3E5C6469857CBDED4A20A73C68DAE8579A321E0A49F54AEDA"
+    },
+    "download_size": 44859557,
+    "identifier": "RationalResourcesJetFamily",
+    "install_size": 38776,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Rational Resources Jet Family [PRO-KCMIRROR]",
+    "release_date": "2026-08-07T07:42:19Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/RationalResources/issues",
+        "discussions": "https://github.com/JadeOfMaar/RationalResources/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/184875-*/",
+        "manual": "https://github.com/JadeOfMaar/RationalResources/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalResources/Version/RationalResources.version",
+        "repository": "https://github.com/JadeOfMaar/RationalResources"
+    },
+    "spec_version": "v1.26",
+    "suggests": [
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "Mk2Expansion"
+        },
+        {
+            "name": "Mk3Expansion"
+        },
+        {
+            "name": "SXTContinued"
+        },
+        {
+            "name": "WaterDrinker"
+        }
+    ],
+    "tags": [
+        "config",
+        "convenience"
+    ],
+    "version": "3.7",
+    "x_generated_by": "netkan"
+}
