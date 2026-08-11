@@ -32,7 +32,7 @@
             "name": "Kerbalism"
         }
     ],
-    "download": "https://hk-github.mirror.kerbcat.cn/github/Kerbalism/Kerbalism/releases/download/3.41/Kerbalism-Config_v3.41_for_KSP1.12.x.zip?auth_key=1786453898-91623b16a19340f2832aedc62144a63e-0-b02b5378275db0600ba0198f9df43811&size=15333698&expireAt=1786453898",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kerbalism/Kerbalism/releases/download/3.41/Kerbalism-Config_v3.41_for_KSP1.12.x.zip?auth_key=1786540205-7f40ff0ee6a0411ca1fb60ce8e293372-0-0afef3c5aa752eb0032a921c8fd7efea&size=15333698&expireAt=1786540205",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "F9D8766F7721D71B9DB58D3CFF33D3DA5765E40E",
@@ -62,6 +62,11 @@
     "name": "Kerbalism - Default Config [PRO-KCMIRROR]",
     "provides": [
         "Kerbalism-Config"
+    ],
+    "recommends": [
+        {
+            "name": "KerbalismEngineFailures"
+        }
     ],
     "release_date": "2026-08-08T01:59:10Z",
     "resources": {

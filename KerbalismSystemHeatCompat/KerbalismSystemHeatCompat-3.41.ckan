@@ -1,0 +1,67 @@
+{
+    "abstract": "Optional Kerbalism SystemHeat support for stock and third-party parts. Requires Kerbalism-SystemHeat. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Kerbalism Contributors",
+    "conflicts": [
+        {
+            "name": "Kerbalism-FarFutureTechnologies"
+        },
+        {
+            "name": "SterlingSystemsKerbalism"
+        },
+        {
+            "name": "SystemHeat-CryoTanks"
+        },
+        {
+            "name": "SystemHeat-Converters"
+        },
+        {
+            "name": "SystemHeat-FissionEngines"
+        },
+        {
+            "name": "SystemHeat-FissionReactors"
+        },
+        {
+            "name": "SystemHeat-Harvesters"
+        },
+        {
+            "name": "SystemHeat-IonEngines"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kerbalism-SystemHeat"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kerbalism/Kerbalism/releases/download/3.41/KerbalismSystemHeatExtras_v3.41_for_KSP1.12.x.zip?auth_key=1786540205-2893c584856248c189ffe468ae362963-0-030da62ae8a71ee3421f85c07e500f86&size=47564&expireAt=1786540205",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2DBEDD1D86FAB5ECD177A43AD285D2C02CD63B84",
+        "sha256": "6E27BA5F0563429319262B06845131E2EC27345D98357EE5E362E50AB4E1FDE9"
+    },
+    "download_size": 47564,
+    "identifier": "KerbalismSystemHeatCompat",
+    "install": [
+        {
+            "find": "KerbalismSystemHeatCompat",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 113705,
+    "license": "MIT",
+    "name": "Kerbalism - SystemHeat Compat [PRO-KCMIRROR]",
+    "release_date": "2026-08-08T01:59:11Z",
+    "resources": {
+        "bugtracker": "https://github.com/Kerbalism/Kerbalism/issues",
+        "manual": "https://github.com/Kerbalism/Kerbalism/wiki",
+        "repository": "https://github.com/Kerbalism/Kerbalism"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "3.41",
+    "x_generated_by": "netkan"
+}
