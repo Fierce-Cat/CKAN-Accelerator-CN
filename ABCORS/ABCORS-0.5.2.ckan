@@ -4,6 +4,14 @@
         "zentarul",
         "linuxgurugamer"
     ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
     "download": "https://spacedock.info/mod/1756/ABookCase%20Orbital%20Reference%20System%20Updated/download/0.5.2",
     "download_content_type": "application/zip",
     "download_hash": {
