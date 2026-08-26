@@ -1,0 +1,70 @@
+{
+    "abstract": "Enables fuel switching in air-breathing engines. A very welcome companion to cryo rocket systems. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "ClassicStockResources"
+                },
+                {
+                    "name": "CommunityResourcePack"
+                }
+            ]
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/RationalResources/releases/download/3.8.2/RationalResources-3.8.2.zip?auth_key=1787835207-fee167b56b54456a93af8d062085b6ec-0-9e8d8bfa23d0274b59f3dc139db0ab8e&size=44862758&expireAt=1787835207",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "80D3BF0798CA19C370A3535C232215B506FACCB3",
+        "sha256": "B17AD00298182F242CB47A4AE6873A221FDB75A126F88335ACC7417156B90E92"
+    },
+    "download_size": 44862758,
+    "identifier": "RationalResourcesJetFamily",
+    "install_size": 38776,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Rational Resources Jet Family [PRO-KCMIRROR]",
+    "release_date": "2026-08-25T02:44:19Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/RationalResources/issues",
+        "discussions": "https://github.com/JadeOfMaar/RationalResources/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/184875-*/",
+        "manual": "https://github.com/JadeOfMaar/RationalResources/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalResources/Version/RationalResources.version",
+        "repository": "https://github.com/JadeOfMaar/RationalResources"
+    },
+    "spec_version": "v1.26",
+    "suggests": [
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "Mk2Expansion"
+        },
+        {
+            "name": "Mk3Expansion"
+        },
+        {
+            "name": "SXTContinued"
+        },
+        {
+            "name": "WaterDrinker"
+        }
+    ],
+    "tags": [
+        "config",
+        "convenience"
+    ],
+    "version": "3.8.2",
+    "x_generated_by": "netkan"
+}
