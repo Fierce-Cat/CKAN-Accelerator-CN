@@ -1,6 +1,11 @@
 {
     "abstract": "Small satellite parts",
     "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "SSRMicroSat"
+        }
+    ],
     "depends": [
         {
             "name": "ModuleManager"
