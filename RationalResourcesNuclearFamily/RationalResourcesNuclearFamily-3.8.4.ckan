@@ -1,0 +1,63 @@
+{
+    "abstract": "Enables fuel switching and Kerbalism radioactivity in supported NTRs. Enables supported NTJs to have Kerbalism radioactivity and the features expected of a nuclear reactor [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "conflicts": [
+        {
+            "name": "KerbalAtomics-NTRModSupport"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "any_of": [
+                {
+                    "name": "ClassicStockResources"
+                },
+                {
+                    "name": "CommunityResourcePack"
+                }
+            ]
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/RationalResources/releases/download/3.8.4/RationalResources-3.8.4.zip?auth_key=1788035139-1d1ddf69beec4d288071ede8322a8587-0-e00e427fd5e93f6f99c5d35fec777f34&size=43462605&expireAt=1788035139",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D108E8132441F171AF1FE87D4DF48501D1569AFB",
+        "sha256": "BFBDD01E632D654607A616664581E82BDEBBAA4BF3FD227E700A154004E12124"
+    },
+    "download_size": 43462605,
+    "identifier": "RationalResourcesNuclearFamily",
+    "install_size": 337191,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Rational Resources Nuclear Family [PRO-KCMIRROR]",
+    "release_date": "2026-08-28T02:42:53Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/RationalResources/issues",
+        "discussions": "https://github.com/JadeOfMaar/RationalResources/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/184875-*/",
+        "manual": "https://github.com/JadeOfMaar/RationalResources/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/RationalResources/master/GameData/RationalResources/Version/RationalResources.version",
+        "repository": "https://github.com/JadeOfMaar/RationalResources"
+    },
+    "spec_version": "v1.26",
+    "suggests": [
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "RecycledPartsAtomicAge"
+        }
+    ],
+    "tags": [
+        "config",
+        "convenience"
+    ],
+    "version": "3.8.4",
+    "x_generated_by": "netkan"
+}
