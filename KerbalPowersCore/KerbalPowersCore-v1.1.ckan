@@ -1,0 +1,53 @@
+{
+    "abstract": "Dependency Files for the Kerbal Powers Modset",
+    "author": "Spartwo",
+    "download": [
+        "https://github.com/KerbalPowers/KP-Core/releases/download/v1.1/Kerbal_Powers_Core-v1.1.zip",
+        "https://spacedock.info/mod/3943/Kerbal%20Powers%20Core/download/v1.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "52C9B480786D35AB87C2FFAC90A4B9282A2E1360",
+        "sha256": "59CE017BFE69353F48FBD1584E98F696DFBEFF72DB200287373207479AC003B4"
+    },
+    "download_size": 73258,
+    "identifier": "KerbalPowersCore",
+    "install": [
+        {
+            "find": "KerbalPowers",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 74214,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Kerbal Powers Core",
+    "release_date": "2026-08-29T01:22:59.488679Z",
+    "resources": {
+        "bugtracker": "https://github.com/KerbalPowers/KP-Core/issues",
+        "repository": "https://github.com/KerbalPowers/KP-Core",
+        "spacedock": "https://spacedock.info/mod/3943/Kerbal%20Powers%20Core",
+        "x_screenshot": "https://spacedock.info/content/Spartwo_95463/Kerbal_Powers_Core/Kerbal_Powers_Core-1754173427.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "KerbalPowersInterstellar"
+        },
+        {
+            "name": "KerbalPowersNaval"
+        },
+        {
+            "name": "KerbalPowersArmory"
+        }
+    ],
+    "tags": [
+        "library",
+        "agency"
+    ],
+    "version": "v1.1",
+    "x_generated_by": "netkan"
+}
