@@ -1,0 +1,48 @@
+{
+    "abstract": "Base library for KSP-RO group mods [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "KSP-RO Group"
+    ],
+    "depends": [
+        {
+            "name": "KSPCommunityFixes",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SerializationFix",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KerbalChangelog",
+            "suppress_recommendations": true
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/ROUtils/releases/download/v1.2.0.0/ROUtils-v1.2.0.0.zip?auth_key=1788188196-5620f64b7cb74329b2ad7a65be03dd07-0-639a5adbb315eb347632f213c32f3e09&size=46954&expireAt=1788188196",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "3118ABBE9CBF61CBAA6F395D3BF0786ED402A8EAA54833799869DD57FDC99D39"
+    },
+    "download_size": 46954,
+    "identifier": "ROUtils",
+    "install_size": 96700,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "ROUtils [PRO-KCMIRROR]",
+    "release_date": "2026-08-29T22:34:01Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/ROUtils/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*",
+        "manual": "https://github.com/KSP-RO/ROUtils/wiki",
+        "metanetkan": "https://raw.githubusercontent.com/KSP-RO/ROUtils/master/ROUtils.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/ROUtils/master/GameData/ROUtils/ROUtils.version",
+        "repository": "https://github.com/KSP-RO/ROUtils"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "plugin"
+    ],
+    "version": "v1.2.0.0",
+    "x_generated_by": "netkan"
+}
