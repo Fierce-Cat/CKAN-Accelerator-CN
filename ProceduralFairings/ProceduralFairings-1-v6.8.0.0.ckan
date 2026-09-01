@@ -1,0 +1,58 @@
+{
+    "abstract": "Fairings that automatically reshape for any attached payload [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Felger",
+        "NathanKell",
+        "Pap1723",
+        "KSP-RO"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "ROUtils"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/ProceduralFairings/releases/download/v6.8.0.0/ProceduralFairings-v6.8.0.0.zip?auth_key=1788361179-ba386667180e4573bc3f21525612170d-0-50be71a2f30ee158edd4a00071525a04&size=15742660&expireAt=1788361179",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "BD574414E01EBECB6FD056BB7C62A7DE7CDAE4160C1550C98931128890918400"
+    },
+    "download_size": 15742660,
+    "identifier": "ProceduralFairings",
+    "install": [
+        {
+            "find": "ProceduralFairings",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 48855443,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.10.0",
+    "license": "CC-BY",
+    "name": "Procedural Fairings [PRO-KCMIRROR]",
+    "release_date": "2026-08-31T15:00:52Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/ProceduralFairings/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/184187-*",
+        "metanetkan": "https://raw.githubusercontent.com/KSP-RO/ProceduralFairings/master/ProceduralFairings.netkan",
+        "remote-avc": "https://github.com/KSP-RO/ProceduralFairings/raw/master/GameData/ProceduralFairings/ProceduralFairings.version",
+        "repository": "https://github.com/KSP-RO/ProceduralFairings"
+    },
+    "spec_version": "v1.36",
+    "suggests": [
+        {
+            "name": "PFTextures"
+        }
+    ],
+    "tags": [
+        "parts"
+    ],
+    "version": "1:v6.8.0.0",
+    "x_generated_by": "netkan"
+}
