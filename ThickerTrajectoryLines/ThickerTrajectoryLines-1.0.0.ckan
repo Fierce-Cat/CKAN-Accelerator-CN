@@ -1,0 +1,56 @@
+{
+    "abstract": "Makes trajectory lines of objects (vessels, trash, etc.), bodies (planets, moons) and contract orbits easier to see by making them [THICKER]. Configurable!",
+    "author": "murolem",
+    "depends": [
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": [
+        "https://github.com/murolem/ksp-mod-thicker-trajectory-lines/releases/download/1.0.0/ThickerTrajectoryLines-1.0.0.zip",
+        "https://spacedock.info/mod/4525/Thicker%20Trajectory%20Lines/download/1.0.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "40833581BACC155A6A409A411918347DDD657F74",
+        "sha256": "E881F314BF150CAAB8E9A661C04FD0CCEE5DC1C398822E0BBA9796BF271A0C63"
+    },
+    "download_size": 29762,
+    "identifier": "ThickerTrajectoryLines",
+    "install": [
+        {
+            "filter_regexp": "\\.pdb$",
+            "find": "ThickerTrajectoryLines",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 38437,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12",
+    "license": "MIT",
+    "name": "Thicker Trajectory Lines",
+    "release_date": "2026-08-31T02:39:48.297994Z",
+    "resources": {
+        "bugtracker": "https://github.com/murolem/ksp-mod-thicker-trajectory-lines/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/231683-112-thicker-trajectory-lines/",
+        "remote-avc": "https://github.com/murolem/ksp-mod-thicker-trajectory-lines/releases/latest/download/mod.version",
+        "repository": "https://github.com/murolem/ksp-mod-thicker-trajectory-lines",
+        "spacedock": "https://spacedock.info/mod/4525/Thicker%20Trajectory%20Lines",
+        "x_screenshot": "https://spacedock.info/content/murolem_190699/Thicker_Trajectory_Lines/Thicker_Trajectory_Lines-1788144000.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "convenience",
+        "graphics"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

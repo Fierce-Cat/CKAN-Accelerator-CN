@@ -1,0 +1,55 @@
+{
+    "abstract": "Antenna planner for Kerbalism (stock CommNet).",
+    "author": "Aebestach",
+    "conflicts": [
+        {
+            "name": "RealAntennas"
+        },
+        {
+            "name": "RemoteTech"
+        }
+    ],
+    "depends": [
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "download": [
+        "https://github.com/Aebestach/KerbalismCompanionCalculator/releases/download/v.1.3.1/KerbalismCompanionCalculator.v.1.3.1.zip",
+        "https://spacedock.info/mod/4463/Kerbalism%20Companion%20Calculator%20/download/1.3.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0B9BA1CCD129648DEFB174486053C01CEF6BE028",
+        "sha256": "91B1066B1709125E559EE485C1641E3FB5D3250B231F5FB310AB43DF71CCE0CB"
+    },
+    "download_size": 95684,
+    "identifier": "KerbalismCompanionCalculator",
+    "install_size": 107600,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-SA-4.0",
+    "name": "Kerbalism Companion Calculator",
+    "release_date": "2026-08-07T05:14:34.571766Z",
+    "resources": {
+        "bugtracker": "https://github.com/Aebestach/KerbalismCompanionCalculator/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/231545-112x-kerbalism-companion-calculator-kcc-an-antenna-planner-for-kerbalism-v131/",
+        "remote-avc": "https://raw.githubusercontent.com/Aebestach/KerbalismCompanionCalculator/master/GameData/KerbalismCompanionCalculator/KerbalismCompanionCalculator.version",
+        "repository": "https://github.com/Aebestach/KerbalismCompanionCalculator",
+        "spacedock": "https://spacedock.info/mod/4463/Kerbalism%20Companion%20Calculator%20",
+        "x_screenshot": "https://spacedock.info/content/Aebestach_114421/Kerbalism_Companion_Calculator/Kerbalism_Companion_Calculator-1786079700.png"
+    },
+    "spec_version": "v1.34",
+    "supports": [
+        {
+            "name": "ResearchBodies"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "information",
+        "comms"
+    ],
+    "version": "v1.3.1",
+    "x_generated_by": "netkan"
+}

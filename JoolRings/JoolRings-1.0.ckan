@@ -1,0 +1,43 @@
+{
+    "abstract": "Adds green rings to Jool.",
+    "author": "SlincLincoln",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4471/Jool%20Rings/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "EBFF589840E8A5DCC21D96C00F0C596F950330C0",
+        "sha256": "97A4234A2D19829A5FDD3196B13B88286C0FE22A57DC0FA1880BE0BE1F55F2B3"
+    },
+    "download_size": 9628520,
+    "identifier": "JoolRings",
+    "install": [
+        {
+            "find": "Jool_rings",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 44739846,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Jool Rings",
+    "release_date": "2026-08-08T21:39:28.492464Z",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/4471/Jool%20Rings",
+        "x_screenshot": "https://spacedock.info/content/SlincLincoln_189558/Jool_Rings/Jool_Rings-1786225604.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

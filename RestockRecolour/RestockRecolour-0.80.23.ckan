@@ -1,0 +1,73 @@
+{
+    "abstract": "Recolour for Restock and Restock+",
+    "author": [
+        "MrShelter",
+        "PicoSpaceIndustries",
+        "Spartwo",
+        "UncleMateo"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        }
+    ],
+    "download": [
+        "https://github.com/likeproblem/RestockRecolour/releases/download/0.80.23/RestockRecolour_0.80.23_WIP.zip",
+        "https://spacedock.info/mod/3748/Restock%20Recolour/download/0.80.23"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9722E6C7C892E7E362D968273617E1D9CF8A1524",
+        "sha256": "AA6A298C5ACC5EED10150730069F6F1EC43613B394F79C9EF79438EECE95F8A2"
+    },
+    "download_size": 73649231,
+    "identifier": "RestockRecolour",
+    "install": [
+        {
+            "find": "TURD/TU_Restock",
+            "install_to": "GameData/TURD"
+        }
+    ],
+    "install_size": 221959162,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "Restock Recolour",
+    "recommends": [
+        {
+            "name": "TURD-StockRecolour"
+        },
+        {
+            "name": "TURD-BreakingGround"
+        },
+        {
+            "name": "TURD-MakingHistory"
+        }
+    ],
+    "release_date": "2026-07-26T17:20:44.145911Z",
+    "resources": {
+        "bugtracker": "https://github.com/likeproblem/RestockRecolour/issues",
+        "discussions": "https://github.com/likeproblem/RestockRecolour/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/226088-112xwip-restock-recolour-4412/",
+        "manual": "https://github.com/likeproblem/RestockRecolour/wiki",
+        "repository": "https://github.com/likeproblem/RestockRecolour",
+        "spacedock": "https://spacedock.info/mod/3748/Restock%20Recolour",
+        "x_screenshot": "https://spacedock.info/content/MrShelter_142311/Restock_Recolour/Restock_Recolour-1730261240.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "0.80.23",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

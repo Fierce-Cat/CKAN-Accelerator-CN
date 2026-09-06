@@ -1,0 +1,43 @@
+{
+    "abstract": "A live SpaceX-style telemetry overlay for KSP streams, built for OBS.",
+    "author": "Saturn_Aerospace",
+    "depends": [
+        {
+            "name": "kRPC"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4448/Saturn%20Aerospace%20Telemetry%20Overlay/download/1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E585F6CCAA6FD36038FAB397385C2362390EA643",
+        "sha256": "E2938EA242832B68CE25DE15604F61F693720119FD58741BE530E4B2FAD993CA"
+    },
+    "download_size": 29111,
+    "identifier": "SaturnTelemetryOverlay",
+    "install": [
+        {
+            "find": "saturn-telemetry-overlay",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 68233,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Saturn Aerospace Telemetry Overlay",
+    "release_date": "2026-07-31T01:45:22.457024Z",
+    "resources": {
+        "bugtracker": "https://github.com/saturnaerospaceksp/GameOverlay_SA/issues",
+        "homepage": "http://www.saturnaero.space",
+        "repository": "https://github.com/saturnaerospaceksp/GameOverlay_SA",
+        "spacedock": "https://spacedock.info/mod/4448/Saturn%20Aerospace%20Telemetry%20Overlay",
+        "x_screenshot": "https://spacedock.info/content/Saturn_Aerospace_189027/Saturn_Telemetry_Overlay/Saturn_Telemetry_Overlay-1785462423.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "app",
+        "information"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

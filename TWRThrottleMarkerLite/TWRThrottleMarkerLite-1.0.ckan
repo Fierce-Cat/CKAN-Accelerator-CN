@@ -1,0 +1,33 @@
+{
+    "abstract": "Adds a marker to your throttle that shows your current 1.0 TWR",
+    "author": "MCeeSweamy",
+    "download": "https://spacedock.info/mod/4442/TWR%20Throttle%20Marker%20Lite%20(Just%20the%20Markers!)/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7B230DEBF2166632D68728F13912877962DDB4A8",
+        "sha256": "4E00CF5B92733E790DFBFCDCA688468CD5002145A39E2FC1F0426C3246A672BE"
+    },
+    "download_size": 6405,
+    "identifier": "TWRThrottleMarkerLite",
+    "install": [
+        {
+            "find": "TWRThrottleMarker",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 11776,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "TWR Throttle Marker Lite (Just the Markers!)",
+    "release_date": "2026-07-28T23:18:35.181211Z",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/4442/TWR%20Throttle%20Marker%20Lite%20(Just%20the%20Markers!)"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

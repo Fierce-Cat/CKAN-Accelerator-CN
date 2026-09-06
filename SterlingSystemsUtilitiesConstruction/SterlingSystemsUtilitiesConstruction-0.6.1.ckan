@@ -1,0 +1,63 @@
+{
+    "abstract": "Parts for making parts and whole ships [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        },
+        {
+            "name": "SterlingSystemsUtilities"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.6.1/SterlingSystems_Utilities_0.6.1.zip?auth_key=1788790768-356b5ea8af7044998613795bf763c6c3-0-082f253d54548761e82cf3e82558971d&size=31106899&expireAt=1788790768",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "300EB5A69DFA2A6928D2E694107E8B155B12F250",
+        "sha256": "92D6EAF6572F601B80229FC4D8C8FED11F4A3A30E69201E6A334DB0F12BBA73B"
+    },
+    "download_size": 31106899,
+    "identifier": "SterlingSystemsUtilitiesConstruction",
+    "install": [
+        {
+            "find": "UtilitiesConstruction",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 103830522,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Utilities - Construction [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "Sandcastle"
+        }
+    ],
+    "release_date": "2026-09-05T06:17:43Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "manual": "https://github.com/JadeOfMaar/SterlingSystems/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        }
+    ],
+    "tags": [
+        "config",
+        "parts",
+        "resources"
+    ],
+    "version": "0.6.1",
+    "x_generated_by": "netkan"
+}

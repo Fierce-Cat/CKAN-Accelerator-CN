@@ -1,0 +1,57 @@
+{
+    "abstract": "Realism Dongfanghong Satellite Platforms (DFHP) for Kerbal Space Program.There are DFH-2,DFH-3,DFH-4 and DFH-5 platforms.Of course, we brought Chinese Beidou, Chang'e-1/2, and other national NIGCOMSAT satellite platforms to you, isn't it?",
+    "author": "srpn_adouis",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4407/DongFangHong%20Satellite%20Platforms%20Pack/download/0.3.4",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "206C7AB95ABFA4D8A5318A5CB5FDCB2A4AC2E7BA",
+        "sha256": "41BC3536D89CEAEB90399059908798BD79E7C83633A671D4ACB413A33CEE83A3"
+    },
+    "download_size": 50479289,
+    "identifier": "DongFangHongSatellitePads",
+    "install_size": 59291845,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "DongFangHong Satellite Platforms Pack",
+    "recommends": [
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "release_date": "2026-07-18T12:17:51.396276Z",
+    "resources": {
+        "bugtracker": "https://github.com/adouis-srpn/DFHP_Pack/issues",
+        "homepage": "https://spacedock.info/mod/4407/DongFangHong%20Satellite%20Platforms%20Pack",
+        "repository": "https://github.com/adouis-srpn/DFHP_Pack",
+        "spacedock": "https://spacedock.info/mod/4407/DongFangHong%20Satellite%20Platforms%20Pack",
+        "x_screenshot": "https://spacedock.info/content/srpn_adouis_85254/DongFangHong_Satellite_Platforms_Pack/DongFangHong_Satellite_Platforms_Pack-1784377119.png"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KIUChineseLaunchVehiclePack"
+        },
+        {
+            "name": "KIUChineseHumanSpaceflightPack"
+        },
+        {
+            "name": "KerwisChinaAerospacePack"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "0.3.4",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

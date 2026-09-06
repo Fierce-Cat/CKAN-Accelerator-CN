@@ -38,7 +38,7 @@
             "name": "SystemHeat"
         }
     ],
-    "download": "https://hk-github.mirror.kerbcat.cn/github/Kerbalism/Kerbalism/releases/download/3.42/KerbalismSystemHeatExtras_v3.42_for_KSP1.12.x.zip?auth_key=1788704614-d7b60e5940af4a8e930b264789822ee4-0-67e53328c2ee425c0d066f2d72ef3630&size=45930&expireAt=1788704614",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kerbalism/Kerbalism/releases/download/3.42/KerbalismSystemHeatExtras_v3.42_for_KSP1.12.x.zip?auth_key=1788790770-fee1da3bc84a4b21a1a526232fcf92a7-0-8c4363c3ce92a18ed9cece463e60be87&size=45930&expireAt=1788790770",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "5B1724F22879592A431FCC38E5C186E732452E88",
@@ -55,6 +55,11 @@
     "install_size": 31806,
     "license": "Unlicense",
     "name": "Kerbalism - SystemHeat Core [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KerbalismSystemHeatCompat"
+        }
+    ],
     "release_date": "2026-08-23T15:21:30Z",
     "resources": {
         "bugtracker": "https://github.com/Kerbalism/Kerbalism/issues",
@@ -62,11 +67,6 @@
         "repository": "https://github.com/Kerbalism/Kerbalism"
     },
     "spec_version": "v1.18",
-    "suggests": [
-        {
-            "name": "KerbalismSystemHeatCompat"
-        }
-    ],
     "tags": [
         "config"
     ],

@@ -1,0 +1,66 @@
+{
+    "abstract": "Replace the stock Duna system.",
+    "author": "aidient",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "KopernicusExpansionContinueder"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4478/Better%20Duna%20System/download/V1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "706A543D00AC7B9EFE0497FBFB868029E07A35FA",
+        "sha256": "8CE1EA873C7DDEBB788679E7DFCB8A21A03AAFD1C98A9049E0BAE292504C93D4"
+    },
+    "download_size": 26276627,
+    "identifier": "BetterDunaSystem",
+    "install": [
+        {
+            "find": "Durs",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 47053627,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "Better Duna System",
+    "recommends": [
+        {
+            "name": "ParallaxContinued"
+        },
+        {
+            "name": "Scatterer"
+        }
+    ],
+    "release_date": "2026-08-24T12:45:00.606197Z",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/4478/Better%20Duna%20System",
+        "x_screenshot": "https://spacedock.info/content/aidient_179453/Better_Duna_System/Better_Duna_System-1786356011.jpg"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "V1.0.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

@@ -1,0 +1,43 @@
+{
+    "abstract": "A singular small config file that rebalances the costs for Liquid Fuel, Oxidizer, Solid Fuel, Methane and Liquid Hydrogen ",
+    "author": "AnaAerospace",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4520/Simple%20Rebalanced%20Fuel%20Costs/download/1.0.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1A937EF3B1F06422F1ABC850D446ECBF644D30CC",
+        "sha256": "CF869E0E08FF2385DF5664595CB711D3EB389238D95268322D7C77A128FDE6BD"
+    },
+    "download_size": 1427,
+    "identifier": "SimpleRebalancedFuelCosts",
+    "install": [
+        {
+            "find": "RebalancedFuelCost",
+            "install_to": "GameData/AnaAerospace"
+        }
+    ],
+    "install_size": 335,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Simple Rebalanced Fuel Costs",
+    "release_date": "2026-08-27T23:33:54.507348Z",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/4520/Simple%20Rebalanced%20Fuel%20Costs",
+        "x_screenshot": "https://spacedock.info/content/AnaAerospace_190590/Simple_Rebalanced_Fuel_Costs/Simple_Rebalanced_Fuel_Costs-1788015414.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "resources"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
