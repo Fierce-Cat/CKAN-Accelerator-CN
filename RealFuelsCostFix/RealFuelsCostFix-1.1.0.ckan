@@ -1,0 +1,45 @@
+{
+    "abstract": "A plugin for the Kerbal Space Program, which corrects cost errors in career mode when using the RealFuels mod.",
+    "author": "NovaSpem",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "v15.14.0.0",
+            "name": "RealFuels"
+        }
+    ],
+    "download": [
+        "https://github.com/NovaSpem/RealFuelsCostFix/releases/download/1.1.0/RealFuels_CostFix-1.1.0.zip",
+        "https://spacedock.info/mod/4370/RealFuels%20CostFix/download/1.1.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "82755BB54E44B2BB2779306D16AD3FA4603B561C",
+        "sha256": "2F61ADEDBF171F575ACD1C54DC2D3A739FAB318FD4CB0254694826590588BA7F"
+    },
+    "download_size": 7568,
+    "identifier": "RealFuelsCostFix",
+    "install_size": 14311,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8.0",
+    "license": "MIT",
+    "name": "RealFuels CostFix",
+    "release_date": "2026-07-08T18:17:07.211044Z",
+    "resources": {
+        "bugtracker": "https://github.com/NovaSpem/RealFuelsCostFix/issues",
+        "remote-avc": "https://raw.githubusercontent.com/NovaSpem/RealFuelsCostFix/refs/heads/main/GameData/RealFuelsCostFix/RealFuelsCostFix.version",
+        "repository": "https://github.com/NovaSpem/RealFuelsCostFix",
+        "spacedock": "https://spacedock.info/mod/4370/RealFuels%20CostFix",
+        "x_screenshot": "https://spacedock.info/content/NovaSpem_187571/RealFuels_CostFix/RealFuels_CostFix-1782989584.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "career"
+    ],
+    "version": "1.1.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

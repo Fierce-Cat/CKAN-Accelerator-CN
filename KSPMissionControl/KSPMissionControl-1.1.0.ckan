@@ -1,0 +1,44 @@
+{
+    "abstract": "Voice-controlled CAPCOM with live go-calls and real telemetry verification",
+    "author": "engbman",
+    "depends": [
+        {
+            "name": "kRPC"
+        }
+    ],
+    "download": [
+        "https://github.com/engbman/ksp-mission-control-download/releases/download/v1.1.0/KSP-Mission-Control-1.1.0.zip",
+        "https://spacedock.info/mod/4378/KSP%20Mission%20Control/download/1.1.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FFE7C606E8694591FC5452BD7B6B8027D4B2DFB5",
+        "sha256": "AF9EA4BC438D001A78B05DE1FF122758E8B36C5103B8E3B7442BC7F37AD0B2C0"
+    },
+    "download_size": 307079598,
+    "identifier": "KSPMissionControl",
+    "install": [
+        {
+            "find": "MissionControlMod",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 249344,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-ND",
+    "name": "KSP Mission Control",
+    "release_date": "2026-07-26T17:04:46.623068Z",
+    "resources": {
+        "bugtracker": "https://github.com/engbman/ksp-mission-control-download/issues",
+        "repository": "https://github.com/engbman/ksp-mission-control-download",
+        "spacedock": "https://spacedock.info/mod/4378/KSP%20Mission%20Control",
+        "x_screenshot": "https://spacedock.info/content/engbman_187925/KSP_Mission_Control/KSP_Mission_Control-1783433323.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.1.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

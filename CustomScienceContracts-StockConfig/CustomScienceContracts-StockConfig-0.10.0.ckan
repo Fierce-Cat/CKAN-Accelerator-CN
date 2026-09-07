@@ -1,0 +1,45 @@
+{
+    "abstract": "The recommended Custom Science Contracts campaign profile for the normal Stock Kerbol system. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "timduebi",
+    "conflicts": [
+        {
+            "name": "CustomScienceContracts-Config"
+        }
+    ],
+    "description": "Installs the Stock Kerbol campaign catalog for Custom Science Contracts. This is the recommended default for games that do not use the SOL planet pack.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/timduebi/ksp-custom-science-contracts/releases/download/v0.10.0/CustomScienceContracts-v0.10.0.zip?auth_key=1788877001-8a92d07b2fa0476985ed74db6d199a90-0-94df56b700df0858dbb7d1ac0b46cbdd&size=446794&expireAt=1788877001",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3BF0778A79052BB5C12A89C434C8E825C524F7C2",
+        "sha256": "C9DDE71968611D04FAEE0561A60E8BE75CA2F7DDEA16E97A597F521D0C49DCBF"
+    },
+    "download_size": 446794,
+    "identifier": "CustomScienceContracts-StockConfig",
+    "install": [
+        {
+            "find": "Contracts",
+            "install_to": "GameData/CustomScienceContracts"
+        }
+    ],
+    "install_size": 163239,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "Custom Science Contracts - Stock Campaign [PRO-KCMIRROR]",
+    "provides": [
+        "CustomScienceContracts-Config"
+    ],
+    "release_date": "2026-08-13T22:07:52Z",
+    "resources": {
+        "bugtracker": "https://github.com/timduebi/ksp-custom-science-contracts/issues",
+        "remote-avc": "https://raw.githubusercontent.com/timduebi/ksp-custom-science-contracts/main/GameData/CustomScienceContracts/CustomScienceContracts.version",
+        "repository": "https://github.com/timduebi/ksp-custom-science-contracts"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "science"
+    ],
+    "version": "0.10.0",
+    "x_generated_by": "netkan"
+}

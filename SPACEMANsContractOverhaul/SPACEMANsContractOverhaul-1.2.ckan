@@ -1,0 +1,67 @@
+{
+    "abstract": " large scale KSP contract overhaul that goes all the way from kerbalkinds first step into the stars with sounding rockets, to harboring the power and technology to call another world their own... [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "SPACEMAN9813",
+    "depends": [
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/SPACEMAN9813/SPACEMAN-s-Contract-Overhaul-Public-/releases/download/1.2/SM.sCO.zip?auth_key=1788877005-534213791a42498b9205e31ebb8c0cb0-0-228b325862e043e2e6189beb0c6798b4&size=78076&expireAt=1788877005",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B9FAF2EE2BD506FED9A97423DE23B9198E99C597",
+        "sha256": "C89C6F57EEE3AC0FD868FD88266169CB17CA8D20278C88FA34CFDAF3271270B2"
+    },
+    "download_size": 78076,
+    "identifier": "SPACEMANsContractOverhaul",
+    "install": [
+        {
+            "find": "SPACEMAN'sContractOverhaul",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 158738,
+    "license": "CC0",
+    "name": "SPACEMAN's Contract Overhaul [PRO-KCMIRROR]",
+    "release_date": "2026-06-16T00:43:19Z",
+    "resources": {
+        "bugtracker": "https://github.com/SPACEMAN9813/SPACEMAN-s-Contract-Overhaul-Public-/issues",
+        "repository": "https://github.com/SPACEMAN9813/SPACEMAN-s-Contract-Overhaul-Public-"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "UnKerballedStart"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "SIMPLEXKerbalism"
+        },
+        {
+            "name": "KerbalConstructionTime"
+        },
+        {
+            "name": "DMagicOrbitalScience"
+        },
+        {
+            "name": "SPACEMANsGlobalFlags"
+        }
+    ],
+    "tags": [
+        "config",
+        "career"
+    ],
+    "version": "1.2",
+    "x_generated_by": "netkan"
+}

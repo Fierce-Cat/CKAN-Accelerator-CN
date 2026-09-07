@@ -1,0 +1,43 @@
+{
+    "abstract": " Makes all parts get Burn🔥marks during reentry!",
+    "author": "RepAuto",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4360/YAKEKOGE%20-%20Add%20Burn%20Color%20MOD/download/1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "D9EBD6769DB5B66D9B0707876D6BB2080F39720E",
+        "sha256": "7908ACB3A3B5065A4667FC28FD256163F6F6EFA14260630BBC082FE5899DE509"
+    },
+    "download_size": 1148215,
+    "identifier": "YAKEKOGEAddBurnColor",
+    "install": [
+        {
+            "find": "YAKEKOGE_AddBurnColor",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1149958,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "YAKEKOGE - Add Burn Color MOD",
+    "release_date": "2026-06-28T06:21:59.302533Z",
+    "resources": {
+        "bugtracker": "https://github.com/RepAuto/YAKEKOGE_AddBurnColor-/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/231188-112x-yakekoge-add-burn-color-mod-v101/",
+        "repository": "https://github.com/RepAuto/YAKEKOGE_AddBurnColor-",
+        "spacedock": "https://spacedock.info/mod/4360/YAKEKOGE%20-%20Add%20Burn%20Color%20MOD",
+        "x_screenshot": "https://spacedock.info/content/RepAuto_187525/YAKEKOGE_-_Add_Burn_Color_MOD/YAKEKOGE_-_Add_Burn_Color_MOD-1782551102.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1.0.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

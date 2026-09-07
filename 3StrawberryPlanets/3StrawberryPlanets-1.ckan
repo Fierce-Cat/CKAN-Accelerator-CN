@@ -1,0 +1,43 @@
+{
+    "abstract": "so its pretty cool",
+    "author": "colriss",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4418/3%20strawberry%20planets/download/1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F0A5365BD7751B44D785B1D85D4B9CFA6EF75C31",
+        "sha256": "B6637CB72FF5382959670CFA1F4087B8404BB6E4296A8278A35F6E4F651AEF66"
+    },
+    "download_size": 437129,
+    "identifier": "3StrawberryPlanets",
+    "install": [
+        {
+            "find": "PearlPlanetPack",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 443708,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.9.0",
+    "license": "MIT",
+    "name": "3 strawberry planets",
+    "release_date": "2026-07-17T19:10:39.089996Z",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/4418/3%20strawberry%20planets"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

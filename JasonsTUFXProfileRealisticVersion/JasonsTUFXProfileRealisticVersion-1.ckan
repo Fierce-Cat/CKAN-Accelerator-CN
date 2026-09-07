@@ -1,0 +1,40 @@
+{
+    "abstract": "its the most beautiful TUFX profile in the world",
+    "author": "MangoTech",
+    "depends": [
+        {
+            "name": "TUFX"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4372/Jason's%20TUFX%20Profile%20(Realistic%20Version)/download/1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5780F709DAD76F36A3EDE80399D4D5AE5B7A3D2E",
+        "sha256": "0D248B0DB6EB6C265D1D07D9867D9CAD91AB26B13A6C23BEE713A66728EA8732"
+    },
+    "download_size": 1491,
+    "identifier": "JasonsTUFXProfileRealisticVersion",
+    "install": [
+        {
+            "find": "TUFX",
+            "install_to": "GameData/MangoTech"
+        }
+    ],
+    "install_size": 2114,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Jason's TUFX Profile (Realistic Version)",
+    "release_date": "2026-07-04T07:34:56.715819Z",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/4372/Jason's%20TUFX%20Profile%20(Realistic%20Version)",
+        "x_screenshot": "https://spacedock.info/content/MangoTech_159038/Jasons_TUFX_Profile_Realistic_Version/Jasons_TUFX_Profile_Realistic_Version-1783150584.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
