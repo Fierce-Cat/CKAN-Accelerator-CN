@@ -1,0 +1,75 @@
+{
+    "abstract": "A set of 27 new Kerbal Konstructs bases and a KSC expansion with a variety of launch sites",
+    "author": "zakp",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "JNSQ"
+        },
+        {
+            "name": "KerbinSideRemastered"
+        },
+        {
+            "name": "StockalikeStructures"
+        },
+        {
+            "name": "TundraSpaceCenter"
+        },
+        {
+            "name": "OrdinaryKonstruction"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3680/Kerbin%20Renewal:%20JNSQ%20launch%20sites/download/2.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "962DAC2267C3CB3444B373765AAA6FDF3535C485",
+        "sha256": "C6F470EB929DCBDAF308E1A22D460F05F5D06280D611A5429A6FD8596DDF5737"
+    },
+    "download_size": 773788,
+    "identifier": "KerbinRenewalJNSQlaunchsites",
+    "install": [
+        {
+            "find": "JNSQ Kerbin Renewal",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 626603,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Kerbin Renewal: JNSQ launch sites",
+    "recommends": [
+        {
+            "name": "BluedogDB"
+        },
+        {
+            "name": "ModularLaunchPads"
+        }
+    ],
+    "release_date": "2026-04-11T03:33:21.652836Z",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/225594-kerbin-renewal-jnsq-launch-sites/#comment-4411232",
+        "spacedock": "https://spacedock.info/mod/3680/Kerbin%20Renewal:%20JNSQ%20launch%20sites",
+        "x_screenshot": "https://spacedock.info/content/zakp_14399/Kerbin_Renewal_JNSQ_launch_sites/Kerbin_Renewal_JNSQ_launch_sites-1722291355.jpg"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "AirplanePlus"
+        },
+        {
+            "name": "NavUtilitiesContinued"
+        }
+    ],
+    "tags": [
+        "buildings",
+        "config"
+    ],
+    "version": "2.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

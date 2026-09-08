@@ -1,0 +1,49 @@
+{
+    "abstract": "what do you THINK it does?",
+    "author": "pilotplayer",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4092/Pilots%20System%20Rearranger/download/1.0.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "9BDC1EE8475AB65F7CD7FAA79B692915F8663062",
+        "sha256": "6C7544B333B69F90C59B96171E90C26E97794D06C51BDC1881A3A9B0BDDD544E"
+    },
+    "download_size": 7006,
+    "identifier": "PilotsSystemRearranger",
+    "install": [
+        {
+            "find": "Pilots System Rearranger",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 10830,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Pilots System Rearranger",
+    "release_date": "2025-12-30T20:50:29.65737Z",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/229465-pilots-system-rearranger/",
+        "spacedock": "https://spacedock.info/mod/4092/Pilots%20System%20Rearranger",
+        "x_screenshot": "https://spacedock.info/content/pilotplayer_179555/Pilots_System_Rearranger/Pilots_System_Rearranger-1767127758.png"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "OuterPlanetsMod"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.0.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

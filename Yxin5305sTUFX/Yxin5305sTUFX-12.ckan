@@ -1,0 +1,41 @@
+{
+    "abstract": "Retro neutral TUFX",
+    "author": "Yxin5305",
+    "depends": [
+        {
+            "name": "TUFX"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3920/Oxygen5305%E2%80%98s%20TUFX/download/12",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "17BA20E92780E358D3BFCC76ACE4A63091669739",
+        "sha256": "AF2BB89446F8489FE649BCB375D38DE290D432DC13A4C8C8DDCD03826E48ECDC"
+    },
+    "download_size": 7131,
+    "identifier": "Yxin5305sTUFX",
+    "install": [
+        {
+            "find_matches_files": true,
+            "find_regexp": "\\.cfg$",
+            "install_to": "GameData/Oxygen5305sTUFX"
+        }
+    ],
+    "install_size": 15099,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY",
+    "name": "Oxygen5305‘s TUFX",
+    "release_date": "2026-07-21T12:21:32.081062Z",
+    "resources": {
+        "repository": "https://github.com/YunOF5305/Oxygen5305-s-TUFX/tree/main",
+        "spacedock": "https://spacedock.info/mod/3920/Oxygen5305‘s%20TUFX",
+        "x_screenshot": "https://spacedock.info/content/Yxin5305_164520/Oxygen5305s_TUFX/Oxygen5305s_TUFX-1779546388.png"
+    },
+    "spec_version": "v1.16",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "12",
+    "x_generated_by": "netkan"
+}
