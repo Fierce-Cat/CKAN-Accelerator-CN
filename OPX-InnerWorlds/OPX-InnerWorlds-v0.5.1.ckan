@@ -1,0 +1,60 @@
+{
+    "abstract": "OPX's analogs for various inner system asteroids",
+    "author": "TheMinmusDerp",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        }
+    ],
+    "download": [
+        "https://github.com/TheMinmusDerp/OPX-InnerWorlds/releases/download/v0.5.1/OPXIW-v0.5.1.zip",
+        "https://spacedock.info/mod/3710/OPX:%20InnerWorlds/download/v0.5.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A68D7A3CBB00652E7454DAE1929A8EFFC049825D",
+        "sha256": "52651C9D8F2AE3CD3C7FFBBAF0EFE278CAA31B6393B1A3C73E815C8722C86CE0"
+    },
+    "download_size": 249572449,
+    "identifier": "OPX-InnerWorlds",
+    "install": [
+        {
+            "filter": [
+                "__MACOSX",
+                ".DS_Store"
+            ],
+            "find": "OPX-InnerWorlds",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 414095861,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "OPX: InnerWorlds",
+    "release_date": "2026-05-31T00:21:17.620577Z",
+    "resources": {
+        "bugtracker": "https://github.com/TheMinmusDerp/OPX-InnerWorlds/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/225300-112x-planet-pack-outer-planets-expansion-opx/",
+        "repository": "https://github.com/TheMinmusDerp/OPX-InnerWorlds",
+        "spacedock": "https://spacedock.info/mod/3710/OPX:%20InnerWorlds",
+        "x_screenshot": "https://spacedock.info/content/TheMinmusDerp_137781/OPX_InnerWorlds/OPX_InnerWorlds-1753938049.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "v0.5.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
