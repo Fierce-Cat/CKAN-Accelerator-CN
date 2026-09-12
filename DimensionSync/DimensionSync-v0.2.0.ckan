@@ -1,0 +1,61 @@
+{
+    "abstract": "Keeps the dimensions of connected parts in step: resize one procedural part and the change travels along the stack, or from one wing segment's tip to the next segment's root. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "sparr",
+    "depends": [
+        {
+            "name": "Harmony2"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/sparr/ksp-mod-DimensionSync/releases/download/v0.2.0/DimensionSync-0.2.0.zip?auth_key=1789310010-a7e853f3352f4452b13ece5664f6c975-0-c4da4c55aad72d74927f2159b08c7413&size=63212&expireAt=1789310010",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "6DA9F3C9F9513D8F8BBF69B52332FAED5F87E6ED",
+        "sha256": "1BBC3AB144CF73C52F4E746EDECD51B3EA69C50BACF1B13490511E59DEA65614"
+    },
+    "download_size": 63212,
+    "identifier": "DimensionSync",
+    "install": [
+        {
+            "find": "DimensionSync",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 143222,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "Dimension Sync [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "release_date": "2026-09-07T16:37:04Z",
+    "resources": {
+        "bugtracker": "https://github.com/sparr/ksp-mod-DimensionSync/issues",
+        "remote-avc": "https://raw.githubusercontent.com/sparr/ksp-mod-DimensionSync/main/GameData/DimensionSync/DimensionSync.version",
+        "repository": "https://github.com/sparr/ksp-mod-DimensionSync"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "B9-PWings-Fork"
+        },
+        {
+            "name": "ROLib"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "editor",
+        "convenience"
+    ],
+    "version": "v0.2.0",
+    "x_generated_by": "netkan"
+}
