@@ -1,0 +1,54 @@
+{
+    "abstract": "Working axial tilts for KSP! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "ballisticfox",
+        "dagger"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "Harmony2"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ballisticfox/TiltEm-Continued/releases/download/V2.0.3/TiltEm-Continued_v2.0.3.zip?auth_key=1789483727-5639ce8cad63424096da198be8f963c6-0-aa54d0f7dcce6b12fd5f5d66a370708b&size=64348&expireAt=1789483727",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "531187A00478979EF0723FCB918F73E36D1E8F6C",
+        "sha256": "254113EDAB1E467E7682599C2144D652993E69DA51840B6C0CFCEC60B275218D"
+    },
+    "download_size": 64348,
+    "identifier": "TiltEm-Continued",
+    "install": [
+        {
+            "find": "TiltEm",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 131117,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "es-es"
+    ],
+    "name": "TiltEm Continued [PRO-KCMIRROR]",
+    "release_date": "2026-09-03T22:15:40Z",
+    "resources": {
+        "bugtracker": "https://github.com/ballisticfox/TiltEm-Continued/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/231670-112-tiltem-continued-working-planetary-axial-tilt/",
+        "repository": "https://github.com/ballisticfox/TiltEm-Continued"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "2.0.3",
+    "x_generated_by": "netkan"
+}

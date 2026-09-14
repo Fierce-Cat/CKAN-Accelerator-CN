@@ -1,0 +1,62 @@
+{
+    "abstract": "Complete rework of LiOn-0 original mod Antenna Helper",
+    "author": "wurmi",
+    "conflicts": [
+        {
+            "name": "AntennaHelper"
+        },
+        {
+            "name": "RemoteTech"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/Richi0D/AHNext/releases/download/1.0.11/AntennaHelperNext.zip",
+        "https://spacedock.info/mod/4029/Antenna%20Helper%20Next/download/1.0.11"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "886C17BA8763C440BBE78EDC6F06B7E96AA0521F",
+        "sha256": "005439BB6B6329706CA40582F4605C1C6E33D92C4AF5ABF15FF1942FC128E33B"
+    },
+    "download_size": 129111,
+    "identifier": "AntennaHelperNext",
+    "install_size": 197399,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12",
+    "license": "MIT",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Antenna Helper Next",
+    "release_date": "2026-09-13T19:21:45.844251Z",
+    "resources": {
+        "bugtracker": "https://github.com/Richi0D/AHNext/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/229153-112-antenna-helper-next/",
+        "remote-avc": "https://github.com/Richi0D/AHNext/raw/refs/heads/main/GameData/AntennaHelperNext/AntennaHelperNext.version",
+        "repository": "https://github.com/Richi0D/AHNext",
+        "spacedock": "https://spacedock.info/mod/4029/Antenna%20Helper%20Next",
+        "x_screenshot": "https://spacedock.info/content/wurmi_178680/Antenna_Helper_Next/Antenna_Helper_Next-1762973764.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "information",
+        "comms"
+    ],
+    "version": "1.0.11",
+    "x_generated_by": "netkan"
+}
