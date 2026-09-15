@@ -1,0 +1,39 @@
+{
+    "abstract": "Adds SystemHeat support for MKS/USI converters, harvesters, and heat pumps. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "maddavo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "UKS"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/maddavo/SystemHeatMKS/releases/download/v0.1.0.0/SystemHeatMKS-0.1.0.0.zip?auth_key=1789570279-36b008f4b550404894fd77e7ec250d74-0-62f82d5a743ae00ed76f4750a77d4c64&size=10558&expireAt=1789570279",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "68427499E965586250A6B797B83AC66DAC2A2B72",
+        "sha256": "F53D79995EE7076BC5671876473DC9C1F31B489DCB1100144B455F141AF7E3D3"
+    },
+    "download_size": 10558,
+    "identifier": "SystemHeatMKS",
+    "install_size": 10149,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.11.0",
+    "license": "MIT",
+    "name": "SystemHeat MKS [PRO-KCMIRROR]",
+    "release_date": "2026-09-09T17:15:15Z",
+    "resources": {
+        "bugtracker": "https://github.com/maddavo/SystemHeatMKS/issues",
+        "repository": "https://github.com/maddavo/SystemHeatMKS"
+    },
+    "spec_version": 1,
+    "tags": [
+        "config"
+    ],
+    "version": "0.1.0.0",
+    "x_generated_by": "netkan"
+}

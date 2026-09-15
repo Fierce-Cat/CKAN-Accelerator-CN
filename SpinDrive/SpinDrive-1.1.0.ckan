@@ -32,7 +32,22 @@
     "name": "Project Hail Mary Spin Drive",
     "recommends": [
         {
-            "name": "Waterfall"
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "VABOrganizer"
         }
     ],
     "release_date": "2026-09-02T16:02:23.629049Z",
@@ -44,10 +59,20 @@
         "x_screenshot": "https://spacedock.info/content/Natokerbal_10695/Project_Hail_Mary_Spin_Drive/Project_Hail_Mary_Spin_Drive-1781638404.png"
     },
     "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "EditorExtensionsRedux"
+        },
+        {
+            "name": "KerbalJointReinforcementContinued"
+        }
+    ],
     "tags": [
         "parts"
     ],
     "version": "1.1.0",
-    "x_generated_by": "netkan",
-    "x_via": "Automated SpaceDock CKAN submission"
+    "x_generated_by": "netkan"
 }

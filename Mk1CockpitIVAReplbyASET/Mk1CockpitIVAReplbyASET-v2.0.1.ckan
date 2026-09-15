@@ -51,12 +51,6 @@
     "ksp_version_min": "1.8.1",
     "license": "CC-BY-NC-SA-3.0",
     "name": "Mk1 Cockpit IVA Replacement by ASET",
-    "recommends": [
-        {
-            "min_version": "0.15.7.2",
-            "name": "FAR"
-        }
-    ],
     "release_date": "2023-03-09T15:51:05.718751Z",
     "resources": {
         "bugtracker": "https://github.com/StoneBlue/ASET-Consolidated-IVAs/issues",
@@ -67,6 +61,12 @@
         "x_screenshot": "https://spacedock.info/content/StoneBlue_14786/ASET_Consolidated_Stock_Replacement_IVAs/ASET_Consolidated_Stock_Replacement_IVAs-1676233614.png"
     },
     "spec_version": "v1.34",
+    "suggests": [
+        {
+            "min_version": "0.15.7.2",
+            "name": "FAR"
+        }
+    ],
     "tags": [
         "config",
         "crewed"
