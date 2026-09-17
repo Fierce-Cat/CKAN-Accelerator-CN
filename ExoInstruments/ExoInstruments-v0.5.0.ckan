@@ -1,19 +1,8 @@
 {
-    "abstract": "A ground-based exoplanet survey mod built on real observational astrophysics: transit photometry, radial velocity, and direct imaging detection pipelines against a real star catalog. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "abstract": "An observational astronomy mod: real telescopes photographing planets, moons, nebulae and galaxies onto real detector models, plus an exoplanet survey with transit and radial-velocity pipelines against a real star catalog. [All download links for this mod have been accelerated by KERBCAT.COM]",
     "author": "batistitooo",
-    "depends": [
-        {
-            "name": "ModuleManager"
-        },
-        {
-            "name": "KerbalKonstructs"
-        },
-        {
-            "name": "BetterTimeWarpCont"
-        }
-    ],
-    "description": "Replaces KSP's stock science-experiment loop with an actual exoplanet survey program. Select a real star from an exoplanet.eu-derived catalog, choose an instrument appropriate to its brightness and detection method, and extract a signal from simulated, photon-noise-limited data exactly the way an observational astronomer would. Includes transit timing variations (TTV), the Rossiter-McLaughlin effect, and a career-mode instrument-acquisition economy.",
-    "download": "https://hk-github.mirror.kerbcat.cn/github/batistitooo/ExoInstruments/releases/download/v0.5.0/ExoInstruments-0.5.0.zip?auth_key=1789656400-f6c331c49920482fb1bf899552e09fc7-0-230f9c82498ab40a75077458b5600fb7&size=37789946&expireAt=1789656400",
+    "description": "Adds a working observatory to KSP, alongside the stock science system rather than in place of it. Photograph anything in the sky, from moons to galaxies, through real named telescopes (a PlaneWave astrograph, the VLT, a launchable space telescope) onto real detector models, and get FITS files that calibrate and stack in real astronomy software. Or run an actual exoplanet survey: select a real star from an exoplanet.eu-derived catalog, choose an instrument suited to its brightness and detection method, and extract a signal from simulated, photon-noise-limited data. Includes transit timing variations (TTV), the Rossiter-McLaughlin effect, and a career-mode instrument-acquisition economy. Everything works out of the box; the optional sky data (Gaia star field, dust, galaxies and their images) is downloaded by tools/get_sky_data_compact.py or tools/get_sky_data_complete.py, and is not required.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/batistitooo/ExoInstruments/releases/download/v0.5.0/ExoInstruments-0.5.0.zip?auth_key=1789743034-368fb9e7fe634d03b1c18fbf949ebe65-0-3d4c92ee5f7662b3a706399abf53ab4c&size=37789946&expireAt=1789743034",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "03F363EEA75B7904C32C788F8DC99A52A985DC42",
@@ -22,15 +11,16 @@
     "download_size": 37789946,
     "identifier": "ExoInstruments",
     "install_size": 62609429,
+    "ksp_version_max": "1.12.5",
     "ksp_version_min": "1.8.0",
     "license": "restricted",
     "name": "Exo Instruments [PRO-KCMIRROR]",
     "recommends": [
         {
-            "name": "EnvironmentalVisualEnhancements"
+            "name": "BetterTimeWarpCont"
         },
         {
-            "name": "Spectra"
+            "name": "EnvironmentalVisualEnhancements"
         }
     ],
     "release_date": "2026-09-14T20:21:28Z",
@@ -39,6 +29,11 @@
         "repository": "https://github.com/batistitooo/ExoInstruments"
     },
     "spec_version": 1,
+    "suggests": [
+        {
+            "name": "Spectra"
+        }
+    ],
     "tags": [
         "science",
         "physics"

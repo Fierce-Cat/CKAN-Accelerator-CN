@@ -1,8 +1,6 @@
 {
     "abstract": "Put a PIN keypad on your ships - lock a craft's controls behind a code. [All download links for this mod have been accelerated by KERBCAT.COM]",
-    "author": [
-        "drebsdorf"
-    ],
+    "author": "drebsdorf",
     "depends": [
         {
             "name": "ModuleManager"
@@ -12,7 +10,7 @@
         }
     ],
     "description": "Adds a numeric keypad lock to every command part - probe cores and crewed pods alike. Set a code in the VAB, engage the lock, and the craft will not pitch, roll, yaw, throttle, stage or fire an action group until somebody types the code back in. Crew cannot EVA out, nobody can board in, and the vessel cannot be recovered or terminated without the PIN unless it is parked on a launch pad or runway. One craft has one lock and one PIN however many command parts it carries. The two Aegis buttons stay reachable in the part menu while locked, so a craft can always be opened again. Attached by ModuleManager, so it covers modded command parts as well as stock ones.",
-    "download": "https://hk-github.mirror.kerbcat.cn/github/TAz00/IkosAegis/releases/download/0.2.0/IkosAegis-0.2.0.zip?auth_key=1789656396-dbd9cd4076b346878a6d0ec6595a7fe8-0-a07e3d0d67d9737565bdf20ea4972169&size=27157&expireAt=1789656396",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/TAz00/IkosAegis/releases/download/0.2.0/IkosAegis-0.2.0.zip?auth_key=1789743031-3591afb264364582bb42be1bcbe5ec5b-0-02febe3209a5634b5604b4c43a84caa4&size=27157&expireAt=1789743031",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "FAFB3B1FEC47071917A34E9FA22D3D8BA61D6422",
@@ -39,7 +37,6 @@
     "release_date": "2026-08-20T20:57:16Z",
     "resources": {
         "bugtracker": "https://github.com/TAz00/IkosAegis/issues",
-        "homepage": "https://github.com/taz00/IkosAegis",
         "remote-avc": "https://raw.githubusercontent.com/taz00/IkosAegis/main/GameData/IkosAegis/IkosAegis.version",
         "repository": "https://github.com/TAz00/IkosAegis"
     },

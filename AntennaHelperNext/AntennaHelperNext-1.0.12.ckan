@@ -1,0 +1,63 @@
+{
+    "abstract": "Complete rework of LiOn-0 original mod Antenna Helper",
+    "author": "wurmi",
+    "conflicts": [
+        {
+            "name": "AntennaHelper"
+        },
+        {
+            "name": "RemoteTech"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/Richi0D/AHNext/releases/download/1.0.12/AntennaHelperNext.zip",
+        "https://spacedock.info/mod/4029/Antenna%20Helper%20Next/download/1.0.12"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "CD1160DA371A23626E3DDCA156B304853D08A280",
+        "sha256": "4A0A5A5135390896FE977F4C43441525436A8245369212341772018FF95F9411"
+    },
+    "download_size": 130197,
+    "identifier": "AntennaHelperNext",
+    "install_size": 200056,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12",
+    "license": "MIT",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "it-it",
+        "ja",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Antenna Helper Next",
+    "release_date": "2026-09-16T15:45:59.28632Z",
+    "resources": {
+        "bugtracker": "https://github.com/Richi0D/AHNext/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/229153-112-antenna-helper-next/",
+        "remote-avc": "https://github.com/Richi0D/AHNext/raw/refs/heads/main/GameData/AntennaHelperNext/AntennaHelperNext.version",
+        "repository": "https://github.com/Richi0D/AHNext",
+        "spacedock": "https://spacedock.info/mod/4029/Antenna%20Helper%20Next",
+        "x_screenshot": "https://spacedock.info/content/wurmi_178680/Antenna_Helper_Next/Antenna_Helper_Next-1762973764.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "information",
+        "comms"
+    ],
+    "version": "1.0.12",
+    "x_generated_by": "netkan"
+}
