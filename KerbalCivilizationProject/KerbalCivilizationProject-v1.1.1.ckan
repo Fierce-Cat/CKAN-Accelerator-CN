@@ -1,0 +1,45 @@
+{
+    "abstract": "Kerbal Civilization Project (KCP) is a mod for Sol (future plans to integrate into Kerbol) that adds cities, roads, buildings, etc. With plans to expand to even more things.",
+    "author": "KerbalMissile",
+    "depends": [
+        {
+            "name": "RealSolarSystem"
+        }
+    ],
+    "download": [
+        "https://github.com/KerbalMissile/Kerbal-Civilization-Project/releases/download/v1.1.1/Kerbal_Civilization_Project_KCP-v1.1.1.zip",
+        "https://spacedock.info/mod/4544/Kerbal%20Civilization%20Project%20(KCP)/download/v1.1.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "150DC53F733D86F3EB8D3C317FF4CD7F5E31FE08",
+        "sha256": "CCF36177F5880702FA04ED8EDCB26E004192A6431E632EE03EC69FB6EF4287A5"
+    },
+    "download_size": 101021,
+    "identifier": "KerbalCivilizationProject",
+    "install": [
+        {
+            "find": "KCP",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 231558,
+    "ksp_version": "1.12.5",
+    "license": "Apache-2.0",
+    "name": "Kerbal Civilization Project (KCP)",
+    "release_date": "2026-09-17T03:04:51.426294Z",
+    "resources": {
+        "bugtracker": "https://github.com/KerbalMissile/Kerbal-Civilization-Project/issues",
+        "repository": "https://github.com/KerbalMissile/Kerbal-Civilization-Project",
+        "spacedock": "https://spacedock.info/mod/4544/Kerbal%20Civilization%20Project%20(KCP)",
+        "x_screenshot": "https://spacedock.info/content/KerbalMissile_138114/Kerbal_Civilization_Project_KCP/Kerbal_Civilization_Project_KCP-1788816110.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "buildings"
+    ],
+    "version": "v1.1.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
