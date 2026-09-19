@@ -1,0 +1,45 @@
+{
+    "abstract": "The pieces that hold everything else up. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.6.2/SterlingSystems_Structural_0.6.2.zip?auth_key=1789914988-a69d43afe724478cbbcedc952ff4b64a-0-a39f6138ba660b3b8940a601c621b727&size=5660613&expireAt=1789914988",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A762D7A162647AD6C5DF5CFA2EA93E12A7BFBAB3",
+        "sha256": "D2685666230ADA9B1D8E923FDA4A08E011835D98EC7A9B848D5191CF6107F138"
+    },
+    "download_size": 5660613,
+    "identifier": "SterlingSystemsStructural",
+    "install": [
+        {
+            "find": "Structural",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 37822251,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Structural [PRO-KCMIRROR]",
+    "release_date": "2026-09-18T16:58:57Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "manual": "https://github.com/JadeOfMaar/SterlingSystems/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.6.2",
+    "x_generated_by": "netkan"
+}

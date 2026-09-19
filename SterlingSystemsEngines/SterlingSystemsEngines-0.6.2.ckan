@@ -1,0 +1,56 @@
+{
+    "abstract": "Shared configs for the engine suites such as System Heat and Waterfall [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "JadeOfMaar",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "SterlingSystemsAgency"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/JadeOfMaar/SterlingSystems/releases/download/0.6.2/SterlingSystems_Engines_0.6.2.zip?auth_key=1789914983-f8607b53220f4bd48c9a8155749375b4-0-279895df489e11e9b21cfdac2af29728&size=43373817&expireAt=1789914983",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5E777B4C7C17307F08CD177C638913879ABAAC38",
+        "sha256": "0DEFA82038AE060E289215154FD2E2D37BAE3A5E57649E38FBA3FBE5D0050F7E"
+    },
+    "download_size": 43373817,
+    "identifier": "SterlingSystemsEngines",
+    "install": [
+        {
+            "find": "Engines",
+            "install_to": "GameData/SterlingSystems"
+        }
+    ],
+    "install_size": 243038,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Sterling Engines [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "release_date": "2026-09-18T16:58:56Z",
+    "resources": {
+        "bugtracker": "https://github.com/JadeOfMaar/SterlingSystems/issues",
+        "discussions": "https://github.com/JadeOfMaar/SterlingSystems/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/219609-*/",
+        "manual": "https://github.com/JadeOfMaar/SterlingSystems/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/JadeOfMaar/SterlingSystems/main/GameData/SterlingSystems/Version/SterlingSystems.version",
+        "repository": "https://github.com/JadeOfMaar/SterlingSystems"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "0.6.2",
+    "x_generated_by": "netkan"
+}

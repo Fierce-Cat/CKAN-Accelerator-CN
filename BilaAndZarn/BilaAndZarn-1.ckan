@@ -1,0 +1,43 @@
+{
+    "abstract": "this mod is test for fun!",
+    "author": "Migue",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4568/BILA%20AND%20ZARN!%20A%20NEW%20GAS%20GIGANT%20AND%20YOUR%20MOON/download/1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0D77A4509B9C94DAAAC4B4A97B11CE19B3C7F7B5",
+        "sha256": "A01CAE6838A81A929C6E168BA8B5155202EE29597ECEDE632572B1238612957D"
+    },
+    "download_size": 939259,
+    "identifier": "BilaAndZarn",
+    "install": [
+        {
+            "find": "bila",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1402836,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "BILA AND ZARN! A NEW GAS GIGANT AND YOUR MOON",
+    "release_date": "2026-09-16T22:12:31.28072Z",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/4568/BILA%20AND%20ZARN!%20A%20NEW%20GAS%20GIGANT%20AND%20YOUR%20MOON",
+        "x_screenshot": "https://spacedock.info/content/Migue_189992/BILA_AND_ZARN_A_NEW_GAS_GIGANT_AND_YOUR_MOON/BILA_AND_ZARN_A_NEW_GAS_GIGANT_AND_YOUR_MOON-1789596829.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
