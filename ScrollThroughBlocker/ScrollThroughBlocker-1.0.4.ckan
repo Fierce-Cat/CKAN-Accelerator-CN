@@ -1,0 +1,47 @@
+{
+    "abstract": "Prevents camera zoom bleed while scrolling through UI.",
+    "author": "extraext",
+    "depends": [
+        {
+            "name": "Harmony2"
+        }
+    ],
+    "download": [
+        "https://github.com/extraext/ScrollThroughBlocker/releases/download/v1.0.4/ScrollThroughBlocker_v1.0.4.zip",
+        "https://spacedock.info/mod/4569/Scroll%20Through%20Blocker/download/v1.0.4"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "94274EFC19686E05BA454A49357A2AF31BCB6837",
+        "sha256": "F37C4F6A905F4964F652CDDD6CA05A1E8228D02D7392C053A703EC99530C16AE"
+    },
+    "download_size": 11654,
+    "identifier": "ScrollThroughBlocker",
+    "install": [
+        {
+            "find": "000_ScrollThroughBlocker",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 16367,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8.0",
+    "license": "GPL-3.0",
+    "name": "Scroll Through Blocker",
+    "release_date": "2026-09-20T19:48:06.342774Z",
+    "resources": {
+        "bugtracker": "https://github.com/extraext/ScrollThroughBlocker/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/231789-18-112-scroll-through-blocker-camera-zoom-bleed-prevention/",
+        "remote-avc": "https://raw.githubusercontent.com/extraext/ScrollThroughBlocker/main/GameData/000_ScrollThroughBlocker/ScrollThroughBlocker.version",
+        "repository": "https://github.com/extraext/ScrollThroughBlocker",
+        "spacedock": "https://spacedock.info/mod/4569/Scroll%20Through%20Blocker",
+        "x_screenshot": "https://spacedock.info/content/extraext_189080/Scroll_Through_Blocker/Scroll_Through_Blocker-1789933701.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.0.4",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
