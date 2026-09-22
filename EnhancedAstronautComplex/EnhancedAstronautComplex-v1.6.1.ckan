@@ -1,0 +1,62 @@
+{
+    "abstract": "Career and crew management for the KSP Astronaut Complex. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "ItchyBrother",
+    "depends": [
+        {
+            "name": "Harmony2"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ItchyBrother/EAC/releases/download/v1.6.1/EACv1.6.1.zip?auth_key=1790174777-02e69be1ec334417b1680ebc6d693c73-0-9b0f29ae16b9b70f2137a0c017458fc9&size=3303555&expireAt=1790174777",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "782631A6B0E4996B7E9CDA8DAAEF9FEF41ED7C0D",
+        "sha256": "E2E22F85522F889840BA02BB5458DCFF2F70FE73A16561702636F228ACED6CEF"
+    },
+    "download_size": 3303555,
+    "identifier": "EnhancedAstronautComplex",
+    "install": [
+        {
+            "find": "EAC",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 3864192,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-ND-4.0",
+    "name": "Enhanced Astronaut Complex [PRO-KCMIRROR]",
+    "release_date": "2026-09-21T10:22:30Z",
+    "resources": {
+        "bugtracker": "https://github.com/ItchyBrother/EAC/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/229909-enhanced-astronaut-complex-eac",
+        "remote-avc": "https://raw.githubusercontent.com/ItchyBrother/EAC/main/EAC.version",
+        "repository": "https://github.com/ItchyBrother/EAC"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "EnhancedAstronautComplexContractConfig"
+        }
+    ],
+    "supports": [
+        {
+            "name": "CrewQueueTwo"
+        },
+        {
+            "name": "EarnYourStripes"
+        },
+        {
+            "name": "FlightTracker"
+        },
+        {
+            "name": "DeepFreeze"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "crewed",
+        "career"
+    ],
+    "version": "v1.6.1",
+    "x_generated_by": "netkan"
+}

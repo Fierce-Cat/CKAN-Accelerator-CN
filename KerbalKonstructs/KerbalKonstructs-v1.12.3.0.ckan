@@ -1,0 +1,56 @@
+{
+    "abstract": "New buildings and launch sites [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "AlphaAsh",
+        "ozraven",
+        "Ger_space",
+        "ryanc55",
+        "KSP-RO"
+    ],
+    "comment": "Plugin is MIT, but Static Assets, Artwork & Models are ARR",
+    "depends": [
+        {
+            "name": "CustomPreLaunchChecks"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/Kerbal-Konstructs/releases/download/v1.12.3.0/KerbalKonstructs-v1.12.3.0.zip?auth_key=1790174778-4f13e517e296496ab29d30bb7127f426-0-fa844426127c8d5ed9d2a909102487cb&size=6045103&expireAt=1790174778",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5457A13DBF018F6E04BE220A7611F93FEF1A8A9B",
+        "sha256": "13916136F1CBC8631021ADE9097C1EAE86E16E30D8E6DA966DA23F264DC1781F"
+    },
+    "download_size": 6045103,
+    "identifier": "KerbalKonstructs",
+    "install": [
+        {
+            "find": "KerbalKonstructs",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 10420255,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "restricted",
+    "name": "Kerbal Konstructs [PRO-KCMIRROR]",
+    "release_date": "2026-09-21T23:19:39Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/Kerbal-Konstructs/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/204210-*",
+        "manual": "https://github.com/KSP-RO/Kerbal-Konstructs/wiki",
+        "remote-avc": "https://raw.githubusercontent.com:443/KSP-RO/Kerbal-Konstructs/master/GameData/KerbalKonstructs/KerbalKonstructs.version",
+        "repository": "https://github.com/KSP-RO/Kerbal-Konstructs"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "KKtoSD"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "library",
+        "buildings"
+    ],
+    "version": "v1.12.3.0",
+    "x_generated_by": "netkan"
+}
