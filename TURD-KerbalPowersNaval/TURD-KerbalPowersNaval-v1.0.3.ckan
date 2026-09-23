@@ -1,0 +1,52 @@
+{
+    "abstract": "Textures Unlimited recolours for Kerbal Powers Naval",
+    "author": [
+        "Spartwo",
+        "MiffedStarfish"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "KerbalPowersNaval"
+        }
+    ],
+    "download": "https://spacedock.info/mod/3977/Kerbal%20Powers%20Naval/download/v1.0.3",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2216094B0B0B57AB8D97CDF1AF88388044BB0BAF",
+        "sha256": "9A746258E26CD928D5B95C87FED418973BA485BD3085ED82804673E90F456D30"
+    },
+    "download_size": 25048203,
+    "identifier": "TURD-KerbalPowersNaval",
+    "install": [
+        {
+            "find": "TURD/TU_KP_Naval_Recolour",
+            "install_to": "GameData/TURD"
+        }
+    ],
+    "install_size": 23774796,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "TURD - Kerbal Powers Naval",
+    "release_date": "2026-01-28T17:19:34.430667Z",
+    "resources": {
+        "discussions": "https://github.com/KerbalPowers/KP-Dynamics/discussions",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/228684-kerbal-powers-naval-v10/",
+        "manual": "https://github.com/KerbalPowers/KP-Dynamics/wiki",
+        "repository": "https://github.com/KerbalPowers/KP-Dynamics",
+        "spacedock": "https://spacedock.info/mod/3977/Kerbal%20Powers%20Naval",
+        "x_screenshot": "https://spacedock.info/content/Spartwo_95463/Kerbal_Powers_Naval/Kerbal_Powers_Naval-1756485279.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "v1.0.3",
+    "x_generated_by": "netkan"
+}

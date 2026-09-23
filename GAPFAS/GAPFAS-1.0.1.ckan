@@ -1,0 +1,59 @@
+{
+    "abstract": "A GAP For All Systems",
+    "author": "Caerfinon",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "WaypointManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4540/GAPFAS/download/v1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "21D65729377692E71486E12407D95431BCAB02EA",
+        "sha256": "C4E59F143832038AF49E392950AFD06556DE2818AFB63276D77A6F4BA1CED1F5"
+    },
+    "download_size": 506260,
+    "identifier": "GAPFAS",
+    "install_size": 1185076,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "GAPFAS",
+    "release_date": "2026-09-22T19:44:59.262974Z",
+    "resources": {
+        "bugtracker": "https://github.com/caerfinon/GAPFAS/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/231736-1125-gapfas-a-gap-for-all-systems-v100/",
+        "manual": "https://github.com/caerfinon/GAPFAS/wiki",
+        "repository": "https://github.com/caerfinon/GAPFAS",
+        "spacedock": "https://spacedock.info/mod/4540/GAPFAS",
+        "x_screenshot": "https://spacedock.info/content/Caerfinon_49341/GAPFAS/GAPFAS-1788717035.png"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "NavUtilitiesContinued"
+        },
+        {
+            "name": "KramaxAutopilotContinued"
+        },
+        {
+            "name": "MechJeb2"
+        }
+    ],
+    "tags": [
+        "career",
+        "parts",
+        "agency"
+    ],
+    "version": "1.0.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

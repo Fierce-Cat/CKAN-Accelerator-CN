@@ -1,0 +1,48 @@
+{
+    "abstract": "Small UI plugin that shows visual size tags on parts in the VAB as well as dividing the parts drawer into defined subcategories [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Nertea (Chris Adderley)",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Harmony2"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSPModStewards/VABOrganizer/releases/download/1.2.0/VABOrganizer_1_2_0.zip?auth_key=1790261196-6b552340e6b54565b10e90d16aa97bcf-0-570bf8ae3b153ef8a8777ad4f324ef44&size=505406&expireAt=1790261196",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "92C5EAF80EEEE20BDF20DB7CC90BB64C14416248",
+        "sha256": "D69CD39C20B741ED0E8E1D8AF135EE4AA08814E110A1BE9F2ACBB8AC5EBF64D3"
+    },
+    "download_size": 505406,
+    "identifier": "VABOrganizer",
+    "install": [
+        {
+            "find": "VABOrganizer",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 135822,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "VAB Organizer [PRO-KCMIRROR]",
+    "release_date": "2026-09-22T19:48:23Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSPModStewards/VABOrganizer/issues",
+        "metanetkan": "https://github.com/post-kerbin-mining-corporation/VABOrganizer/raw/master/CKAN/VABOrganizer.netkan",
+        "remote-avc": "https://raw.githubusercontent.com/post-kerbin-mining-corporation/VABOrganizer/master/GameData/VABOrganizer/Versioning/VABOrganizer.version",
+        "repository": "https://github.com/post-kerbin-mining-corporation/VABOrganizer"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "1.2.0",
+    "x_generated_by": "netkan"
+}
