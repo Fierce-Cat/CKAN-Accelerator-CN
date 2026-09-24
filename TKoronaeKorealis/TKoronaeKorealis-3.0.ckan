@@ -1,0 +1,61 @@
+{
+    "abstract": "Adds an analog of the recurrent nova binary T CrB",
+    "author": "VIJ2",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "VertexColorMapEmissive"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4318/T%20Koronae%20Korealis/download/3.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "03F550452D78B408EE184F7554DC96881A19019F",
+        "sha256": "6C569725A3B40119637E53DD103A1509CB7D9F3B215AE574DEA5C281C3AD03E4"
+    },
+    "download_size": 99249044,
+    "identifier": "TKoronaeKorealis",
+    "install": [
+        {
+            "find": "TKK",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 502985096,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "T Koronae Korealis",
+    "recommends": [
+        {
+            "name": "ParallaxContinued"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "ScaledDecorator"
+        }
+    ],
+    "release_date": "2026-09-22T17:02:21.87332Z",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/4318/T%20Koronae%20Korealis",
+        "x_screenshot": "https://spacedock.info/content/VIJ2_179019/T_Koronae_Korealis/T_Koronae_Korealis-1790097361.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack",
+        "plugin"
+    ],
+    "version": "3.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
