@@ -1,0 +1,91 @@
+{
+    "abstract": "Outer Wilds solar system in KSP!",
+    "author": "WhirligigGirl",
+    "conflicts": [
+        {
+            "name": "SigmaDimensions"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "KopernicusExpansionContinueder"
+        },
+        {
+            "name": "VertexColorMapEmissive"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "SciRev"
+        }
+    ],
+    "download": [
+        "https://github.com/WhirligigGirl/KerbalOuterWilds/releases/download/1.1.2/KerbalWilds_v1.1.2.zip",
+        "https://spacedock.info/mod/4566/Kerbal%20Wilds/download/1.1.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1F01F3B4BDC5855B586187593427F099BFB276E3",
+        "sha256": "065BB4E97B447E456E18212F47A348111F1412468F97F551021E22002285A962"
+    },
+    "download_size": 358354534,
+    "identifier": "KerbalWilds",
+    "install": [
+        {
+            "find": "TheKerbalWilds",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 841230259,
+    "ksp_version": "1.12.5",
+    "license": "restricted",
+    "name": "Kerbal Wilds",
+    "recommends": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "Scatterer"
+        }
+    ],
+    "release_date": "2026-09-23T23:51:24.653372Z",
+    "resources": {
+        "bugtracker": "https://github.com/WhirligigGirl/KerbalOuterWilds/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/231785-1125-kerbal-wilds-outer-wilds-solar-system-in-ksp-version-100-2026-september-16/",
+        "repository": "https://github.com/WhirligigGirl/KerbalOuterWilds",
+        "spacedock": "https://spacedock.info/mod/4566/Kerbal%20Wilds",
+        "x_screenshot": "https://spacedock.info/content/WhirligigGirl_191467/Kerbal_Wilds/Kerbal_Wilds-1789586072.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "CustomAsteroids"
+        },
+        {
+            "name": "Singularity"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "KerbalRenamer"
+        },
+        {
+            "name": "TextureReplacer"
+        }
+    ],
+    "tags": [
+        "planet-pack",
+        "science"
+    ],
+    "version": "1.1.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
