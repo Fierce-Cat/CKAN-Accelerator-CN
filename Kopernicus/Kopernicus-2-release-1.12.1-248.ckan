@@ -1,0 +1,75 @@
+{
+    "abstract": "Allows users to replace the planetary system used by the game [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "BryceSchroeder",
+        "Teknoman117",
+        "Thomas P.",
+        "NathanKell",
+        "KillAshley",
+        "Gravitasi",
+        "KCreator",
+        "Sigma88",
+        "R-T-B",
+        "prestja",
+        "steamroller"
+    ],
+    "depends": [
+        {
+            "min_version": "1.0.26",
+            "name": "KSPTextureLoader"
+        },
+        {
+            "min_version": "2.8.0",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "1.2.4.0",
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "Harmony2"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kopernicus/Kopernicus/releases/download/release-248/Kopernicus-1.12.1-248.zip?auth_key=1790521031-f87fb566b73347b0ba2b6c5523bec4cf-0-b743294b465c2c87f28018d07752b8de&size=717684&expireAt=1790521031",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "48B420170688B79B0F722980AF585C5549656DE6",
+        "sha256": "345C061C0CE755E2168F2666503F6F624CA7A3F4AD82A1E63227C14932CAAD56"
+    },
+    "download_size": 717684,
+    "identifier": "Kopernicus",
+    "install_size": 1696195,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "LGPL-3.0",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "it-it",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Kopernicus Planetary System Modifier [PRO-KCMIRROR]",
+    "release_date": "2026-09-25T02:57:34Z",
+    "resources": {
+        "bugtracker": "https://github.com/Kopernicus/Kopernicus/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/200143-*",
+        "manual": "https://github.com/Kopernicus/Kopernicus/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/Kopernicus/Kopernicus/master/build/KSP19PLUS/GameData/Kopernicus/Plugins/Kopernicus.version",
+        "repository": "https://github.com/Kopernicus/Kopernicus"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "KittopiaTech"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "2:release-1.12.1-248",
+    "x_generated_by": "netkan"
+}
