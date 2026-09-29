@@ -1,0 +1,49 @@
+{
+    "abstract": "A Lightweight G Force Display",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/GForceDisplay/releases/download/0.2.17/GForceDisplay-1.12.5-0.2.17.zip",
+        "https://spacedock.info/mod/4624/G%20Force%20Display/download/0.2.17"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B9479287D3CB09AE91A9F451E3EA8DC8044088E5",
+        "sha256": "AAD62F836067158758BC9AF028DD2F8A2E466FA4DE6A343B81D70F2111405588"
+    },
+    "download_size": 24808,
+    "identifier": "GForceDisplay",
+    "install": [
+        {
+            "filter_regexp": "\\.pdb$",
+            "find": "GForceDisplay",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 35026,
+    "ksp_version_max": "1.12.109",
+    "ksp_version_min": "1.8.0",
+    "license": "CC-BY-NC-SA",
+    "name": "G Force Display",
+    "release_date": "2026-09-29T01:31:43.623079Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/GForceDisplay/issues",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/GForceDisplay/refs/heads/main/GForceDisplay.version",
+        "repository": "https://github.com/linuxgurugamer/GForceDisplay",
+        "spacedock": "https://spacedock.info/mod/4624/G%20Force%20Display"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin"
+    ],
+    "version": "0.2.17",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
