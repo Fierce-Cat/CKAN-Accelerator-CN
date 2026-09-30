@@ -17,6 +17,9 @@
             "name": "ModuleManager"
         },
         {
+            "name": "Kopernicus"
+        },
+        {
             "name": "Scatterer-sunflare-default"
         },
         {
@@ -41,7 +44,15 @@
         "spacedock": "https://spacedock.info/mod/4175/HD%20SunFlare",
         "x_screenshot": "https://spacedock.info/content/Chickenhunt_171097/HD_SunFlare/HD_SunFlare-1789845691.jpeg"
     },
-    "spec_version": 1,
+    "spec_version": "v1.2",
+    "supports": [
+        {
+            "name": "CosmicSerenity-Core"
+        },
+        {
+            "name": "PromisedWorldsCore"
+        }
+    ],
     "tags": [
         "config",
         "graphics"

@@ -1,0 +1,51 @@
+{
+    "abstract": "Optional ModuleManager patches for Kerbal Space Program: balance tweaks, cross-mod integration and QoL fixes, each toggled individually via PatchManager. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "aspctt",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/aspctt/OCCULT/releases/download/1.4.4/OCCULT-1.4.4.zip?auth_key=1790868384-d70d4343b77a4cd9bccfbccf4167ad26-0-f5f05857bebe9d851180183258574122&size=31407&expireAt=1790868384",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "11A345B0700B35641DE412797E2A67129CF02788",
+        "sha256": "9B1F0124937CB9DBB3B47B76289E567506BFA2D424BF4FF3C8D57B9BE5B3C4AB"
+    },
+    "download_size": 31407,
+    "identifier": "OCCULT",
+    "install_size": 87184,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.9.0",
+    "license": "GPL-3.0",
+    "name": "OCCULT [PRO-KCMIRROR]",
+    "release_date": "2026-09-30T00:38:50Z",
+    "resources": {
+        "bugtracker": "https://github.com/aspctt/OCCULT/issues",
+        "remote-avc": "https://raw.githubusercontent.com/aspctt/OCCULT/main/OCCULT.version",
+        "repository": "https://github.com/aspctt/OCCULT"
+    },
+    "spec_version": "v1.2",
+    "supports": [
+        {
+            "name": "JX2Antenna"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "SystemHeat-FissionEngines"
+        }
+    ],
+    "tags": [
+        "config",
+        "convenience",
+        "planet-pack",
+        "graphics"
+    ],
+    "version": "1.4.4",
+    "x_generated_by": "netkan"
+}

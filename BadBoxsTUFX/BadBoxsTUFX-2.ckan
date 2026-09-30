@@ -1,0 +1,43 @@
+{
+    "abstract": "Two TUFX profiles made by me. Maybe more to come",
+    "author": "BigBadBox",
+    "depends": [
+        {
+            "name": "TUFX"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4205/BadBox's%20TUFX/download/2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "63567E84038C8DF2C56A3AF7ADF05B805BA3B6E2",
+        "sha256": "4BA4DEA060EA6216CC261E2F931DDDB595EBA6C8EEF87C5D6F8A4E7EE1285045"
+    },
+    "download_size": 2015,
+    "identifier": "BadBoxsTUFX",
+    "install": [
+        {
+            "file": "BadBox's Blue TUFX.cfg",
+            "install_to": "GameData/BadBoxsTUFX"
+        },
+        {
+            "file": "BadBox's Updated TUFX.cfg",
+            "install_to": "GameData/BadBoxsTUFX"
+        }
+    ],
+    "install_size": 4208,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "BadBox's TUFX",
+    "release_date": "2026-09-09T20:38:23.788935Z",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/4205/BadBox's%20TUFX",
+        "x_screenshot": "https://spacedock.info/content/BigBadBox_182071/BadBoxs_TUFX/BadBoxs_TUFX-1775966521.png"
+    },
+    "spec_version": "v1.2",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "2",
+    "x_generated_by": "netkan"
+}

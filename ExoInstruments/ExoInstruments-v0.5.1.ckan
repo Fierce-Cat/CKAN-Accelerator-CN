@@ -1,0 +1,45 @@
+{
+    "abstract": "An observational astronomy mod: real telescopes photographing planets, moons, nebulae and galaxies onto real detector models, plus an exoplanet survey with transit and radial-velocity pipelines against a real star catalog. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "batistitooo",
+    "description": "Adds a working observatory to KSP, alongside the stock science system rather than in place of it. Photograph anything in the sky, from moons to galaxies, through real named telescopes (a PlaneWave astrograph, the VLT, a launchable space telescope) onto real detector models, and get FITS files that calibrate and stack in real astronomy software. Or run an actual exoplanet survey: select a real star from an exoplanet.eu-derived catalog, choose an instrument suited to its brightness and detection method, and extract a signal from simulated, photon-noise-limited data. Includes transit timing variations (TTV), the Rossiter-McLaughlin effect, and a career-mode instrument-acquisition economy. Everything works out of the box; the optional sky data (Gaia star field, dust, galaxies and their images) is downloaded by tools/get_sky_data_compact.py or tools/get_sky_data_complete.py, and is not required.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/batistitooo/ExoInstruments/releases/download/v0.5.1/ExoInstruments-0.5.1.zip?auth_key=1790868385-41eefc51288a4774bdd1b3bf9164ce74-0-8392e1862305cc2d6200e04f1a37cacc&size=37799861&expireAt=1790868385",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "43E45AACDCCD45766AB8E7E5C134352A3C68AE32",
+        "sha256": "BC726817E8F0F47E714EACFAB57D4CD41E2642CDD1107C07C41D8084AE4D736B"
+    },
+    "download_size": 37799861,
+    "identifier": "ExoInstruments",
+    "install_size": 62630742,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.8.0",
+    "license": "restricted",
+    "name": "Exo Instruments [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "BetterTimeWarpCont"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        }
+    ],
+    "release_date": "2026-09-29T10:00:50Z",
+    "resources": {
+        "bugtracker": "https://github.com/batistitooo/ExoInstruments/issues",
+        "homepage": "https://github.com/batistitooo/ExoInstruments",
+        "license": "https://github.com/batistitooo/ExoInstruments/blob/main/LICENSE",
+        "repository": "https://github.com/batistitooo/ExoInstruments"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "Spectra"
+        }
+    ],
+    "tags": [
+        "science",
+        "physics"
+    ],
+    "version": "v0.5.1",
+    "x_generated_by": "netkan"
+}
