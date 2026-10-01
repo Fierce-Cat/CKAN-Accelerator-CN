@@ -1,0 +1,54 @@
+{
+    "abstract": "A Minnesota (Nice) Space Center",
+    "author": "PlutonianEmpire",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "KSCSwitcher"
+        }
+    ],
+    "download": [
+        "https://github.com/PlutonianEmpire/KSP-MNSC/releases/download/KSP-MNSC-1.2.0/KSP-MNSC-1.2.0.zip",
+        "https://spacedock.info/mod/4217/Minnesota%20Space%20Center/download/1.2.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F1311ADB6DE4EF97F773F0795FF3E6D645A5B8E2",
+        "sha256": "B79A14B1A3FAFB134AFA987D239FE17606B9E07762E9A031B125EF66B0E3A45F"
+    },
+    "download_size": 3792,
+    "identifier": "MinnesotaSpaceCenter",
+    "install": [
+        {
+            "find": "MNSC",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 3238,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Minnesota Space Center",
+    "release_date": "2026-09-30T12:37:34.949452Z",
+    "resources": {
+        "bugtracker": "https://github.com/PlutonianEmpire/KSP-MNSC/issues",
+        "repository": "https://github.com/PlutonianEmpire/KSP-MNSC",
+        "spacedock": "https://spacedock.info/mod/4217/Minnesota%20Space%20Center"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "RemoteTech"
+        }
+    ],
+    "tags": [
+        "config",
+        "buildings"
+    ],
+    "version": "1.2.0",
+    "x_generated_by": "netkan"
+}
