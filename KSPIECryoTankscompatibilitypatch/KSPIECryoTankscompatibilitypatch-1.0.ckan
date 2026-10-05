@@ -1,0 +1,46 @@
+{
+    "abstract": "KSPI-E removes the fuel+oxidizer options from Nertea's cryo tanks. This patch re-adds them.",
+    "author": "Stana",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "KSPInterstellarExtended"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4635/KSPI-E%20Cryo%20Tanks%20compatibility%20patch/download/1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "62E2DED23A9707BDAACB078E1A3B49B5BA265D00",
+        "sha256": "257FC824C5FF8AC61985CB4DD09118C990D017F21A7228B5EC6360DB016E8740"
+    },
+    "download_size": 360,
+    "identifier": "KSPIECryoTankscompatibilitypatch",
+    "install": [
+        {
+            "find_regexp": "^[^/]+/?$",
+            "install_to": "GameData/KSPIECryoTankscompatibilitypatch"
+        }
+    ],
+    "install_size": 548,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "KSPI-E Cryo Tanks compatibility patch",
+    "release_date": "2026-10-02T19:19:52.756452Z",
+    "resources": {
+        "bugtracker": "https://github.com/stana32/KSP/issues",
+        "repository": "https://github.com/stana32/KSP",
+        "spacedock": "https://spacedock.info/mod/4635/KSPI-E%20Cryo%20Tanks%20compatibility%20patch"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "config"
+    ],
+    "version": "1.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

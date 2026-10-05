@@ -5,9 +5,6 @@
         {
             "min_version": "2.2.1.0",
             "name": "Harmony2"
-        },
-        {
-            "name": "Cyla"
         }
     ],
     "download": [
@@ -34,6 +31,32 @@
         "x_screenshot": "https://spacedock.info/content/divinecodes_191344/Nivens_Ring_World/Nivens_Ring_World-1789689006.png"
     },
     "spec_version": "v1.34",
+    "suggests": [
+        {
+            "min_version": "1.1.0.0",
+            "name": "Cyla"
+        },
+        {
+            "min_version": "1.0.0",
+            "name": "RingworldClouds"
+        },
+        {
+            "min_version": "1.0.0",
+            "name": "RingworldScattering"
+        },
+        {
+            "name": "TUFX"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Deferred"
+        },
+        {
+            "name": "BetterTimeWarpCont"
+        }
+    ],
     "tags": [
         "parts",
         "plugin",
