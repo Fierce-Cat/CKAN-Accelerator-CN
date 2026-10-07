@@ -1,0 +1,60 @@
+{
+    "abstract": "An extension pack for Chemical Propulsion which adds high-thrust, low-isp propellant options to thermal rockets",
+    "author": "Charle_Roger",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ChemicalCore"
+        },
+        {
+            "name": "ChemicalPropulsion"
+        },
+        {
+            "name": "Ignition"
+        }
+    ],
+    "download": [
+        "https://github.com/CharleRoger/ChemicalPropulsion/releases/download/1.7.1/ChemicalPropulsion-1.7.1.zip",
+        "https://spacedock.info/mod/3866/Chemical%20Propulsion/download/1.7.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F733FEB880E1D7A342989DF036F8CCC159A2FA42",
+        "sha256": "5E94CAD6BF625993F2C9D4C439CF879A9F2875BA18F310E08D11D47AD7DCB80A"
+    },
+    "download_size": 493822,
+    "identifier": "ChemicalPropulsionNuclear",
+    "install": [
+        {
+            "find": "ChemicalPropulsionThermal",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2717,
+    "ksp_version": "1.12.5",
+    "license": "GPL-3.0",
+    "name": "Chemical Propulsion - Thermal",
+    "release_date": "2026-10-06T22:20:58.098593Z",
+    "resources": {
+        "bugtracker": "https://github.com/CharleRoger/ChemicalPropulsion/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227705-112x-chemical-technologies-a-chemically-based-resource-overhaul/",
+        "remote-avc": "https://raw.githubusercontent.com/CharleRoger/ChemicalPropulsion/main/GameData/ChemicalPropulsion/Versioning/ChemicalPropulsion.version",
+        "repository": "https://github.com/CharleRoger/ChemicalPropulsion",
+        "spacedock": "https://spacedock.info/mod/3866/Chemical%20Propulsion",
+        "x_screenshot": "https://spacedock.info/content/Charle_Roger_139212/Chemical_Propulsion/Chemical_Propulsion-1754478636.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config"
+    ],
+    "version": "1.7.1",
+    "x_generated_by": "netkan"
+}

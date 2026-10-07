@@ -1,0 +1,38 @@
+{
+    "abstract": "A Kerbal Space Program modding utility which uses Module Manager to compute some useful quantities and properties of parts.",
+    "author": "Charle_Roger",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/CharleRoger/PartPatchUtils/releases/download/1.0.2/PartPatchUtils-1.0.2.zip",
+        "https://spacedock.info/mod/4397/Part%20Patch%20Utils/download/1.0.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C6B5CB51F321D0907D9DA2527467C8729E3C859D",
+        "sha256": "40D9BE27EBE85340DB76B13716201D3A08947E3C1FE7EC3990A79A17AD5C0641"
+    },
+    "download_size": 4231,
+    "identifier": "PartPatchUtils",
+    "install_size": 4975,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Part Patch Utils",
+    "release_date": "2026-10-06T18:04:57.745467Z",
+    "resources": {
+        "bugtracker": "https://github.com/CharleRoger/PartPatchUtils/issues",
+        "remote-avc": "https://raw.githubusercontent.com/CharleRoger/PartPatchUtils/main/GameData/PartPatchUtils/Versioning/PartPatchUtils.version",
+        "repository": "https://github.com/CharleRoger/PartPatchUtils",
+        "spacedock": "https://spacedock.info/mod/4397/Part%20Patch%20Utils"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config"
+    ],
+    "version": "1.0.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
