@@ -1,0 +1,58 @@
+{
+    "abstract": "4kSP scales the map elements corresponding to the stock UI scale setting",
+    "author": "linuxgurugamer",
+    "conflicts": [
+        {
+            "name": "4kSP"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/4ksp_Expanded/releases/download/0.2.4.1/4kSP-1.12.5-0.2.4.1.zip",
+        "https://spacedock.info/mod/2554/4kSP_Expanded/download/0.2.4.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "570D3626D988BE81140ACC0125F157BF5F2F5BD8",
+        "sha256": "BB6D2017C614692A7E7D31537767FE9CB6FEF731316E186ABDC4FA88C0ED0DD4"
+    },
+    "download_size": 60224,
+    "identifier": "4kSPExpanded",
+    "install": [
+        {
+            "find": "4ksp",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 97854,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.3",
+    "license": "MIT",
+    "name": "4kSP_Expanded",
+    "release_date": "2026-10-10T00:30:27.735356Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/4ksp_Expanded/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/197794-18x-19x-110x-4ksp-expanded/",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/4ksp_Expanded/master/4kSP.version",
+        "repository": "https://github.com/linuxgurugamer/4ksp_Expanded",
+        "spacedock": "https://spacedock.info/mod/2554/4kSP_Expanded",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/4kSP_Expanded/4kSP_Expanded-1603995829.391196.jpg"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "convenience",
+        "information",
+        "graphics"
+    ],
+    "version": "0.2.4.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated Linuxgurugamer CKAN script"
+}

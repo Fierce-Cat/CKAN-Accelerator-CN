@@ -1,0 +1,50 @@
+{
+    "abstract": "Gives realistic aerodynamics to the SOCK mod with stock physics",
+    "author": "Moka20090",
+    "conflicts": [
+        {
+            "name": "FerramAerospaceResearch"
+        },
+        {
+            "name": "FerramAerospaceResearchContinued"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ShuttleOrbiterConstructionKit"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4606/SOCK%20RealAero/download/1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "78E1130932DAF8829A36C08A80E83838F62EBAB6",
+        "sha256": "A65E480CD5DA6B05E94D0E1CA7734C796B63D664B8878271E9F228F26235B0B4"
+    },
+    "download_size": 9462,
+    "identifier": "SOCKRealAero",
+    "install": [
+        {
+            "find": "SOCK_RealAero",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 52914,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "SOCK RealAero",
+    "release_date": "2026-10-09T17:22:50.182929Z",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/4606/SOCK%20RealAero",
+        "x_screenshot": "https://spacedock.info/content/Moka20090_191879/SOCK_Real_Aero/SOCK_Real_Aero-1790254528.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
