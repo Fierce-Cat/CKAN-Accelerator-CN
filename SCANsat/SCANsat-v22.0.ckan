@@ -1,0 +1,68 @@
+{
+    "abstract": "Real Scanning, Real Science, at Warp Speed! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "DMagic",
+        "JonnyOThan"
+    ],
+    "conflicts": [
+        {
+            "name": "ContractConfigurator-ScanSatLite"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSPModStewards/SCANsat/releases/download/v22.0/SCANsat-22.0-beta.zip?auth_key=1791906141-d219563781d9442d9ff019e19f62bec9-0-8a83c5b3ca0353bff0e6d40c06e0fdc6&size=20860587&expireAt=1791906141",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "67252508FA6BAE1A3DFB6232A43BB2E6F4260DA7A0328875D9EEDA4B197F8662"
+    },
+    "download_size": 20860587,
+    "identifier": "SCANsat",
+    "install_size": 51453427,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.3",
+    "license": "restricted",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "ja",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "SCANsat [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ContractConfigurator"
+        }
+    ],
+    "release_date": "2026-10-11T03:53:27Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/KSPModStewards/SCANsat/issues",
+        "manual": "https://github.com/KSPModStewards/SCANsat/wiki",
+        "remote-avc": "https://github.com/miskoltrans/SCANsat-GPU/releases/latest/download/SCANsat.version",
+        "repository": "https://github.com/KSPModStewards/SCANsat"
+    },
+    "spec_version": "v1.36",
+    "suggests": [
+        {
+            "name": "RasterPropMonitor"
+        },
+        {
+            "name": "MechJeb2"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "information",
+        "resources"
+    ],
+    "version": "v22.0",
+    "x_generated_by": "netkan"
+}

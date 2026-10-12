@@ -1,0 +1,51 @@
+{
+    "abstract": "Textures Unlimited recolours for Nice MKSeries Bodies (NMB)",
+    "author": [
+        "Spartwo",
+        "SierraDrake"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "NiceMKseriesBody"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4410/NMB%20Recolour/download/v1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "441B966B2098AE6D8AEB0B86DBFAB7CCE76E9F0C",
+        "sha256": "0F23014B5C736B2B7B37F48542CCB7A517C5E2397CE9F984BDC895901AFA3558"
+    },
+    "download_size": 3796432,
+    "identifier": "TURD-NMB",
+    "install": [
+        {
+            "find": "TURD/TU_NMB_Recolour",
+            "install_to": "GameData/TURD"
+        }
+    ],
+    "install_size": 62183583,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA-4.0",
+    "name": "TURD - Nice MKseries Bodies",
+    "release_date": "2026-10-11T04:06:20.477425Z",
+    "resources": {
+        "bugtracker": "https://github.com/Spartwo/SierraWork/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/174188-112x-textures-unlimited-recolour-depot/",
+        "repository": "https://github.com/Spartwo/SierraWork",
+        "spacedock": "https://spacedock.info/mod/4410/NMB%20Recolour",
+        "x_screenshot": "https://spacedock.info/content/Spartwo_95463/NMB_Recolour/NMB_Recolour-1784240487.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "v1.1",
+    "x_generated_by": "netkan"
+}
