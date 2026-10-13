@@ -1,0 +1,63 @@
+{
+    "abstract": "Optimized terrain generation for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "steamroller",
+    "depends": [
+        {
+            "min_version": "4.2.3",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "2.2.1",
+            "name": "Harmony2"
+        },
+        {
+            "min_version": "2:release-1.12.1-241",
+            "name": "Kopernicus"
+        },
+        {
+            "min_version": "1.0.29",
+            "name": "KSPTextureLoader"
+        },
+        {
+            "min_version": "1.5.5.2",
+            "name": "KSPBurst"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Phantomical/BurstPQS/releases/download/v1.0.26/BurstPQS.zip?auth_key=1791996905-5334d08c248d4fa88b7ff98c4b220180-0-c62091f7126d3d1ee6003f2ed261e9b4&size=482162&expireAt=1791996905",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "1D917712C96D8B6F67C98FC1DBE0ACA81F44C0A1F2114D592A240BAC5251BEA3"
+    },
+    "download_size": 482162,
+    "identifier": "BurstPQS",
+    "install_size": 876321,
+    "ksp_version_max": "1.12",
+    "ksp_version_min": "1.8",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "Burst PQS [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "min_version": "1.5.5.2",
+            "name": "KSPBurst-Full"
+        }
+    ],
+    "release_date": "2026-10-13T03:32:48Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/Phantomical/BurstPQS/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/229975-112x-burstpqs-optimized-terrain-generation-for-ksp/",
+        "manual": "https://github.com/Phantomical/BurstPQS/wiki",
+        "remote-avc": "https://github.com/Phantomical/BurstPQS/releases/latest/download/BurstPQS.version",
+        "repository": "https://github.com/Phantomical/BurstPQS"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.0.26",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,57 @@
+{
+    "abstract": "A Vessel/Mission planning tool",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/VesselPlanner/releases/download/0.7.102/VesselPlanner-1.12.5-0.7.102.zip",
+        "https://spacedock.info/mod/4599/Vessel%20Planner/download/0.7.102"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1828CB8F6F4E43384CF7A9FC1D470D0CF434B140",
+        "sha256": "862D22C039FB2CF71FC7E3E29618C43BE25C40C82ECDE47B9DE9C073B41AAD44"
+    },
+    "download_size": 4605820,
+    "identifier": "VesselPlanner",
+    "install": [
+        {
+            "filter_regexp": "\\.pdb$",
+            "find": "VesselPlanner",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 5116416,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA",
+    "name": "Vessel Planner",
+    "recommends": [
+        {
+            "name": "KSPPartExplorer"
+        }
+    ],
+    "release_date": "2026-10-12T21:24:08.80599Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/VesselPlanner/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/231802-112x-*",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/VesselPlanner/refs/heads/main/VesselPlanner.version",
+        "repository": "https://github.com/linuxgurugamer/VesselPlanner",
+        "spacedock": "https://spacedock.info/mod/4599/Vessel%20Planner",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Vessel_Planner/Vessel_Planner-1790123705.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "plugin"
+    ],
+    "version": "0.7.102",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
