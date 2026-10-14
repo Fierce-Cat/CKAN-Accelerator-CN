@@ -1,0 +1,43 @@
+{
+    "abstract": "Glow Strips to make your vessels cooler",
+    "author": "linuxgurugamer",
+    "download": [
+        "https://github.com/linuxgurugamer/GlowStrips/releases/download/0.6.0/GlowStrips-1.12.5-0.6.0.zip",
+        "https://spacedock.info/mod/4687/GlowStrips%20Updated/download/0.6.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A017888F900DFC4826DB82E1CDB1DBFEEE375371",
+        "sha256": "3831D9580846F89CBF011C362F5F7F229DC0DEF061DCADA1033A003718A11952"
+    },
+    "download_size": 60396,
+    "identifier": "GlowStripsUpdated",
+    "install": [
+        {
+            "filter_regexp": "\\.pdb$",
+            "find": "GlowStrips",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 408470,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "GlowStrips Updated",
+    "release_date": "2026-10-13T23:47:24.458127Z",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/231941-112x-*",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/GlowStrips/refs/heads/master/GlowStrips.version",
+        "repository": "https://github.com/linuxgurugamer/GlowStrips",
+        "spacedock": "https://spacedock.info/mod/4687/GlowStrips%20Updated",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/GlowStrips_Updated/GlowStrips_Updated-1791935296.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "0.6.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
