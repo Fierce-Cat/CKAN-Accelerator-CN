@@ -1,0 +1,57 @@
+{
+    "abstract": "This plugin will allow you to add or remove crew from parts while on the launch pad or transfer crew between parts in the same vessel. You can also edit/add custom crew members in your available crew roster provided that they are not part of an active flight (or dead).",
+    "author": [
+        "vXSovereignXv",
+        "Sarbian",
+        "linuxgurugamer"
+    ],
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/CrewManifest/releases/download/6.5.2/CrewManifest-1.12.5-6.5.2.zip",
+        "https://spacedock.info/mod/3097/CrewManifest/download/6.5.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "5F79D7DD799AB0EF699881B334E936C573538685",
+        "sha256": "FC1CB2170ACBC8BFE6DA82836567931164AC38DAE8C01DC812D9D9AAB5C79DC1"
+    },
+    "download_size": 29702,
+    "identifier": "CrewManifest",
+    "install": [
+        {
+            "find": "CrewManifest",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 52533,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Crew Manifest",
+    "release_date": "2026-10-16T21:07:38.482292Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/CrewManifest/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/209418-112x-kerbal-crew-manifest/",
+        "manual": "https://github.com/linuxgurugamer/CrewManifest/wiki",
+        "repository": "https://github.com/linuxgurugamer/CrewManifest",
+        "spacedock": "https://spacedock.info/mod/3097/CrewManifest",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/CrewManifest/CrewManifest-1661612670.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "crewed",
+        "convenience"
+    ],
+    "version": "6.5.2",
+    "x_generated_by": "netkan"
+}
