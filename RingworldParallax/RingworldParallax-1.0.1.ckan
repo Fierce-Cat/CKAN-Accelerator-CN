@@ -1,0 +1,54 @@
+{
+    "abstract": "Mod extension to Niven's Ringworld mod to make parallax continued scattering objects available on the ringworld.",
+    "author": "divinecodes",
+    "depends": [
+        {
+            "min_version": "1.1.8",
+            "name": "NivenRingworld"
+        },
+        {
+            "min_version": "1.0.3",
+            "name": "ParallaxContinued"
+        },
+        {
+            "min_version": "1.0.0",
+            "name": "ParallaxContinued-Scatter-Textures"
+        },
+        {
+            "min_version": "1.0.36",
+            "name": "KSPTextureLoader"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4658/Ringworld%20Parallax/download/v1.0.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "489543338C5E193C36D30C013EC9FA7DA9E0847C",
+        "sha256": "CDD3166CC04AE30571F2E22DB4044C54F6A135606ACCF964726AFB9CE22AF4F7"
+    },
+    "download_size": 50317,
+    "identifier": "RingworldParallax",
+    "install": [
+        {
+            "find": "RingworldParallax",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 97988,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Ringworld Parallax",
+    "release_date": "2026-10-16T03:02:08.923967Z",
+    "resources": {
+        "bugtracker": "https://github.com/toren-clarkson/Ringworld-Parallax/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/231795-1125-nivens-ring-world-the-first-land-able-ring-world-megastructure-in-ksp-from-larry-nivens-ring-world/",
+        "repository": "https://github.com/toren-clarkson/Ringworld-Parallax",
+        "spacedock": "https://spacedock.info/mod/4658/Ringworld%20Parallax"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "graphics",
+        "plugin"
+    ],
+    "version": "1.0.1",
+    "x_generated_by": "netkan"
+}

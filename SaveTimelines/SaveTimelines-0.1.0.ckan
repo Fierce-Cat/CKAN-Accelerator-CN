@@ -1,0 +1,44 @@
+{
+    "abstract": "Shows saved games as a tree of timelines in the load dialog. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "sparr",
+    "depends": [
+        {
+            "name": "Harmony2"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/sparr/ksp-mod-SaveTimelines/releases/download/0.1.0/SaveTimelines-0.1.0.zip?auth_key=1792420232-5f7ce25622c54af8af227a7ddf6317be-0-e5274488ccc4ca6eec6ab553ad427fe8&size=30622&expireAt=1792420232",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "657BBCAA7F2D5F4FA1F16CB5C987D74B51DF55B6",
+        "sha256": "A4E26555234E32C96B199B16A7815D860838F96493B55F4161A33700CDD9FB23"
+    },
+    "download_size": 30622,
+    "identifier": "SaveTimelines",
+    "install": [
+        {
+            "find": "SaveTimelines",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 52922,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Save Timelines [PRO-KCMIRROR]",
+    "release_date": "2026-10-11T23:21:31Z",
+    "resources": {
+        "bugtracker": "https://github.com/sparr/ksp-mod-SaveTimelines/issues",
+        "remote-avc": "https://raw.githubusercontent.com/sparr/ksp-mod-SaveTimelines/main/GameData/SaveTimelines/SaveTimelines.version",
+        "repository": "https://github.com/sparr/ksp-mod-SaveTimelines"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "0.1.0",
+    "x_generated_by": "netkan"
+}

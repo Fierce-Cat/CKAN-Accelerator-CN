@@ -1,0 +1,65 @@
+{
+    "abstract": "An new, modernised alternative to OPM.",
+    "author": "RocketRo",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4649/Alternate%20Outer%20Planets%20(AOP)/download/1.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7A4B61936323339F6F09F37449179F8D3CD0B64B",
+        "sha256": "51DB5979DBCD52AFAB0BC32CAF32E76265429EC0471CA5EF70109A57F03C8546"
+    },
+    "download_size": 362143681,
+    "identifier": "AlternateOuterPlanetsAOP",
+    "install": [
+        {
+            "find": "AOP",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 362124681,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Alternate Outer Planets (AOP)",
+    "recommends": [
+        {
+            "name": "ParallaxContinued"
+        },
+        {
+            "name": "Scatterer"
+        }
+    ],
+    "release_date": "2026-10-09T15:45:44.636738Z",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/4649/Alternate%20Outer%20Planets%20(AOP)",
+        "x_screenshot": "https://spacedock.info/content/RocketRo_181515/Alternate_Outer_Planets_AOP/Alternate_Outer_Planets_AOP-1791554365.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "SpaceDust"
+        },
+        {
+            "name": "RationalResources"
+        },
+        {
+            "name": "TiltEm-Continued"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
