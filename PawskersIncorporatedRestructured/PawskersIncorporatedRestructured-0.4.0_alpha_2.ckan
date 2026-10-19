@@ -1,0 +1,38 @@
+{
+    "abstract": "Technically based on Pawskers Inc, the point of this project will mostly be to add engines and mechanics I want to see in the game, or in my own fashion. So while I will focus on filling gaps with other mods, there will be overlap. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "safron1111",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/safron1111/PawskersIncorporatedRestructured/releases/download/v0.4.0_alpha_2/PawskersIncorporatedRestructured_v0_4_0_alpha_2.zip?auth_key=1792507455-f90a767a3cff45e18b654498ea858fde-0-f905d0ea15b1ef004b9d0b4c087f03dd&size=24292318&expireAt=1792507455",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "9EA5AED16A9E675D7D050A75B49986BB8CBF93EB73A6622FC83221745FE37B33"
+    },
+    "download_size": 24292318,
+    "identifier": "PawskersIncorporatedRestructured",
+    "install": [
+        {
+            "find": "PawskersIncRestructured",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 102574299,
+    "license": "MIT",
+    "name": "Pawskers Incorporated Restructured [PRO-KCMIRROR]",
+    "release_date": "2026-10-19T01:15:09Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/safron1111/PawskersIncorporatedRestructured/issues",
+        "repository": "https://github.com/safron1111/PawskersIncorporatedRestructured"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "parts"
+    ],
+    "version": "0.4.0_alpha_2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

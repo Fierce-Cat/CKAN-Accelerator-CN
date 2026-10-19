@@ -11,7 +11,7 @@
             "name": "Harmony2"
         }
     ],
-    "download": "https://hk-github.mirror.kerbcat.cn/github/Rjoande/TimeForScience/releases/download/v0.2.3/TimeForScience_0_2_3.zip?auth_key=1792420234-8bafd9a8a80141acb09eb99619248f1b-0-7958f934ff3d40260443ff50ec882911&size=41304&expireAt=1792420234",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Rjoande/TimeForScience/releases/download/v0.2.3/TimeForScience_0_2_3.zip?auth_key=1792507458-7cdea96a21af4c6fbe1bfd5e58fe7eef-0-e2f2bd38c307a174278de91476453df2&size=41304&expireAt=1792507458",
     "download_content_type": "application/zip",
     "download_hash": {
         "sha1": "C16572538A1654C038AD2EF5FC6790B2B61084A1",
@@ -20,7 +20,8 @@
     "download_size": 41304,
     "identifier": "TimeForScience",
     "install_size": 74862,
-    "ksp_version": "1.12",
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
     "license": "MIT",
     "localizations": [
         "en-us",
@@ -34,6 +35,7 @@
     "resources": {
         "bugtracker": "https://github.com/Rjoande/TimeForScience/issues",
         "homepage": "https://forum.kerbalspaceprogram.com/topic/231557-*",
+        "remote-avc": "https://raw.githubusercontent.com/Rjoande/TimeForScience/main/GameData/TimeForScience/TimeForScience.version",
         "repository": "https://github.com/Rjoande/TimeForScience"
     },
     "spec_version": 1,

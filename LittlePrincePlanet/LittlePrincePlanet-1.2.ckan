@@ -1,0 +1,43 @@
+{
+    "abstract": "A little boy was once here...",
+    "author": "I_am_not_an_Alien",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4449/LittlePrincePlanet/download/1.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "4D1827D845ECBD1525FCF98A72D2485180115B6E",
+        "sha256": "0119834869DD95A28F26997F611EF75C31C98C4C34DF9292556729A8AC4E5DC6"
+    },
+    "download_size": 51664122,
+    "identifier": "LittlePrincePlanet",
+    "install": [
+        {
+            "find": "LittlePrince",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 135441363,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "LittlePrincePlanet",
+    "release_date": "2026-10-18T10:58:22.713104Z",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/4449/LittlePrincePlanet",
+        "x_screenshot": "https://spacedock.info/content/I_am_not_an_Alien_188356/LittlePrincePlanet/LittlePrincePlanet-1785478302.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
