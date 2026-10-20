@@ -1,0 +1,50 @@
+{
+    "abstract": "TPR",
+    "author": [
+        "TechoTheSequel",
+        "cloverdove"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        },
+        {
+            "name": "KopernicusExpansion"
+        }
+    ],
+    "download": "https://api.github.com/repos/TechoTheSequel/Techos-stock-Planet-Revamp/zipball/v0.2.0",
+    "download_content_type": "application/vnd.github+json",
+    "download_hash": {
+        "sha1": "E9ACB017A41D27899246F14A3D9BE9CA9BF127AB",
+        "sha256": "13019E45D53340ACDAFE7D47E435F036D5612ACE41EACF788BAB3F4A78107AC7"
+    },
+    "download_size": 1500896722,
+    "identifier": "TechosStockPlanetRevamp",
+    "install": [
+        {
+            "find": "TPR",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 2007583410,
+    "license": "CC-BY-NC-SA",
+    "name": "Techos stock Planet Revamp",
+    "release_date": "2026-10-19T21:47:57Z",
+    "resources": {
+        "bugtracker": "https://github.com/TechoTheSequel/Techos-stock-Planet-Revamp/issues",
+        "repository": "https://github.com/TechoTheSequel/Techos-stock-Planet-Revamp"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "planet-pack",
+        "config"
+    ],
+    "version": "1:0.2.0",
+    "x_generated_by": "netkan"
+}
