@@ -1,0 +1,54 @@
+{
+    "abstract": "Volumetric ground effects for rocket engines: dust, launch pad steam, water spray, ejecta and scorch marks.",
+    "author": "Warnix",
+    "download": [
+        "https://github.com/warnix91/Volumetric-Ground-FX/releases/download/v1.1.0/VolumetricGroundFX-1.1.0.zip",
+        "https://spacedock.info/mod/4615/Volumetric%20Ground%20FX/download/1.1.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "635DBBA37FF4F15D6ED3E7595553BBA9745C5709",
+        "sha256": "50DB64EFA75B077BE539D5C607B6AC2C7A0E569884113B7436CE95E5C5901E84"
+    },
+    "download_size": 7964416,
+    "identifier": "GroundBlastFx",
+    "install": [
+        {
+            "find": "Volumetric Ground FX",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 8085352,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "it-it",
+        "ja",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Volumetric Ground FX",
+    "release_date": "2026-10-07T23:37:01.116447Z",
+    "resources": {
+        "bugtracker": "https://github.com/warnix91/Volumetric-Ground-FX/issues",
+        "homepage": "https://github.com/warnix91/Volumetric-Ground-FX",
+        "remote-avc": "https://raw.githubusercontent.com/warnix91/Volumetric-Ground-FX/main/GameData/Volumetric%20Ground%20FX/GroundBlastFx.version",
+        "repository": "https://github.com/warnix91/Volumetric-Ground-FX",
+        "spacedock": "https://spacedock.info/mod/4615/Volumetric%20Ground%20FX",
+        "x_screenshot": "https://spacedock.info/content/Warnix_191988/GroundBlastFx/GroundBlastFx-1791416376.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "plugin"
+    ],
+    "version": "1.1.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
