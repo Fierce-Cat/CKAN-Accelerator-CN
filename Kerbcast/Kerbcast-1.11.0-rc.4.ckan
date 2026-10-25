@@ -1,0 +1,39 @@
+{
+    "abstract": "A from-scratch successor to OCISLY for streaming KSP camera feeds.  Uses hardware H.264 for Linux and streams over WebRTC. Uses Hullcam VDS filters and camera capabilities. Features a TypeScript SDK for embedding streams wherever you like. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "jonpepler",
+    "depends": [
+        {
+            "name": "HullcamVDSContinued"
+        },
+        {
+            "name": "Harmony2"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ksp-gonogo/kerbcast/releases/download/v1.11.0-rc.4/kerbcast-v1.11.0-rc.4.zip?auth_key=1793025661-675ef8d3ae48464b86b216f51d050716-0-01003d187f3801b8d3e10c861194e038&size=66886168&expireAt=1793025661",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha256": "C7B66664ECEDCBE1E50E3B320869C728037AA00B2F8EAF99775375F2BD4B565F"
+    },
+    "download_size": 66886168,
+    "identifier": "Kerbcast",
+    "install_size": 178024827,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "kerbcast [PRO-KCMIRROR]",
+    "release_date": "2026-10-23T19:21:22Z",
+    "release_status": "testing",
+    "resources": {
+        "bugtracker": "https://github.com/ksp-gonogo/kerbcast/issues",
+        "remote-avc": "https://raw.githubusercontent.com/ksp-gonogo/kerbcast/main/GameData/Kerbcast/Kerbcast.version",
+        "repository": "https://github.com/ksp-gonogo/kerbcast"
+    },
+    "spec_version": "v1.36",
+    "tags": [
+        "config",
+        "plugin",
+        "app"
+    ],
+    "version": "1.11.0-rc.4",
+    "x_generated_by": "netkan"
+}
