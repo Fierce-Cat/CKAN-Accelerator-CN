@@ -1,0 +1,45 @@
+{
+    "abstract": "this mod gives you complete control of time in KSP",
+    "author": "linuxgurugamer",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        }
+    ],
+    "download": [
+        "https://github.com/linuxgurugamer/TimeControl/releases/download/2.13.0/TimeControl-1.12.5-2.13.0.zip",
+        "https://spacedock.info/mod/4107/Time%20Control%20Adopted/download/2.13.0"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8B425ADFBD81829179A84111996CDD4F630D62E1",
+        "sha256": "F91EE18A2A84855CF379BE18AE7968BB86D05EC612F3A333ADDB59FB53EE4DF6"
+    },
+    "download_size": 132992,
+    "identifier": "TimeControl",
+    "install_size": 318952,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.10.1",
+    "license": "MIT",
+    "name": "Time Control Adopted",
+    "release_date": "2026-10-22T15:28:22.953741Z",
+    "resources": {
+        "bugtracker": "https://github.com/linuxgurugamer/TimeControl/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/229598-112x-timecontrol-adopted-*",
+        "manual": "https://github.com/linuxgurugamer/TimeControl/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/linuxgurugamer/TimeControl/refs/heads/master/TimeControl.version",
+        "repository": "https://github.com/linuxgurugamer/TimeControl",
+        "spacedock": "https://spacedock.info/mod/4107/Time%20Control%20Adopted",
+        "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Time_Control_Adopted/Time_Control_Adopted-1768706609.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "physics"
+    ],
+    "version": "1:2.13.0",
+    "x_generated_by": "netkan"
+}
