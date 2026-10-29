@@ -1,0 +1,41 @@
+{
+    "abstract": "Approach controller add-on module for KSP AtmosphereAutopilot [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Rjoande",
+    "depends": [
+        {
+            "name": "AtmosphereAutopilot"
+        },
+        {
+            "min_version": "0.8.1",
+            "name": "NavUtilitiesUpdated"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Rjoande/ApproachAutopilot/releases/download/v1.1.0/ApproachAutopilot_v1_1_0.zip?auth_key=1793375434-b581cd629b4d4b198c92b84011d9325a-0-91acf087fab3ba98763b504226e71cd7&size=38098&expireAt=1793375434",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "BE98F8ED92A80977B11DC370A6FE5D02D41FFF90",
+        "sha256": "050C09203656408C800908D06265AE5138BAA2F5FE880E7F0D7F9796D9AED000"
+    },
+    "download_size": 38098,
+    "identifier": "ApproachAutopilot",
+    "install_size": 44184,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "GPL-3.0",
+    "name": "Approach Autopilot [PRO-KCMIRROR]",
+    "release_date": "2026-10-25T19:47:00Z",
+    "resources": {
+        "bugtracker": "https://github.com/Rjoande/ApproachAutopilot/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/231869-1125-approach-autopilot-landing-controller-for-atmosphereautopilot/",
+        "manual": "https://github.com/Rjoande/ApproachAutopilot/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/Rjoande/ApproachAutopilot/main/GameData/ApproachAutopilot/ApproachAutopilot.version",
+        "repository": "https://github.com/Rjoande/ApproachAutopilot"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin",
+        "control"
+    ],
+    "version": "1.1.0",
+    "x_generated_by": "netkan"
+}

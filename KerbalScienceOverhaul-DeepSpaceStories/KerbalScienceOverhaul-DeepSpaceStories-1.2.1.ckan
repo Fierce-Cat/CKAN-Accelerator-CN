@@ -1,0 +1,51 @@
+{
+    "abstract": "About 300 extra science results inspired by classic science fiction, for stock, JNSQ and GEP. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Rjoande",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Rjoande/KerbalScienceOverhaul/releases/download/v1.2.1/KerbalScienceOverhaul_v1.2.1.zip?auth_key=1793375431-c7c6aea9592949bc9bc9b68706808567-0-8c3ce37c95fc55d0de4f3d2833c41207&size=4662683&expireAt=1793375431",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "F8C493A8C7C34E4BE38C0C3F1C9B317063EBABE5",
+        "sha256": "8F82E369DA0EC448C96303D61A8BD0684CC84900984E199C07CAD227AA355258"
+    },
+    "download_size": 4662683,
+    "identifier": "KerbalScienceOverhaul-DeepSpaceStories",
+    "install": [
+        {
+            "find": "KSO_DeepSpaceStories",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 249210,
+    "ksp_version_max": "1.12",
+    "ksp_version_min": "1.12",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "it-it"
+    ],
+    "name": "Kerbal Science Overhaul - Deep Space Stories [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "KerbalScienceOverhaul"
+        }
+    ],
+    "release_date": "2026-10-27T23:27:55Z",
+    "resources": {
+        "bugtracker": "https://github.com/Rjoande/KerbalScienceOverhaul/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/230013-1125-kerbal-science-overhaul-refactored-localized-and-ai-assisted-science-content-for-kerbal-space-program/",
+        "metanetkan": "https://raw.githubusercontent.com/Rjoande/KerbalScienceOverhaul/main/ckan/KerbalScienceOverhaul-DeepSpaceStories.netkan",
+        "repository": "https://github.com/Rjoande/KerbalScienceOverhaul"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "science"
+    ],
+    "version": "1.2.1",
+    "x_generated_by": "netkan"
+}

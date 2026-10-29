@@ -1,0 +1,55 @@
+{
+    "abstract": "Tool for fuel mass distribution optimization across rocket stages.",
+    "author": "ChrisPan",
+    "download": [
+        "https://github.com/ChrisInBed/BetterRocket/releases/download/v0.4.6/BetterRocket-0.4.6.zip",
+        "https://spacedock.info/mod/4737/BetterRocket/download/0.4.6"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B8CC93915C790205E77027F95CB7E6443441825B",
+        "sha256": "E189F80DF94C2007BCB758FF0F2DF4DAB9427A45928600100246BB578AFF8E9F"
+    },
+    "download_size": 1152208,
+    "identifier": "BetterRocket",
+    "install_size": 3875317,
+    "ksp_version": "1.12.5",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "BetterRocket",
+    "release_date": "2026-10-23T16:38:31.14273Z",
+    "resources": {
+        "bugtracker": "https://github.com/ChrisInBed/BetterRocket/issues",
+        "homepage": "https://github.com/ChrisInBed/BetterRocket",
+        "repository": "https://github.com/ChrisInBed/BetterRocket",
+        "spacedock": "https://spacedock.info/mod/4737/BetterRocket"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "RP-1"
+        }
+    ],
+    "tags": [
+        "config",
+        "plugin"
+    ],
+    "version": "0.4.6",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
