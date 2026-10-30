@@ -1,0 +1,59 @@
+{
+    "abstract": "A subclass of ModuleEnginesFX which supports AJE-style solvers. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "al2me6",
+        "blowfishpro",
+        "Capkirk123",
+        "NathanKell",
+        "pjf",
+        "rsparkyc",
+        "SirKeplan",
+        "StollD",
+        "StonesmileGit",
+        "stratochief66",
+        "zorg2044",
+        "siimav"
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/KSP-RO/SolverEngines/releases/download/v3.15.0.0/SolverEngines_v3.15.0.0.zip?auth_key=1793461994-c99ccc950b7647c6a7877661f30cb211-0-b0d2fa02606099f16f525d4eab9ebcc9&size=45652&expireAt=1793461994",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B69B4DF411A96FAD23763F83D1FAFFDE076A8E13",
+        "sha256": "8D270C10F85F3AF809E3B785B2307D1613AA9E24DAAA08716C3D26BBF450A468"
+    },
+    "download_size": 45652,
+    "identifier": "SolverEngines",
+    "install": [
+        {
+            "filter": [
+                "ModuleAnimateEmissive.dll",
+                "PluginData"
+            ],
+            "find": "SolverEngines",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 95894,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "LGPL-2.1",
+    "localizations": [
+        "en-us",
+        "zh-cn"
+    ],
+    "name": "Solver Engines plugin [PRO-KCMIRROR]",
+    "release_date": "2026-10-30T00:27:47Z",
+    "resources": {
+        "bugtracker": "https://github.com/KSP-RO/SolverEngines/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/110746-*",
+        "manual": "https://github.com/KSP-RO/SolverEngines/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/KSP-RO/SolverEngines/master/GameData/SolverEngines/SolverEngines.version",
+        "repository": "https://github.com/KSP-RO/SolverEngines"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library"
+    ],
+    "version": "v3.15.0.0",
+    "x_generated_by": "netkan"
+}
