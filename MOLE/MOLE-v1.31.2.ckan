@@ -1,0 +1,107 @@
+{
+    "abstract": "Mark One Laboratory Extensions- early space stations for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "WBIProps"
+        },
+        {
+            "name": "WBIResources"
+        },
+        {
+            "name": "WBIScience"
+        },
+        {
+            "name": "WBIWidgets"
+        },
+        {
+            "name": "KerbalActuators"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/MOLE/releases/download/v1.31.2/MOLE.zip?auth_key=1793547452-055d48fbe1114946bbcffb73e6fdd424-0-89c853ffc660188fc26fe79548b7ba7a&size=52859509&expireAt=1793547452",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B1FDBCEDCDF3615667AAD88FBB1A1A3C1671394F",
+        "sha256": "881326D17AB0AF489C49F45A9DD72FC3D9EDAA9D8FB0F47302F80D791B19D220"
+    },
+    "download_size": 52859509,
+    "identifier": "MOLE",
+    "install": [
+        {
+            "filter_regexp": [
+                ".*\\.pdb$"
+            ],
+            "find": "WildBlueIndustries/MOLE",
+            "install_to": "GameData/WildBlueIndustries"
+        }
+    ],
+    "install_size": 184260655,
+    "ksp_version_min": "1.12.2",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "MOLE [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "ExtraPlanetaryLaunchpads"
+        },
+        {
+            "name": "ClassicStockResources"
+        }
+    ],
+    "release_date": "2026-10-30T18:58:30Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/MOLE/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/154893-*",
+        "manual": "https://github.com/Angel-125/MOLE/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/MOLE/master/ReleaseFolder/GameData/WildBlueIndustries/MOLE/MOLE.version",
+        "repository": "https://github.com/Angel-125/MOLE"
+    },
+    "spec_version": "v1.10",
+    "suggests": [
+        {
+            "name": "Pathfinder"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "RasterPropMonitor-Core"
+        },
+        {
+            "name": "CactEyeCommunity"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin",
+        "crewed"
+    ],
+    "version": "v1.31.2",
+    "x_generated_by": "netkan"
+}

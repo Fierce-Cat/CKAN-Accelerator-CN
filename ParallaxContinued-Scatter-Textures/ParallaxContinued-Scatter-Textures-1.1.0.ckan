@@ -1,0 +1,53 @@
+{
+    "abstract": "The textures used for the surface clutter added by Parallax Continued",
+    "author": "Linx",
+    "conflicts": [
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "Parallax-StockTextures"
+        },
+        {
+            "name": "Parallax-StockScatterTextures"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ParallaxContinued"
+        }
+    ],
+    "download": "https://github.com/Gameslinx/Parallax-Continued/releases/download/1.1.0/ParallaxContinued_StockScatterTextures-1.1.0.zip",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1FEBED6F44188B2BE2DB32509FDF8D96CB90C5BF",
+        "sha256": "582C852C66A692967FFC3846A7FECE8EF1E95384EDC7D59ED5EDF723C35993AC"
+    },
+    "download_size": 1171183927,
+    "identifier": "ParallaxContinued-Scatter-Textures",
+    "install": [
+        {
+            "find": "Parallax_StockScatterTextures",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1248551411,
+    "ksp_version": "1.12",
+    "license": "restricted",
+    "name": "Parallax Continued Scatter Textures",
+    "release_date": "2026-10-30T22:49:09Z",
+    "resources": {
+        "bugtracker": "https://github.com/Gameslinx/Parallax-Continued/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227476-*",
+        "manual": "https://github.com/Gameslinx/Parallax-Continued/wiki",
+        "repository": "https://github.com/Gameslinx/Parallax-Continued"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library",
+        "graphics"
+    ],
+    "version": "1.1.0",
+    "x_generated_by": "netkan"
+}

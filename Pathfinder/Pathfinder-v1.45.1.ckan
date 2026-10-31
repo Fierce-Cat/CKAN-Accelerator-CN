@@ -1,0 +1,91 @@
+{
+    "abstract": "Space Camping @ Geoscience [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Angel-125",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "KerbalActuators"
+        },
+        {
+            "name": "WBIProps"
+        },
+        {
+            "name": "WBIResources"
+        },
+        {
+            "name": "WBIScience"
+        },
+        {
+            "name": "WBIWidgets"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Angel-125/Pathfinder/releases/download/v1.45.1/Pathfinder.zip?auth_key=1793547452-5802688e6faa450bb550ab3c17f944b3-0-bd81d93ca6918638a970bdbad67d1d57&size=53935448&expireAt=1793547452",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "62602CA8B828AE5A22B808782CD7277344D2E411",
+        "sha256": "708862312214F97DBE27EA3D91FB245BAF495803663B0172C3A2AE561335B456"
+    },
+    "download_size": 53935448,
+    "identifier": "Pathfinder",
+    "install": [
+        {
+            "find": "Pathfinder",
+            "install_to": "GameData/WildBlueIndustries"
+        }
+    ],
+    "install_size": 117121968,
+    "ksp_version_min": "1.12.2",
+    "license": "GPL-3.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Pathfinder [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "ClassicStockResources"
+        },
+        {
+            "name": "KAS"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "Buffalo2"
+        }
+    ],
+    "release_date": "2026-10-30T19:13:27Z",
+    "resources": {
+        "bugtracker": "https://github.com/Angel-125/Pathfinder/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/121397-*",
+        "manual": "https://github.com/Angel-125/Pathfinder/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/Angel-125/Pathfinder/master/GameData/WildBlueIndustries/Pathfinder/Pathfinder.version",
+        "repository": "https://github.com/Angel-125/Pathfinder"
+    },
+    "spec_version": "v1.4",
+    "supports": [
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "Snacks"
+        }
+    ],
+    "tags": [
+        "parts",
+        "plugin",
+        "agency",
+        "resources",
+        "crewed"
+    ],
+    "version": "v1.45.1",
+    "x_generated_by": "netkan"
+}
