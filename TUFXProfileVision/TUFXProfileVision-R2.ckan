@@ -1,0 +1,44 @@
+{
+    "abstract": "Realistic TUFX Profile for KSP",
+    "author": "J0ngsh",
+    "depends": [
+        {
+            "name": "TUFX"
+        }
+    ],
+    "download": [
+        "https://github.com/jongshh/JSIA-Vision/releases/download/R2/JSIA.Vision.R2.zip",
+        "https://spacedock.info/mod/3946/TUFX%20Profile%20%7C%20Vision/download/R2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3C54A7B7D6A56CF0623ABFD09D1D4662EAE95CBA",
+        "sha256": "9A1905B7773D62749C3794CDB5F7089F68C6374A719932BB3F2537CA1567A697"
+    },
+    "download_size": 9409,
+    "identifier": "TUFXProfileVision",
+    "install": [
+        {
+            "find": "JSIE-Vision",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 13283,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "TUFX Profile | Vision",
+    "release_date": "2026-10-31T12:05:41.032531Z",
+    "resources": {
+        "bugtracker": "https://github.com/jongshh/JSIA-Vision/issues",
+        "repository": "https://github.com/jongshh/JSIA-Vision",
+        "spacedock": "https://spacedock.info/mod/3946/TUFX%20Profile%20|%20Vision",
+        "x_screenshot": "https://spacedock.info/content/J0ngsh_168122/TUFX_Profile__Vision/TUFX_Profile__Vision-1793182793.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "graphics"
+    ],
+    "version": "R2",
+    "x_generated_by": "netkan"
+}
