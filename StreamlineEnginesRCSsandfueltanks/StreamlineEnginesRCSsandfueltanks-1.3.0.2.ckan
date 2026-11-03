@@ -34,6 +34,11 @@
         "en-us"
     ],
     "name": "Streamline Updated- Engines, RCS and Fuel Tanks",
+    "recommends": [
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
     "release_date": "2026-05-08T22:28:06.259134Z",
     "resources": {
         "bugtracker": "https://github.com/linuxgurugamer/StreamlineEnginesTanks/issues",
@@ -44,6 +49,14 @@
         "x_screenshot": "https://spacedock.info/content/linuxgurugamer_179/Streamline_Updated-_Engines_RCSs_and_Fuel_Tanks/Streamline_Updated-_Engines_RCSs_and_Fuel_Tanks-1778279479.jpg"
     },
     "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "TweakScaleRescaled"
+        },
+        {
+            "name": "TweakScaleCompanion"
+        }
+    ],
     "tags": [
         "parts"
     ],
