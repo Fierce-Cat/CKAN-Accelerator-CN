@@ -1,0 +1,56 @@
+{
+    "abstract": "A visual editor for Kopernicus [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Thomas P.",
+        "BorisBee",
+        "Kragrathea",
+        "KCreator",
+        "Gravitasi",
+        "joedavis",
+        "steamroller"
+    ],
+    "depends": [
+        {
+            "min_version": "2:release-1.12.1-252",
+            "name": "Kopernicus"
+        },
+        {
+            "name": "KSPTextureLoader"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kopernicus/KittopiaTech/releases/download/v2.0.2/KittopiaTech.zip?auth_key=1793983064-e3a8d7325f264d93b67d5c4fcb252d34-0-20d9f449cff0f1b8d22251315017ed02&size=182127&expireAt=1793983064",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B289A61543DBD7CB0467839972839534A7BEFB0F",
+        "sha256": "E430D08E832AE3CEDC5C4A42736508F6FD54296116F1848748CB08AAD17FA1FE"
+    },
+    "download_size": 182127,
+    "identifier": "KittopiaTech",
+    "install_size": 352835,
+    "ksp_version": "1.12",
+    "license": "MIT",
+    "name": "KittopiaTech [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "BurstPQS"
+        }
+    ],
+    "release_date": "2026-11-05T02:04:35Z",
+    "resources": {
+        "bugtracker": "https://github.com/Kopernicus/KittopiaTech/issues",
+        "remote-avc": "https://github.com/Kopernicus/KittopiaTech/releases/latest/download/KittopiaTech.version",
+        "repository": "https://github.com/Kopernicus/KittopiaTech"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "min_version": "0.1.5",
+            "name": "HotReloadKSP"
+        }
+    ],
+    "tags": [
+        "plugin"
+    ],
+    "version": "1:2.0.2",
+    "x_generated_by": "netkan"
+}

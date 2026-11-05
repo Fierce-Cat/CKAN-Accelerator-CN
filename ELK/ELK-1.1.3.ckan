@@ -1,0 +1,48 @@
+{
+    "abstract": "Configurable hotkeys for stock functions that don't have any (Brakes toggle, direct SAS modes), plus AtmosphereAutopilot, MechJeb2 and NavUtilities shortcuts. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Rjoande",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Rjoande/ELK/releases/download/v1.1.3/ELK_v1.1.3.zip?auth_key=1793983063-655410f0061847c4a069f64113460e71-0-bf8a7a9a65533c6ae475235fe7061622&size=74480&expireAt=1793983063",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "40EB863FC44E9DA854636B935E852FEB7E246CE3",
+        "sha256": "3F8683B9E380FF48EBF0610F7C07C24E719A42EFF036660BB70861EA2FE2D3A8"
+    },
+    "download_size": 74480,
+    "identifier": "ELK",
+    "install_size": 146503,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "ELK - Extended Logic Keys [PRO-KCMIRROR]",
+    "release_date": "2026-11-04T20:29:31Z",
+    "resources": {
+        "bugtracker": "https://github.com/Rjoande/ELK/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/231826-112x-elk-extended-logical-keys/",
+        "remote-avc": "https://raw.githubusercontent.com/Rjoande/ELK/main/GameData/ELK/ELK.version",
+        "repository": "https://github.com/Rjoande/ELK"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "AtmosphereAutopilot"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "NavUtilitiesUpdated"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "control",
+        "convenience"
+    ],
+    "version": "1.1.3",
+    "x_generated_by": "netkan"
+}

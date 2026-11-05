@@ -1,0 +1,52 @@
+{
+    "abstract": "Cinematic, physically grounded nuclear weapons for BDArmory (KSP 1.12), including the Tsar Bomba [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Callum",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "min_version": "2:v1.12.0.0",
+            "name": "BDArmoryForRunwayProject"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/CRsquared64/BDNukes/releases/download/v1.0.1/BDNukes-1.0.1.zip?auth_key=1793983063-7518ae4bc7c049d6a942f2b4506584f9-0-275be2ec840efaea97647d9eabf683af&size=125084&expireAt=1793983063",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0B5306CB81E5B2CE4E11B33AD82C1F37B2EC90E8",
+        "sha256": "957BB65ED20E6731BF74FD3D3F84262DAFE16C63399F937F17A03840C1A740C9"
+    },
+    "download_size": 125084,
+    "identifier": "BDNukes",
+    "install_size": 273509,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "BDNukes [PRO-KCMIRROR]",
+    "release_date": "2026-11-03T23:39:54Z",
+    "resources": {
+        "bugtracker": "https://github.com/CRsquared64/BDNukes/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/232068-112x-bdnukes-v100-cinematic-nuclear-weapons-for-bdarmory-tsar-bomba-icbms-mirvs-fallout",
+        "remote-avc": "https://raw.githubusercontent.com/CRsquared64/BDNukes/main/GameData/BDNukes/BDNukes.version",
+        "repository": "https://github.com/CRsquared64/BDNukes",
+        "x_screenshot": "https://raw.githubusercontent.com/CRsquared64/BDNukes/main/docs/screenshots/01-ground-burst-mushroom.jpg"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "BDArmoryExtended"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts",
+        "graphics",
+        "sound",
+        "combat"
+    ],
+    "version": "v1.0.1",
+    "x_generated_by": "netkan"
+}
