@@ -1,0 +1,62 @@
+{
+    "abstract": "Optional Kerbalism companion for engine ignition counts, rated burn time, and turn-on failures. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Kerbalism Contributors",
+    "conflicts": [
+        {
+            "name": "TestFlight"
+        },
+        {
+            "name": "TestLite"
+        },
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "RP-1"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "Kerbalism-Config"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kerbalism/Kerbalism/releases/download/3.44/KerbalismEngineFailures_v3.44_for_KSP1.12.x.zip?auth_key=1794326367-09529435ee7b40f4adf202b9ead2bd00-0-743dfeb6b635a8d6a814152682924ab9&size=20770&expireAt=1794326367",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "B926F1E0E851E5967CB3FC813E9E9A57DC2DDC53",
+        "sha256": "8FC25CFF626669163AE07773CF71E11759C4C15B01D73DFC9B6BB562AAD6BD3A"
+    },
+    "download_size": 20770,
+    "identifier": "KerbalismEngineFailures",
+    "install": [
+        {
+            "find": "KerbalismEngineFailures",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 44402,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "Unlicense",
+    "name": "Kerbalism - Engine Failures [PRO-KCMIRROR]",
+    "release_date": "2026-11-08T09:26:48Z",
+    "resources": {
+        "bugtracker": "https://github.com/Kerbalism/Kerbalism/issues",
+        "manual": "https://github.com/Kerbalism/Kerbalism/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/Kerbalism/Kerbalism/master/GameData/KerbalismEngineFailures/KerbalismEngineFailures.version",
+        "repository": "https://github.com/Kerbalism/Kerbalism"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "plugin",
+        "config"
+    ],
+    "version": "3.44",
+    "x_generated_by": "netkan"
+}

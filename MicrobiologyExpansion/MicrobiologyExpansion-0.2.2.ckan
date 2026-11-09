@@ -1,0 +1,53 @@
+{
+    "abstract": "A mod that adds Microbes to KSP",
+    "author": "GrandAdmiralCrunch1",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/GrandAdmiralCrunch/MicrobiologyExpansion/releases/download/V0.2.2/MicrobiologyExpansion-0.2.2.zip",
+        "https://spacedock.info/mod/4330/Microbiology%20Expansion/download/0.2.2"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "FCB0374080277FA7E98724DDE3DEECFFD97C3AF8",
+        "sha256": "1B1B9E50DABCDEEB0C8276B5AB34B546486C835BF7BC80E0D8D9F57B6293EEF2"
+    },
+    "download_size": 2605058,
+    "identifier": "MicrobiologyExpansion",
+    "install": [
+        {
+            "filter_regexp": "\\.pdb$",
+            "find": "MicrobiologyExpansion",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 3636159,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Microbiology Expansion",
+    "release_date": "2026-11-07T21:24:50.202806Z",
+    "resources": {
+        "bugtracker": "https://github.com/GrandAdmiralCrunch/MicrobiologyExpansion/issues",
+        "manual": "https://github.com/GrandAdmiralCrunch/MicrobiologyExpansion/wiki",
+        "repository": "https://github.com/GrandAdmiralCrunch/MicrobiologyExpansion",
+        "spacedock": "https://spacedock.info/mod/4330/Microbiology%20Expansion",
+        "x_screenshot": "https://spacedock.info/content/GrandAdmiralCrunch1_186988/Microbiology_Expansion/Microbiology_Expansion-1781657522.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "FinalFrontier"
+        }
+    ],
+    "tags": [
+        "config",
+        "plugin",
+        "science"
+    ],
+    "version": "0.2.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

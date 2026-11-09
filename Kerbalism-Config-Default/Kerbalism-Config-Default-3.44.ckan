@@ -1,0 +1,89 @@
+{
+    "abstract": "Default configuration for Kerbalism [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Kerbalism Contributors",
+    "conflicts": [
+        {
+            "name": "Kerbalism-Config"
+        },
+        {
+            "name": "UKS"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "Snacks"
+        },
+        {
+            "name": "USI-LS"
+        },
+        {
+            "name": "BackgroundProcessing"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Kerbalism/Kerbalism/releases/download/3.44/Kerbalism-Config_v3.44_for_KSP1.12.x.zip?auth_key=1794326370-847d20961086461fb1af126e284dce5c-0-f35300e96754e89ec58ef54e404bed9e&size=15238645&expireAt=1794326370",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "24837361B283E1BC1CB8302BCCB6FA47A601A5AA",
+        "sha256": "8E1424D27EFA7EDA5AEFB644D97E0A39540CA6E9EFF80967CA05169C3592216F"
+    },
+    "download_size": 15238645,
+    "identifier": "Kerbalism-Config-Default",
+    "install": [
+        {
+            "find": "KerbalismConfig",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 40917994,
+    "license": "Unlicense",
+    "localizations": [
+        "de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "it-it",
+        "ko-kr",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "Kerbalism - Default Config [PRO-KCMIRROR]",
+    "provides": [
+        "Kerbalism-Config"
+    ],
+    "recommends": [
+        {
+            "name": "KerbalismEngineFailures"
+        },
+        {
+            "name": "Kerbalism-SystemHeat"
+        }
+    ],
+    "release_date": "2026-11-08T09:26:45Z",
+    "resources": {
+        "bugtracker": "https://github.com/Kerbalism/Kerbalism/issues",
+        "manual": "https://github.com/Kerbalism/Kerbalism/wiki",
+        "repository": "https://github.com/Kerbalism/Kerbalism"
+    },
+    "spec_version": "v1.18",
+    "tags": [
+        "config",
+        "physics",
+        "crewed",
+        "science"
+    ],
+    "version": "3.44",
+    "x_generated_by": "netkan"
+}

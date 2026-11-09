@@ -1,0 +1,62 @@
+{
+    "abstract": "Moves Minmus into a close orbit around Kerbin, enlarges it, relocates the Mun outward, and optionally adds a narrow ring system to Kerbin.",
+    "author": "bmaju",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4748/bmaju's%20InnerMinmus/download/1.1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "48D187CD4154D1706EFF50CC2C81E6E08B9F933E",
+        "sha256": "474C8E69DF9D54E02EDA840338B906A4CA1D396102EF494F44A3668E03174CAF"
+    },
+    "download_size": 186902,
+    "identifier": "bmajusInnerMinmus",
+    "install": [
+        {
+            "find": "bmaju's InnerMinmus",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 214399,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "localizations": [
+        "de-de",
+        "en-us",
+        "es-es",
+        "fr-fr",
+        "it-it",
+        "ja",
+        "ko-kr",
+        "pt-br",
+        "ru",
+        "zh-cn"
+    ],
+    "name": "bmaju's InnerMinmus",
+    "release_date": "2026-11-08T09:23:26.27265Z",
+    "resources": {
+        "repository": "https://github.com/bmaju142/bmaju-s-InnerMinmus-KSP-",
+        "spacedock": "https://spacedock.info/mod/4748/bmaju's%20InnerMinmus",
+        "x_screenshot": "https://spacedock.info/content/bmaju_193671/bmajus_InnerMinmus/bmajus_InnerMinmus-1793016744.jpg"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack",
+        "plugin"
+    ],
+    "version": "1.1.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
