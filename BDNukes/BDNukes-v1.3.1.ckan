@@ -1,0 +1,52 @@
+{
+    "abstract": "Cinematic, physically grounded nuclear weapons for BDArmory (KSP 1.12), including the Tsar Bomba [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Callum",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "min_version": "2:v1.12.0.0",
+            "name": "BDArmoryForRunwayProject"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/CRsquared64/BDNukes/releases/download/v1.3.1/BDNukes-1.3.1.zip?auth_key=1794499468-817f64211bfb40fda3296474d7af125a-0-975498e4b36481b7e469561e1f2128a5&size=18658603&expireAt=1794499468",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "8FDEC76326AFF1526FF57F44C1D760981A075722",
+        "sha256": "73CA886392346680C22B864EDB831B320BC1D8AF3E543FB75781EC79D41B6F05"
+    },
+    "download_size": 18658603,
+    "identifier": "BDNukes",
+    "install_size": 23268389,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "name": "BDNukes [PRO-KCMIRROR]",
+    "release_date": "2026-11-10T20:10:42Z",
+    "resources": {
+        "bugtracker": "https://github.com/CRsquared64/BDNukes/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/232068-112x-bdnukes-v100-cinematic-nuclear-weapons-for-bdarmory-tsar-bomba-icbms-mirvs-fallout",
+        "remote-avc": "https://raw.githubusercontent.com/CRsquared64/BDNukes/main/GameData/BDNukes/BDNukes.version",
+        "repository": "https://github.com/CRsquared64/BDNukes",
+        "x_screenshot": "https://raw.githubusercontent.com/CRsquared64/BDNukes/main/docs/screenshots/01-ground-burst-mushroom.jpg"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "BDArmoryExtended"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "parts",
+        "graphics",
+        "sound",
+        "combat"
+    ],
+    "version": "v1.3.1",
+    "x_generated_by": "netkan"
+}
