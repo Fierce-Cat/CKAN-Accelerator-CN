@@ -1,0 +1,63 @@
+{
+    "abstract": "Optimized terrain generation for KSP [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "steamroller",
+    "depends": [
+        {
+            "min_version": "4.2.3",
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "2.2.1",
+            "name": "Harmony2"
+        },
+        {
+            "min_version": "2:release-1.12.1-252",
+            "name": "Kopernicus"
+        },
+        {
+            "min_version": "1.0.29",
+            "name": "KSPTextureLoader"
+        },
+        {
+            "min_version": "1.5.5.2",
+            "name": "KSPBurst"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Phantomical/BurstPQS/releases/download/v1.0.32/BurstPQS.zip?auth_key=1794760079-d6c98af4930e43f4836a37309b5c4ee1-0-6ba78653ac07e8ae52c6e46aa6063ab1&size=795283&expireAt=1794760079",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "46649A42D4A2C2054B0DE060E190568415F9584C",
+        "sha256": "A6875B300E8FF7B60AC9F690EE06979FC42DB6B020CFDB1F7BBC9563C7A2C30E"
+    },
+    "download_size": 795283,
+    "identifier": "BurstPQS",
+    "install_size": 1579793,
+    "ksp_version_max": "1.13",
+    "ksp_version_min": "1.8",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "Burst PQS [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "min_version": "1.5.5.2",
+            "name": "KSPBurst-Full"
+        }
+    ],
+    "release_date": "2026-11-13T07:32:46Z",
+    "resources": {
+        "bugtracker": "https://github.com/Phantomical/BurstPQS/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/229975-112x-burstpqs-optimized-terrain-generation-for-ksp/",
+        "manual": "https://github.com/Phantomical/BurstPQS/wiki",
+        "remote-avc": "https://github.com/Phantomical/BurstPQS/releases/latest/download/BurstPQS.version",
+        "repository": "https://github.com/Phantomical/BurstPQS"
+    },
+    "spec_version": 1,
+    "tags": [
+        "plugin"
+    ],
+    "version": "1.0.32",
+    "x_generated_by": "netkan"
+}
