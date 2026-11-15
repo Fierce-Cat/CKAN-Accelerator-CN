@@ -1,0 +1,73 @@
+{
+    "abstract": "A visual mod which overhauls the planet shaders and adds grass, forest, and other types of surface clutter [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Linx",
+    "conflicts": [
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "Parallax-StockTextures"
+        },
+        {
+            "name": "Parallax-StockScatterTextures"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "KSPBurst"
+        },
+        {
+            "name": "ParallaxContinued-Terrain-Textures"
+        },
+        {
+            "name": "ParallaxContinued-Scatter-Textures"
+        },
+        {
+            "name": "ParallaxContinued-Planet-Textures"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Gameslinx/Parallax-Continued/releases/download/1.1.2/ParallaxContinued-1.1.2.zip?auth_key=1794845616-73bdfc52459740caa1c3595c094c933d-0-2c5725cced4b6d2e3a0922d4d07b8214&size=64372055&expireAt=1794845616",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DCAE85B5943700589250854372A679498E89AC94",
+        "sha256": "03893C27E339D0EB90A701CF3194633BEE6D3903AE2ABA32863A11A35EFF35C0"
+    },
+    "download_size": 64372055,
+    "identifier": "ParallaxContinued",
+    "install": [
+        {
+            "find": "ParallaxContinued",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 69985636,
+    "ksp_version": "1.12",
+    "license": "restricted",
+    "name": "Parallax Continued [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "Deferred"
+        }
+    ],
+    "release_date": "2026-11-14T12:55:30Z",
+    "resources": {
+        "bugtracker": "https://github.com/Gameslinx/Parallax-Continued/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/227476-*",
+        "manual": "https://github.com/Gameslinx/Parallax-Continued/wiki",
+        "repository": "https://github.com/Gameslinx/Parallax-Continued"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "library",
+        "graphics"
+    ],
+    "version": "1.1.2",
+    "x_generated_by": "netkan"
+}
