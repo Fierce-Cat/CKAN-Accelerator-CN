@@ -1,0 +1,60 @@
+{
+    "abstract": "Complete rework of the stock parachute module to fix a few of its inconveniences and get more realistic results out of parachutes! [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "stupid_chris",
+        "sumghai"
+    ],
+    "depends": [
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ChrisViral/RealChute/releases/download/v1.4.10.0/RealChute_v1.4.10.0.zip?auth_key=1794931970-877bb49863594cd4b59369602eb97248-0-e9728aba20a87b05153e32d2d2382014&size=2682447&expireAt=1794931970",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "DCDEF257621059B566424E64F62E1F2D1BEC1F0E",
+        "sha256": "14C01636AE83B6F4C30B817EEA8452820E3A02FC2CEB13FDE2FFE9E2281BD8C5"
+    },
+    "download_size": 2682447,
+    "identifier": "RealChute",
+    "install": [
+        {
+            "filter": "Patches",
+            "find": "RealChute",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 5633544,
+    "ksp_version_max": "1.13.99",
+    "ksp_version_min": "1.12.3",
+    "license": "restricted",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "RealChute Parachute Systems [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "RealChuteForStock"
+        }
+    ],
+    "release_date": "2026-11-16T03:28:46Z",
+    "resources": {
+        "bugtracker": "https://github.com/ChrisViral/RealChute/issues",
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/52931-0",
+        "manual": "https://github.com/ChrisViral/RealChute/wiki",
+        "remote-avc": "https://raw.githubusercontent.com/ChrisViral/RealChute/master/Output/GameData/RealChute/RealChute.version",
+        "repository": "https://github.com/ChrisViral/RealChute"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "parts",
+        "physics",
+        "sound"
+    ],
+    "version": "v1.4.10.0",
+    "x_generated_by": "netkan"
+}
