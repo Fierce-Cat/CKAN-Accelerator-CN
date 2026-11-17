@@ -1,0 +1,49 @@
+{
+    "abstract": "(!warning AI and space engine was used!)",
+    "author": "Voyager1",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4639/Voyagers%20Interstellar%20mod/download/2.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "A398545C93B2BD19B3A4F6F2160BA9E5615B5851",
+        "sha256": "EF54D4F9CDB7A26F6637B061B7D87FB5E0A8CDD310D47EDC9A44C0D81DFAB5E8"
+    },
+    "download_size": 14878416,
+    "identifier": "VoyagersInterstellar",
+    "install": [
+        {
+            "find": "Cosmora",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 12270938,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Voyagers Interstellar mod",
+    "release_date": "2026-10-07T08:58:07.272787Z",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/4639/Voyagers%20Interstellar%20mod",
+        "x_screenshot": "https://spacedock.info/content/Voyager1_187115/Voyagers_Interstellar_mod/Voyagers_Interstellar_mod-1791363084.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "2.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

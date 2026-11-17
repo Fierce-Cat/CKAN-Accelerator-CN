@@ -1,0 +1,43 @@
+{
+    "abstract": "Measures craft size from part mesh geometry instead of inflated axis aligned renderer bounding boxes. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "sparr",
+    "depends": [
+        {
+            "name": "Harmony2"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/sparr/ksp-mod-RendererBounds/releases/download/0.1.0/RendererBounds-0.1.0.zip?auth_key=1795024731-3d03b52c0c034d0ca7c519e3e7686e8f-0-2ff1be0b7cb738b6f50b4c5d1040c78f&size=27302&expireAt=1795024731",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "75F21F4CDCDBB14F87AA730B31DAB364C1A2A5B3",
+        "sha256": "54F954DFC6D87DF0BF5E095E7F72396BF6F8E001F32037D528B9148B915A3B1A"
+    },
+    "download_size": 27302,
+    "identifier": "RendererBounds",
+    "install": [
+        {
+            "find": "RendererBounds",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 44448,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "Renderer Bounds [PRO-KCMIRROR]",
+    "release_date": "2026-10-18T00:47:33Z",
+    "resources": {
+        "bugtracker": "https://github.com/sparr/ksp-mod-RendererBounds/issues",
+        "remote-avc": "https://raw.githubusercontent.com/sparr/ksp-mod-RendererBounds/main/GameData/RendererBounds/RendererBounds.version",
+        "repository": "https://github.com/sparr/ksp-mod-RendererBounds"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin"
+    ],
+    "version": "0.1.0",
+    "x_generated_by": "netkan"
+}

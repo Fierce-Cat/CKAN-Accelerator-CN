@@ -1,0 +1,42 @@
+{
+    "abstract": "A lightweight quality-of-life mod for Kerbal Space Program (1.12.5) that displays the required Tech Tree node directly at the top of a part's hover description in the VAB and SPH.",
+    "author": "TurboEJ20",
+    "download": [
+        "https://github.com/Turbolious/Tech-Tree-Tooltip/releases/download/Update_V1.1/GameData.zip",
+        "https://spacedock.info/mod/4663/Tech%20Node%20Tooltip/download/1.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7A0F804C50A6350328348E0B7F98FDBE62E3E7AA",
+        "sha256": "06C0E8CD0239376C9D2318543E1ED90FF00D546F1117F56525F783B8B863BB3F"
+    },
+    "download_size": 5043,
+    "identifier": "TechTreeTooltip",
+    "install": [
+        {
+            "find": "Tech Tree Tooltip",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 8411,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Tech Node Tooltip",
+    "release_date": "2026-10-11T18:18:30.156588Z",
+    "resources": {
+        "bugtracker": "https://github.com/Turbolious/Tech-Tree-Tooltip/issues",
+        "homepage": "https://github.com/Turbolious/Tech-Tree-Tooltip",
+        "repository": "https://github.com/Turbolious/Tech-Tree-Tooltip",
+        "spacedock": "https://spacedock.info/mod/4663/Tech%20Node%20Tooltip",
+        "x_screenshot": "https://spacedock.info/content/TurboEJ20_192701/Tech_Node_Tooltip/Tech_Node_Tooltip-1791656329.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "plugin",
+        "information",
+        "tech-tree"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

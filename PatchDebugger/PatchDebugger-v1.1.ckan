@@ -1,0 +1,54 @@
+{
+    "abstract": "In-game, read-only ModuleManager patch debugger [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "infradmin4KSP"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ToolbarController"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/infradmin4KSP/PatchDebugger/releases/download/v1.1/PatchDebugger-1.1.0.0.zip?auth_key=1795024732-51752155351d452aa0e5f37a0b4a2748-0-87e766971aa657fd37048a2c0a9655f6&size=19888&expireAt=1795024732",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "448F5E2BDF5EF1E6A5A13E7A091B9E00DB845673",
+        "sha256": "C00B5BDBFBBA2B3DD62820C1C82516BD110EA0F7F93538B21EBE19EE7115E896"
+    },
+    "download_size": 19888,
+    "identifier": "PatchDebugger",
+    "install_size": 64295,
+    "ksp_version_max": "1.12.5",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "es-es",
+        "ru"
+    ],
+    "name": "Patch Debugger [PRO-KCMIRROR]",
+    "release_date": "2026-10-07T13:56:01Z",
+    "resources": {
+        "bugtracker": "https://github.com/infradmin4KSP/PatchDebugger/issues",
+        "homepage": "https://github.com/infradmin4KSP/PatchDebugger",
+        "remote-avc": "https://raw.githubusercontent.com/infradmin4KSP/PatchDebugger/master/GameData/PatchDebugger/PatchDebugger.version",
+        "repository": "https://github.com/infradmin4KSP/PatchDebugger"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "PatchManager"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "convenience"
+    ],
+    "version": "v1.1",
+    "x_generated_by": "netkan"
+}

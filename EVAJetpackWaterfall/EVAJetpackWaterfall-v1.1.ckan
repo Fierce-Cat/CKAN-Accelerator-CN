@@ -1,0 +1,47 @@
+{
+    "abstract": "add waterfall for kerbal's EVA jetpack!",
+    "author": "tsingshitao",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4685/EVAJetpackWaterfall/download/v1.1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2C293FE5E62E49BF490478A4C88C7CBCACA4F440",
+        "sha256": "037AA09637AD5564B007421C1D4D342CD07E8DFE29DE5867426434C2FCE4353A"
+    },
+    "download_size": 8682,
+    "identifier": "EVAJetpackWaterfall",
+    "install": [
+        {
+            "find": "EVAJetpackWaterfall",
+            "install_to": "GameData/GreenStoneIndustry"
+        }
+    ],
+    "install_size": 20358,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "EVAJetpackWaterfall",
+    "release_date": "2026-10-18T14:04:17.409848Z",
+    "resources": {
+        "bugtracker": "https://github.com/tsingshitao-nuke/VABOrganizer-tsingshitao/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/231044-1125generaltsings-toolkits-now-including-waterfall-extensions-and-some-others/",
+        "repository": "https://github.com/tsingshitao-nuke/VABOrganizer-tsingshitao",
+        "spacedock": "https://spacedock.info/mod/4685/EVAJetpackWaterfall",
+        "x_screenshot": "https://spacedock.info/content/tsingshitao_180819/EVAJetpackWaterfall/EVAJetpackWaterfall-1791798202.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config",
+        "graphics",
+        "plugin"
+    ],
+    "version": "v1.1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

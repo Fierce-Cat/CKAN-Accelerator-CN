@@ -1,0 +1,42 @@
+{
+    "abstract": "Adds RCS attitude control toggle action. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Sapphia15",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Sapphia15/RCSAdvancedActions/releases/download/1.0.0/RCSAdvancedActions.zip?auth_key=1795024735-f52b10ac1f344d3da333ba06deddf3b6-0-965f1d225c6f44e7c33bbacab0d51959&size=4273&expireAt=1795024735",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "1D4B8820C149F226777E1FAD94F5CE3B47E19A36",
+        "sha256": "2E074966D7915F13452A1255959F820544034C01D9FB51DB1BD02DC1C3050750"
+    },
+    "download_size": 4273,
+    "identifier": "RCSAdvancedActions",
+    "install": [
+        {
+            "find": "RCSAdvancedActions",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 6180,
+    "ksp_version": "1.12",
+    "license": "MIT",
+    "name": "RCS Advanced Actions [PRO-KCMIRROR]",
+    "release_date": "2026-10-31T04:21:48Z",
+    "resources": {
+        "bugtracker": "https://github.com/Sapphia15/RCSAdvancedActions/issues",
+        "homepage": "https://github.com/Sapphia15/RCSAdvancedActions",
+        "remote-avc": "https://raw.githubusercontent.com/Sapphia15/RCSAdvancedActions/refs/heads/main/GameData/RCSAdvancedActions/RCSAdvancedActions.version",
+        "repository": "https://github.com/Sapphia15/RCSAdvancedActions"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "convenience",
+        "editor"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,63 @@
+{
+    "abstract": "A binary star system with a single hot Jupiter",
+    "author": "cinoki7383",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ScaledDecorator"
+        },
+        {
+            "name": "VertexColorMapEmissive"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4802/WASP-76%20System/download/1.2",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "3227762368E174532F57EC8210AEB94FCA5C65A7",
+        "sha256": "00C13A1E2DBB2018222A21D4A73AF6946EC48B63E7084BADECEF202E7A03F0FE"
+    },
+    "download_size": 134721916,
+    "identifier": "WASP76System",
+    "install": [
+        {
+            "find": "WASP76b",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 797529049,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "WASP-76 System",
+    "release_date": "2026-11-12T19:32:11.270541Z",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/4802/WASP-76%20System",
+        "x_screenshot": "https://spacedock.info/content/cinoki7383_194864/WASP-76_System/WASP-76_System-1794005263.png"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "TiltEm-Continued"
+        },
+        {
+            "name": "SpaceDust"
+        },
+        {
+            "name": "Kerbalism"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "1.2",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

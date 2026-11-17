@@ -1,0 +1,39 @@
+{
+    "abstract": "finally, a reference photo for the VAB!",
+    "author": "Thatguy319",
+    "download": "https://spacedock.info/mod/4686/Wheres%20My%20Reference%3F%20(W.M.R.%3F)/download/0.41",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "215E0B065233F0AA0EC3352F7BBEBAEE5B9B53EA",
+        "sha256": "4D795B8B6E2D8A17B80151B7CCEBA1359B53E2B95FA8AA78534094654C86D7EC"
+    },
+    "download_size": 1092810,
+    "identifier": "WheresMyReference",
+    "install": [
+        {
+            "filter": [
+                "PluginData"
+            ],
+            "find": "WMR",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1003446,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "Wheres My Reference? (W.M.R.?)",
+    "release_date": "2026-10-14T16:44:09.862812Z",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/4686/Wheres%20My%20Reference?%20(W.M.R.?)",
+        "x_screenshot": "https://spacedock.info/content/Thatguy319_192929/Wheres_My_Reference_W.M.R/Wheres_My_Reference_W.M.R-1791920995.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "plugin",
+        "editor",
+        "convenience"
+    ],
+    "version": "0.41",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

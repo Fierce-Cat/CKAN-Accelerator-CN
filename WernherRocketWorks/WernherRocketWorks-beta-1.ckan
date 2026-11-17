@@ -1,0 +1,48 @@
+{
+    "abstract": "Design procedural liquid rocket engines with eight cycles, individual propellants, configurable hardware and stock tank support.",
+    "author": "Vordzi",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4788/Wernher:%20Rocket%20Works/download/beta-1",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E157679B73D8461861D9CE416D67B531B1DB150E",
+        "sha256": "7C28D4F320CBC2A1668ECC7313899D1709E7DE95B514B7F3AA2BB3F6C819C23B"
+    },
+    "download_size": 289516,
+    "identifier": "WernherRocketWorks",
+    "install": [
+        {
+            "filter_regexp": "\\.pdb$",
+            "find": "Wernher",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 407423,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "ru"
+    ],
+    "name": "Wernher: Rocket Works",
+    "release_date": "2026-11-04T22:35:28.083295Z",
+    "resources": {
+        "bugtracker": "https://github.com/vordzii/wernher-rocket-works/issues",
+        "homepage": "https://github.com/vordzii/wernher-rocket-works",
+        "repository": "https://github.com/vordzii/wernher-rocket-works",
+        "spacedock": "https://spacedock.info/mod/4788/Wernher:%20Rocket%20Works",
+        "x_screenshot": "https://spacedock.info/content/Vordzi_141991/Wernher_Rocket_Works/Wernher_Rocket_Works-1793832003.png"
+    },
+    "spec_version": "v1.10",
+    "tags": [
+        "parts",
+        "plugin"
+    ],
+    "version": "beta-1",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

@@ -1,0 +1,92 @@
+{
+    "abstract": "A KSP mod adding various launch vehicles (that i think are cool)",
+    "author": "Proxidesuwa",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "KSPWheel"
+        },
+        {
+            "name": "DepthMask"
+        }
+    ],
+    "download": [
+        "https://github.com/Proxima-Ch2426/PLANA/releases/download/1.2.4/PLANA.zip",
+        "https://spacedock.info/mod/4099/PLANA%20-%20Proxi's%20Launchers%20And%20Aircraft/download/1.2.4"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "7DAAF5246D372FE8A214F95B8DDA170F3D5A40F0",
+        "sha256": "BA23F35FCF3078496C7CEADACEFD3C49EB2C6F5AA2FB5FB6E3F2902FF2181B86"
+    },
+    "download_size": 157038835,
+    "identifier": "PLANAProxisLaunchersAndAircraft",
+    "install": [
+        {
+            "find": "PROXI_Launchers",
+            "install_to": "GameData"
+        },
+        {
+            "find": "PROXI_Flags",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 1321008856,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "name": "PLANA - Proxi's Launchers And Aircraft",
+    "recommends": [
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "Resurfaced"
+        }
+    ],
+    "release_date": "2026-11-07T17:24:49.991667Z",
+    "resources": {
+        "bugtracker": "https://github.com/Proxima-Ch2426/PLANA/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/229246-112x-proxis-launchers-and-aircraft-plana-conceptual-active-upcoming-vehicles-and-more-january-4-2026-v121",
+        "manual": "https://github.com/Proxima-Ch2426/PLANA/wiki",
+        "repository": "https://github.com/Proxima-Ch2426/PLANA",
+        "spacedock": "https://spacedock.info/mod/4099/PLANA%20-%20Proxi's%20Launchers%20And%20Aircraft",
+        "x_screenshot": "https://spacedock.info/content/Proxidesuwa_179623/PLANA_-_Proxis_Launchers_And_Aircraft/PLANA_-_Proxis_Launchers_And_Aircraft-1794072338.png"
+    },
+    "spec_version": "v1.34",
+    "suggests": [
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "Deferred"
+        },
+        {
+            "name": "FerramAerospaceResearchContinued"
+        },
+        {
+            "name": "ASETProps"
+        },
+        {
+            "name": "VABOrganizer"
+        }
+    ],
+    "tags": [
+        "crewed",
+        "parts",
+        "flags"
+    ],
+    "version": "1.2.4",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}
