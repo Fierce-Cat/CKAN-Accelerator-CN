@@ -1,0 +1,58 @@
+{
+    "abstract": "Expansive planetary system beyond the edge of kerbol",
+    "author": "HoustonsProbl3m",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "VertexMitchellNetravaliHeightMap"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4769/Polytrius%20system%20core/download/V1.0",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "29AF8D8645B5B8034977351D7F310493F68B5E7A",
+        "sha256": "444BB4F2B2D30BA7E237B5F6474304052BDE0329C12C21F997FA3C60E7552879"
+    },
+    "download_size": 151077521,
+    "identifier": "Polytriussystemcore",
+    "install": [
+        {
+            "find": "000_Polytrius",
+            "install_to": "GameData"
+        },
+        {
+            "find": "PolyhedronPQS",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 269306207,
+    "ksp_version": "1.12.5",
+    "license": "CC0",
+    "name": "Polytrius system core",
+    "release_date": "2026-10-30T23:01:21.687652Z",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/4769/Polytrius%20system%20core",
+        "x_screenshot": "https://spacedock.info/content/HoustonsProbl3m_192272/Polytrius_system_core/Polytrius_system_core-1793401326.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "buildings",
+        "config",
+        "planet-pack",
+        "plugin"
+    ],
+    "version": "V1.0",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

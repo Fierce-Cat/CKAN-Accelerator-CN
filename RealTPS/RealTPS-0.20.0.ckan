@@ -1,0 +1,65 @@
+{
+    "abstract": "Completely reworks how heat shields work, aiming at greater realism. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Edinilson",
+    "conflicts": [
+        {
+            "name": "DeadlyReentry"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "B9PartSwitch"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Edinilson1/RealTPS/releases/download/0.20.0/RealTPS-0.20.0.zip?auth_key=1795195597-b72ecba5b66f43bb9ee32014e04de59d-0-4e307e3d9054d26f78a4e11efa9392a2&size=107018&expireAt=1795195597",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "0484674E80162689392988AAD290D8CFC62A7559",
+        "sha256": "EEFFFD0A9C933C6BFE808BE160BB97F6582C772F1A1D99D1D1F062E5582F58EB"
+    },
+    "download_size": 107018,
+    "identifier": "RealTPS",
+    "install_size": 279084,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "MIT",
+    "localizations": [
+        "en-us",
+        "pt-br"
+    ],
+    "name": "RealTPS [PRO-KCMIRROR]",
+    "release_date": "2026-11-18T18:42:22Z",
+    "resources": {
+        "bugtracker": "https://github.com/Edinilson1/RealTPS/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/232155-112x-realtps-real-thermal-protection-systems",
+        "manual": "https://github.com/Edinilson1/RealTPS/blob/master/docs/wiki/Home.md",
+        "repository": "https://github.com/Edinilson1/RealTPS"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "Firefly"
+        }
+    ],
+    "supports": [
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "RealSolarSystem"
+        }
+    ],
+    "tags": [
+        "plugin",
+        "physics",
+        "config"
+    ],
+    "version": "0.20.0",
+    "x_generated_by": "netkan"
+}
