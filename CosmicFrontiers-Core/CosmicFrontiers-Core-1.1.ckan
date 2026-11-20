@@ -1,0 +1,50 @@
+{
+    "abstract": "universal asset for cosmic frontiers [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Fir-tree",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "ScaledDecorator"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/Fir-tree-s/Cosmic-Frontiers/releases/download/1.1/_Core.zip?auth_key=1795281182-2d6e430d7c99420b8688af744b3505f4-0-b3a816eb9bd6c47adc2b3265fee80be9&size=1617573&expireAt=1795281182",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "C020C12469D8FF2A502BAD2A2624F844A280ACF1",
+        "sha256": "9846A7532DF0FC0D259CDA62089E777893B7087B44A455030F75C9CC2614C51C"
+    },
+    "download_size": 1617573,
+    "identifier": "CosmicFrontiers-Core",
+    "install": [
+        {
+            "find": "Core",
+            "install_to": "GameData/Cosmic_Frontiers"
+        }
+    ],
+    "install_size": 4439696,
+    "license": "restricted",
+    "name": "Cosmic Frontiers - Core [PRO-KCMIRROR]",
+    "release_date": "2026-11-19T20:12:59Z",
+    "resources": {
+        "bugtracker": "https://github.com/Fir-tree-s/Cosmic-Frontiers/issues",
+        "repository": "https://github.com/Fir-tree-s/Cosmic-Frontiers"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "CosmicFrontiers-Gigantia"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack",
+        "library"
+    ],
+    "version": "1.1",
+    "x_generated_by": "netkan"
+}
