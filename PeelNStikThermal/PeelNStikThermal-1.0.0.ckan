@@ -1,0 +1,59 @@
+{
+    "abstract": "Stick-on ablative heat shields and active heat sinks for KSP 1.12. [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": "Liam",
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "ConformalDecals"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "ReStock"
+        }
+    ],
+    "description": "Adds four radial peel-and-stik ablative heat shields (0.625 m to 3.75 m),\nscalable conformal decal coatings with four tile patterns, and four active\nheat sinks (CDH-4..7). The sinks pull interior and skin heat from every\npart in radius, store mild heat for free and bill the overflow to\nElectricCharge. They brown out when power runs dry and blow like a\nsacrificial fuse at 1800 K, with an early warning in the part menu.\nCDH-7 projects a visible energy bubble, bills a flat EC/s per metre of\nradius and suppresses Firefly reentry FX inside the field. All sinks can\nbe switched on/off in flight via the right-click menu or action groups.\nFirefly integration is optional; enhanced Firefly effects are still a\nwork in progress.",
+    "download": "https://hk-github.mirror.kerbcat.cn/github/ehemaliger56-debug/PeelNStikThermal/releases/download/1.0.0/PeelNStikThermal-1.0.0.zip?auth_key=1795367105-992de743570141e0ab912d22e451a715-0-ef20003f8ed02831cd709549fe4a76b0&size=15929809&expireAt=1795367105",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "84D32634C8DF2407870BCD47E9382E3B5E1A4D8C",
+        "sha256": "25A53696214033A539C7F5071BA2F054ADD432C67FFB79B10FB74D26E2766AEE"
+    },
+    "download_size": 15929809,
+    "identifier": "PeelNStikThermal",
+    "install_size": 16759211,
+    "ksp_version": "1.12",
+    "license": "restricted",
+    "name": "Peel-N-Stik Thermal [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "Firefly"
+        }
+    ],
+    "release_date": "2026-11-20T19:03:36Z",
+    "resources": {
+        "bugtracker": "https://github.com/ehemaliger56-debug/PeelNStikThermal/issues",
+        "homepage": "https://github.com/ehemaliger56-debug/PeelNStikThermal",
+        "repository": "https://github.com/ehemaliger56-debug/PeelNStikThermal"
+    },
+    "spec_version": 1,
+    "suggests": [
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "HeatControl"
+        }
+    ],
+    "tags": [
+        "parts",
+        "physics",
+        "plugin",
+        "graphics"
+    ],
+    "version": "1.0.0",
+    "x_generated_by": "netkan"
+}
