@@ -1,0 +1,85 @@
+{
+    "abstract": "Configs and textures for the Rhakuutra System, the system replacer part of The Five Echoes [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Space Fox Oprissmian"
+    ],
+    "conflicts": [
+        {
+            "name": "CelestialHarmony"
+        },
+        {
+            "name": "RealSolarSystem"
+        }
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "2:release-1.12.1-253",
+            "name": "Kopernicus"
+        },
+        {
+            "name": "AdvancedPQSTools"
+        },
+        {
+            "name": "VertexHeightOblateAdvanced"
+        },
+        {
+            "name": "TheFiveEchoesCore"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/TheFiveEchoes/TheFiveEchoes/releases/download/Beta-0.5/TheFiveEchoes-Rhakuutra.zip?auth_key=1795451458-f3cd36b301a64e3a8365a56e0cb7463b-0-c0e728c05737ed6bde5b52123017340b&size=233430401&expireAt=1795451458",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "2BCE191B86F9743CD16AA9FC1F431356BF6BB27D",
+        "sha256": "528F6CFBAB6AE5C16F032602CB33E98CE7C9AE39E84D4D06C62A6FB4ADE9C00F"
+    },
+    "download_size": 233430401,
+    "identifier": "TheFiveEchoesRhakuutra",
+    "install": [
+        {
+            "file": "GameData/TheFiveEchoes/_Systems/Rhakuutra",
+            "install_to": "GameData/TheFiveEchoes/_Systems"
+        }
+    ],
+    "install_size": 631161383,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "The Five Echoes - Rhakuutra [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "TheFiveEchoesRSA"
+        }
+    ],
+    "release_date": "2026-10-13T05:08:38Z",
+    "resources": {
+        "bugtracker": "https://github.com/TheFiveEchoes/TheFiveEchoes/issues",
+        "repository": "https://github.com/TheFiveEchoes/TheFiveEchoes"
+    },
+    "spec_version": "v1.2",
+    "suggests": [
+        {
+            "name": "ParallaxContinued"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "TiltEm-Continued"
+        }
+    ],
+    "tags": [
+        "config",
+        "planet-pack"
+    ],
+    "version": "Beta-0.5",
+    "x_generated_by": "netkan"
+}

@@ -1,0 +1,39 @@
+{
+    "abstract": "No Egg Atmosphere",
+    "author": "planet_modifier",
+    "depends": [
+        {
+            "name": "SciFiVisualEnhancements"
+        }
+    ],
+    "download": "https://spacedock.info/mod/4743/N.E.A%20Visual%20Enchantments%20/download/1.9.2%20(2.0%20pre-final%20BETA)",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "169E0CA36965930836FCC19CA769E1B5C1D905FC",
+        "sha256": "FB74D62A7AA33D515F958A14C2090BE5A40EF2D9A1D088BB3EC76973C570EBDF"
+    },
+    "download_size": 184101025,
+    "identifier": "NEAVisualEnchantments",
+    "install": [
+        {
+            "find": "ContentBetaNEA",
+            "install_to": "GameData"
+        }
+    ],
+    "install_size": 406435203,
+    "ksp_version": "1.12.5",
+    "license": "CC-BY-NC-SA",
+    "name": "N.E.A Visual Enchantments ",
+    "release_date": "2026-11-17T01:31:03.160539Z",
+    "resources": {
+        "spacedock": "https://spacedock.info/mod/4743/N.E.A%20Visual%20Enchantments%20",
+        "x_screenshot": "https://spacedock.info/content/planet_modifier_193142/N.E.A_Visual_Enchantments/N.E.A_Visual_Enchantments-1794098072.png"
+    },
+    "spec_version": "v1.4",
+    "tags": [
+        "config"
+    ],
+    "version": "1.9.2 (2.0 pre-final BETA)",
+    "x_generated_by": "netkan",
+    "x_via": "Automated SpaceDock CKAN submission"
+}

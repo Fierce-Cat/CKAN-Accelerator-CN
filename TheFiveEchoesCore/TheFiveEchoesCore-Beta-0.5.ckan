@@ -1,0 +1,70 @@
+{
+    "abstract": "Core textures and configs for The Five Echoes planet pack [All download links for this mod have been accelerated by KERBCAT.COM]",
+    "author": [
+        "Space Fox Oprissmian",
+        "CharonSSS"
+    ],
+    "depends": [
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "min_version": "2:release-1.12.1-253",
+            "name": "Kopernicus"
+        },
+        {
+            "name": "AdvancedPQSTools"
+        },
+        {
+            "name": "TheFiveEchoesRhakuutra"
+        }
+    ],
+    "download": "https://hk-github.mirror.kerbcat.cn/github/TheFiveEchoes/TheFiveEchoes/releases/download/Beta-0.5/TheFiveEchoes-Core.zip?auth_key=1795451457-73c4a654ee104f279e43ee3cc56e3f55-0-db117b231d6ba3c95ab42c2a39393c2d&size=258186541&expireAt=1795451457",
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "E8EFE8990A5D7AA8CB99B1E1717D3BB216FE6053",
+        "sha256": "314C4EF0BBF346B82D3B39C397100B2E15726845ED7B785D5D008BE96DE2E134"
+    },
+    "download_size": 258186541,
+    "identifier": "TheFiveEchoesCore",
+    "install": [
+        {
+            "find": "_Core",
+            "install_to": "GameData/TheFiveEchoes"
+        },
+        {
+            "file": "GameData/TheFiveEchoes/TheFiveEchoesSettings.cfg",
+            "install_to": "GameData/TheFiveEchoes"
+        }
+    ],
+    "install_size": 344558331,
+    "ksp_version_max": "1.12.99",
+    "ksp_version_min": "1.12.0",
+    "license": "CC-BY-NC-SA-4.0",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "The Five Echoes - Core [PRO-KCMIRROR]",
+    "recommends": [
+        {
+            "name": "TheFiveEchoesRSA"
+        }
+    ],
+    "release_date": "2026-10-13T05:07:33Z",
+    "resources": {
+        "bugtracker": "https://github.com/TheFiveEchoes/TheFiveEchoes/issues",
+        "repository": "https://github.com/TheFiveEchoes/TheFiveEchoes"
+    },
+    "spec_version": "v1.4",
+    "suggests": [
+        {
+            "name": "TiltEm-Continued"
+        }
+    ],
+    "tags": [
+        "config",
+        "plugin"
+    ],
+    "version": "Beta-0.5",
+    "x_generated_by": "netkan"
+}
