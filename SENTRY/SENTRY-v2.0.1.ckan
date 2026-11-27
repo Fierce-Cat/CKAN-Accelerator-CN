@@ -1,0 +1,49 @@
+{
+    "abstract": "Subtracts reputation when asteroids or comets hit the home body. Adds reputation for deflections. Also includes alert window.",
+    "author": "KAPD",
+    "depends": [
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "download": [
+        "https://github.com/oscarholzmanwhite-gif/SENTRY/releases/download/v2.0.1/SENTRY-v2.0.1.zip",
+        "https://spacedock.info/mod/4560/SENTRY/download/v2.0.1"
+    ],
+    "download_content_type": "application/zip",
+    "download_hash": {
+        "sha1": "319F1D497043A6BA5A1FF747FDD513440EC64751",
+        "sha256": "A25A932B5308879A0B64E0EB8EA3FA20763C17632325FD7D3A24A1929304E30F"
+    },
+    "download_size": 73149,
+    "identifier": "SENTRY",
+    "install_size": 138060,
+    "ksp_version": "1.12.5",
+    "license": "MIT",
+    "localizations": [
+        "en-us"
+    ],
+    "name": "SENTRY",
+    "release_date": "2026-11-26T21:18:27.014237Z",
+    "resources": {
+        "bugtracker": "https://github.com/oscarholzmanwhite-gif/SENTRY/issues",
+        "homepage": "https://forum.kerbalspaceprogram.com/topic/231905-112x-sentry-survey-and-early-notification-of-threatening-reentry-now-with-impact-consequences/",
+        "remote-avc": "https://raw.githubusercontent.com/oscarholzmanwhite-gif/SENTRY/main/GameData/SENTRY/SENTRY.version",
+        "repository": "https://github.com/oscarholzmanwhite-gif/SENTRY",
+        "spacedock": "https://spacedock.info/mod/4560/SENTRY",
+        "x_screenshot": "https://spacedock.info/content/KAPD_191366/SENTRY/SENTRY-1791131643.png"
+    },
+    "spec_version": "v1.34",
+    "tags": [
+        "config",
+        "plugin"
+    ],
+    "version": "v2.0.1",
+    "x_generated_by": "netkan"
+}
